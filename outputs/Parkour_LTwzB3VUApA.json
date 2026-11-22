@@ -1,0 +1,30 @@
+{
+ "team_id": "SRMIST_PRISM",
+ "video_id": "Parkour_LTwzB3VUApA",
+ "duration_sec": 110.68,
+ "label": {
+  "name": "parkour",
+  "score": 0.9916
+ },
+ "actions": [],
+ "highlights": [
+  {
+   "segment": [
+    14.0,
+    18.1
+   ]
+  },
+  {
+   "segment": [
+    43.0,
+    47.1
+   ]
+  },
+  {
+   "segment": [
+    59.0,
+    63.1
+   ]
+  }
+ ]
+}

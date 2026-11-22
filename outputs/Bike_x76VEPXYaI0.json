@@ -1,0 +1,36 @@
+{
+ "team_id": "SRMIST_PRISM",
+ "video_id": "Bike_x76VEPXYaI0",
+ "duration_sec": 123.16,
+ "label": {
+  "name": "bike",
+  "score": 0.8171
+ },
+ "actions": [],
+ "highlights": [
+  {
+   "segment": [
+    5.0,
+    9.1
+   ]
+  },
+  {
+   "segment": [
+    48.0,
+    52.1
+   ]
+  },
+  {
+   "segment": [
+    62.0,
+    66.1
+   ]
+  },
+  {
+   "segment": [
+    74.0,
+    78.1
+   ]
+  }
+ ]
+}

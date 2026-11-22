@@ -1,0 +1,2935 @@
+{
+ "team_id": "SRMIST_PRISM",
+ "video_id": "P32_07",
+ "duration_sec": 28.99,
+ "label": {
+  "name": "cooking",
+  "score": 1.0
+ },
+ "actions": [
+  {
+   "segment": [
+    0.0,
+    6.0
+   ],
+   "verb": "insert",
+   "noun": "wrap:plastic",
+   "score": 0.256459
+  },
+  {
+   "segment": [
+    0.0,
+    6.0
+   ],
+   "verb": "rip",
+   "noun": "wrap:plastic",
+   "score": 0.203824
+  },
+  {
+   "segment": [
+    0.0,
+    1.0
+   ],
+   "verb": "turn-on",
+   "noun": "toaster",
+   "score": 0.203275
+  },
+  {
+   "segment": [
+    0.0,
+    3.5
+   ],
+   "verb": "insert",
+   "noun": "wrap:plastic",
+   "score": 0.202584
+  },
+  {
+   "segment": [
+    0.0,
+    6.0
+   ],
+   "verb": "put",
+   "noun": "wrap:plastic",
+   "score": 0.199271
+  },
+  {
+   "segment": [
+    0.0,
+    2.0
+   ],
+   "verb": "turn-on",
+   "noun": "toaster",
+   "score": 0.178746
+  },
+  {
+   "segment": [
+    0.0,
+    2.0
+   ],
+   "verb": "insert",
+   "noun": "wrap:plastic",
+   "score": 0.155477
+  },
+  {
+   "segment": [
+    0.0,
+    3.5
+   ],
+   "verb": "put",
+   "noun": "wrap:plastic",
+   "score": 0.154302
+  },
+  {
+   "segment": [
+    0.0,
+    2.0
+   ],
+   "verb": "insert",
+   "noun": "bread",
+   "score": 0.14445
+  },
+  {
+   "segment": [
+    0.0,
+    3.5
+   ],
+   "verb": "turn-on",
+   "noun": "toaster",
+   "score": 0.143299
+  },
+  {
+   "segment": [
+    0.0,
+    1.0
+   ],
+   "verb": "insert",
+   "noun": "sandwich",
+   "score": 0.12154
+  },
+  {
+   "segment": [
+    0.0,
+    1.0
+   ],
+   "verb": "turn-off",
+   "noun": "toaster",
+   "score": 0.118567
+  },
+  {
+   "segment": [
+    0.5,
+    1.5
+   ],
+   "verb": "turn-on",
+   "noun": "toaster",
+   "score": 0.178614
+  },
+  {
+   "segment": [
+    0.5,
+    1.5
+   ],
+   "verb": "insert",
+   "noun": "bread",
+   "score": 0.14982
+  },
+  {
+   "segment": [
+    0.5,
+    1.5
+   ],
+   "verb": "insert",
+   "noun": "sandwich",
+   "score": 0.132828
+  },
+  {
+   "segment": [
+    1.0,
+    3.0
+   ],
+   "verb": "insert",
+   "noun": "wrap:plastic",
+   "score": 0.258929
+  },
+  {
+   "segment": [
+    1.0,
+    2.0
+   ],
+   "verb": "insert",
+   "noun": "wrap:plastic",
+   "score": 0.225543
+  },
+  {
+   "segment": [
+    1.0,
+    3.0
+   ],
+   "verb": "put",
+   "noun": "wrap:plastic",
+   "score": 0.189829
+  },
+  {
+   "segment": [
+    1.0,
+    2.0
+   ],
+   "verb": "insert",
+   "noun": "bread",
+   "score": 0.180912
+  },
+  {
+   "segment": [
+    1.0,
+    3.0
+   ],
+   "verb": "wrap",
+   "noun": "toaster",
+   "score": 0.17029
+  },
+  {
+   "segment": [
+    1.0,
+    2.0
+   ],
+   "verb": "wrap",
+   "noun": "toaster",
+   "score": 0.166942
+  },
+  {
+   "segment": [
+    1.5,
+    5.0
+   ],
+   "verb": "insert",
+   "noun": "wrap:plastic",
+   "score": 0.297411
+  },
+  {
+   "segment": [
+    1.5,
+    2.5
+   ],
+   "verb": "insert",
+   "noun": "wrap:plastic",
+   "score": 0.29522
+  },
+  {
+   "segment": [
+    1.5,
+    5.0
+   ],
+   "verb": "put",
+   "noun": "wrap:plastic",
+   "score": 0.223408
+  },
+  {
+   "segment": [
+    1.5,
+    2.5
+   ],
+   "verb": "put",
+   "noun": "wrap:plastic",
+   "score": 0.210148
+  },
+  {
+   "segment": [
+    1.5,
+    5.0
+   ],
+   "verb": "rip",
+   "noun": "wrap:plastic",
+   "score": 0.201072
+  },
+  {
+   "segment": [
+    1.5,
+    2.5
+   ],
+   "verb": "wrap",
+   "noun": "toaster",
+   "score": 0.181583
+  },
+  {
+   "segment": [
+    2.0,
+    3.0
+   ],
+   "verb": "insert",
+   "noun": "wrap:plastic",
+   "score": 0.29033
+  },
+  {
+   "segment": [
+    2.0,
+    4.0
+   ],
+   "verb": "insert",
+   "noun": "wrap:plastic",
+   "score": 0.274225
+  },
+  {
+   "segment": [
+    2.0,
+    3.0
+   ],
+   "verb": "put",
+   "noun": "wrap:plastic",
+   "score": 0.214485
+  },
+  {
+   "segment": [
+    2.0,
+    4.0
+   ],
+   "verb": "put",
+   "noun": "wrap:plastic",
+   "score": 0.207014
+  },
+  {
+   "segment": [
+    2.0,
+    4.0
+   ],
+   "verb": "wrap",
+   "noun": "toaster",
+   "score": 0.183915
+  },
+  {
+   "segment": [
+    2.0,
+    3.0
+   ],
+   "verb": "open",
+   "noun": "wrap:plastic",
+   "score": 0.173898
+  },
+  {
+   "segment": [
+    2.5,
+    3.5
+   ],
+   "verb": "insert",
+   "noun": "wrap:plastic",
+   "score": 0.239157
+  },
+  {
+   "segment": [
+    2.5,
+    3.5
+   ],
+   "verb": "put",
+   "noun": "wrap:plastic",
+   "score": 0.192986
+  },
+  {
+   "segment": [
+    2.5,
+    3.5
+   ],
+   "verb": "remove",
+   "noun": "wrap:plastic",
+   "score": 0.162965
+  },
+  {
+   "segment": [
+    3.0,
+    6.5
+   ],
+   "verb": "insert",
+   "noun": "wrap:plastic",
+   "score": 0.302169
+  },
+  {
+   "segment": [
+    3.0,
+    5.0
+   ],
+   "verb": "insert",
+   "noun": "wrap:plastic",
+   "score": 0.301473
+  },
+  {
+   "segment": [
+    3.0,
+    6.5
+   ],
+   "verb": "rip",
+   "noun": "wrap:plastic",
+   "score": 0.277797
+  },
+  {
+   "segment": [
+    3.0,
+    6.5
+   ],
+   "verb": "peel",
+   "noun": "wrap:plastic",
+   "score": 0.266479
+  },
+  {
+   "segment": [
+    3.0,
+    4.0
+   ],
+   "verb": "insert",
+   "noun": "wrap:plastic",
+   "score": 0.257659
+  },
+  {
+   "segment": [
+    3.0,
+    9.0
+   ],
+   "verb": "insert",
+   "noun": "wrap:plastic",
+   "score": 0.243958
+  },
+  {
+   "segment": [
+    3.0,
+    5.0
+   ],
+   "verb": "rip",
+   "noun": "wrap:plastic",
+   "score": 0.233662
+  },
+  {
+   "segment": [
+    3.0,
+    5.0
+   ],
+   "verb": "put",
+   "noun": "wrap:plastic",
+   "score": 0.231859
+  },
+  {
+   "segment": [
+    3.0,
+    9.0
+   ],
+   "verb": "rip",
+   "noun": "wrap:plastic",
+   "score": 0.212873
+  },
+  {
+   "segment": [
+    3.0,
+    9.0
+   ],
+   "verb": "peel",
+   "noun": "wrap:plastic",
+   "score": 0.205352
+  },
+  {
+   "segment": [
+    3.0,
+    4.0
+   ],
+   "verb": "put",
+   "noun": "wrap:plastic",
+   "score": 0.199479
+  },
+  {
+   "segment": [
+    3.0,
+    4.0
+   ],
+   "verb": "wrap",
+   "noun": "toaster",
+   "score": 0.19329
+  },
+  {
+   "segment": [
+    3.5,
+    4.5
+   ],
+   "verb": "insert",
+   "noun": "wrap:plastic",
+   "score": 0.329345
+  },
+  {
+   "segment": [
+    3.5,
+    4.5
+   ],
+   "verb": "put",
+   "noun": "wrap:plastic",
+   "score": 0.239965
+  },
+  {
+   "segment": [
+    3.5,
+    4.5
+   ],
+   "verb": "peel",
+   "noun": "wrap:plastic",
+   "score": 0.231336
+  },
+  {
+   "segment": [
+    4.0,
+    5.0
+   ],
+   "verb": "insert",
+   "noun": "wrap:plastic",
+   "score": 0.343494
+  },
+  {
+   "segment": [
+    4.0,
+    6.0
+   ],
+   "verb": "insert",
+   "noun": "wrap:plastic",
+   "score": 0.329227
+  },
+  {
+   "segment": [
+    4.0,
+    6.0
+   ],
+   "verb": "rip",
+   "noun": "wrap:plastic",
+   "score": 0.328114
+  },
+  {
+   "segment": [
+    4.0,
+    6.0
+   ],
+   "verb": "peel",
+   "noun": "wrap:plastic",
+   "score": 0.302633
+  },
+  {
+   "segment": [
+    4.0,
+    5.0
+   ],
+   "verb": "rip",
+   "noun": "wrap:plastic",
+   "score": 0.295252
+  },
+  {
+   "segment": [
+    4.0,
+    5.0
+   ],
+   "verb": "peel",
+   "noun": "wrap:plastic",
+   "score": 0.26725
+  },
+  {
+   "segment": [
+    4.5,
+    5.5
+   ],
+   "verb": "rip",
+   "noun": "wrap:plastic",
+   "score": 0.347305
+  },
+  {
+   "segment": [
+    4.5,
+    5.5
+   ],
+   "verb": "insert",
+   "noun": "wrap:plastic",
+   "score": 0.327761
+  },
+  {
+   "segment": [
+    4.5,
+    5.5
+   ],
+   "verb": "peel",
+   "noun": "wrap:plastic",
+   "score": 0.310554
+  },
+  {
+   "segment": [
+    4.5,
+    8.0
+   ],
+   "verb": "insert",
+   "noun": "wrap:plastic",
+   "score": 0.269599
+  },
+  {
+   "segment": [
+    4.5,
+    8.0
+   ],
+   "verb": "rip",
+   "noun": "wrap:plastic",
+   "score": 0.254243
+  },
+  {
+   "segment": [
+    4.5,
+    8.0
+   ],
+   "verb": "peel",
+   "noun": "wrap:plastic",
+   "score": 0.239942
+  },
+  {
+   "segment": [
+    5.0,
+    6.0
+   ],
+   "verb": "rip",
+   "noun": "wrap:plastic",
+   "score": 0.35755
+  },
+  {
+   "segment": [
+    5.0,
+    6.0
+   ],
+   "verb": "peel",
+   "noun": "wrap:plastic",
+   "score": 0.333849
+  },
+  {
+   "segment": [
+    5.0,
+    6.0
+   ],
+   "verb": "insert",
+   "noun": "wrap:plastic",
+   "score": 0.314513
+  },
+  {
+   "segment": [
+    5.0,
+    7.0
+   ],
+   "verb": "rip",
+   "noun": "wrap:plastic",
+   "score": 0.308362
+  },
+  {
+   "segment": [
+    5.0,
+    7.0
+   ],
+   "verb": "insert",
+   "noun": "wrap:plastic",
+   "score": 0.304589
+  },
+  {
+   "segment": [
+    5.0,
+    7.0
+   ],
+   "verb": "peel",
+   "noun": "wrap:plastic",
+   "score": 0.292997
+  },
+  {
+   "segment": [
+    5.5,
+    6.5
+   ],
+   "verb": "rip",
+   "noun": "wrap:plastic",
+   "score": 0.305401
+  },
+  {
+   "segment": [
+    5.5,
+    6.5
+   ],
+   "verb": "insert",
+   "noun": "wrap:plastic",
+   "score": 0.302967
+  },
+  {
+   "segment": [
+    5.5,
+    6.5
+   ],
+   "verb": "peel",
+   "noun": "wrap:plastic",
+   "score": 0.29846
+  },
+  {
+   "segment": [
+    6.0,
+    7.0
+   ],
+   "verb": "insert",
+   "noun": "wrap:plastic",
+   "score": 0.294665
+  },
+  {
+   "segment": [
+    6.0,
+    7.0
+   ],
+   "verb": "rip",
+   "noun": "wrap:plastic",
+   "score": 0.253352
+  },
+  {
+   "segment": [
+    6.0,
+    12.0
+   ],
+   "verb": "insert",
+   "noun": "bread",
+   "score": 0.250382
+  },
+  {
+   "segment": [
+    6.0,
+    7.0
+   ],
+   "verb": "peel",
+   "noun": "wrap:plastic",
+   "score": 0.248326
+  },
+  {
+   "segment": [
+    6.0,
+    9.5
+   ],
+   "verb": "insert",
+   "noun": "bread",
+   "score": 0.245856
+  },
+  {
+   "segment": [
+    6.0,
+    8.0
+   ],
+   "verb": "insert",
+   "noun": "wrap:plastic",
+   "score": 0.225344
+  },
+  {
+   "segment": [
+    6.0,
+    8.0
+   ],
+   "verb": "insert",
+   "noun": "bread",
+   "score": 0.187964
+  },
+  {
+   "segment": [
+    6.0,
+    12.0
+   ],
+   "verb": "insert",
+   "noun": "sandwich",
+   "score": 0.178784
+  },
+  {
+   "segment": [
+    6.0,
+    8.0
+   ],
+   "verb": "rip",
+   "noun": "wrap:plastic",
+   "score": 0.174706
+  },
+  {
+   "segment": [
+    6.0,
+    12.0
+   ],
+   "verb": "put",
+   "noun": "bread",
+   "score": 0.174268
+  },
+  {
+   "segment": [
+    6.0,
+    9.5
+   ],
+   "verb": "insert",
+   "noun": "wrap:plastic",
+   "score": 0.168346
+  },
+  {
+   "segment": [
+    6.0,
+    9.5
+   ],
+   "verb": "put",
+   "noun": "bread",
+   "score": 0.164833
+  },
+  {
+   "segment": [
+    6.5,
+    7.5
+   ],
+   "verb": "insert",
+   "noun": "wrap:plastic",
+   "score": 0.244725
+  },
+  {
+   "segment": [
+    6.5,
+    7.5
+   ],
+   "verb": "insert",
+   "noun": "bread",
+   "score": 0.191809
+  },
+  {
+   "segment": [
+    6.5,
+    7.5
+   ],
+   "verb": "put",
+   "noun": "wrap:plastic",
+   "score": 0.188869
+  },
+  {
+   "segment": [
+    7.0,
+    9.0
+   ],
+   "verb": "insert",
+   "noun": "bread",
+   "score": 0.255531
+  },
+  {
+   "segment": [
+    7.0,
+    8.0
+   ],
+   "verb": "insert",
+   "noun": "bread",
+   "score": 0.22269
+  },
+  {
+   "segment": [
+    7.0,
+    9.0
+   ],
+   "verb": "put",
+   "noun": "bread",
+   "score": 0.177352
+  },
+  {
+   "segment": [
+    7.0,
+    8.0
+   ],
+   "verb": "put",
+   "noun": "bread",
+   "score": 0.15797
+  },
+  {
+   "segment": [
+    7.0,
+    9.0
+   ],
+   "verb": "insert",
+   "noun": "sandwich",
+   "score": 0.155966
+  },
+  {
+   "segment": [
+    7.0,
+    8.0
+   ],
+   "verb": "insert",
+   "noun": "wrap:plastic",
+   "score": 0.151866
+  },
+  {
+   "segment": [
+    7.5,
+    11.0
+   ],
+   "verb": "insert",
+   "noun": "bread",
+   "score": 0.266495
+  },
+  {
+   "segment": [
+    7.5,
+    8.5
+   ],
+   "verb": "insert",
+   "noun": "bread",
+   "score": 0.251797
+  },
+  {
+   "segment": [
+    7.5,
+    11.0
+   ],
+   "verb": "put",
+   "noun": "bread",
+   "score": 0.189618
+  },
+  {
+   "segment": [
+    7.5,
+    8.5
+   ],
+   "verb": "put",
+   "noun": "bread",
+   "score": 0.177409
+  },
+  {
+   "segment": [
+    7.5,
+    11.0
+   ],
+   "verb": "open",
+   "noun": "bread",
+   "score": 0.175007
+  },
+  {
+   "segment": [
+    7.5,
+    8.5
+   ],
+   "verb": "insert",
+   "noun": "sandwich",
+   "score": 0.148899
+  },
+  {
+   "segment": [
+    8.0,
+    10.0
+   ],
+   "verb": "insert",
+   "noun": "bread",
+   "score": 0.285981
+  },
+  {
+   "segment": [
+    8.0,
+    9.0
+   ],
+   "verb": "insert",
+   "noun": "bread",
+   "score": 0.283001
+  },
+  {
+   "segment": [
+    8.0,
+    10.0
+   ],
+   "verb": "put",
+   "noun": "bread",
+   "score": 0.195074
+  },
+  {
+   "segment": [
+    8.0,
+    9.0
+   ],
+   "verb": "put",
+   "noun": "bread",
+   "score": 0.193829
+  },
+  {
+   "segment": [
+    8.0,
+    10.0
+   ],
+   "verb": "open",
+   "noun": "bread",
+   "score": 0.186461
+  },
+  {
+   "segment": [
+    8.0,
+    9.0
+   ],
+   "verb": "open",
+   "noun": "bread",
+   "score": 0.175971
+  },
+  {
+   "segment": [
+    8.5,
+    9.5
+   ],
+   "verb": "insert",
+   "noun": "bread",
+   "score": 0.301701
+  },
+  {
+   "segment": [
+    8.5,
+    9.5
+   ],
+   "verb": "put",
+   "noun": "bread",
+   "score": 0.196812
+  },
+  {
+   "segment": [
+    8.5,
+    9.5
+   ],
+   "verb": "open",
+   "noun": "bread",
+   "score": 0.194279
+  },
+  {
+   "segment": [
+    9.0,
+    10.0
+   ],
+   "verb": "insert",
+   "noun": "bread",
+   "score": 0.288676
+  },
+  {
+   "segment": [
+    9.0,
+    11.0
+   ],
+   "verb": "insert",
+   "noun": "bread",
+   "score": 0.265669
+  },
+  {
+   "segment": [
+    9.0,
+    12.5
+   ],
+   "verb": "insert",
+   "noun": "bread",
+   "score": 0.262129
+  },
+  {
+   "segment": [
+    9.0,
+    15.0
+   ],
+   "verb": "insert",
+   "noun": "bread",
+   "score": 0.257807
+  },
+  {
+   "segment": [
+    9.0,
+    10.0
+   ],
+   "verb": "open",
+   "noun": "bread",
+   "score": 0.196911
+  },
+  {
+   "segment": [
+    9.0,
+    15.0
+   ],
+   "verb": "insert",
+   "noun": "sandwich",
+   "score": 0.196444
+  },
+  {
+   "segment": [
+    9.0,
+    10.0
+   ],
+   "verb": "put",
+   "noun": "bread",
+   "score": 0.19607
+  },
+  {
+   "segment": [
+    9.0,
+    12.5
+   ],
+   "verb": "insert",
+   "noun": "sandwich",
+   "score": 0.19304
+  },
+  {
+   "segment": [
+    9.0,
+    11.0
+   ],
+   "verb": "put",
+   "noun": "bread",
+   "score": 0.192632
+  },
+  {
+   "segment": [
+    9.0,
+    11.0
+   ],
+   "verb": "insert",
+   "noun": "sandwich",
+   "score": 0.185874
+  },
+  {
+   "segment": [
+    9.0,
+    12.5
+   ],
+   "verb": "put",
+   "noun": "bread",
+   "score": 0.180396
+  },
+  {
+   "segment": [
+    9.0,
+    15.0
+   ],
+   "verb": "put",
+   "noun": "bread",
+   "score": 0.171179
+  },
+  {
+   "segment": [
+    9.5,
+    10.5
+   ],
+   "verb": "insert",
+   "noun": "bread",
+   "score": 0.24344
+  },
+  {
+   "segment": [
+    9.5,
+    10.5
+   ],
+   "verb": "put",
+   "noun": "bread",
+   "score": 0.183411
+  },
+  {
+   "segment": [
+    9.5,
+    10.5
+   ],
+   "verb": "open",
+   "noun": "bread",
+   "score": 0.177455
+  },
+  {
+   "segment": [
+    10.0,
+    12.0
+   ],
+   "verb": "insert",
+   "noun": "bread",
+   "score": 0.254033
+  },
+  {
+   "segment": [
+    10.0,
+    11.0
+   ],
+   "verb": "insert",
+   "noun": "bread",
+   "score": 0.23733
+  },
+  {
+   "segment": [
+    10.0,
+    12.0
+   ],
+   "verb": "insert",
+   "noun": "sandwich",
+   "score": 0.22467
+  },
+  {
+   "segment": [
+    10.0,
+    11.0
+   ],
+   "verb": "insert",
+   "noun": "sandwich",
+   "score": 0.221297
+  },
+  {
+   "segment": [
+    10.0,
+    12.0
+   ],
+   "verb": "stab",
+   "noun": "bread",
+   "score": 0.189396
+  },
+  {
+   "segment": [
+    10.0,
+    11.0
+   ],
+   "verb": "put",
+   "noun": "bread",
+   "score": 0.188383
+  },
+  {
+   "segment": [
+    10.5,
+    14.0
+   ],
+   "verb": "insert",
+   "noun": "bread",
+   "score": 0.254948
+  },
+  {
+   "segment": [
+    10.5,
+    11.5
+   ],
+   "verb": "insert",
+   "noun": "sandwich",
+   "score": 0.251127
+  },
+  {
+   "segment": [
+    10.5,
+    11.5
+   ],
+   "verb": "insert",
+   "noun": "bread",
+   "score": 0.245418
+  },
+  {
+   "segment": [
+    10.5,
+    11.5
+   ],
+   "verb": "put",
+   "noun": "sandwich",
+   "score": 0.20935
+  },
+  {
+   "segment": [
+    10.5,
+    14.0
+   ],
+   "verb": "insert",
+   "noun": "sandwich",
+   "score": 0.195335
+  },
+  {
+   "segment": [
+    10.5,
+    14.0
+   ],
+   "verb": "stab",
+   "noun": "bread",
+   "score": 0.178187
+  },
+  {
+   "segment": [
+    11.0,
+    13.0
+   ],
+   "verb": "insert",
+   "noun": "bread",
+   "score": 0.272349
+  },
+  {
+   "segment": [
+    11.0,
+    12.0
+   ],
+   "verb": "insert",
+   "noun": "bread",
+   "score": 0.270144
+  },
+  {
+   "segment": [
+    11.0,
+    12.0
+   ],
+   "verb": "insert",
+   "noun": "sandwich",
+   "score": 0.228042
+  },
+  {
+   "segment": [
+    11.0,
+    12.0
+   ],
+   "verb": "stab",
+   "noun": "bread",
+   "score": 0.211477
+  },
+  {
+   "segment": [
+    11.0,
+    13.0
+   ],
+   "verb": "insert",
+   "noun": "sandwich",
+   "score": 0.202633
+  },
+  {
+   "segment": [
+    11.0,
+    13.0
+   ],
+   "verb": "stab",
+   "noun": "bread",
+   "score": 0.192178
+  },
+  {
+   "segment": [
+    11.5,
+    12.5
+   ],
+   "verb": "insert",
+   "noun": "bread",
+   "score": 0.266221
+  },
+  {
+   "segment": [
+    11.5,
+    12.5
+   ],
+   "verb": "stab",
+   "noun": "bread",
+   "score": 0.201752
+  },
+  {
+   "segment": [
+    11.5,
+    12.5
+   ],
+   "verb": "insert",
+   "noun": "sandwich",
+   "score": 0.182375
+  },
+  {
+   "segment": [
+    12.0,
+    13.0
+   ],
+   "verb": "insert",
+   "noun": "bread",
+   "score": 0.27452
+  },
+  {
+   "segment": [
+    12.0,
+    18.0
+   ],
+   "verb": "insert",
+   "noun": "sandwich",
+   "score": 0.254717
+  },
+  {
+   "segment": [
+    12.0,
+    15.5
+   ],
+   "verb": "insert",
+   "noun": "bread",
+   "score": 0.254277
+  },
+  {
+   "segment": [
+    12.0,
+    14.0
+   ],
+   "verb": "insert",
+   "noun": "bread",
+   "score": 0.247297
+  },
+  {
+   "segment": [
+    12.0,
+    18.0
+   ],
+   "verb": "insert",
+   "noun": "bread",
+   "score": 0.240484
+  },
+  {
+   "segment": [
+    12.0,
+    18.0
+   ],
+   "verb": "put",
+   "noun": "sandwich",
+   "score": 0.208084
+  },
+  {
+   "segment": [
+    12.0,
+    15.5
+   ],
+   "verb": "insert",
+   "noun": "sandwich",
+   "score": 0.205917
+  },
+  {
+   "segment": [
+    12.0,
+    13.0
+   ],
+   "verb": "turn-on",
+   "noun": "toaster",
+   "score": 0.186862
+  },
+  {
+   "segment": [
+    12.0,
+    15.5
+   ],
+   "verb": "stab",
+   "noun": "bread",
+   "score": 0.17748
+  },
+  {
+   "segment": [
+    12.0,
+    13.0
+   ],
+   "verb": "insert",
+   "noun": "sandwich",
+   "score": 0.173743
+  },
+  {
+   "segment": [
+    12.0,
+    14.0
+   ],
+   "verb": "turn-on",
+   "noun": "toaster",
+   "score": 0.167807
+  },
+  {
+   "segment": [
+    12.0,
+    14.0
+   ],
+   "verb": "eat",
+   "noun": "bread",
+   "score": 0.158905
+  },
+  {
+   "segment": [
+    12.5,
+    13.5
+   ],
+   "verb": "insert",
+   "noun": "bread",
+   "score": 0.275328
+  },
+  {
+   "segment": [
+    12.5,
+    13.5
+   ],
+   "verb": "turn-on",
+   "noun": "toaster",
+   "score": 0.198423
+  },
+  {
+   "segment": [
+    12.5,
+    13.5
+   ],
+   "verb": "insert",
+   "noun": "sandwich",
+   "score": 0.182531
+  },
+  {
+   "segment": [
+    13.0,
+    15.0
+   ],
+   "verb": "insert",
+   "noun": "bread",
+   "score": 0.229678
+  },
+  {
+   "segment": [
+    13.0,
+    14.0
+   ],
+   "verb": "insert",
+   "noun": "bread",
+   "score": 0.220068
+  },
+  {
+   "segment": [
+    13.0,
+    15.0
+   ],
+   "verb": "insert",
+   "noun": "sandwich",
+   "score": 0.200466
+  },
+  {
+   "segment": [
+    13.0,
+    15.0
+   ],
+   "verb": "put",
+   "noun": "slicer",
+   "score": 0.19306
+  },
+  {
+   "segment": [
+    13.0,
+    14.0
+   ],
+   "verb": "eat",
+   "noun": "bread",
+   "score": 0.159946
+  },
+  {
+   "segment": [
+    13.0,
+    14.0
+   ],
+   "verb": "hold",
+   "noun": "bread",
+   "score": 0.154499
+  },
+  {
+   "segment": [
+    13.5,
+    17.0
+   ],
+   "verb": "insert",
+   "noun": "sandwich",
+   "score": 0.244533
+  },
+  {
+   "segment": [
+    13.5,
+    17.0
+   ],
+   "verb": "insert",
+   "noun": "bread",
+   "score": 0.235483
+  },
+  {
+   "segment": [
+    13.5,
+    14.5
+   ],
+   "verb": "insert",
+   "noun": "bread",
+   "score": 0.218692
+  },
+  {
+   "segment": [
+    13.5,
+    17.0
+   ],
+   "verb": "put",
+   "noun": "sandwich",
+   "score": 0.212942
+  },
+  {
+   "segment": [
+    13.5,
+    14.5
+   ],
+   "verb": "put",
+   "noun": "slicer",
+   "score": 0.210401
+  },
+  {
+   "segment": [
+    13.5,
+    14.5
+   ],
+   "verb": "move",
+   "noun": "slicer",
+   "score": 0.198375
+  },
+  {
+   "segment": [
+    14.0,
+    15.0
+   ],
+   "verb": "insert",
+   "noun": "sandwich",
+   "score": 0.257606
+  },
+  {
+   "segment": [
+    14.0,
+    15.0
+   ],
+   "verb": "put",
+   "noun": "slicer",
+   "score": 0.2521
+  },
+  {
+   "segment": [
+    14.0,
+    16.0
+   ],
+   "verb": "insert",
+   "noun": "bread",
+   "score": 0.249062
+  },
+  {
+   "segment": [
+    14.0,
+    16.0
+   ],
+   "verb": "insert",
+   "noun": "sandwich",
+   "score": 0.246989
+  },
+  {
+   "segment": [
+    14.0,
+    15.0
+   ],
+   "verb": "put",
+   "noun": "sandwich",
+   "score": 0.234306
+  },
+  {
+   "segment": [
+    14.0,
+    16.0
+   ],
+   "verb": "put",
+   "noun": "sandwich",
+   "score": 0.225267
+  },
+  {
+   "segment": [
+    14.5,
+    15.5
+   ],
+   "verb": "insert",
+   "noun": "sandwich",
+   "score": 0.281899
+  },
+  {
+   "segment": [
+    14.5,
+    15.5
+   ],
+   "verb": "insert",
+   "noun": "bread",
+   "score": 0.268691
+  },
+  {
+   "segment": [
+    14.5,
+    15.5
+   ],
+   "verb": "put",
+   "noun": "sandwich",
+   "score": 0.255766
+  },
+  {
+   "segment": [
+    15.0,
+    21.0
+   ],
+   "verb": "insert",
+   "noun": "sandwich",
+   "score": 0.323803
+  },
+  {
+   "segment": [
+    15.0,
+    18.5
+   ],
+   "verb": "insert",
+   "noun": "sandwich",
+   "score": 0.306309
+  },
+  {
+   "segment": [
+    15.0,
+    16.0
+   ],
+   "verb": "insert",
+   "noun": "bread",
+   "score": 0.269745
+  },
+  {
+   "segment": [
+    15.0,
+    17.0
+   ],
+   "verb": "insert",
+   "noun": "sandwich",
+   "score": 0.267558
+  },
+  {
+   "segment": [
+    15.0,
+    21.0
+   ],
+   "verb": "put",
+   "noun": "sandwich",
+   "score": 0.26158
+  },
+  {
+   "segment": [
+    15.0,
+    18.5
+   ],
+   "verb": "put",
+   "noun": "sandwich",
+   "score": 0.251576
+  },
+  {
+   "segment": [
+    15.0,
+    17.0
+   ],
+   "verb": "insert",
+   "noun": "bread",
+   "score": 0.243392
+  },
+  {
+   "segment": [
+    15.0,
+    16.0
+   ],
+   "verb": "stab",
+   "noun": "bread",
+   "score": 0.242511
+  },
+  {
+   "segment": [
+    15.0,
+    16.0
+   ],
+   "verb": "insert",
+   "noun": "sandwich",
+   "score": 0.236353
+  },
+  {
+   "segment": [
+    15.0,
+    17.0
+   ],
+   "verb": "put",
+   "noun": "sandwich",
+   "score": 0.229384
+  },
+  {
+   "segment": [
+    15.0,
+    18.5
+   ],
+   "verb": "insert",
+   "noun": "bread",
+   "score": 0.225725
+  },
+  {
+   "segment": [
+    15.0,
+    21.0
+   ],
+   "verb": "insert",
+   "noun": "bread",
+   "score": 0.224835
+  },
+  {
+   "segment": [
+    15.5,
+    16.5
+   ],
+   "verb": "insert",
+   "noun": "bread",
+   "score": 0.24522
+  },
+  {
+   "segment": [
+    15.5,
+    16.5
+   ],
+   "verb": "stab",
+   "noun": "bread",
+   "score": 0.243711
+  },
+  {
+   "segment": [
+    15.5,
+    16.5
+   ],
+   "verb": "insert",
+   "noun": "sandwich",
+   "score": 0.222131
+  },
+  {
+   "segment": [
+    16.0,
+    18.0
+   ],
+   "verb": "insert",
+   "noun": "sandwich",
+   "score": 0.336606
+  },
+  {
+   "segment": [
+    16.0,
+    17.0
+   ],
+   "verb": "insert",
+   "noun": "sandwich",
+   "score": 0.294613
+  },
+  {
+   "segment": [
+    16.0,
+    18.0
+   ],
+   "verb": "put",
+   "noun": "sandwich",
+   "score": 0.266486
+  },
+  {
+   "segment": [
+    16.0,
+    17.0
+   ],
+   "verb": "put",
+   "noun": "sandwich",
+   "score": 0.241409
+  },
+  {
+   "segment": [
+    16.0,
+    17.0
+   ],
+   "verb": "insert",
+   "noun": "bread",
+   "score": 0.214715
+  },
+  {
+   "segment": [
+    16.0,
+    18.0
+   ],
+   "verb": "insert",
+   "noun": "bread",
+   "score": 0.213895
+  },
+  {
+   "segment": [
+    16.5,
+    17.5
+   ],
+   "verb": "insert",
+   "noun": "sandwich",
+   "score": 0.338023
+  },
+  {
+   "segment": [
+    16.5,
+    20.0
+   ],
+   "verb": "insert",
+   "noun": "sandwich",
+   "score": 0.317919
+  },
+  {
+   "segment": [
+    16.5,
+    17.5
+   ],
+   "verb": "put",
+   "noun": "sandwich",
+   "score": 0.264072
+  },
+  {
+   "segment": [
+    16.5,
+    20.0
+   ],
+   "verb": "put",
+   "noun": "sandwich",
+   "score": 0.258329
+  },
+  {
+   "segment": [
+    16.5,
+    17.5
+   ],
+   "verb": "move",
+   "noun": "sandwich",
+   "score": 0.204561
+  },
+  {
+   "segment": [
+    16.5,
+    20.0
+   ],
+   "verb": "move",
+   "noun": "sandwich",
+   "score": 0.196738
+  },
+  {
+   "segment": [
+    17.0,
+    18.0
+   ],
+   "verb": "insert",
+   "noun": "sandwich",
+   "score": 0.365847
+  },
+  {
+   "segment": [
+    17.0,
+    19.0
+   ],
+   "verb": "insert",
+   "noun": "sandwich",
+   "score": 0.310682
+  },
+  {
+   "segment": [
+    17.0,
+    18.0
+   ],
+   "verb": "put",
+   "noun": "sandwich",
+   "score": 0.283979
+  },
+  {
+   "segment": [
+    17.0,
+    19.0
+   ],
+   "verb": "put",
+   "noun": "sandwich",
+   "score": 0.254062
+  },
+  {
+   "segment": [
+    17.0,
+    18.0
+   ],
+   "verb": "move",
+   "noun": "sandwich",
+   "score": 0.21629
+  },
+  {
+   "segment": [
+    17.0,
+    19.0
+   ],
+   "verb": "move",
+   "noun": "sandwich",
+   "score": 0.191456
+  },
+  {
+   "segment": [
+    17.5,
+    18.5
+   ],
+   "verb": "insert",
+   "noun": "sandwich",
+   "score": 0.321824
+  },
+  {
+   "segment": [
+    17.5,
+    18.5
+   ],
+   "verb": "put",
+   "noun": "sandwich",
+   "score": 0.260287
+  },
+  {
+   "segment": [
+    17.5,
+    18.5
+   ],
+   "verb": "insert",
+   "noun": "bread",
+   "score": 0.199641
+  },
+  {
+   "segment": [
+    18.0,
+    24.0
+   ],
+   "verb": "insert",
+   "noun": "sandwich",
+   "score": 0.346562
+  },
+  {
+   "segment": [
+    18.0,
+    21.5
+   ],
+   "verb": "insert",
+   "noun": "sandwich",
+   "score": 0.345247
+  },
+  {
+   "segment": [
+    18.0,
+    24.0
+   ],
+   "verb": "put",
+   "noun": "sandwich",
+   "score": 0.300927
+  },
+  {
+   "segment": [
+    18.0,
+    20.0
+   ],
+   "verb": "insert",
+   "noun": "sandwich",
+   "score": 0.295413
+  },
+  {
+   "segment": [
+    18.0,
+    21.5
+   ],
+   "verb": "put",
+   "noun": "sandwich",
+   "score": 0.278317
+  },
+  {
+   "segment": [
+    18.0,
+    19.0
+   ],
+   "verb": "insert",
+   "noun": "sandwich",
+   "score": 0.255045
+  },
+  {
+   "segment": [
+    18.0,
+    20.0
+   ],
+   "verb": "put",
+   "noun": "sandwich",
+   "score": 0.249373
+  },
+  {
+   "segment": [
+    18.0,
+    24.0
+   ],
+   "verb": "insert",
+   "noun": "bread",
+   "score": 0.233461
+  },
+  {
+   "segment": [
+    18.0,
+    21.5
+   ],
+   "verb": "insert",
+   "noun": "bread",
+   "score": 0.224683
+  },
+  {
+   "segment": [
+    18.0,
+    19.0
+   ],
+   "verb": "put",
+   "noun": "sandwich",
+   "score": 0.224024
+  },
+  {
+   "segment": [
+    18.0,
+    20.0
+   ],
+   "verb": "insert",
+   "noun": "bread",
+   "score": 0.189689
+  },
+  {
+   "segment": [
+    18.0,
+    19.0
+   ],
+   "verb": "insert",
+   "noun": "bread",
+   "score": 0.169332
+  },
+  {
+   "segment": [
+    18.5,
+    19.5
+   ],
+   "verb": "insert",
+   "noun": "sandwich",
+   "score": 0.266049
+  },
+  {
+   "segment": [
+    18.5,
+    19.5
+   ],
+   "verb": "put",
+   "noun": "sandwich",
+   "score": 0.235521
+  },
+  {
+   "segment": [
+    18.5,
+    19.5
+   ],
+   "verb": "move",
+   "noun": "sandwich",
+   "score": 0.182578
+  },
+  {
+   "segment": [
+    19.0,
+    21.0
+   ],
+   "verb": "insert",
+   "noun": "sandwich",
+   "score": 0.376083
+  },
+  {
+   "segment": [
+    19.0,
+    20.0
+   ],
+   "verb": "insert",
+   "noun": "sandwich",
+   "score": 0.334695
+  },
+  {
+   "segment": [
+    19.0,
+    21.0
+   ],
+   "verb": "put",
+   "noun": "sandwich",
+   "score": 0.290259
+  },
+  {
+   "segment": [
+    19.0,
+    20.0
+   ],
+   "verb": "put",
+   "noun": "sandwich",
+   "score": 0.272282
+  },
+  {
+   "segment": [
+    19.0,
+    21.0
+   ],
+   "verb": "insert",
+   "noun": "bread",
+   "score": 0.240016
+  },
+  {
+   "segment": [
+    19.0,
+    20.0
+   ],
+   "verb": "move",
+   "noun": "sandwich",
+   "score": 0.211631
+  },
+  {
+   "segment": [
+    19.5,
+    20.5
+   ],
+   "verb": "insert",
+   "noun": "sandwich",
+   "score": 0.39353
+  },
+  {
+   "segment": [
+    19.5,
+    23.0
+   ],
+   "verb": "insert",
+   "noun": "sandwich",
+   "score": 0.371654
+  },
+  {
+   "segment": [
+    19.5,
+    23.0
+   ],
+   "verb": "put",
+   "noun": "sandwich",
+   "score": 0.331094
+  },
+  {
+   "segment": [
+    19.5,
+    20.5
+   ],
+   "verb": "put",
+   "noun": "sandwich",
+   "score": 0.296972
+  },
+  {
+   "segment": [
+    19.5,
+    20.5
+   ],
+   "verb": "insert",
+   "noun": "bread",
+   "score": 0.250803
+  },
+  {
+   "segment": [
+    19.5,
+    23.0
+   ],
+   "verb": "insert",
+   "noun": "bread",
+   "score": 0.24421
+  },
+  {
+   "segment": [
+    20.0,
+    21.0
+   ],
+   "verb": "insert",
+   "noun": "sandwich",
+   "score": 0.417087
+  },
+  {
+   "segment": [
+    20.0,
+    22.0
+   ],
+   "verb": "insert",
+   "noun": "sandwich",
+   "score": 0.396859
+  },
+  {
+   "segment": [
+    20.0,
+    22.0
+   ],
+   "verb": "put",
+   "noun": "sandwich",
+   "score": 0.325372
+  },
+  {
+   "segment": [
+    20.0,
+    21.0
+   ],
+   "verb": "put",
+   "noun": "sandwich",
+   "score": 0.308162
+  },
+  {
+   "segment": [
+    20.0,
+    21.0
+   ],
+   "verb": "insert",
+   "noun": "bread",
+   "score": 0.270944
+  },
+  {
+   "segment": [
+    20.0,
+    22.0
+   ],
+   "verb": "insert",
+   "noun": "bread",
+   "score": 0.2652
+  },
+  {
+   "segment": [
+    20.5,
+    21.5
+   ],
+   "verb": "insert",
+   "noun": "sandwich",
+   "score": 0.408623
+  },
+  {
+   "segment": [
+    20.5,
+    21.5
+   ],
+   "verb": "put",
+   "noun": "sandwich",
+   "score": 0.319467
+  },
+  {
+   "segment": [
+    20.5,
+    21.5
+   ],
+   "verb": "insert",
+   "noun": "bread",
+   "score": 0.271793
+  },
+  {
+   "segment": [
+    21.0,
+    22.0
+   ],
+   "verb": "insert",
+   "noun": "sandwich",
+   "score": 0.376488
+  },
+  {
+   "segment": [
+    21.0,
+    24.5
+   ],
+   "verb": "insert",
+   "noun": "sandwich",
+   "score": 0.350417
+  },
+  {
+   "segment": [
+    21.0,
+    23.0
+   ],
+   "verb": "insert",
+   "noun": "sandwich",
+   "score": 0.349464
+  },
+  {
+   "segment": [
+    21.0,
+    23.0
+   ],
+   "verb": "put",
+   "noun": "sandwich",
+   "score": 0.349122
+  },
+  {
+   "segment": [
+    21.0,
+    22.0
+   ],
+   "verb": "put",
+   "noun": "sandwich",
+   "score": 0.340405
+  },
+  {
+   "segment": [
+    21.0,
+    24.5
+   ],
+   "verb": "put",
+   "noun": "sandwich",
+   "score": 0.320375
+  },
+  {
+   "segment": [
+    21.0,
+    27.0
+   ],
+   "verb": "insert",
+   "noun": "sandwich",
+   "score": 0.306337
+  },
+  {
+   "segment": [
+    21.0,
+    27.0
+   ],
+   "verb": "put",
+   "noun": "sandwich",
+   "score": 0.270278
+  },
+  {
+   "segment": [
+    21.0,
+    22.0
+   ],
+   "verb": "insert",
+   "noun": "bread",
+   "score": 0.259427
+  },
+  {
+   "segment": [
+    21.0,
+    24.5
+   ],
+   "verb": "insert",
+   "noun": "bread",
+   "score": 0.250966
+  },
+  {
+   "segment": [
+    21.0,
+    23.0
+   ],
+   "verb": "insert",
+   "noun": "bread",
+   "score": 0.233905
+  },
+  {
+   "segment": [
+    21.0,
+    27.0
+   ],
+   "verb": "insert",
+   "noun": "bread",
+   "score": 0.223205
+  },
+  {
+   "segment": [
+    21.5,
+    22.5
+   ],
+   "verb": "put",
+   "noun": "sandwich",
+   "score": 0.359754
+  },
+  {
+   "segment": [
+    21.5,
+    22.5
+   ],
+   "verb": "insert",
+   "noun": "sandwich",
+   "score": 0.331447
+  },
+  {
+   "segment": [
+    21.5,
+    22.5
+   ],
+   "verb": "put",
+   "noun": "bread",
+   "score": 0.249383
+  },
+  {
+   "segment": [
+    22.0,
+    23.0
+   ],
+   "verb": "put",
+   "noun": "sandwich",
+   "score": 0.354326
+  },
+  {
+   "segment": [
+    22.0,
+    24.0
+   ],
+   "verb": "insert",
+   "noun": "sandwich",
+   "score": 0.34741
+  },
+  {
+   "segment": [
+    22.0,
+    24.0
+   ],
+   "verb": "put",
+   "noun": "sandwich",
+   "score": 0.326373
+  },
+  {
+   "segment": [
+    22.0,
+    23.0
+   ],
+   "verb": "insert",
+   "noun": "sandwich",
+   "score": 0.322436
+  },
+  {
+   "segment": [
+    22.0,
+    24.0
+   ],
+   "verb": "insert",
+   "noun": "bread",
+   "score": 0.24504
+  },
+  {
+   "segment": [
+    22.0,
+    23.0
+   ],
+   "verb": "put",
+   "noun": "bread",
+   "score": 0.225558
+  },
+  {
+   "segment": [
+    22.5,
+    23.5
+   ],
+   "verb": "insert",
+   "noun": "sandwich",
+   "score": 0.352381
+  },
+  {
+   "segment": [
+    22.5,
+    23.5
+   ],
+   "verb": "put",
+   "noun": "sandwich",
+   "score": 0.332199
+  },
+  {
+   "segment": [
+    22.5,
+    26.0
+   ],
+   "verb": "insert",
+   "noun": "sandwich",
+   "score": 0.311546
+  },
+  {
+   "segment": [
+    22.5,
+    26.0
+   ],
+   "verb": "put",
+   "noun": "sandwich",
+   "score": 0.262999
+  },
+  {
+   "segment": [
+    22.5,
+    23.5
+   ],
+   "verb": "insert",
+   "noun": "bread",
+   "score": 0.235115
+  },
+  {
+   "segment": [
+    22.5,
+    26.0
+   ],
+   "verb": "insert",
+   "noun": "bread",
+   "score": 0.227021
+  },
+  {
+   "segment": [
+    23.0,
+    24.0
+   ],
+   "verb": "insert",
+   "noun": "sandwich",
+   "score": 0.372305
+  },
+  {
+   "segment": [
+    23.0,
+    25.0
+   ],
+   "verb": "insert",
+   "noun": "sandwich",
+   "score": 0.33726
+  },
+  {
+   "segment": [
+    23.0,
+    24.0
+   ],
+   "verb": "put",
+   "noun": "sandwich",
+   "score": 0.290636
+  },
+  {
+   "segment": [
+    23.0,
+    24.0
+   ],
+   "verb": "insert",
+   "noun": "bread",
+   "score": 0.279912
+  },
+  {
+   "segment": [
+    23.0,
+    25.0
+   ],
+   "verb": "put",
+   "noun": "sandwich",
+   "score": 0.272061
+  },
+  {
+   "segment": [
+    23.0,
+    25.0
+   ],
+   "verb": "insert",
+   "noun": "bread",
+   "score": 0.255791
+  },
+  {
+   "segment": [
+    23.5,
+    24.5
+   ],
+   "verb": "insert",
+   "noun": "sandwich",
+   "score": 0.341141
+  },
+  {
+   "segment": [
+    23.5,
+    24.5
+   ],
+   "verb": "insert",
+   "noun": "bread",
+   "score": 0.271044
+  },
+  {
+   "segment": [
+    23.5,
+    24.5
+   ],
+   "verb": "put",
+   "noun": "sandwich",
+   "score": 0.257859
+  },
+  {
+   "segment": [
+    24.0,
+    25.0
+   ],
+   "verb": "insert",
+   "noun": "sandwich",
+   "score": 0.301986
+  },
+  {
+   "segment": [
+    24.0,
+    26.0
+   ],
+   "verb": "insert",
+   "noun": "sandwich",
+   "score": 0.272733
+  },
+  {
+   "segment": [
+    24.0,
+    25.0
+   ],
+   "verb": "put",
+   "noun": "sandwich",
+   "score": 0.253458
+  },
+  {
+   "segment": [
+    24.0,
+    27.5
+   ],
+   "verb": "insert",
+   "noun": "sandwich",
+   "score": 0.235677
+  },
+  {
+   "segment": [
+    24.0,
+    25.0
+   ],
+   "verb": "insert",
+   "noun": "bread",
+   "score": 0.231603
+  },
+  {
+   "segment": [
+    24.0,
+    27.5
+   ],
+   "verb": "turn-on",
+   "noun": "toaster",
+   "score": 0.230047
+  },
+  {
+   "segment": [
+    24.0,
+    26.0
+   ],
+   "verb": "turn-on",
+   "noun": "toaster",
+   "score": 0.224195
+  },
+  {
+   "segment": [
+    24.0,
+    26.0
+   ],
+   "verb": "put",
+   "noun": "sandwich",
+   "score": 0.223755
+  },
+  {
+   "segment": [
+    24.0,
+    27.5
+   ],
+   "verb": "insert",
+   "noun": "bread",
+   "score": 0.190336
+  },
+  {
+   "segment": [
+    24.5,
+    25.5
+   ],
+   "verb": "insert",
+   "noun": "sandwich",
+   "score": 0.275462
+  },
+  {
+   "segment": [
+    24.5,
+    25.5
+   ],
+   "verb": "put",
+   "noun": "sandwich",
+   "score": 0.236542
+  },
+  {
+   "segment": [
+    24.5,
+    25.5
+   ],
+   "verb": "turn-on",
+   "noun": "toaster",
+   "score": 0.229262
+  },
+  {
+   "segment": [
+    25.0,
+    26.0
+   ],
+   "verb": "turn-on",
+   "noun": "toaster",
+   "score": 0.264534
+  },
+  {
+   "segment": [
+    25.0,
+    27.0
+   ],
+   "verb": "turn-on",
+   "noun": "toaster",
+   "score": 0.255952
+  },
+  {
+   "segment": [
+    25.0,
+    26.0
+   ],
+   "verb": "insert",
+   "noun": "sandwich",
+   "score": 0.235308
+  },
+  {
+   "segment": [
+    25.0,
+    27.0
+   ],
+   "verb": "insert",
+   "noun": "sandwich",
+   "score": 0.217461
+  },
+  {
+   "segment": [
+    25.0,
+    27.0
+   ],
+   "verb": "press",
+   "noun": "toaster",
+   "score": 0.188186
+  },
+  {
+   "segment": [
+    25.0,
+    26.0
+   ],
+   "verb": "press",
+   "noun": "toaster",
+   "score": 0.185905
+  },
+  {
+   "segment": [
+    25.5,
+    26.5
+   ],
+   "verb": "turn-on",
+   "noun": "toaster",
+   "score": 0.25973
+  },
+  {
+   "segment": [
+    25.5,
+    26.5
+   ],
+   "verb": "insert",
+   "noun": "sandwich",
+   "score": 0.206793
+  },
+  {
+   "segment": [
+    25.5,
+    26.5
+   ],
+   "verb": "press",
+   "noun": "toaster",
+   "score": 0.187494
+  },
+  {
+   "segment": [
+    26.0,
+    27.0
+   ],
+   "verb": "turn-on",
+   "noun": "toaster",
+   "score": 0.247369
+  },
+  {
+   "segment": [
+    26.0,
+    28.0
+   ],
+   "verb": "turn-on",
+   "noun": "toaster",
+   "score": 0.230229
+  },
+  {
+   "segment": [
+    26.0,
+    27.0
+   ],
+   "verb": "insert",
+   "noun": "sandwich",
+   "score": 0.199043
+  },
+  {
+   "segment": [
+    26.0,
+    27.0
+   ],
+   "verb": "press",
+   "noun": "toaster",
+   "score": 0.190111
+  },
+  {
+   "segment": [
+    26.0,
+    28.0
+   ],
+   "verb": "press",
+   "noun": "toaster",
+   "score": 0.178789
+  },
+  {
+   "segment": [
+    26.0,
+    28.0
+   ],
+   "verb": "insert",
+   "noun": "sandwich",
+   "score": 0.168342
+  },
+  {
+   "segment": [
+    26.5,
+    27.5
+   ],
+   "verb": "turn-on",
+   "noun": "toaster",
+   "score": 0.232079
+  },
+  {
+   "segment": [
+    26.5,
+    27.5
+   ],
+   "verb": "press",
+   "noun": "toaster",
+   "score": 0.184984
+  },
+  {
+   "segment": [
+    26.5,
+    27.5
+   ],
+   "verb": "insert",
+   "noun": "bread",
+   "score": 0.171568
+  },
+  {
+   "segment": [
+    27.0,
+    28.0
+   ],
+   "verb": "turn-on",
+   "noun": "toaster",
+   "score": 0.213089
+  },
+  {
+   "segment": [
+    27.0,
+    28.0
+   ],
+   "verb": "press",
+   "noun": "toaster",
+   "score": 0.167444
+  },
+  {
+   "segment": [
+    27.0,
+    28.0
+   ],
+   "verb": "insert",
+   "noun": "bread",
+   "score": 0.157045
+  },
+  {
+   "segment": [
+    27.5,
+    28.5
+   ],
+   "verb": "turn-on",
+   "noun": "toaster",
+   "score": 0.204869
+  },
+  {
+   "segment": [
+    27.5,
+    28.5
+   ],
+   "verb": "press",
+   "noun": "toaster",
+   "score": 0.155181
+  },
+  {
+   "segment": [
+    27.5,
+    28.5
+   ],
+   "verb": "insert",
+   "noun": "bread",
+   "score": 0.144595
+  }
+ ],
+ "highlights": [
+  {
+   "segment": [
+    12.5,
+    16.6
+   ]
+  }
+ ]
+}

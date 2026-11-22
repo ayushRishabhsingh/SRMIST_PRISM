@@ -1,0 +1,8854 @@
+{
+ "team_id": "SRMIST_PRISM",
+ "video_id": "P11_24",
+ "duration_sec": 83.58,
+ "label": {
+  "name": "cooking",
+  "score": 0.9911
+ },
+ "actions": [
+  {
+   "segment": [
+    0.0,
+    6.0
+   ],
+   "verb": "move",
+   "noun": "pan",
+   "score": 0.213851
+  },
+  {
+   "segment": [
+    0.0,
+    3.5
+   ],
+   "verb": "move",
+   "noun": "pan",
+   "score": 0.176581
+  },
+  {
+   "segment": [
+    0.0,
+    3.5
+   ],
+   "verb": "filter",
+   "noun": "pan",
+   "score": 0.15244
+  },
+  {
+   "segment": [
+    0.0,
+    6.0
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.145146
+  },
+  {
+   "segment": [
+    0.0,
+    6.0
+   ],
+   "verb": "filter",
+   "noun": "pan",
+   "score": 0.142728
+  },
+  {
+   "segment": [
+    0.0,
+    2.0
+   ],
+   "verb": "put",
+   "noun": "sponge",
+   "score": 0.140789
+  },
+  {
+   "segment": [
+    0.0,
+    2.0
+   ],
+   "verb": "put",
+   "noun": "liquid:washing",
+   "score": 0.137115
+  },
+  {
+   "segment": [
+    0.0,
+    1.0
+   ],
+   "verb": "put",
+   "noun": "liquid:washing",
+   "score": 0.13634
+  },
+  {
+   "segment": [
+    0.0,
+    3.5
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.127546
+  },
+  {
+   "segment": [
+    0.0,
+    2.0
+   ],
+   "verb": "move",
+   "noun": "pan",
+   "score": 0.122848
+  },
+  {
+   "segment": [
+    0.0,
+    1.0
+   ],
+   "verb": "move",
+   "noun": "pan",
+   "score": 0.122195
+  },
+  {
+   "segment": [
+    0.0,
+    1.0
+   ],
+   "verb": "dry",
+   "noun": "knife",
+   "score": 0.121061
+  },
+  {
+   "segment": [
+    0.5,
+    1.5
+   ],
+   "verb": "put",
+   "noun": "sponge",
+   "score": 0.147358
+  },
+  {
+   "segment": [
+    0.5,
+    1.5
+   ],
+   "verb": "put",
+   "noun": "liquid:washing",
+   "score": 0.139635
+  },
+  {
+   "segment": [
+    0.5,
+    1.5
+   ],
+   "verb": "move",
+   "noun": "pan",
+   "score": 0.136724
+  },
+  {
+   "segment": [
+    1.0,
+    2.0
+   ],
+   "verb": "put",
+   "noun": "sponge",
+   "score": 0.202778
+  },
+  {
+   "segment": [
+    1.0,
+    3.0
+   ],
+   "verb": "put",
+   "noun": "sponge",
+   "score": 0.172034
+  },
+  {
+   "segment": [
+    1.0,
+    3.0
+   ],
+   "verb": "move",
+   "noun": "pan",
+   "score": 0.154885
+  },
+  {
+   "segment": [
+    1.0,
+    3.0
+   ],
+   "verb": "filter",
+   "noun": "pan",
+   "score": 0.15438
+  },
+  {
+   "segment": [
+    1.0,
+    2.0
+   ],
+   "verb": "take",
+   "noun": "sponge",
+   "score": 0.142808
+  },
+  {
+   "segment": [
+    1.0,
+    2.0
+   ],
+   "verb": "water",
+   "noun": "sponge",
+   "score": 0.137017
+  },
+  {
+   "segment": [
+    1.5,
+    5.0
+   ],
+   "verb": "move",
+   "noun": "pan",
+   "score": 0.264965
+  },
+  {
+   "segment": [
+    1.5,
+    2.5
+   ],
+   "verb": "put",
+   "noun": "sponge",
+   "score": 0.198904
+  },
+  {
+   "segment": [
+    1.5,
+    5.0
+   ],
+   "verb": "filter",
+   "noun": "pan",
+   "score": 0.182869
+  },
+  {
+   "segment": [
+    1.5,
+    5.0
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.175998
+  },
+  {
+   "segment": [
+    1.5,
+    2.5
+   ],
+   "verb": "take",
+   "noun": "sponge",
+   "score": 0.13578
+  },
+  {
+   "segment": [
+    1.5,
+    2.5
+   ],
+   "verb": "water",
+   "noun": "sponge",
+   "score": 0.132897
+  },
+  {
+   "segment": [
+    2.0,
+    4.0
+   ],
+   "verb": "move",
+   "noun": "pan",
+   "score": 0.27659
+  },
+  {
+   "segment": [
+    2.0,
+    4.0
+   ],
+   "verb": "filter",
+   "noun": "pan",
+   "score": 0.233049
+  },
+  {
+   "segment": [
+    2.0,
+    3.0
+   ],
+   "verb": "filter",
+   "noun": "pan",
+   "score": 0.207588
+  },
+  {
+   "segment": [
+    2.0,
+    4.0
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.186087
+  },
+  {
+   "segment": [
+    2.0,
+    3.0
+   ],
+   "verb": "move",
+   "noun": "pan",
+   "score": 0.180226
+  },
+  {
+   "segment": [
+    2.0,
+    3.0
+   ],
+   "verb": "filter",
+   "noun": "pot",
+   "score": 0.146682
+  },
+  {
+   "segment": [
+    2.5,
+    3.5
+   ],
+   "verb": "move",
+   "noun": "pan",
+   "score": 0.252538
+  },
+  {
+   "segment": [
+    2.5,
+    3.5
+   ],
+   "verb": "filter",
+   "noun": "pan",
+   "score": 0.248666
+  },
+  {
+   "segment": [
+    2.5,
+    3.5
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.171563
+  },
+  {
+   "segment": [
+    3.0,
+    4.0
+   ],
+   "verb": "move",
+   "noun": "pan",
+   "score": 0.339483
+  },
+  {
+   "segment": [
+    3.0,
+    9.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.330534
+  },
+  {
+   "segment": [
+    3.0,
+    5.0
+   ],
+   "verb": "move",
+   "noun": "pan",
+   "score": 0.315135
+  },
+  {
+   "segment": [
+    3.0,
+    4.0
+   ],
+   "verb": "filter",
+   "noun": "pan",
+   "score": 0.252921
+  },
+  {
+   "segment": [
+    3.0,
+    6.5
+   ],
+   "verb": "move",
+   "noun": "pan",
+   "score": 0.245546
+  },
+  {
+   "segment": [
+    3.0,
+    9.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.226231
+  },
+  {
+   "segment": [
+    3.0,
+    4.0
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.222633
+  },
+  {
+   "segment": [
+    3.0,
+    5.0
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.20516
+  },
+  {
+   "segment": [
+    3.0,
+    5.0
+   ],
+   "verb": "filter",
+   "noun": "pan",
+   "score": 0.187909
+  },
+  {
+   "segment": [
+    3.0,
+    9.0
+   ],
+   "verb": "move",
+   "noun": "pan",
+   "score": 0.178505
+  },
+  {
+   "segment": [
+    3.0,
+    6.5
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.160866
+  },
+  {
+   "segment": [
+    3.0,
+    6.5
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.16031
+  },
+  {
+   "segment": [
+    3.5,
+    4.5
+   ],
+   "verb": "move",
+   "noun": "pan",
+   "score": 0.381683
+  },
+  {
+   "segment": [
+    3.5,
+    4.5
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.245961
+  },
+  {
+   "segment": [
+    3.5,
+    4.5
+   ],
+   "verb": "filter",
+   "noun": "pan",
+   "score": 0.201069
+  },
+  {
+   "segment": [
+    4.0,
+    5.0
+   ],
+   "verb": "move",
+   "noun": "pan",
+   "score": 0.288369
+  },
+  {
+   "segment": [
+    4.0,
+    6.0
+   ],
+   "verb": "move",
+   "noun": "pan",
+   "score": 0.212421
+  },
+  {
+   "segment": [
+    4.0,
+    5.0
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.185784
+  },
+  {
+   "segment": [
+    4.0,
+    6.0
+   ],
+   "verb": "filter",
+   "noun": "sink",
+   "score": 0.174171
+  },
+  {
+   "segment": [
+    4.0,
+    5.0
+   ],
+   "verb": "filter",
+   "noun": "sink",
+   "score": 0.172736
+  },
+  {
+   "segment": [
+    4.0,
+    6.0
+   ],
+   "verb": "filter",
+   "noun": "rack:drying",
+   "score": 0.148496
+  },
+  {
+   "segment": [
+    4.5,
+    8.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.332971
+  },
+  {
+   "segment": [
+    4.5,
+    8.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.238025
+  },
+  {
+   "segment": [
+    4.5,
+    5.5
+   ],
+   "verb": "filter",
+   "noun": "sink",
+   "score": 0.190241
+  },
+  {
+   "segment": [
+    4.5,
+    5.5
+   ],
+   "verb": "move",
+   "noun": "pan",
+   "score": 0.16854
+  },
+  {
+   "segment": [
+    4.5,
+    8.0
+   ],
+   "verb": "put",
+   "noun": "cupboard",
+   "score": 0.161569
+  },
+  {
+   "segment": [
+    4.5,
+    5.5
+   ],
+   "verb": "filter",
+   "noun": "rack:drying",
+   "score": 0.16132
+  },
+  {
+   "segment": [
+    5.0,
+    7.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.294382
+  },
+  {
+   "segment": [
+    5.0,
+    7.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.237512
+  },
+  {
+   "segment": [
+    5.0,
+    6.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.182741
+  },
+  {
+   "segment": [
+    5.0,
+    6.0
+   ],
+   "verb": "filter",
+   "noun": "sink",
+   "score": 0.174883
+  },
+  {
+   "segment": [
+    5.0,
+    6.0
+   ],
+   "verb": "filter",
+   "noun": "rack:drying",
+   "score": 0.170927
+  },
+  {
+   "segment": [
+    5.0,
+    7.0
+   ],
+   "verb": "move",
+   "noun": "cupboard",
+   "score": 0.153066
+  },
+  {
+   "segment": [
+    5.5,
+    6.5
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.30509
+  },
+  {
+   "segment": [
+    5.5,
+    6.5
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.262795
+  },
+  {
+   "segment": [
+    5.5,
+    6.5
+   ],
+   "verb": "move",
+   "noun": "cupboard",
+   "score": 0.162571
+  },
+  {
+   "segment": [
+    6.0,
+    9.5
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.433568
+  },
+  {
+   "segment": [
+    6.0,
+    8.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.406868
+  },
+  {
+   "segment": [
+    6.0,
+    12.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.394877
+  },
+  {
+   "segment": [
+    6.0,
+    7.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.353831
+  },
+  {
+   "segment": [
+    6.0,
+    9.5
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.29031
+  },
+  {
+   "segment": [
+    6.0,
+    8.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.283719
+  },
+  {
+   "segment": [
+    6.0,
+    7.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.27713
+  },
+  {
+   "segment": [
+    6.0,
+    12.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.268149
+  },
+  {
+   "segment": [
+    6.0,
+    9.5
+   ],
+   "verb": "put",
+   "noun": "cupboard",
+   "score": 0.206173
+  },
+  {
+   "segment": [
+    6.0,
+    8.0
+   ],
+   "verb": "put",
+   "noun": "cupboard",
+   "score": 0.196964
+  },
+  {
+   "segment": [
+    6.0,
+    12.0
+   ],
+   "verb": "move",
+   "noun": "cupboard",
+   "score": 0.195923
+  },
+  {
+   "segment": [
+    6.0,
+    7.0
+   ],
+   "verb": "move",
+   "noun": "cupboard",
+   "score": 0.17937
+  },
+  {
+   "segment": [
+    6.5,
+    7.5
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.385397
+  },
+  {
+   "segment": [
+    6.5,
+    7.5
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.26878
+  },
+  {
+   "segment": [
+    6.5,
+    7.5
+   ],
+   "verb": "put",
+   "noun": "cupboard",
+   "score": 0.18811
+  },
+  {
+   "segment": [
+    7.0,
+    9.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.465427
+  },
+  {
+   "segment": [
+    7.0,
+    8.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.451427
+  },
+  {
+   "segment": [
+    7.0,
+    9.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.297407
+  },
+  {
+   "segment": [
+    7.0,
+    8.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.289698
+  },
+  {
+   "segment": [
+    7.0,
+    9.0
+   ],
+   "verb": "put",
+   "noun": "cupboard",
+   "score": 0.219661
+  },
+  {
+   "segment": [
+    7.0,
+    8.0
+   ],
+   "verb": "put",
+   "noun": "cupboard",
+   "score": 0.218613
+  },
+  {
+   "segment": [
+    7.5,
+    8.5
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.503189
+  },
+  {
+   "segment": [
+    7.5,
+    11.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.413173
+  },
+  {
+   "segment": [
+    7.5,
+    8.5
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.321939
+  },
+  {
+   "segment": [
+    7.5,
+    11.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.2725
+  },
+  {
+   "segment": [
+    7.5,
+    8.5
+   ],
+   "verb": "put",
+   "noun": "cupboard",
+   "score": 0.237342
+  },
+  {
+   "segment": [
+    7.5,
+    11.0
+   ],
+   "verb": "move",
+   "noun": "cupboard",
+   "score": 0.208651
+  },
+  {
+   "segment": [
+    8.0,
+    9.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.478508
+  },
+  {
+   "segment": [
+    8.0,
+    10.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.444398
+  },
+  {
+   "segment": [
+    8.0,
+    9.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.304629
+  },
+  {
+   "segment": [
+    8.0,
+    10.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.288739
+  },
+  {
+   "segment": [
+    8.0,
+    10.0
+   ],
+   "verb": "move",
+   "noun": "cupboard",
+   "score": 0.222748
+  },
+  {
+   "segment": [
+    8.0,
+    9.0
+   ],
+   "verb": "put",
+   "noun": "cupboard",
+   "score": 0.220621
+  },
+  {
+   "segment": [
+    8.5,
+    9.5
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.432655
+  },
+  {
+   "segment": [
+    8.5,
+    9.5
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.276007
+  },
+  {
+   "segment": [
+    8.5,
+    9.5
+   ],
+   "verb": "move",
+   "noun": "cupboard",
+   "score": 0.217276
+  },
+  {
+   "segment": [
+    9.0,
+    10.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.404685
+  },
+  {
+   "segment": [
+    9.0,
+    12.5
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.349822
+  },
+  {
+   "segment": [
+    9.0,
+    11.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.345207
+  },
+  {
+   "segment": [
+    9.0,
+    15.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.29716
+  },
+  {
+   "segment": [
+    9.0,
+    10.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.270608
+  },
+  {
+   "segment": [
+    9.0,
+    12.5
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.242196
+  },
+  {
+   "segment": [
+    9.0,
+    11.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.241018
+  },
+  {
+   "segment": [
+    9.0,
+    10.0
+   ],
+   "verb": "move",
+   "noun": "cupboard",
+   "score": 0.235568
+  },
+  {
+   "segment": [
+    9.0,
+    11.0
+   ],
+   "verb": "move",
+   "noun": "cupboard",
+   "score": 0.207847
+  },
+  {
+   "segment": [
+    9.0,
+    15.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.207515
+  },
+  {
+   "segment": [
+    9.0,
+    12.5
+   ],
+   "verb": "move",
+   "noun": "cupboard",
+   "score": 0.191553
+  },
+  {
+   "segment": [
+    9.0,
+    15.0
+   ],
+   "verb": "filter",
+   "noun": "rack:drying",
+   "score": 0.172566
+  },
+  {
+   "segment": [
+    9.5,
+    10.5
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.341989
+  },
+  {
+   "segment": [
+    9.5,
+    10.5
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.246732
+  },
+  {
+   "segment": [
+    9.5,
+    10.5
+   ],
+   "verb": "move",
+   "noun": "cupboard",
+   "score": 0.217884
+  },
+  {
+   "segment": [
+    10.0,
+    12.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.297732
+  },
+  {
+   "segment": [
+    10.0,
+    11.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.250907
+  },
+  {
+   "segment": [
+    10.0,
+    11.0
+   ],
+   "verb": "filter",
+   "noun": "rack:drying",
+   "score": 0.238987
+  },
+  {
+   "segment": [
+    10.0,
+    12.0
+   ],
+   "verb": "filter",
+   "noun": "rack:drying",
+   "score": 0.221754
+  },
+  {
+   "segment": [
+    10.0,
+    11.0
+   ],
+   "verb": "put",
+   "noun": "rack:drying",
+   "score": 0.219112
+  },
+  {
+   "segment": [
+    10.0,
+    12.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.21299
+  },
+  {
+   "segment": [
+    10.5,
+    14.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.293994
+  },
+  {
+   "segment": [
+    10.5,
+    11.5
+   ],
+   "verb": "filter",
+   "noun": "rack:drying",
+   "score": 0.263858
+  },
+  {
+   "segment": [
+    10.5,
+    11.5
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.238535
+  },
+  {
+   "segment": [
+    10.5,
+    11.5
+   ],
+   "verb": "put",
+   "noun": "rack:drying",
+   "score": 0.234464
+  },
+  {
+   "segment": [
+    10.5,
+    14.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.207269
+  },
+  {
+   "segment": [
+    10.5,
+    14.0
+   ],
+   "verb": "filter",
+   "noun": "rack:drying",
+   "score": 0.197575
+  },
+  {
+   "segment": [
+    11.0,
+    13.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.352762
+  },
+  {
+   "segment": [
+    11.0,
+    12.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.337381
+  },
+  {
+   "segment": [
+    11.0,
+    13.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.244548
+  },
+  {
+   "segment": [
+    11.0,
+    12.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.227878
+  },
+  {
+   "segment": [
+    11.0,
+    13.0
+   ],
+   "verb": "take",
+   "noun": "cupboard",
+   "score": 0.207502
+  },
+  {
+   "segment": [
+    11.0,
+    12.0
+   ],
+   "verb": "filter",
+   "noun": "rack:drying",
+   "score": 0.203414
+  },
+  {
+   "segment": [
+    11.5,
+    12.5
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.368534
+  },
+  {
+   "segment": [
+    11.5,
+    12.5
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.254248
+  },
+  {
+   "segment": [
+    11.5,
+    12.5
+   ],
+   "verb": "take",
+   "noun": "cupboard",
+   "score": 0.217733
+  },
+  {
+   "segment": [
+    12.0,
+    13.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.364758
+  },
+  {
+   "segment": [
+    12.0,
+    14.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.293968
+  },
+  {
+   "segment": [
+    12.0,
+    13.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.25769
+  },
+  {
+   "segment": [
+    12.0,
+    15.5
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.219375
+  },
+  {
+   "segment": [
+    12.0,
+    13.0
+   ],
+   "verb": "take",
+   "noun": "cupboard",
+   "score": 0.216872
+  },
+  {
+   "segment": [
+    12.0,
+    14.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.209661
+  },
+  {
+   "segment": [
+    12.0,
+    18.0
+   ],
+   "verb": "put",
+   "noun": "board:chopping",
+   "score": 0.19449
+  },
+  {
+   "segment": [
+    12.0,
+    14.0
+   ],
+   "verb": "filter",
+   "noun": "rack:drying",
+   "score": 0.172866
+  },
+  {
+   "segment": [
+    12.0,
+    18.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.168599
+  },
+  {
+   "segment": [
+    12.0,
+    18.0
+   ],
+   "verb": "move",
+   "noun": "board:chopping",
+   "score": 0.158838
+  },
+  {
+   "segment": [
+    12.0,
+    15.5
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.156174
+  },
+  {
+   "segment": [
+    12.0,
+    15.5
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.150407
+  },
+  {
+   "segment": [
+    12.5,
+    13.5
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.284046
+  },
+  {
+   "segment": [
+    12.5,
+    13.5
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.207747
+  },
+  {
+   "segment": [
+    12.5,
+    13.5
+   ],
+   "verb": "filter",
+   "noun": "rack:drying",
+   "score": 0.186607
+  },
+  {
+   "segment": [
+    13.0,
+    14.0
+   ],
+   "verb": "filter",
+   "noun": "rack:drying",
+   "score": 0.221297
+  },
+  {
+   "segment": [
+    13.0,
+    14.0
+   ],
+   "verb": "put",
+   "noun": "rack:drying",
+   "score": 0.207002
+  },
+  {
+   "segment": [
+    13.0,
+    15.0
+   ],
+   "verb": "filter",
+   "noun": "rack:drying",
+   "score": 0.183277
+  },
+  {
+   "segment": [
+    13.0,
+    15.0
+   ],
+   "verb": "put",
+   "noun": "rack:drying",
+   "score": 0.171744
+  },
+  {
+   "segment": [
+    13.0,
+    14.0
+   ],
+   "verb": "put",
+   "noun": "board:chopping",
+   "score": 0.170649
+  },
+  {
+   "segment": [
+    13.0,
+    15.0
+   ],
+   "verb": "put",
+   "noun": "board:chopping",
+   "score": 0.144586
+  },
+  {
+   "segment": [
+    13.5,
+    14.5
+   ],
+   "verb": "filter",
+   "noun": "rack:drying",
+   "score": 0.209635
+  },
+  {
+   "segment": [
+    13.5,
+    14.5
+   ],
+   "verb": "put",
+   "noun": "rack:drying",
+   "score": 0.19687
+  },
+  {
+   "segment": [
+    13.5,
+    17.0
+   ],
+   "verb": "put",
+   "noun": "board:chopping",
+   "score": 0.193539
+  },
+  {
+   "segment": [
+    13.5,
+    17.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.183255
+  },
+  {
+   "segment": [
+    13.5,
+    14.5
+   ],
+   "verb": "put",
+   "noun": "board:chopping",
+   "score": 0.170004
+  },
+  {
+   "segment": [
+    13.5,
+    17.0
+   ],
+   "verb": "move",
+   "noun": "board:chopping",
+   "score": 0.16114
+  },
+  {
+   "segment": [
+    14.0,
+    16.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.212603
+  },
+  {
+   "segment": [
+    14.0,
+    15.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.180027
+  },
+  {
+   "segment": [
+    14.0,
+    16.0
+   ],
+   "verb": "put",
+   "noun": "board:chopping",
+   "score": 0.153781
+  },
+  {
+   "segment": [
+    14.0,
+    15.0
+   ],
+   "verb": "filter",
+   "noun": "rack:drying",
+   "score": 0.1429
+  },
+  {
+   "segment": [
+    14.0,
+    15.0
+   ],
+   "verb": "put",
+   "noun": "colander",
+   "score": 0.139418
+  },
+  {
+   "segment": [
+    14.0,
+    16.0
+   ],
+   "verb": "move",
+   "noun": "board:chopping",
+   "score": 0.139268
+  },
+  {
+   "segment": [
+    14.5,
+    15.5
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.216668
+  },
+  {
+   "segment": [
+    14.5,
+    15.5
+   ],
+   "verb": "put",
+   "noun": "kettle",
+   "score": 0.11115
+  },
+  {
+   "segment": [
+    14.5,
+    15.5
+   ],
+   "verb": "take",
+   "noun": "hob",
+   "score": 0.100953
+  },
+  {
+   "segment": [
+    15.0,
+    21.0
+   ],
+   "verb": "put",
+   "noun": "board:chopping",
+   "score": 0.26602
+  },
+  {
+   "segment": [
+    15.0,
+    18.5
+   ],
+   "verb": "put",
+   "noun": "board:chopping",
+   "score": 0.25201
+  },
+  {
+   "segment": [
+    15.0,
+    16.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.225931
+  },
+  {
+   "segment": [
+    15.0,
+    21.0
+   ],
+   "verb": "insert",
+   "noun": "board:chopping",
+   "score": 0.221256
+  },
+  {
+   "segment": [
+    15.0,
+    17.0
+   ],
+   "verb": "put",
+   "noun": "board:chopping",
+   "score": 0.211495
+  },
+  {
+   "segment": [
+    15.0,
+    18.5
+   ],
+   "verb": "insert",
+   "noun": "board:chopping",
+   "score": 0.205131
+  },
+  {
+   "segment": [
+    15.0,
+    21.0
+   ],
+   "verb": "move",
+   "noun": "board:chopping",
+   "score": 0.201831
+  },
+  {
+   "segment": [
+    15.0,
+    18.5
+   ],
+   "verb": "move",
+   "noun": "board:chopping",
+   "score": 0.192935
+  },
+  {
+   "segment": [
+    15.0,
+    17.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.191218
+  },
+  {
+   "segment": [
+    15.0,
+    17.0
+   ],
+   "verb": "insert",
+   "noun": "board:chopping",
+   "score": 0.171405
+  },
+  {
+   "segment": [
+    15.0,
+    16.0
+   ],
+   "verb": "put",
+   "noun": "board:chopping",
+   "score": 0.169805
+  },
+  {
+   "segment": [
+    15.0,
+    16.0
+   ],
+   "verb": "move",
+   "noun": "board:chopping",
+   "score": 0.148284
+  },
+  {
+   "segment": [
+    15.5,
+    16.5
+   ],
+   "verb": "put",
+   "noun": "board:chopping",
+   "score": 0.237553
+  },
+  {
+   "segment": [
+    15.5,
+    16.5
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.206868
+  },
+  {
+   "segment": [
+    15.5,
+    16.5
+   ],
+   "verb": "insert",
+   "noun": "board:chopping",
+   "score": 0.191077
+  },
+  {
+   "segment": [
+    16.0,
+    18.0
+   ],
+   "verb": "put",
+   "noun": "board:chopping",
+   "score": 0.26829
+  },
+  {
+   "segment": [
+    16.0,
+    17.0
+   ],
+   "verb": "put",
+   "noun": "board:chopping",
+   "score": 0.250475
+  },
+  {
+   "segment": [
+    16.0,
+    18.0
+   ],
+   "verb": "insert",
+   "noun": "board:chopping",
+   "score": 0.223797
+  },
+  {
+   "segment": [
+    16.0,
+    17.0
+   ],
+   "verb": "insert",
+   "noun": "board:chopping",
+   "score": 0.210274
+  },
+  {
+   "segment": [
+    16.0,
+    18.0
+   ],
+   "verb": "move",
+   "noun": "board:chopping",
+   "score": 0.202787
+  },
+  {
+   "segment": [
+    16.0,
+    17.0
+   ],
+   "verb": "move",
+   "noun": "board:chopping",
+   "score": 0.189179
+  },
+  {
+   "segment": [
+    16.5,
+    20.0
+   ],
+   "verb": "put",
+   "noun": "board:chopping",
+   "score": 0.321275
+  },
+  {
+   "segment": [
+    16.5,
+    20.0
+   ],
+   "verb": "insert",
+   "noun": "board:chopping",
+   "score": 0.26663
+  },
+  {
+   "segment": [
+    16.5,
+    17.5
+   ],
+   "verb": "put",
+   "noun": "board:chopping",
+   "score": 0.243544
+  },
+  {
+   "segment": [
+    16.5,
+    20.0
+   ],
+   "verb": "move",
+   "noun": "board:chopping",
+   "score": 0.232979
+  },
+  {
+   "segment": [
+    16.5,
+    17.5
+   ],
+   "verb": "insert",
+   "noun": "board:chopping",
+   "score": 0.210726
+  },
+  {
+   "segment": [
+    16.5,
+    17.5
+   ],
+   "verb": "move",
+   "noun": "board:chopping",
+   "score": 0.183979
+  },
+  {
+   "segment": [
+    17.0,
+    19.0
+   ],
+   "verb": "put",
+   "noun": "board:chopping",
+   "score": 0.334037
+  },
+  {
+   "segment": [
+    17.0,
+    18.0
+   ],
+   "verb": "put",
+   "noun": "board:chopping",
+   "score": 0.283861
+  },
+  {
+   "segment": [
+    17.0,
+    19.0
+   ],
+   "verb": "insert",
+   "noun": "board:chopping",
+   "score": 0.266527
+  },
+  {
+   "segment": [
+    17.0,
+    18.0
+   ],
+   "verb": "insert",
+   "noun": "board:chopping",
+   "score": 0.235169
+  },
+  {
+   "segment": [
+    17.0,
+    19.0
+   ],
+   "verb": "move",
+   "noun": "board:chopping",
+   "score": 0.235033
+  },
+  {
+   "segment": [
+    17.0,
+    18.0
+   ],
+   "verb": "move",
+   "noun": "board:chopping",
+   "score": 0.214729
+  },
+  {
+   "segment": [
+    17.5,
+    18.5
+   ],
+   "verb": "put",
+   "noun": "board:chopping",
+   "score": 0.336862
+  },
+  {
+   "segment": [
+    17.5,
+    18.5
+   ],
+   "verb": "insert",
+   "noun": "board:chopping",
+   "score": 0.272694
+  },
+  {
+   "segment": [
+    17.5,
+    18.5
+   ],
+   "verb": "move",
+   "noun": "board:chopping",
+   "score": 0.240792
+  },
+  {
+   "segment": [
+    18.0,
+    19.0
+   ],
+   "verb": "put",
+   "noun": "board:chopping",
+   "score": 0.375532
+  },
+  {
+   "segment": [
+    18.0,
+    20.0
+   ],
+   "verb": "put",
+   "noun": "board:chopping",
+   "score": 0.355634
+  },
+  {
+   "segment": [
+    18.0,
+    19.0
+   ],
+   "verb": "insert",
+   "noun": "board:chopping",
+   "score": 0.293192
+  },
+  {
+   "segment": [
+    18.0,
+    20.0
+   ],
+   "verb": "insert",
+   "noun": "board:chopping",
+   "score": 0.292586
+  },
+  {
+   "segment": [
+    18.0,
+    21.5
+   ],
+   "verb": "put",
+   "noun": "board:chopping",
+   "score": 0.27786
+  },
+  {
+   "segment": [
+    18.0,
+    20.0
+   ],
+   "verb": "move",
+   "noun": "board:chopping",
+   "score": 0.254649
+  },
+  {
+   "segment": [
+    18.0,
+    19.0
+   ],
+   "verb": "move",
+   "noun": "board:chopping",
+   "score": 0.252762
+  },
+  {
+   "segment": [
+    18.0,
+    21.5
+   ],
+   "verb": "insert",
+   "noun": "board:chopping",
+   "score": 0.233726
+  },
+  {
+   "segment": [
+    18.0,
+    21.5
+   ],
+   "verb": "move",
+   "noun": "board:chopping",
+   "score": 0.205941
+  },
+  {
+   "segment": [
+    18.0,
+    24.0
+   ],
+   "verb": "put",
+   "noun": "board:chopping",
+   "score": 0.203999
+  },
+  {
+   "segment": [
+    18.0,
+    24.0
+   ],
+   "verb": "insert",
+   "noun": "board:chopping",
+   "score": 0.171092
+  },
+  {
+   "segment": [
+    18.0,
+    24.0
+   ],
+   "verb": "move",
+   "noun": "board:chopping",
+   "score": 0.151239
+  },
+  {
+   "segment": [
+    18.5,
+    19.5
+   ],
+   "verb": "put",
+   "noun": "board:chopping",
+   "score": 0.375664
+  },
+  {
+   "segment": [
+    18.5,
+    19.5
+   ],
+   "verb": "insert",
+   "noun": "board:chopping",
+   "score": 0.305374
+  },
+  {
+   "segment": [
+    18.5,
+    19.5
+   ],
+   "verb": "move",
+   "noun": "board:chopping",
+   "score": 0.261503
+  },
+  {
+   "segment": [
+    19.0,
+    20.0
+   ],
+   "verb": "put",
+   "noun": "board:chopping",
+   "score": 0.334786
+  },
+  {
+   "segment": [
+    19.0,
+    20.0
+   ],
+   "verb": "insert",
+   "noun": "board:chopping",
+   "score": 0.291977
+  },
+  {
+   "segment": [
+    19.0,
+    20.0
+   ],
+   "verb": "move",
+   "noun": "board:chopping",
+   "score": 0.256492
+  },
+  {
+   "segment": [
+    19.0,
+    21.0
+   ],
+   "verb": "put",
+   "noun": "board:chopping",
+   "score": 0.249084
+  },
+  {
+   "segment": [
+    19.0,
+    21.0
+   ],
+   "verb": "insert",
+   "noun": "board:chopping",
+   "score": 0.2252
+  },
+  {
+   "segment": [
+    19.0,
+    21.0
+   ],
+   "verb": "move",
+   "noun": "board:chopping",
+   "score": 0.200914
+  },
+  {
+   "segment": [
+    19.5,
+    20.5
+   ],
+   "verb": "put",
+   "noun": "board:chopping",
+   "score": 0.241138
+  },
+  {
+   "segment": [
+    19.5,
+    20.5
+   ],
+   "verb": "insert",
+   "noun": "board:chopping",
+   "score": 0.228171
+  },
+  {
+   "segment": [
+    19.5,
+    20.5
+   ],
+   "verb": "move",
+   "noun": "board:chopping",
+   "score": 0.206285
+  },
+  {
+   "segment": [
+    19.5,
+    23.0
+   ],
+   "verb": "turn-on",
+   "noun": "hob",
+   "score": 0.155996
+  },
+  {
+   "segment": [
+    19.5,
+    23.0
+   ],
+   "verb": "move",
+   "noun": "hob",
+   "score": 0.139021
+  },
+  {
+   "segment": [
+    19.5,
+    23.0
+   ],
+   "verb": "remove",
+   "noun": "rubbish",
+   "score": 0.132051
+  },
+  {
+   "segment": [
+    20.0,
+    22.0
+   ],
+   "verb": "turn-on",
+   "noun": "hob",
+   "score": 0.176606
+  },
+  {
+   "segment": [
+    20.0,
+    22.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.169138
+  },
+  {
+   "segment": [
+    20.0,
+    21.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.162882
+  },
+  {
+   "segment": [
+    20.0,
+    21.0
+   ],
+   "verb": "move",
+   "noun": "hob",
+   "score": 0.158068
+  },
+  {
+   "segment": [
+    20.0,
+    22.0
+   ],
+   "verb": "move",
+   "noun": "hob",
+   "score": 0.155052
+  },
+  {
+   "segment": [
+    20.0,
+    21.0
+   ],
+   "verb": "turn-on",
+   "noun": "hob",
+   "score": 0.153271
+  },
+  {
+   "segment": [
+    20.5,
+    21.5
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.210017
+  },
+  {
+   "segment": [
+    20.5,
+    21.5
+   ],
+   "verb": "turn-on",
+   "noun": "hob",
+   "score": 0.192262
+  },
+  {
+   "segment": [
+    20.5,
+    21.5
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.185471
+  },
+  {
+   "segment": [
+    21.0,
+    27.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.214963
+  },
+  {
+   "segment": [
+    21.0,
+    22.0
+   ],
+   "verb": "turn-on",
+   "noun": "hob",
+   "score": 0.196782
+  },
+  {
+   "segment": [
+    21.0,
+    22.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.188342
+  },
+  {
+   "segment": [
+    21.0,
+    22.0
+   ],
+   "verb": "take",
+   "noun": "hob",
+   "score": 0.173167
+  },
+  {
+   "segment": [
+    21.0,
+    23.0
+   ],
+   "verb": "remove",
+   "noun": "rubbish",
+   "score": 0.159827
+  },
+  {
+   "segment": [
+    21.0,
+    23.0
+   ],
+   "verb": "turn-on",
+   "noun": "hob",
+   "score": 0.155585
+  },
+  {
+   "segment": [
+    21.0,
+    27.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.152948
+  },
+  {
+   "segment": [
+    21.0,
+    24.5
+   ],
+   "verb": "remove",
+   "noun": "rubbish",
+   "score": 0.146769
+  },
+  {
+   "segment": [
+    21.0,
+    23.0
+   ],
+   "verb": "take",
+   "noun": "hob",
+   "score": 0.142177
+  },
+  {
+   "segment": [
+    21.0,
+    24.5
+   ],
+   "verb": "wash",
+   "noun": "rubbish",
+   "score": 0.137623
+  },
+  {
+   "segment": [
+    21.0,
+    27.0
+   ],
+   "verb": "put",
+   "noun": "jug",
+   "score": 0.127197
+  },
+  {
+   "segment": [
+    21.0,
+    24.5
+   ],
+   "verb": "put",
+   "noun": "rack:drying",
+   "score": 0.126503
+  },
+  {
+   "segment": [
+    21.5,
+    22.5
+   ],
+   "verb": "turn-on",
+   "noun": "hob",
+   "score": 0.160467
+  },
+  {
+   "segment": [
+    21.5,
+    22.5
+   ],
+   "verb": "remove",
+   "noun": "rubbish",
+   "score": 0.157753
+  },
+  {
+   "segment": [
+    21.5,
+    22.5
+   ],
+   "verb": "take",
+   "noun": "hob",
+   "score": 0.149886
+  },
+  {
+   "segment": [
+    22.0,
+    23.0
+   ],
+   "verb": "remove",
+   "noun": "rubbish",
+   "score": 0.179536
+  },
+  {
+   "segment": [
+    22.0,
+    24.0
+   ],
+   "verb": "wash",
+   "noun": "rubbish",
+   "score": 0.169324
+  },
+  {
+   "segment": [
+    22.0,
+    24.0
+   ],
+   "verb": "remove",
+   "noun": "rubbish",
+   "score": 0.163374
+  },
+  {
+   "segment": [
+    22.0,
+    23.0
+   ],
+   "verb": "wash",
+   "noun": "rubbish",
+   "score": 0.159377
+  },
+  {
+   "segment": [
+    22.0,
+    23.0
+   ],
+   "verb": "throw",
+   "noun": "rubbish",
+   "score": 0.134223
+  },
+  {
+   "segment": [
+    22.0,
+    24.0
+   ],
+   "verb": "put",
+   "noun": "liquid:washing",
+   "score": 0.133598
+  },
+  {
+   "segment": [
+    22.5,
+    26.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.202417
+  },
+  {
+   "segment": [
+    22.5,
+    23.5
+   ],
+   "verb": "wash",
+   "noun": "rubbish",
+   "score": 0.180119
+  },
+  {
+   "segment": [
+    22.5,
+    23.5
+   ],
+   "verb": "remove",
+   "noun": "rubbish",
+   "score": 0.164641
+  },
+  {
+   "segment": [
+    22.5,
+    26.0
+   ],
+   "verb": "put",
+   "noun": "rack:drying",
+   "score": 0.145499
+  },
+  {
+   "segment": [
+    22.5,
+    26.0
+   ],
+   "verb": "filter",
+   "noun": "rack:drying",
+   "score": 0.142998
+  },
+  {
+   "segment": [
+    22.5,
+    23.5
+   ],
+   "verb": "put",
+   "noun": "liquid:washing",
+   "score": 0.137245
+  },
+  {
+   "segment": [
+    23.0,
+    25.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.19088
+  },
+  {
+   "segment": [
+    23.0,
+    24.0
+   ],
+   "verb": "put",
+   "noun": "rack:drying",
+   "score": 0.189256
+  },
+  {
+   "segment": [
+    23.0,
+    24.0
+   ],
+   "verb": "filter",
+   "noun": "rack:drying",
+   "score": 0.188266
+  },
+  {
+   "segment": [
+    23.0,
+    25.0
+   ],
+   "verb": "put",
+   "noun": "rack:drying",
+   "score": 0.186438
+  },
+  {
+   "segment": [
+    23.0,
+    25.0
+   ],
+   "verb": "filter",
+   "noun": "rack:drying",
+   "score": 0.182639
+  },
+  {
+   "segment": [
+    23.0,
+    24.0
+   ],
+   "verb": "wash",
+   "noun": "rubbish",
+   "score": 0.177074
+  },
+  {
+   "segment": [
+    23.5,
+    24.5
+   ],
+   "verb": "put",
+   "noun": "rack:drying",
+   "score": 0.223192
+  },
+  {
+   "segment": [
+    23.5,
+    24.5
+   ],
+   "verb": "filter",
+   "noun": "rack:drying",
+   "score": 0.218597
+  },
+  {
+   "segment": [
+    23.5,
+    24.5
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.193625
+  },
+  {
+   "segment": [
+    24.0,
+    30.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.320252
+  },
+  {
+   "segment": [
+    24.0,
+    27.5
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.315016
+  },
+  {
+   "segment": [
+    24.0,
+    26.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.278504
+  },
+  {
+   "segment": [
+    24.0,
+    25.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.274462
+  },
+  {
+   "segment": [
+    24.0,
+    27.5
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.229375
+  },
+  {
+   "segment": [
+    24.0,
+    30.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.228704
+  },
+  {
+   "segment": [
+    24.0,
+    26.0
+   ],
+   "verb": "put",
+   "noun": "jug",
+   "score": 0.197404
+  },
+  {
+   "segment": [
+    24.0,
+    27.5
+   ],
+   "verb": "put",
+   "noun": "cupboard",
+   "score": 0.183957
+  },
+  {
+   "segment": [
+    24.0,
+    26.0
+   ],
+   "verb": "put",
+   "noun": "cupboard",
+   "score": 0.183142
+  },
+  {
+   "segment": [
+    24.0,
+    25.0
+   ],
+   "verb": "put",
+   "noun": "rack:drying",
+   "score": 0.181279
+  },
+  {
+   "segment": [
+    24.0,
+    25.0
+   ],
+   "verb": "put",
+   "noun": "cupboard",
+   "score": 0.175706
+  },
+  {
+   "segment": [
+    24.0,
+    30.0
+   ],
+   "verb": "put",
+   "noun": "cupboard",
+   "score": 0.175212
+  },
+  {
+   "segment": [
+    24.5,
+    25.5
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.304367
+  },
+  {
+   "segment": [
+    24.5,
+    25.5
+   ],
+   "verb": "put",
+   "noun": "jug",
+   "score": 0.204258
+  },
+  {
+   "segment": [
+    24.5,
+    25.5
+   ],
+   "verb": "put",
+   "noun": "cupboard",
+   "score": 0.19746
+  },
+  {
+   "segment": [
+    25.0,
+    27.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.325732
+  },
+  {
+   "segment": [
+    25.0,
+    26.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.28239
+  },
+  {
+   "segment": [
+    25.0,
+    26.0
+   ],
+   "verb": "put",
+   "noun": "jug",
+   "score": 0.260533
+  },
+  {
+   "segment": [
+    25.0,
+    27.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.241002
+  },
+  {
+   "segment": [
+    25.0,
+    27.0
+   ],
+   "verb": "put",
+   "noun": "jug",
+   "score": 0.223116
+  },
+  {
+   "segment": [
+    25.0,
+    26.0
+   ],
+   "verb": "put",
+   "noun": "cup",
+   "score": 0.203112
+  },
+  {
+   "segment": [
+    25.5,
+    26.5
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.314314
+  },
+  {
+   "segment": [
+    25.5,
+    29.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.299199
+  },
+  {
+   "segment": [
+    25.5,
+    26.5
+   ],
+   "verb": "put",
+   "noun": "jug",
+   "score": 0.243691
+  },
+  {
+   "segment": [
+    25.5,
+    26.5
+   ],
+   "verb": "put",
+   "noun": "cup",
+   "score": 0.237868
+  },
+  {
+   "segment": [
+    25.5,
+    29.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.229006
+  },
+  {
+   "segment": [
+    25.5,
+    29.0
+   ],
+   "verb": "put",
+   "noun": "cup",
+   "score": 0.193123
+  },
+  {
+   "segment": [
+    26.0,
+    27.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.361522
+  },
+  {
+   "segment": [
+    26.0,
+    28.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.317195
+  },
+  {
+   "segment": [
+    26.0,
+    27.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.291759
+  },
+  {
+   "segment": [
+    26.0,
+    28.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.258223
+  },
+  {
+   "segment": [
+    26.0,
+    27.0
+   ],
+   "verb": "put",
+   "noun": "cup",
+   "score": 0.223941
+  },
+  {
+   "segment": [
+    26.0,
+    28.0
+   ],
+   "verb": "put",
+   "noun": "cup",
+   "score": 0.194437
+  },
+  {
+   "segment": [
+    26.5,
+    27.5
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.348285
+  },
+  {
+   "segment": [
+    26.5,
+    27.5
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.288192
+  },
+  {
+   "segment": [
+    26.5,
+    27.5
+   ],
+   "verb": "put",
+   "noun": "cup",
+   "score": 0.181638
+  },
+  {
+   "segment": [
+    27.0,
+    33.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.4033
+  },
+  {
+   "segment": [
+    27.0,
+    30.5
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.340147
+  },
+  {
+   "segment": [
+    27.0,
+    33.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.298574
+  },
+  {
+   "segment": [
+    27.0,
+    29.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.277356
+  },
+  {
+   "segment": [
+    27.0,
+    28.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.261926
+  },
+  {
+   "segment": [
+    27.0,
+    30.5
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.248467
+  },
+  {
+   "segment": [
+    27.0,
+    33.0
+   ],
+   "verb": "move",
+   "noun": "cupboard",
+   "score": 0.231788
+  },
+  {
+   "segment": [
+    27.0,
+    28.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.216907
+  },
+  {
+   "segment": [
+    27.0,
+    29.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.207744
+  },
+  {
+   "segment": [
+    27.0,
+    30.5
+   ],
+   "verb": "move",
+   "noun": "cupboard",
+   "score": 0.200785
+  },
+  {
+   "segment": [
+    27.0,
+    28.0
+   ],
+   "verb": "pour",
+   "noun": "liquid:washing",
+   "score": 0.167419
+  },
+  {
+   "segment": [
+    27.0,
+    29.0
+   ],
+   "verb": "put",
+   "noun": "rack:drying",
+   "score": 0.167388
+  },
+  {
+   "segment": [
+    27.5,
+    28.5
+   ],
+   "verb": "put",
+   "noun": "rack:drying",
+   "score": 0.187246
+  },
+  {
+   "segment": [
+    27.5,
+    28.5
+   ],
+   "verb": "put",
+   "noun": "sponge",
+   "score": 0.184709
+  },
+  {
+   "segment": [
+    27.5,
+    28.5
+   ],
+   "verb": "take",
+   "noun": "sponge",
+   "score": 0.179276
+  },
+  {
+   "segment": [
+    28.0,
+    30.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.350677
+  },
+  {
+   "segment": [
+    28.0,
+    29.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.290944
+  },
+  {
+   "segment": [
+    28.0,
+    30.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.243953
+  },
+  {
+   "segment": [
+    28.0,
+    29.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.198534
+  },
+  {
+   "segment": [
+    28.0,
+    30.0
+   ],
+   "verb": "move",
+   "noun": "cupboard",
+   "score": 0.196529
+  },
+  {
+   "segment": [
+    28.0,
+    29.0
+   ],
+   "verb": "put",
+   "noun": "rack:drying",
+   "score": 0.180163
+  },
+  {
+   "segment": [
+    28.5,
+    32.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.406974
+  },
+  {
+   "segment": [
+    28.5,
+    29.5
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.358455
+  },
+  {
+   "segment": [
+    28.5,
+    32.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.29493
+  },
+  {
+   "segment": [
+    28.5,
+    32.0
+   ],
+   "verb": "move",
+   "noun": "cupboard",
+   "score": 0.251918
+  },
+  {
+   "segment": [
+    28.5,
+    29.5
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.244967
+  },
+  {
+   "segment": [
+    28.5,
+    29.5
+   ],
+   "verb": "take",
+   "noun": "cupboard",
+   "score": 0.187449
+  },
+  {
+   "segment": [
+    29.0,
+    31.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.387142
+  },
+  {
+   "segment": [
+    29.0,
+    30.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.379768
+  },
+  {
+   "segment": [
+    29.0,
+    31.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.279646
+  },
+  {
+   "segment": [
+    29.0,
+    30.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.266268
+  },
+  {
+   "segment": [
+    29.0,
+    31.0
+   ],
+   "verb": "move",
+   "noun": "cupboard",
+   "score": 0.255221
+  },
+  {
+   "segment": [
+    29.0,
+    30.0
+   ],
+   "verb": "move",
+   "noun": "cupboard",
+   "score": 0.220056
+  },
+  {
+   "segment": [
+    29.5,
+    30.5
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.404822
+  },
+  {
+   "segment": [
+    29.5,
+    30.5
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.294384
+  },
+  {
+   "segment": [
+    29.5,
+    30.5
+   ],
+   "verb": "move",
+   "noun": "cupboard",
+   "score": 0.272558
+  },
+  {
+   "segment": [
+    30.0,
+    33.5
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.455409
+  },
+  {
+   "segment": [
+    30.0,
+    36.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.441519
+  },
+  {
+   "segment": [
+    30.0,
+    32.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.426638
+  },
+  {
+   "segment": [
+    30.0,
+    31.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.393966
+  },
+  {
+   "segment": [
+    30.0,
+    33.5
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.339406
+  },
+  {
+   "segment": [
+    30.0,
+    36.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.321667
+  },
+  {
+   "segment": [
+    30.0,
+    32.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.31802
+  },
+  {
+   "segment": [
+    30.0,
+    31.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.293005
+  },
+  {
+   "segment": [
+    30.0,
+    31.0
+   ],
+   "verb": "move",
+   "noun": "cupboard",
+   "score": 0.288793
+  },
+  {
+   "segment": [
+    30.0,
+    32.0
+   ],
+   "verb": "move",
+   "noun": "cupboard",
+   "score": 0.280651
+  },
+  {
+   "segment": [
+    30.0,
+    33.5
+   ],
+   "verb": "move",
+   "noun": "cupboard",
+   "score": 0.268207
+  },
+  {
+   "segment": [
+    30.0,
+    36.0
+   ],
+   "verb": "move",
+   "noun": "cupboard",
+   "score": 0.245605
+  },
+  {
+   "segment": [
+    30.5,
+    31.5
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.413963
+  },
+  {
+   "segment": [
+    30.5,
+    31.5
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.302724
+  },
+  {
+   "segment": [
+    30.5,
+    31.5
+   ],
+   "verb": "move",
+   "noun": "cupboard",
+   "score": 0.287871
+  },
+  {
+   "segment": [
+    31.0,
+    33.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.490795
+  },
+  {
+   "segment": [
+    31.0,
+    32.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.458182
+  },
+  {
+   "segment": [
+    31.0,
+    33.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.368366
+  },
+  {
+   "segment": [
+    31.0,
+    32.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.342129
+  },
+  {
+   "segment": [
+    31.0,
+    32.0
+   ],
+   "verb": "move",
+   "noun": "cupboard",
+   "score": 0.271679
+  },
+  {
+   "segment": [
+    31.0,
+    33.0
+   ],
+   "verb": "move",
+   "noun": "cupboard",
+   "score": 0.260301
+  },
+  {
+   "segment": [
+    31.5,
+    32.5
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.513257
+  },
+  {
+   "segment": [
+    31.5,
+    35.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.4715
+  },
+  {
+   "segment": [
+    31.5,
+    32.5
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.38665
+  },
+  {
+   "segment": [
+    31.5,
+    35.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.341078
+  },
+  {
+   "segment": [
+    31.5,
+    32.5
+   ],
+   "verb": "move",
+   "noun": "cupboard",
+   "score": 0.258502
+  },
+  {
+   "segment": [
+    31.5,
+    35.0
+   ],
+   "verb": "take",
+   "noun": "cupboard",
+   "score": 0.243774
+  },
+  {
+   "segment": [
+    32.0,
+    33.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.522752
+  },
+  {
+   "segment": [
+    32.0,
+    34.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.476379
+  },
+  {
+   "segment": [
+    32.0,
+    33.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.39398
+  },
+  {
+   "segment": [
+    32.0,
+    34.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.34947
+  },
+  {
+   "segment": [
+    32.0,
+    34.0
+   ],
+   "verb": "take",
+   "noun": "cupboard",
+   "score": 0.253138
+  },
+  {
+   "segment": [
+    32.0,
+    33.0
+   ],
+   "verb": "move",
+   "noun": "cupboard",
+   "score": 0.247426
+  },
+  {
+   "segment": [
+    32.5,
+    33.5
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.466162
+  },
+  {
+   "segment": [
+    32.5,
+    33.5
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.345485
+  },
+  {
+   "segment": [
+    32.5,
+    33.5
+   ],
+   "verb": "take",
+   "noun": "cupboard",
+   "score": 0.250602
+  },
+  {
+   "segment": [
+    33.0,
+    35.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.443511
+  },
+  {
+   "segment": [
+    33.0,
+    34.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.429361
+  },
+  {
+   "segment": [
+    33.0,
+    39.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.426393
+  },
+  {
+   "segment": [
+    33.0,
+    36.5
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.413308
+  },
+  {
+   "segment": [
+    33.0,
+    35.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.308855
+  },
+  {
+   "segment": [
+    33.0,
+    34.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.303312
+  },
+  {
+   "segment": [
+    33.0,
+    36.5
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.296301
+  },
+  {
+   "segment": [
+    33.0,
+    39.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.292844
+  },
+  {
+   "segment": [
+    33.0,
+    39.0
+   ],
+   "verb": "search",
+   "noun": "cupboard",
+   "score": 0.266699
+  },
+  {
+   "segment": [
+    33.0,
+    34.0
+   ],
+   "verb": "take",
+   "noun": "cupboard",
+   "score": 0.261821
+  },
+  {
+   "segment": [
+    33.0,
+    36.5
+   ],
+   "verb": "search",
+   "noun": "cupboard",
+   "score": 0.261234
+  },
+  {
+   "segment": [
+    33.0,
+    35.0
+   ],
+   "verb": "take",
+   "noun": "cupboard",
+   "score": 0.248967
+  },
+  {
+   "segment": [
+    33.5,
+    34.5
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.443747
+  },
+  {
+   "segment": [
+    33.5,
+    34.5
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.306462
+  },
+  {
+   "segment": [
+    33.5,
+    34.5
+   ],
+   "verb": "take",
+   "noun": "cupboard",
+   "score": 0.250424
+  },
+  {
+   "segment": [
+    34.0,
+    35.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.454101
+  },
+  {
+   "segment": [
+    34.0,
+    36.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.417679
+  },
+  {
+   "segment": [
+    34.0,
+    35.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.312582
+  },
+  {
+   "segment": [
+    34.0,
+    36.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.295995
+  },
+  {
+   "segment": [
+    34.0,
+    36.0
+   ],
+   "verb": "search",
+   "noun": "cupboard",
+   "score": 0.266346
+  },
+  {
+   "segment": [
+    34.0,
+    35.0
+   ],
+   "verb": "search",
+   "noun": "cupboard",
+   "score": 0.240105
+  },
+  {
+   "segment": [
+    34.5,
+    35.5
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.424751
+  },
+  {
+   "segment": [
+    34.5,
+    38.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.416656
+  },
+  {
+   "segment": [
+    34.5,
+    35.5
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.298637
+  },
+  {
+   "segment": [
+    34.5,
+    38.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.291863
+  },
+  {
+   "segment": [
+    34.5,
+    38.0
+   ],
+   "verb": "search",
+   "noun": "cupboard",
+   "score": 0.274571
+  },
+  {
+   "segment": [
+    34.5,
+    35.5
+   ],
+   "verb": "search",
+   "noun": "cupboard",
+   "score": 0.265656
+  },
+  {
+   "segment": [
+    35.0,
+    37.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.382709
+  },
+  {
+   "segment": [
+    35.0,
+    36.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.380628
+  },
+  {
+   "segment": [
+    35.0,
+    36.0
+   ],
+   "verb": "search",
+   "noun": "cupboard",
+   "score": 0.287497
+  },
+  {
+   "segment": [
+    35.0,
+    37.0
+   ],
+   "verb": "search",
+   "noun": "cupboard",
+   "score": 0.284485
+  },
+  {
+   "segment": [
+    35.0,
+    37.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.284296
+  },
+  {
+   "segment": [
+    35.0,
+    36.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.279395
+  },
+  {
+   "segment": [
+    35.5,
+    36.5
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.35843
+  },
+  {
+   "segment": [
+    35.5,
+    36.5
+   ],
+   "verb": "search",
+   "noun": "cupboard",
+   "score": 0.296393
+  },
+  {
+   "segment": [
+    35.5,
+    36.5
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.274422
+  },
+  {
+   "segment": [
+    36.0,
+    42.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.500363
+  },
+  {
+   "segment": [
+    36.0,
+    39.5
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.441541
+  },
+  {
+   "segment": [
+    36.0,
+    38.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.425929
+  },
+  {
+   "segment": [
+    36.0,
+    37.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.384781
+  },
+  {
+   "segment": [
+    36.0,
+    42.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.340189
+  },
+  {
+   "segment": [
+    36.0,
+    39.5
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.295091
+  },
+  {
+   "segment": [
+    36.0,
+    38.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.293779
+  },
+  {
+   "segment": [
+    36.0,
+    37.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.289183
+  },
+  {
+   "segment": [
+    36.0,
+    37.0
+   ],
+   "verb": "search",
+   "noun": "cupboard",
+   "score": 0.281346
+  },
+  {
+   "segment": [
+    36.0,
+    39.5
+   ],
+   "verb": "search",
+   "noun": "cupboard",
+   "score": 0.273527
+  },
+  {
+   "segment": [
+    36.0,
+    38.0
+   ],
+   "verb": "search",
+   "noun": "cupboard",
+   "score": 0.271991
+  },
+  {
+   "segment": [
+    36.0,
+    42.0
+   ],
+   "verb": "search",
+   "noun": "cupboard",
+   "score": 0.24923
+  },
+  {
+   "segment": [
+    36.5,
+    37.5
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.436486
+  },
+  {
+   "segment": [
+    36.5,
+    37.5
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.3018
+  },
+  {
+   "segment": [
+    36.5,
+    37.5
+   ],
+   "verb": "search",
+   "noun": "cupboard",
+   "score": 0.264336
+  },
+  {
+   "segment": [
+    37.0,
+    38.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.465455
+  },
+  {
+   "segment": [
+    37.0,
+    39.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.450354
+  },
+  {
+   "segment": [
+    37.0,
+    38.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.298283
+  },
+  {
+   "segment": [
+    37.0,
+    39.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.285023
+  },
+  {
+   "segment": [
+    37.0,
+    39.0
+   ],
+   "verb": "search",
+   "noun": "cupboard",
+   "score": 0.274375
+  },
+  {
+   "segment": [
+    37.0,
+    38.0
+   ],
+   "verb": "search",
+   "noun": "cupboard",
+   "score": 0.261304
+  },
+  {
+   "segment": [
+    37.5,
+    41.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.526728
+  },
+  {
+   "segment": [
+    37.5,
+    38.5
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.444052
+  },
+  {
+   "segment": [
+    37.5,
+    41.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.35368
+  },
+  {
+   "segment": [
+    37.5,
+    38.5
+   ],
+   "verb": "search",
+   "noun": "cupboard",
+   "score": 0.276874
+  },
+  {
+   "segment": [
+    37.5,
+    38.5
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.274639
+  },
+  {
+   "segment": [
+    37.5,
+    41.0
+   ],
+   "verb": "search",
+   "noun": "cupboard",
+   "score": 0.247202
+  },
+  {
+   "segment": [
+    38.0,
+    40.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.498706
+  },
+  {
+   "segment": [
+    38.0,
+    39.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.435184
+  },
+  {
+   "segment": [
+    38.0,
+    40.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.328699
+  },
+  {
+   "segment": [
+    38.0,
+    39.0
+   ],
+   "verb": "search",
+   "noun": "cupboard",
+   "score": 0.285244
+  },
+  {
+   "segment": [
+    38.0,
+    39.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.271763
+  },
+  {
+   "segment": [
+    38.0,
+    40.0
+   ],
+   "verb": "search",
+   "noun": "cupboard",
+   "score": 0.261884
+  },
+  {
+   "segment": [
+    38.5,
+    39.5
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.482258
+  },
+  {
+   "segment": [
+    38.5,
+    39.5
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.31612
+  },
+  {
+   "segment": [
+    38.5,
+    39.5
+   ],
+   "verb": "search",
+   "noun": "cupboard",
+   "score": 0.268578
+  },
+  {
+   "segment": [
+    39.0,
+    41.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.586945
+  },
+  {
+   "segment": [
+    39.0,
+    40.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.562204
+  },
+  {
+   "segment": [
+    39.0,
+    42.5
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.546416
+  },
+  {
+   "segment": [
+    39.0,
+    45.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.440001
+  },
+  {
+   "segment": [
+    39.0,
+    41.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.408813
+  },
+  {
+   "segment": [
+    39.0,
+    40.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.38474
+  },
+  {
+   "segment": [
+    39.0,
+    42.5
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.374645
+  },
+  {
+   "segment": [
+    39.0,
+    45.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.307992
+  },
+  {
+   "segment": [
+    39.0,
+    40.0
+   ],
+   "verb": "search",
+   "noun": "cupboard",
+   "score": 0.223723
+  },
+  {
+   "segment": [
+    39.0,
+    41.0
+   ],
+   "verb": "move",
+   "noun": "cupboard",
+   "score": 0.20956
+  },
+  {
+   "segment": [
+    39.0,
+    42.5
+   ],
+   "verb": "move",
+   "noun": "cupboard",
+   "score": 0.209425
+  },
+  {
+   "segment": [
+    39.0,
+    45.0
+   ],
+   "verb": "dry",
+   "noun": "cutlery",
+   "score": 0.184464
+  },
+  {
+   "segment": [
+    39.5,
+    40.5
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.604741
+  },
+  {
+   "segment": [
+    39.5,
+    40.5
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.425641
+  },
+  {
+   "segment": [
+    39.5,
+    40.5
+   ],
+   "verb": "put",
+   "noun": "cupboard",
+   "score": 0.210362
+  },
+  {
+   "segment": [
+    40.0,
+    41.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.611667
+  },
+  {
+   "segment": [
+    40.0,
+    42.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.575446
+  },
+  {
+   "segment": [
+    40.0,
+    41.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.432683
+  },
+  {
+   "segment": [
+    40.0,
+    42.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.397632
+  },
+  {
+   "segment": [
+    40.0,
+    42.0
+   ],
+   "verb": "move",
+   "noun": "cupboard",
+   "score": 0.215744
+  },
+  {
+   "segment": [
+    40.0,
+    41.0
+   ],
+   "verb": "move",
+   "noun": "cupboard",
+   "score": 0.209091
+  },
+  {
+   "segment": [
+    40.5,
+    41.5
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.613391
+  },
+  {
+   "segment": [
+    40.5,
+    41.5
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.422201
+  },
+  {
+   "segment": [
+    40.5,
+    44.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.404763
+  },
+  {
+   "segment": [
+    40.5,
+    44.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.273587
+  },
+  {
+   "segment": [
+    40.5,
+    41.5
+   ],
+   "verb": "move",
+   "noun": "cupboard",
+   "score": 0.225897
+  },
+  {
+   "segment": [
+    40.5,
+    44.0
+   ],
+   "verb": "dry",
+   "noun": "cutlery",
+   "score": 0.215672
+  },
+  {
+   "segment": [
+    41.0,
+    42.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.538424
+  },
+  {
+   "segment": [
+    41.0,
+    43.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.431838
+  },
+  {
+   "segment": [
+    41.0,
+    42.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.360955
+  },
+  {
+   "segment": [
+    41.0,
+    43.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.286548
+  },
+  {
+   "segment": [
+    41.0,
+    43.0
+   ],
+   "verb": "dry",
+   "noun": "cutlery",
+   "score": 0.223369
+  },
+  {
+   "segment": [
+    41.0,
+    42.0
+   ],
+   "verb": "move",
+   "noun": "cupboard",
+   "score": 0.221729
+  },
+  {
+   "segment": [
+    41.5,
+    42.5
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.417697
+  },
+  {
+   "segment": [
+    41.5,
+    42.5
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.272329
+  },
+  {
+   "segment": [
+    41.5,
+    42.5
+   ],
+   "verb": "dry",
+   "noun": "cutlery",
+   "score": 0.226934
+  },
+  {
+   "segment": [
+    42.0,
+    43.0
+   ],
+   "verb": "dry",
+   "noun": "cutlery",
+   "score": 0.285709
+  },
+  {
+   "segment": [
+    42.0,
+    44.0
+   ],
+   "verb": "dry",
+   "noun": "cutlery",
+   "score": 0.268601
+  },
+  {
+   "segment": [
+    42.0,
+    43.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.254539
+  },
+  {
+   "segment": [
+    42.0,
+    45.5
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.245768
+  },
+  {
+   "segment": [
+    42.0,
+    45.5
+   ],
+   "verb": "dry",
+   "noun": "cutlery",
+   "score": 0.237916
+  },
+  {
+   "segment": [
+    42.0,
+    48.0
+   ],
+   "verb": "dry",
+   "noun": "cutlery",
+   "score": 0.213136
+  },
+  {
+   "segment": [
+    42.0,
+    44.0
+   ],
+   "verb": "put",
+   "noun": "cutlery",
+   "score": 0.207001
+  },
+  {
+   "segment": [
+    42.0,
+    45.5
+   ],
+   "verb": "put",
+   "noun": "cutlery",
+   "score": 0.205089
+  },
+  {
+   "segment": [
+    42.0,
+    48.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.195491
+  },
+  {
+   "segment": [
+    42.0,
+    43.0
+   ],
+   "verb": "put",
+   "noun": "cutlery",
+   "score": 0.188671
+  },
+  {
+   "segment": [
+    42.0,
+    44.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.183779
+  },
+  {
+   "segment": [
+    42.0,
+    48.0
+   ],
+   "verb": "put",
+   "noun": "cutlery",
+   "score": 0.183281
+  },
+  {
+   "segment": [
+    42.5,
+    43.5
+   ],
+   "verb": "dry",
+   "noun": "cutlery",
+   "score": 0.278034
+  },
+  {
+   "segment": [
+    42.5,
+    43.5
+   ],
+   "verb": "put",
+   "noun": "cutlery",
+   "score": 0.205531
+  },
+  {
+   "segment": [
+    42.5,
+    43.5
+   ],
+   "verb": "put",
+   "noun": "scissors",
+   "score": 0.18293
+  },
+  {
+   "segment": [
+    43.0,
+    44.0
+   ],
+   "verb": "dry",
+   "noun": "cutlery",
+   "score": 0.251249
+  },
+  {
+   "segment": [
+    43.0,
+    45.0
+   ],
+   "verb": "dry",
+   "noun": "cutlery",
+   "score": 0.229343
+  },
+  {
+   "segment": [
+    43.0,
+    45.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.227229
+  },
+  {
+   "segment": [
+    43.0,
+    44.0
+   ],
+   "verb": "put",
+   "noun": "cutlery",
+   "score": 0.22255
+  },
+  {
+   "segment": [
+    43.0,
+    45.0
+   ],
+   "verb": "put",
+   "noun": "cutlery",
+   "score": 0.217038
+  },
+  {
+   "segment": [
+    43.0,
+    44.0
+   ],
+   "verb": "put",
+   "noun": "scissors",
+   "score": 0.199029
+  },
+  {
+   "segment": [
+    43.5,
+    44.5
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.228226
+  },
+  {
+   "segment": [
+    43.5,
+    47.0
+   ],
+   "verb": "dry",
+   "noun": "cutlery",
+   "score": 0.220816
+  },
+  {
+   "segment": [
+    43.5,
+    44.5
+   ],
+   "verb": "dry",
+   "noun": "cutlery",
+   "score": 0.220416
+  },
+  {
+   "segment": [
+    43.5,
+    47.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.219599
+  },
+  {
+   "segment": [
+    43.5,
+    44.5
+   ],
+   "verb": "put",
+   "noun": "cutlery",
+   "score": 0.215589
+  },
+  {
+   "segment": [
+    43.5,
+    47.0
+   ],
+   "verb": "put",
+   "noun": "cutlery",
+   "score": 0.204175
+  },
+  {
+   "segment": [
+    44.0,
+    45.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.301087
+  },
+  {
+   "segment": [
+    44.0,
+    46.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.27028
+  },
+  {
+   "segment": [
+    44.0,
+    45.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.25237
+  },
+  {
+   "segment": [
+    44.0,
+    46.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.226265
+  },
+  {
+   "segment": [
+    44.0,
+    46.0
+   ],
+   "verb": "dry",
+   "noun": "cutlery",
+   "score": 0.219395
+  },
+  {
+   "segment": [
+    44.0,
+    45.0
+   ],
+   "verb": "put",
+   "noun": "cutlery",
+   "score": 0.210833
+  },
+  {
+   "segment": [
+    44.5,
+    45.5
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.296918
+  },
+  {
+   "segment": [
+    44.5,
+    45.5
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.249704
+  },
+  {
+   "segment": [
+    44.5,
+    45.5
+   ],
+   "verb": "dry",
+   "noun": "cutlery",
+   "score": 0.209092
+  },
+  {
+   "segment": [
+    45.0,
+    46.0
+   ],
+   "verb": "dry",
+   "noun": "cutlery",
+   "score": 0.23137
+  },
+  {
+   "segment": [
+    45.0,
+    46.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.228962
+  },
+  {
+   "segment": [
+    45.0,
+    46.0
+   ],
+   "verb": "put",
+   "noun": "cutlery",
+   "score": 0.215922
+  },
+  {
+   "segment": [
+    45.0,
+    47.0
+   ],
+   "verb": "dry",
+   "noun": "cutlery",
+   "score": 0.214071
+  },
+  {
+   "segment": [
+    45.0,
+    47.0
+   ],
+   "verb": "put",
+   "noun": "cutlery",
+   "score": 0.187866
+  },
+  {
+   "segment": [
+    45.0,
+    47.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.178727
+  },
+  {
+   "segment": [
+    45.0,
+    51.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.171336
+  },
+  {
+   "segment": [
+    45.0,
+    51.0
+   ],
+   "verb": "move",
+   "noun": "chair",
+   "score": 0.16186
+  },
+  {
+   "segment": [
+    45.0,
+    48.5
+   ],
+   "verb": "dry",
+   "noun": "cutlery",
+   "score": 0.16112
+  },
+  {
+   "segment": [
+    45.0,
+    48.5
+   ],
+   "verb": "put",
+   "noun": "cutlery",
+   "score": 0.145055
+  },
+  {
+   "segment": [
+    45.0,
+    48.5
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.135874
+  },
+  {
+   "segment": [
+    45.0,
+    51.0
+   ],
+   "verb": "put",
+   "noun": "kettle",
+   "score": 0.120276
+  },
+  {
+   "segment": [
+    45.5,
+    46.5
+   ],
+   "verb": "dry",
+   "noun": "cutlery",
+   "score": 0.235985
+  },
+  {
+   "segment": [
+    45.5,
+    46.5
+   ],
+   "verb": "put",
+   "noun": "cutlery",
+   "score": 0.203365
+  },
+  {
+   "segment": [
+    45.5,
+    46.5
+   ],
+   "verb": "move",
+   "noun": "cutlery",
+   "score": 0.172438
+  },
+  {
+   "segment": [
+    46.0,
+    47.0
+   ],
+   "verb": "dry",
+   "noun": "cutlery",
+   "score": 0.191673
+  },
+  {
+   "segment": [
+    46.0,
+    47.0
+   ],
+   "verb": "dry",
+   "noun": "knife",
+   "score": 0.165299
+  },
+  {
+   "segment": [
+    46.0,
+    47.0
+   ],
+   "verb": "put",
+   "noun": "board:chopping",
+   "score": 0.157045
+  },
+  {
+   "segment": [
+    46.0,
+    48.0
+   ],
+   "verb": "remove",
+   "noun": "rubbish",
+   "score": 0.139932
+  },
+  {
+   "segment": [
+    46.0,
+    48.0
+   ],
+   "verb": "dry",
+   "noun": "cutlery",
+   "score": 0.137845
+  },
+  {
+   "segment": [
+    46.0,
+    48.0
+   ],
+   "verb": "dry",
+   "noun": "knife",
+   "score": 0.124174
+  },
+  {
+   "segment": [
+    46.5,
+    50.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.195406
+  },
+  {
+   "segment": [
+    46.5,
+    47.5
+   ],
+   "verb": "remove",
+   "noun": "rubbish",
+   "score": 0.148946
+  },
+  {
+   "segment": [
+    46.5,
+    47.5
+   ],
+   "verb": "put",
+   "noun": "board:chopping",
+   "score": 0.142874
+  },
+  {
+   "segment": [
+    46.5,
+    50.0
+   ],
+   "verb": "put",
+   "noun": "kettle",
+   "score": 0.142202
+  },
+  {
+   "segment": [
+    46.5,
+    47.5
+   ],
+   "verb": "dry",
+   "noun": "cutlery",
+   "score": 0.139655
+  },
+  {
+   "segment": [
+    46.5,
+    50.0
+   ],
+   "verb": "move",
+   "noun": "chair",
+   "score": 0.112086
+  },
+  {
+   "segment": [
+    47.0,
+    49.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.158505
+  },
+  {
+   "segment": [
+    47.0,
+    48.0
+   ],
+   "verb": "remove",
+   "noun": "rubbish",
+   "score": 0.146698
+  },
+  {
+   "segment": [
+    47.0,
+    49.0
+   ],
+   "verb": "put",
+   "noun": "kettle",
+   "score": 0.13391
+  },
+  {
+   "segment": [
+    47.0,
+    48.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.12743
+  },
+  {
+   "segment": [
+    47.0,
+    49.0
+   ],
+   "verb": "remove",
+   "noun": "rubbish",
+   "score": 0.123343
+  },
+  {
+   "segment": [
+    47.0,
+    48.0
+   ],
+   "verb": "wash",
+   "noun": "rubbish",
+   "score": 0.116977
+  },
+  {
+   "segment": [
+    47.5,
+    48.5
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.159944
+  },
+  {
+   "segment": [
+    47.5,
+    48.5
+   ],
+   "verb": "remove",
+   "noun": "rubbish",
+   "score": 0.137256
+  },
+  {
+   "segment": [
+    47.5,
+    48.5
+   ],
+   "verb": "move",
+   "noun": "cutlery",
+   "score": 0.126002
+  },
+  {
+   "segment": [
+    48.0,
+    50.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.223087
+  },
+  {
+   "segment": [
+    48.0,
+    54.0
+   ],
+   "verb": "move",
+   "noun": "chair",
+   "score": 0.216197
+  },
+  {
+   "segment": [
+    48.0,
+    51.5
+   ],
+   "verb": "move",
+   "noun": "chair",
+   "score": 0.2074
+  },
+  {
+   "segment": [
+    48.0,
+    51.5
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.187189
+  },
+  {
+   "segment": [
+    48.0,
+    49.0
+   ],
+   "verb": "put",
+   "noun": "kettle",
+   "score": 0.184274
+  },
+  {
+   "segment": [
+    48.0,
+    49.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.183484
+  },
+  {
+   "segment": [
+    48.0,
+    50.0
+   ],
+   "verb": "put",
+   "noun": "kettle",
+   "score": 0.174799
+  },
+  {
+   "segment": [
+    48.0,
+    54.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.145363
+  },
+  {
+   "segment": [
+    48.0,
+    49.0
+   ],
+   "verb": "take",
+   "noun": "kettle",
+   "score": 0.144732
+  },
+  {
+   "segment": [
+    48.0,
+    50.0
+   ],
+   "verb": "move",
+   "noun": "chair",
+   "score": 0.139122
+  },
+  {
+   "segment": [
+    48.0,
+    51.5
+   ],
+   "verb": "put",
+   "noun": "kettle",
+   "score": 0.131522
+  },
+  {
+   "segment": [
+    48.0,
+    54.0
+   ],
+   "verb": "unroll",
+   "noun": "cloth",
+   "score": 0.113922
+  },
+  {
+   "segment": [
+    48.5,
+    49.5
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.233911
+  },
+  {
+   "segment": [
+    48.5,
+    49.5
+   ],
+   "verb": "put",
+   "noun": "kettle",
+   "score": 0.200591
+  },
+  {
+   "segment": [
+    48.5,
+    49.5
+   ],
+   "verb": "take",
+   "noun": "kettle",
+   "score": 0.156902
+  },
+  {
+   "segment": [
+    49.0,
+    50.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.25469
+  },
+  {
+   "segment": [
+    49.0,
+    51.0
+   ],
+   "verb": "move",
+   "noun": "chair",
+   "score": 0.251902
+  },
+  {
+   "segment": [
+    49.0,
+    51.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.209247
+  },
+  {
+   "segment": [
+    49.0,
+    50.0
+   ],
+   "verb": "move",
+   "noun": "chair",
+   "score": 0.193565
+  },
+  {
+   "segment": [
+    49.0,
+    50.0
+   ],
+   "verb": "put",
+   "noun": "kettle",
+   "score": 0.165213
+  },
+  {
+   "segment": [
+    49.0,
+    51.0
+   ],
+   "verb": "put",
+   "noun": "kettle",
+   "score": 0.116669
+  },
+  {
+   "segment": [
+    49.5,
+    50.5
+   ],
+   "verb": "move",
+   "noun": "chair",
+   "score": 0.268599
+  },
+  {
+   "segment": [
+    49.5,
+    53.0
+   ],
+   "verb": "move",
+   "noun": "chair",
+   "score": 0.263233
+  },
+  {
+   "segment": [
+    49.5,
+    50.5
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.229124
+  },
+  {
+   "segment": [
+    49.5,
+    53.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.12621
+  },
+  {
+   "segment": [
+    49.5,
+    53.0
+   ],
+   "verb": "put",
+   "noun": "cloth",
+   "score": 0.095547
+  },
+  {
+   "segment": [
+    49.5,
+    50.5
+   ],
+   "verb": "take",
+   "noun": "mat",
+   "score": 0.092913
+  },
+  {
+   "segment": [
+    50.0,
+    51.0
+   ],
+   "verb": "move",
+   "noun": "chair",
+   "score": 0.297768
+  },
+  {
+   "segment": [
+    50.0,
+    52.0
+   ],
+   "verb": "move",
+   "noun": "chair",
+   "score": 0.26452
+  },
+  {
+   "segment": [
+    50.0,
+    51.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.152614
+  },
+  {
+   "segment": [
+    50.0,
+    51.0
+   ],
+   "verb": "take",
+   "noun": "bag",
+   "score": 0.117129
+  },
+  {
+   "segment": [
+    50.0,
+    52.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.111337
+  },
+  {
+   "segment": [
+    50.0,
+    52.0
+   ],
+   "verb": "take",
+   "noun": "bag",
+   "score": 0.10374
+  },
+  {
+   "segment": [
+    50.5,
+    51.5
+   ],
+   "verb": "move",
+   "noun": "chair",
+   "score": 0.270041
+  },
+  {
+   "segment": [
+    50.5,
+    51.5
+   ],
+   "verb": "take",
+   "noun": "bag",
+   "score": 0.119295
+  },
+  {
+   "segment": [
+    50.5,
+    51.5
+   ],
+   "verb": "throw",
+   "noun": "bag",
+   "score": 0.116518
+  },
+  {
+   "segment": [
+    51.0,
+    53.0
+   ],
+   "verb": "move",
+   "noun": "chair",
+   "score": 0.243185
+  },
+  {
+   "segment": [
+    51.0,
+    52.0
+   ],
+   "verb": "move",
+   "noun": "chair",
+   "score": 0.223406
+  },
+  {
+   "segment": [
+    51.0,
+    54.5
+   ],
+   "verb": "move",
+   "noun": "chair",
+   "score": 0.218191
+  },
+  {
+   "segment": [
+    51.0,
+    57.0
+   ],
+   "verb": "move",
+   "noun": "chair",
+   "score": 0.190519
+  },
+  {
+   "segment": [
+    51.0,
+    54.5
+   ],
+   "verb": "unroll",
+   "noun": "cloth",
+   "score": 0.17404
+  },
+  {
+   "segment": [
+    51.0,
+    57.0
+   ],
+   "verb": "unroll",
+   "noun": "cloth",
+   "score": 0.158835
+  },
+  {
+   "segment": [
+    51.0,
+    54.5
+   ],
+   "verb": "unroll",
+   "noun": "paper",
+   "score": 0.155355
+  },
+  {
+   "segment": [
+    51.0,
+    57.0
+   ],
+   "verb": "put",
+   "noun": "cloth",
+   "score": 0.150088
+  },
+  {
+   "segment": [
+    51.0,
+    52.0
+   ],
+   "verb": "move",
+   "noun": "cover",
+   "score": 0.127952
+  },
+  {
+   "segment": [
+    51.0,
+    53.0
+   ],
+   "verb": "put",
+   "noun": "cloth",
+   "score": 0.118952
+  },
+  {
+   "segment": [
+    51.0,
+    52.0
+   ],
+   "verb": "put",
+   "noun": "cover",
+   "score": 0.11645
+  },
+  {
+   "segment": [
+    51.0,
+    53.0
+   ],
+   "verb": "move",
+   "noun": "cover",
+   "score": 0.10655
+  },
+  {
+   "segment": [
+    51.5,
+    52.5
+   ],
+   "verb": "move",
+   "noun": "chair",
+   "score": 0.252367
+  },
+  {
+   "segment": [
+    51.5,
+    52.5
+   ],
+   "verb": "move",
+   "noun": "cover",
+   "score": 0.118009
+  },
+  {
+   "segment": [
+    51.5,
+    52.5
+   ],
+   "verb": "put",
+   "noun": "cloth",
+   "score": 0.11143
+  },
+  {
+   "segment": [
+    52.0,
+    53.0
+   ],
+   "verb": "move",
+   "noun": "chair",
+   "score": 0.259732
+  },
+  {
+   "segment": [
+    52.0,
+    54.0
+   ],
+   "verb": "move",
+   "noun": "chair",
+   "score": 0.224255
+  },
+  {
+   "segment": [
+    52.0,
+    54.0
+   ],
+   "verb": "unroll",
+   "noun": "cloth",
+   "score": 0.195401
+  },
+  {
+   "segment": [
+    52.0,
+    54.0
+   ],
+   "verb": "unroll",
+   "noun": "paper",
+   "score": 0.162923
+  },
+  {
+   "segment": [
+    52.0,
+    53.0
+   ],
+   "verb": "put",
+   "noun": "cloth",
+   "score": 0.125361
+  },
+  {
+   "segment": [
+    52.0,
+    53.0
+   ],
+   "verb": "take",
+   "noun": "floor",
+   "score": 0.109126
+  },
+  {
+   "segment": [
+    52.5,
+    53.5
+   ],
+   "verb": "move",
+   "noun": "chair",
+   "score": 0.244467
+  },
+  {
+   "segment": [
+    52.5,
+    56.0
+   ],
+   "verb": "unroll",
+   "noun": "cloth",
+   "score": 0.194354
+  },
+  {
+   "segment": [
+    52.5,
+    56.0
+   ],
+   "verb": "move",
+   "noun": "chair",
+   "score": 0.187841
+  },
+  {
+   "segment": [
+    52.5,
+    53.5
+   ],
+   "verb": "unroll",
+   "noun": "cloth",
+   "score": 0.187763
+  },
+  {
+   "segment": [
+    52.5,
+    56.0
+   ],
+   "verb": "unroll",
+   "noun": "paper",
+   "score": 0.179647
+  },
+  {
+   "segment": [
+    52.5,
+    53.5
+   ],
+   "verb": "put",
+   "noun": "cloth",
+   "score": 0.147506
+  },
+  {
+   "segment": [
+    53.0,
+    54.0
+   ],
+   "verb": "unroll",
+   "noun": "cloth",
+   "score": 0.265537
+  },
+  {
+   "segment": [
+    53.0,
+    54.0
+   ],
+   "verb": "unroll",
+   "noun": "paper",
+   "score": 0.235149
+  },
+  {
+   "segment": [
+    53.0,
+    55.0
+   ],
+   "verb": "unroll",
+   "noun": "cloth",
+   "score": 0.231987
+  },
+  {
+   "segment": [
+    53.0,
+    55.0
+   ],
+   "verb": "unroll",
+   "noun": "paper",
+   "score": 0.226127
+  },
+  {
+   "segment": [
+    53.0,
+    55.0
+   ],
+   "verb": "move",
+   "noun": "chair",
+   "score": 0.173466
+  },
+  {
+   "segment": [
+    53.0,
+    54.0
+   ],
+   "verb": "unroll",
+   "noun": "clothes",
+   "score": 0.169772
+  },
+  {
+   "segment": [
+    53.5,
+    54.5
+   ],
+   "verb": "unroll",
+   "noun": "cloth",
+   "score": 0.268681
+  },
+  {
+   "segment": [
+    53.5,
+    54.5
+   ],
+   "verb": "unroll",
+   "noun": "paper",
+   "score": 0.267898
+  },
+  {
+   "segment": [
+    53.5,
+    54.5
+   ],
+   "verb": "unroll",
+   "noun": "clothes",
+   "score": 0.183172
+  },
+  {
+   "segment": [
+    54.0,
+    55.0
+   ],
+   "verb": "unroll",
+   "noun": "paper",
+   "score": 0.216919
+  },
+  {
+   "segment": [
+    54.0,
+    60.0
+   ],
+   "verb": "put",
+   "noun": "cloth",
+   "score": 0.208789
+  },
+  {
+   "segment": [
+    54.0,
+    60.0
+   ],
+   "verb": "squeeze",
+   "noun": "cloth",
+   "score": 0.198183
+  },
+  {
+   "segment": [
+    54.0,
+    55.0
+   ],
+   "verb": "unroll",
+   "noun": "cloth",
+   "score": 0.19698
+  },
+  {
+   "segment": [
+    54.0,
+    57.5
+   ],
+   "verb": "put",
+   "noun": "cloth",
+   "score": 0.181998
+  },
+  {
+   "segment": [
+    54.0,
+    55.0
+   ],
+   "verb": "move",
+   "noun": "chair",
+   "score": 0.177121
+  },
+  {
+   "segment": [
+    54.0,
+    56.0
+   ],
+   "verb": "unroll",
+   "noun": "paper",
+   "score": 0.169833
+  },
+  {
+   "segment": [
+    54.0,
+    56.0
+   ],
+   "verb": "move",
+   "noun": "chair",
+   "score": 0.168604
+  },
+  {
+   "segment": [
+    54.0,
+    56.0
+   ],
+   "verb": "unroll",
+   "noun": "cloth",
+   "score": 0.162597
+  },
+  {
+   "segment": [
+    54.0,
+    60.0
+   ],
+   "verb": "unroll",
+   "noun": "cloth",
+   "score": 0.155305
+  },
+  {
+   "segment": [
+    54.0,
+    57.5
+   ],
+   "verb": "unroll",
+   "noun": "cloth",
+   "score": 0.150778
+  },
+  {
+   "segment": [
+    54.0,
+    57.5
+   ],
+   "verb": "unroll",
+   "noun": "paper",
+   "score": 0.139168
+  },
+  {
+   "segment": [
+    54.5,
+    55.5
+   ],
+   "verb": "move",
+   "noun": "chair",
+   "score": 0.183959
+  },
+  {
+   "segment": [
+    54.5,
+    55.5
+   ],
+   "verb": "unroll",
+   "noun": "paper",
+   "score": 0.134505
+  },
+  {
+   "segment": [
+    54.5,
+    55.5
+   ],
+   "verb": "unroll",
+   "noun": "cloth",
+   "score": 0.11747
+  },
+  {
+   "segment": [
+    55.0,
+    57.0
+   ],
+   "verb": "put",
+   "noun": "cloth",
+   "score": 0.197127
+  },
+  {
+   "segment": [
+    55.0,
+    56.0
+   ],
+   "verb": "move",
+   "noun": "chair",
+   "score": 0.151342
+  },
+  {
+   "segment": [
+    55.0,
+    57.0
+   ],
+   "verb": "take",
+   "noun": "cloth",
+   "score": 0.12731
+  },
+  {
+   "segment": [
+    55.0,
+    56.0
+   ],
+   "verb": "put",
+   "noun": "sponge",
+   "score": 0.123477
+  },
+  {
+   "segment": [
+    55.0,
+    56.0
+   ],
+   "verb": "spray",
+   "noun": "liquid:washing",
+   "score": 0.119255
+  },
+  {
+   "segment": [
+    55.0,
+    57.0
+   ],
+   "verb": "unroll",
+   "noun": "cloth",
+   "score": 0.116361
+  },
+  {
+   "segment": [
+    55.5,
+    59.0
+   ],
+   "verb": "put",
+   "noun": "cloth",
+   "score": 0.240247
+  },
+  {
+   "segment": [
+    55.5,
+    56.5
+   ],
+   "verb": "put",
+   "noun": "cloth",
+   "score": 0.203343
+  },
+  {
+   "segment": [
+    55.5,
+    59.0
+   ],
+   "verb": "squeeze",
+   "noun": "cloth",
+   "score": 0.201899
+  },
+  {
+   "segment": [
+    55.5,
+    59.0
+   ],
+   "verb": "take",
+   "noun": "cloth",
+   "score": 0.157525
+  },
+  {
+   "segment": [
+    55.5,
+    56.5
+   ],
+   "verb": "take",
+   "noun": "cloth",
+   "score": 0.129419
+  },
+  {
+   "segment": [
+    55.5,
+    56.5
+   ],
+   "verb": "unroll",
+   "noun": "cloth",
+   "score": 0.128942
+  },
+  {
+   "segment": [
+    56.0,
+    57.0
+   ],
+   "verb": "put",
+   "noun": "cloth",
+   "score": 0.250103
+  },
+  {
+   "segment": [
+    56.0,
+    58.0
+   ],
+   "verb": "put",
+   "noun": "cloth",
+   "score": 0.245297
+  },
+  {
+   "segment": [
+    56.0,
+    57.0
+   ],
+   "verb": "take",
+   "noun": "cloth",
+   "score": 0.153222
+  },
+  {
+   "segment": [
+    56.0,
+    58.0
+   ],
+   "verb": "squeeze",
+   "noun": "cloth",
+   "score": 0.149785
+  },
+  {
+   "segment": [
+    56.0,
+    58.0
+   ],
+   "verb": "take",
+   "noun": "cloth",
+   "score": 0.148214
+  },
+  {
+   "segment": [
+    56.0,
+    57.0
+   ],
+   "verb": "squeeze",
+   "noun": "cloth",
+   "score": 0.144955
+  },
+  {
+   "segment": [
+    56.5,
+    57.5
+   ],
+   "verb": "put",
+   "noun": "cloth",
+   "score": 0.262097
+  },
+  {
+   "segment": [
+    56.5,
+    57.5
+   ],
+   "verb": "take",
+   "noun": "cloth",
+   "score": 0.158387
+  },
+  {
+   "segment": [
+    56.5,
+    57.5
+   ],
+   "verb": "open",
+   "noun": "bag",
+   "score": 0.154259
+  },
+  {
+   "segment": [
+    57.0,
+    60.5
+   ],
+   "verb": "squeeze",
+   "noun": "cloth",
+   "score": 0.279029
+  },
+  {
+   "segment": [
+    57.0,
+    59.0
+   ],
+   "verb": "put",
+   "noun": "cloth",
+   "score": 0.253096
+  },
+  {
+   "segment": [
+    57.0,
+    63.0
+   ],
+   "verb": "squeeze",
+   "noun": "cloth",
+   "score": 0.250511
+  },
+  {
+   "segment": [
+    57.0,
+    59.0
+   ],
+   "verb": "squeeze",
+   "noun": "cloth",
+   "score": 0.24675
+  },
+  {
+   "segment": [
+    57.0,
+    60.5
+   ],
+   "verb": "put",
+   "noun": "cloth",
+   "score": 0.24661
+  },
+  {
+   "segment": [
+    57.0,
+    58.0
+   ],
+   "verb": "put",
+   "noun": "cloth",
+   "score": 0.237178
+  },
+  {
+   "segment": [
+    57.0,
+    63.0
+   ],
+   "verb": "put",
+   "noun": "cloth",
+   "score": 0.234437
+  },
+  {
+   "segment": [
+    57.0,
+    58.0
+   ],
+   "verb": "open",
+   "noun": "bag",
+   "score": 0.185064
+  },
+  {
+   "segment": [
+    57.0,
+    60.5
+   ],
+   "verb": "take",
+   "noun": "cloth",
+   "score": 0.172331
+  },
+  {
+   "segment": [
+    57.0,
+    59.0
+   ],
+   "verb": "take",
+   "noun": "cloth",
+   "score": 0.170965
+  },
+  {
+   "segment": [
+    57.0,
+    58.0
+   ],
+   "verb": "wrap",
+   "noun": "bag",
+   "score": 0.170143
+  },
+  {
+   "segment": [
+    57.0,
+    63.0
+   ],
+   "verb": "take",
+   "noun": "cloth",
+   "score": 0.155377
+  },
+  {
+   "segment": [
+    57.5,
+    58.5
+   ],
+   "verb": "squeeze",
+   "noun": "cloth",
+   "score": 0.226191
+  },
+  {
+   "segment": [
+    57.5,
+    58.5
+   ],
+   "verb": "put",
+   "noun": "cloth",
+   "score": 0.224311
+  },
+  {
+   "segment": [
+    57.5,
+    58.5
+   ],
+   "verb": "open",
+   "noun": "bag",
+   "score": 0.165492
+  },
+  {
+   "segment": [
+    58.0,
+    60.0
+   ],
+   "verb": "squeeze",
+   "noun": "cloth",
+   "score": 0.316841
+  },
+  {
+   "segment": [
+    58.0,
+    59.0
+   ],
+   "verb": "squeeze",
+   "noun": "cloth",
+   "score": 0.313641
+  },
+  {
+   "segment": [
+    58.0,
+    59.0
+   ],
+   "verb": "put",
+   "noun": "cloth",
+   "score": 0.268201
+  },
+  {
+   "segment": [
+    58.0,
+    60.0
+   ],
+   "verb": "put",
+   "noun": "cloth",
+   "score": 0.255539
+  },
+  {
+   "segment": [
+    58.0,
+    59.0
+   ],
+   "verb": "take",
+   "noun": "cloth",
+   "score": 0.19691
+  },
+  {
+   "segment": [
+    58.0,
+    60.0
+   ],
+   "verb": "take",
+   "noun": "cloth",
+   "score": 0.190498
+  },
+  {
+   "segment": [
+    58.5,
+    59.5
+   ],
+   "verb": "squeeze",
+   "noun": "cloth",
+   "score": 0.339808
+  },
+  {
+   "segment": [
+    58.5,
+    62.0
+   ],
+   "verb": "squeeze",
+   "noun": "cloth",
+   "score": 0.281779
+  },
+  {
+   "segment": [
+    58.5,
+    59.5
+   ],
+   "verb": "put",
+   "noun": "cloth",
+   "score": 0.273902
+  },
+  {
+   "segment": [
+    58.5,
+    62.0
+   ],
+   "verb": "put",
+   "noun": "cloth",
+   "score": 0.231439
+  },
+  {
+   "segment": [
+    58.5,
+    59.5
+   ],
+   "verb": "take",
+   "noun": "cloth",
+   "score": 0.209298
+  },
+  {
+   "segment": [
+    58.5,
+    62.0
+   ],
+   "verb": "take",
+   "noun": "cloth",
+   "score": 0.158981
+  },
+  {
+   "segment": [
+    59.0,
+    60.0
+   ],
+   "verb": "squeeze",
+   "noun": "cloth",
+   "score": 0.318355
+  },
+  {
+   "segment": [
+    59.0,
+    61.0
+   ],
+   "verb": "squeeze",
+   "noun": "cloth",
+   "score": 0.303881
+  },
+  {
+   "segment": [
+    59.0,
+    60.0
+   ],
+   "verb": "put",
+   "noun": "cloth",
+   "score": 0.242813
+  },
+  {
+   "segment": [
+    59.0,
+    61.0
+   ],
+   "verb": "put",
+   "noun": "cloth",
+   "score": 0.228238
+  },
+  {
+   "segment": [
+    59.0,
+    60.0
+   ],
+   "verb": "take",
+   "noun": "cloth",
+   "score": 0.183898
+  },
+  {
+   "segment": [
+    59.0,
+    61.0
+   ],
+   "verb": "squeeze",
+   "noun": "bag",
+   "score": 0.164104
+  },
+  {
+   "segment": [
+    59.5,
+    60.5
+   ],
+   "verb": "squeeze",
+   "noun": "cloth",
+   "score": 0.300437
+  },
+  {
+   "segment": [
+    59.5,
+    60.5
+   ],
+   "verb": "put",
+   "noun": "cloth",
+   "score": 0.220864
+  },
+  {
+   "segment": [
+    59.5,
+    60.5
+   ],
+   "verb": "squeeze",
+   "noun": "bag",
+   "score": 0.176581
+  },
+  {
+   "segment": [
+    60.0,
+    61.0
+   ],
+   "verb": "squeeze",
+   "noun": "cloth",
+   "score": 0.279948
+  },
+  {
+   "segment": [
+    60.0,
+    62.0
+   ],
+   "verb": "squeeze",
+   "noun": "cloth",
+   "score": 0.23066
+  },
+  {
+   "segment": [
+    60.0,
+    66.0
+   ],
+   "verb": "put",
+   "noun": "cloth",
+   "score": 0.228252
+  },
+  {
+   "segment": [
+    60.0,
+    63.5
+   ],
+   "verb": "squeeze",
+   "noun": "cloth",
+   "score": 0.223763
+  },
+  {
+   "segment": [
+    60.0,
+    63.5
+   ],
+   "verb": "put",
+   "noun": "cloth",
+   "score": 0.222693
+  },
+  {
+   "segment": [
+    60.0,
+    66.0
+   ],
+   "verb": "squeeze",
+   "noun": "cloth",
+   "score": 0.214933
+  },
+  {
+   "segment": [
+    60.0,
+    61.0
+   ],
+   "verb": "squeeze",
+   "noun": "bag",
+   "score": 0.205497
+  },
+  {
+   "segment": [
+    60.0,
+    61.0
+   ],
+   "verb": "put",
+   "noun": "cloth",
+   "score": 0.204867
+  },
+  {
+   "segment": [
+    60.0,
+    62.0
+   ],
+   "verb": "put",
+   "noun": "cloth",
+   "score": 0.203269
+  },
+  {
+   "segment": [
+    60.0,
+    66.0
+   ],
+   "verb": "rip",
+   "noun": "paper",
+   "score": 0.200787
+  },
+  {
+   "segment": [
+    60.0,
+    62.0
+   ],
+   "verb": "fold",
+   "noun": "filter",
+   "score": 0.197372
+  },
+  {
+   "segment": [
+    60.0,
+    63.5
+   ],
+   "verb": "open",
+   "noun": "bag",
+   "score": 0.180908
+  },
+  {
+   "segment": [
+    60.5,
+    61.5
+   ],
+   "verb": "squeeze",
+   "noun": "cloth",
+   "score": 0.227958
+  },
+  {
+   "segment": [
+    60.5,
+    61.5
+   ],
+   "verb": "fold",
+   "noun": "filter",
+   "score": 0.209254
+  },
+  {
+   "segment": [
+    60.5,
+    61.5
+   ],
+   "verb": "put",
+   "noun": "cloth",
+   "score": 0.198045
+  },
+  {
+   "segment": [
+    61.0,
+    63.0
+   ],
+   "verb": "put",
+   "noun": "cloth",
+   "score": 0.218118
+  },
+  {
+   "segment": [
+    61.0,
+    62.0
+   ],
+   "verb": "put",
+   "noun": "cloth",
+   "score": 0.201513
+  },
+  {
+   "segment": [
+    61.0,
+    62.0
+   ],
+   "verb": "open",
+   "noun": "bag",
+   "score": 0.195344
+  },
+  {
+   "segment": [
+    61.0,
+    62.0
+   ],
+   "verb": "fold",
+   "noun": "filter",
+   "score": 0.194326
+  },
+  {
+   "segment": [
+    61.0,
+    63.0
+   ],
+   "verb": "open",
+   "noun": "bag",
+   "score": 0.191799
+  },
+  {
+   "segment": [
+    61.0,
+    63.0
+   ],
+   "verb": "squeeze",
+   "noun": "cloth",
+   "score": 0.176532
+  },
+  {
+   "segment": [
+    61.5,
+    65.0
+   ],
+   "verb": "put",
+   "noun": "cloth",
+   "score": 0.2385
+  },
+  {
+   "segment": [
+    61.5,
+    65.0
+   ],
+   "verb": "squeeze",
+   "noun": "cloth",
+   "score": 0.208398
+  },
+  {
+   "segment": [
+    61.5,
+    62.5
+   ],
+   "verb": "put",
+   "noun": "cloth",
+   "score": 0.204801
+  },
+  {
+   "segment": [
+    61.5,
+    62.5
+   ],
+   "verb": "open",
+   "noun": "bag",
+   "score": 0.20084
+  },
+  {
+   "segment": [
+    61.5,
+    65.0
+   ],
+   "verb": "rip",
+   "noun": "paper",
+   "score": 0.182919
+  },
+  {
+   "segment": [
+    61.5,
+    62.5
+   ],
+   "verb": "close",
+   "noun": "bag",
+   "score": 0.176201
+  },
+  {
+   "segment": [
+    62.0,
+    64.0
+   ],
+   "verb": "put",
+   "noun": "cloth",
+   "score": 0.248876
+  },
+  {
+   "segment": [
+    62.0,
+    63.0
+   ],
+   "verb": "put",
+   "noun": "cloth",
+   "score": 0.232335
+  },
+  {
+   "segment": [
+    62.0,
+    64.0
+   ],
+   "verb": "squeeze",
+   "noun": "cloth",
+   "score": 0.226303
+  },
+  {
+   "segment": [
+    62.0,
+    63.0
+   ],
+   "verb": "open",
+   "noun": "bag",
+   "score": 0.18821
+  },
+  {
+   "segment": [
+    62.0,
+    63.0
+   ],
+   "verb": "squeeze",
+   "noun": "cloth",
+   "score": 0.187069
+  },
+  {
+   "segment": [
+    62.0,
+    64.0
+   ],
+   "verb": "open",
+   "noun": "bag",
+   "score": 0.181254
+  },
+  {
+   "segment": [
+    62.5,
+    63.5
+   ],
+   "verb": "put",
+   "noun": "cloth",
+   "score": 0.257866
+  },
+  {
+   "segment": [
+    62.5,
+    63.5
+   ],
+   "verb": "squeeze",
+   "noun": "cloth",
+   "score": 0.242781
+  },
+  {
+   "segment": [
+    62.5,
+    63.5
+   ],
+   "verb": "open",
+   "noun": "bag",
+   "score": 0.186325
+  },
+  {
+   "segment": [
+    63.0,
+    64.0
+   ],
+   "verb": "put",
+   "noun": "cloth",
+   "score": 0.263522
+  },
+  {
+   "segment": [
+    63.0,
+    64.0
+   ],
+   "verb": "squeeze",
+   "noun": "cloth",
+   "score": 0.258054
+  },
+  {
+   "segment": [
+    63.0,
+    65.0
+   ],
+   "verb": "put",
+   "noun": "cloth",
+   "score": 0.249356
+  },
+  {
+   "segment": [
+    63.0,
+    66.5
+   ],
+   "verb": "rip",
+   "noun": "paper",
+   "score": 0.248813
+  },
+  {
+   "segment": [
+    63.0,
+    69.0
+   ],
+   "verb": "put",
+   "noun": "cloth",
+   "score": 0.235157
+  },
+  {
+   "segment": [
+    63.0,
+    66.5
+   ],
+   "verb": "put",
+   "noun": "cloth",
+   "score": 0.232116
+  },
+  {
+   "segment": [
+    63.0,
+    65.0
+   ],
+   "verb": "squeeze",
+   "noun": "cloth",
+   "score": 0.23027
+  },
+  {
+   "segment": [
+    63.0,
+    69.0
+   ],
+   "verb": "rip",
+   "noun": "paper",
+   "score": 0.227748
+  },
+  {
+   "segment": [
+    63.0,
+    69.0
+   ],
+   "verb": "squeeze",
+   "noun": "cloth",
+   "score": 0.20739
+  },
+  {
+   "segment": [
+    63.0,
+    66.5
+   ],
+   "verb": "squeeze",
+   "noun": "cloth",
+   "score": 0.204511
+  },
+  {
+   "segment": [
+    63.0,
+    65.0
+   ],
+   "verb": "rip",
+   "noun": "paper",
+   "score": 0.201249
+  },
+  {
+   "segment": [
+    63.0,
+    64.0
+   ],
+   "verb": "open",
+   "noun": "bag",
+   "score": 0.174264
+  },
+  {
+   "segment": [
+    63.5,
+    64.5
+   ],
+   "verb": "put",
+   "noun": "cloth",
+   "score": 0.247466
+  },
+  {
+   "segment": [
+    63.5,
+    64.5
+   ],
+   "verb": "squeeze",
+   "noun": "cloth",
+   "score": 0.237301
+  },
+  {
+   "segment": [
+    63.5,
+    64.5
+   ],
+   "verb": "rip",
+   "noun": "paper",
+   "score": 0.206554
+  },
+  {
+   "segment": [
+    64.0,
+    66.0
+   ],
+   "verb": "rip",
+   "noun": "paper",
+   "score": 0.269933
+  },
+  {
+   "segment": [
+    64.0,
+    65.0
+   ],
+   "verb": "rip",
+   "noun": "paper",
+   "score": 0.241896
+  },
+  {
+   "segment": [
+    64.0,
+    65.0
+   ],
+   "verb": "put",
+   "noun": "cloth",
+   "score": 0.234616
+  },
+  {
+   "segment": [
+    64.0,
+    66.0
+   ],
+   "verb": "put",
+   "noun": "cloth",
+   "score": 0.22799
+  },
+  {
+   "segment": [
+    64.0,
+    65.0
+   ],
+   "verb": "squeeze",
+   "noun": "cloth",
+   "score": 0.199286
+  },
+  {
+   "segment": [
+    64.0,
+    66.0
+   ],
+   "verb": "squeeze",
+   "noun": "cloth",
+   "score": 0.186512
+  },
+  {
+   "segment": [
+    64.5,
+    65.5
+   ],
+   "verb": "rip",
+   "noun": "paper",
+   "score": 0.281609
+  },
+  {
+   "segment": [
+    64.5,
+    68.0
+   ],
+   "verb": "rip",
+   "noun": "paper",
+   "score": 0.262747
+  },
+  {
+   "segment": [
+    64.5,
+    65.5
+   ],
+   "verb": "put",
+   "noun": "cloth",
+   "score": 0.235767
+  },
+  {
+   "segment": [
+    64.5,
+    68.0
+   ],
+   "verb": "put",
+   "noun": "cloth",
+   "score": 0.217937
+  },
+  {
+   "segment": [
+    64.5,
+    65.5
+   ],
+   "verb": "squeeze",
+   "noun": "cloth",
+   "score": 0.18774
+  },
+  {
+   "segment": [
+    64.5,
+    68.0
+   ],
+   "verb": "squeeze",
+   "noun": "cloth",
+   "score": 0.181444
+  },
+  {
+   "segment": [
+    65.0,
+    66.0
+   ],
+   "verb": "rip",
+   "noun": "paper",
+   "score": 0.295826
+  },
+  {
+   "segment": [
+    65.0,
+    67.0
+   ],
+   "verb": "rip",
+   "noun": "paper",
+   "score": 0.287947
+  },
+  {
+   "segment": [
+    65.0,
+    66.0
+   ],
+   "verb": "put",
+   "noun": "cloth",
+   "score": 0.220985
+  },
+  {
+   "segment": [
+    65.0,
+    67.0
+   ],
+   "verb": "put",
+   "noun": "cloth",
+   "score": 0.201034
+  },
+  {
+   "segment": [
+    65.0,
+    66.0
+   ],
+   "verb": "squeeze",
+   "noun": "cloth",
+   "score": 0.172457
+  },
+  {
+   "segment": [
+    65.0,
+    67.0
+   ],
+   "verb": "squeeze",
+   "noun": "cloth",
+   "score": 0.165913
+  },
+  {
+   "segment": [
+    65.5,
+    66.5
+   ],
+   "verb": "rip",
+   "noun": "paper",
+   "score": 0.293574
+  },
+  {
+   "segment": [
+    65.5,
+    66.5
+   ],
+   "verb": "put",
+   "noun": "cloth",
+   "score": 0.187885
+  },
+  {
+   "segment": [
+    65.5,
+    66.5
+   ],
+   "verb": "squeeze",
+   "noun": "paper",
+   "score": 0.146616
+  },
+  {
+   "segment": [
+    66.0,
+    67.0
+   ],
+   "verb": "rip",
+   "noun": "paper",
+   "score": 0.279013
+  },
+  {
+   "segment": [
+    66.0,
+    68.0
+   ],
+   "verb": "rip",
+   "noun": "paper",
+   "score": 0.24965
+  },
+  {
+   "segment": [
+    66.0,
+    69.5
+   ],
+   "verb": "put",
+   "noun": "cloth",
+   "score": 0.233656
+  },
+  {
+   "segment": [
+    66.0,
+    68.0
+   ],
+   "verb": "put",
+   "noun": "cloth",
+   "score": 0.211216
+  },
+  {
+   "segment": [
+    66.0,
+    69.5
+   ],
+   "verb": "rip",
+   "noun": "paper",
+   "score": 0.20419
+  },
+  {
+   "segment": [
+    66.0,
+    72.0
+   ],
+   "verb": "put",
+   "noun": "cloth",
+   "score": 0.20402
+  },
+  {
+   "segment": [
+    66.0,
+    69.5
+   ],
+   "verb": "squeeze",
+   "noun": "cloth",
+   "score": 0.201703
+  },
+  {
+   "segment": [
+    66.0,
+    68.0
+   ],
+   "verb": "squeeze",
+   "noun": "cloth",
+   "score": 0.185523
+  },
+  {
+   "segment": [
+    66.0,
+    67.0
+   ],
+   "verb": "put",
+   "noun": "cloth",
+   "score": 0.177109
+  },
+  {
+   "segment": [
+    66.0,
+    72.0
+   ],
+   "verb": "squeeze",
+   "noun": "cloth",
+   "score": 0.172135
+  },
+  {
+   "segment": [
+    66.0,
+    67.0
+   ],
+   "verb": "squeeze",
+   "noun": "paper",
+   "score": 0.168275
+  },
+  {
+   "segment": [
+    66.0,
+    72.0
+   ],
+   "verb": "rip",
+   "noun": "paper",
+   "score": 0.154436
+  },
+  {
+   "segment": [
+    66.5,
+    67.5
+   ],
+   "verb": "rip",
+   "noun": "paper",
+   "score": 0.23997
+  },
+  {
+   "segment": [
+    66.5,
+    67.5
+   ],
+   "verb": "put",
+   "noun": "cloth",
+   "score": 0.212378
+  },
+  {
+   "segment": [
+    66.5,
+    67.5
+   ],
+   "verb": "squeeze",
+   "noun": "cloth",
+   "score": 0.190232
+  },
+  {
+   "segment": [
+    67.0,
+    69.0
+   ],
+   "verb": "put",
+   "noun": "cloth",
+   "score": 0.250775
+  },
+  {
+   "segment": [
+    67.0,
+    68.0
+   ],
+   "verb": "put",
+   "noun": "cloth",
+   "score": 0.239013
+  },
+  {
+   "segment": [
+    67.0,
+    69.0
+   ],
+   "verb": "squeeze",
+   "noun": "cloth",
+   "score": 0.218985
+  },
+  {
+   "segment": [
+    67.0,
+    68.0
+   ],
+   "verb": "rip",
+   "noun": "paper",
+   "score": 0.217959
+  },
+  {
+   "segment": [
+    67.0,
+    68.0
+   ],
+   "verb": "squeeze",
+   "noun": "cloth",
+   "score": 0.207862
+  },
+  {
+   "segment": [
+    67.0,
+    69.0
+   ],
+   "verb": "rip",
+   "noun": "paper",
+   "score": 0.180992
+  },
+  {
+   "segment": [
+    67.5,
+    68.5
+   ],
+   "verb": "put",
+   "noun": "cloth",
+   "score": 0.257159
+  },
+  {
+   "segment": [
+    67.5,
+    71.0
+   ],
+   "verb": "put",
+   "noun": "cloth",
+   "score": 0.233349
+  },
+  {
+   "segment": [
+    67.5,
+    68.5
+   ],
+   "verb": "squeeze",
+   "noun": "cloth",
+   "score": 0.222709
+  },
+  {
+   "segment": [
+    67.5,
+    71.0
+   ],
+   "verb": "squeeze",
+   "noun": "cloth",
+   "score": 0.195605
+  },
+  {
+   "segment": [
+    67.5,
+    68.5
+   ],
+   "verb": "take",
+   "noun": "cloth",
+   "score": 0.167329
+  },
+  {
+   "segment": [
+    67.5,
+    71.0
+   ],
+   "verb": "take",
+   "noun": "cloth",
+   "score": 0.163859
+  },
+  {
+   "segment": [
+    68.0,
+    69.0
+   ],
+   "verb": "put",
+   "noun": "cloth",
+   "score": 0.262288
+  },
+  {
+   "segment": [
+    68.0,
+    70.0
+   ],
+   "verb": "put",
+   "noun": "cloth",
+   "score": 0.24841
+  },
+  {
+   "segment": [
+    68.0,
+    69.0
+   ],
+   "verb": "squeeze",
+   "noun": "cloth",
+   "score": 0.229835
+  },
+  {
+   "segment": [
+    68.0,
+    70.0
+   ],
+   "verb": "squeeze",
+   "noun": "cloth",
+   "score": 0.20724
+  },
+  {
+   "segment": [
+    68.0,
+    70.0
+   ],
+   "verb": "take",
+   "noun": "cloth",
+   "score": 0.175549
+  },
+  {
+   "segment": [
+    68.0,
+    69.0
+   ],
+   "verb": "take",
+   "noun": "cloth",
+   "score": 0.175291
+  },
+  {
+   "segment": [
+    68.5,
+    69.5
+   ],
+   "verb": "put",
+   "noun": "cloth",
+   "score": 0.25153
+  },
+  {
+   "segment": [
+    68.5,
+    69.5
+   ],
+   "verb": "squeeze",
+   "noun": "cloth",
+   "score": 0.213431
+  },
+  {
+   "segment": [
+    68.5,
+    69.5
+   ],
+   "verb": "take",
+   "noun": "cloth",
+   "score": 0.181562
+  },
+  {
+   "segment": [
+    69.0,
+    70.0
+   ],
+   "verb": "put",
+   "noun": "cloth",
+   "score": 0.232253
+  },
+  {
+   "segment": [
+    69.0,
+    71.0
+   ],
+   "verb": "put",
+   "noun": "cloth",
+   "score": 0.216257
+  },
+  {
+   "segment": [
+    69.0,
+    70.0
+   ],
+   "verb": "squeeze",
+   "noun": "cloth",
+   "score": 0.184207
+  },
+  {
+   "segment": [
+    69.0,
+    71.0
+   ],
+   "verb": "squeeze",
+   "noun": "cloth",
+   "score": 0.173792
+  },
+  {
+   "segment": [
+    69.0,
+    70.0
+   ],
+   "verb": "take",
+   "noun": "cloth",
+   "score": 0.17202
+  },
+  {
+   "segment": [
+    69.0,
+    72.5
+   ],
+   "verb": "throw",
+   "noun": "rubbish",
+   "score": 0.167519
+  },
+  {
+   "segment": [
+    69.0,
+    72.5
+   ],
+   "verb": "put",
+   "noun": "cloth",
+   "score": 0.16568
+  },
+  {
+   "segment": [
+    69.0,
+    71.0
+   ],
+   "verb": "take",
+   "noun": "cloth",
+   "score": 0.157157
+  },
+  {
+   "segment": [
+    69.0,
+    75.0
+   ],
+   "verb": "throw",
+   "noun": "rubbish",
+   "score": 0.157155
+  },
+  {
+   "segment": [
+    69.0,
+    75.0
+   ],
+   "verb": "put",
+   "noun": "cloth",
+   "score": 0.154208
+  },
+  {
+   "segment": [
+    69.0,
+    72.5
+   ],
+   "verb": "spray",
+   "noun": "liquid:washing",
+   "score": 0.136388
+  },
+  {
+   "segment": [
+    69.0,
+    75.0
+   ],
+   "verb": "open",
+   "noun": "bag",
+   "score": 0.122036
+  },
+  {
+   "segment": [
+    69.5,
+    70.5
+   ],
+   "verb": "put",
+   "noun": "cloth",
+   "score": 0.229202
+  },
+  {
+   "segment": [
+    69.5,
+    70.5
+   ],
+   "verb": "squeeze",
+   "noun": "cloth",
+   "score": 0.178481
+  },
+  {
+   "segment": [
+    69.5,
+    70.5
+   ],
+   "verb": "take",
+   "noun": "cloth",
+   "score": 0.167588
+  },
+  {
+   "segment": [
+    70.0,
+    71.0
+   ],
+   "verb": "put",
+   "noun": "cloth",
+   "score": 0.192925
+  },
+  {
+   "segment": [
+    70.0,
+    72.0
+   ],
+   "verb": "throw",
+   "noun": "rubbish",
+   "score": 0.182059
+  },
+  {
+   "segment": [
+    70.0,
+    71.0
+   ],
+   "verb": "squeeze",
+   "noun": "cloth",
+   "score": 0.158522
+  },
+  {
+   "segment": [
+    70.0,
+    72.0
+   ],
+   "verb": "spray",
+   "noun": "liquid:washing",
+   "score": 0.15138
+  },
+  {
+   "segment": [
+    70.0,
+    72.0
+   ],
+   "verb": "put",
+   "noun": "cloth",
+   "score": 0.142228
+  },
+  {
+   "segment": [
+    70.0,
+    71.0
+   ],
+   "verb": "open",
+   "noun": "bag",
+   "score": 0.141275
+  },
+  {
+   "segment": [
+    70.5,
+    74.0
+   ],
+   "verb": "throw",
+   "noun": "rubbish",
+   "score": 0.193321
+  },
+  {
+   "segment": [
+    70.5,
+    71.5
+   ],
+   "verb": "throw",
+   "noun": "rubbish",
+   "score": 0.146621
+  },
+  {
+   "segment": [
+    70.5,
+    74.0
+   ],
+   "verb": "remove",
+   "noun": "rubbish",
+   "score": 0.14274
+  },
+  {
+   "segment": [
+    70.5,
+    71.5
+   ],
+   "verb": "spray",
+   "noun": "liquid:washing",
+   "score": 0.141434
+  },
+  {
+   "segment": [
+    70.5,
+    74.0
+   ],
+   "verb": "take",
+   "noun": "rubbish",
+   "score": 0.138471
+  },
+  {
+   "segment": [
+    70.5,
+    71.5
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.13331
+  },
+  {
+   "segment": [
+    71.0,
+    73.0
+   ],
+   "verb": "throw",
+   "noun": "rubbish",
+   "score": 0.221637
+  },
+  {
+   "segment": [
+    71.0,
+    72.0
+   ],
+   "verb": "throw",
+   "noun": "rubbish",
+   "score": 0.220344
+  },
+  {
+   "segment": [
+    71.0,
+    72.0
+   ],
+   "verb": "spray",
+   "noun": "liquid:washing",
+   "score": 0.197389
+  },
+  {
+   "segment": [
+    71.0,
+    73.0
+   ],
+   "verb": "spray",
+   "noun": "liquid:washing",
+   "score": 0.16643
+  },
+  {
+   "segment": [
+    71.0,
+    73.0
+   ],
+   "verb": "take",
+   "noun": "rubbish",
+   "score": 0.15638
+  },
+  {
+   "segment": [
+    71.0,
+    72.0
+   ],
+   "verb": "take",
+   "noun": "rubbish",
+   "score": 0.148272
+  },
+  {
+   "segment": [
+    71.5,
+    72.5
+   ],
+   "verb": "throw",
+   "noun": "rubbish",
+   "score": 0.254528
+  },
+  {
+   "segment": [
+    71.5,
+    72.5
+   ],
+   "verb": "spray",
+   "noun": "liquid:washing",
+   "score": 0.196427
+  },
+  {
+   "segment": [
+    71.5,
+    72.5
+   ],
+   "verb": "take",
+   "noun": "rubbish",
+   "score": 0.175646
+  },
+  {
+   "segment": [
+    72.0,
+    73.0
+   ],
+   "verb": "throw",
+   "noun": "rubbish",
+   "score": 0.222217
+  },
+  {
+   "segment": [
+    72.0,
+    74.0
+   ],
+   "verb": "throw",
+   "noun": "rubbish",
+   "score": 0.190337
+  },
+  {
+   "segment": [
+    72.0,
+    73.0
+   ],
+   "verb": "take",
+   "noun": "rubbish",
+   "score": 0.162943
+  },
+  {
+   "segment": [
+    72.0,
+    78.0
+   ],
+   "verb": "put",
+   "noun": "bag",
+   "score": 0.157417
+  },
+  {
+   "segment": [
+    72.0,
+    73.0
+   ],
+   "verb": "remove",
+   "noun": "rubbish",
+   "score": 0.156565
+  },
+  {
+   "segment": [
+    72.0,
+    74.0
+   ],
+   "verb": "remove",
+   "noun": "rubbish",
+   "score": 0.156107
+  },
+  {
+   "segment": [
+    72.0,
+    75.5
+   ],
+   "verb": "throw",
+   "noun": "rubbish",
+   "score": 0.152929
+  },
+  {
+   "segment": [
+    72.0,
+    75.5
+   ],
+   "verb": "put",
+   "noun": "bag",
+   "score": 0.140802
+  },
+  {
+   "segment": [
+    72.0,
+    78.0
+   ],
+   "verb": "open",
+   "noun": "bag",
+   "score": 0.140734
+  },
+  {
+   "segment": [
+    72.0,
+    74.0
+   ],
+   "verb": "take",
+   "noun": "rubbish",
+   "score": 0.139878
+  },
+  {
+   "segment": [
+    72.0,
+    78.0
+   ],
+   "verb": "remove",
+   "noun": "bag",
+   "score": 0.137764
+  },
+  {
+   "segment": [
+    72.0,
+    75.5
+   ],
+   "verb": "insert",
+   "noun": "rubbish",
+   "score": 0.134057
+  },
+  {
+   "segment": [
+    72.5,
+    73.5
+   ],
+   "verb": "throw",
+   "noun": "rubbish",
+   "score": 0.179679
+  },
+  {
+   "segment": [
+    72.5,
+    73.5
+   ],
+   "verb": "remove",
+   "noun": "rubbish",
+   "score": 0.162253
+  },
+  {
+   "segment": [
+    72.5,
+    73.5
+   ],
+   "verb": "take",
+   "noun": "rubbish",
+   "score": 0.141304
+  },
+  {
+   "segment": [
+    73.0,
+    74.0
+   ],
+   "verb": "insert",
+   "noun": "rubbish",
+   "score": 0.188394
+  },
+  {
+   "segment": [
+    73.0,
+    75.0
+   ],
+   "verb": "insert",
+   "noun": "rubbish",
+   "score": 0.169651
+  },
+  {
+   "segment": [
+    73.0,
+    75.0
+   ],
+   "verb": "put",
+   "noun": "bag",
+   "score": 0.158907
+  },
+  {
+   "segment": [
+    73.0,
+    74.0
+   ],
+   "verb": "open",
+   "noun": "bag",
+   "score": 0.158167
+  },
+  {
+   "segment": [
+    73.0,
+    75.0
+   ],
+   "verb": "remove",
+   "noun": "bag",
+   "score": 0.151533
+  },
+  {
+   "segment": [
+    73.0,
+    74.0
+   ],
+   "verb": "remove",
+   "noun": "rubbish",
+   "score": 0.149939
+  },
+  {
+   "segment": [
+    73.5,
+    74.5
+   ],
+   "verb": "insert",
+   "noun": "rubbish",
+   "score": 0.191239
+  },
+  {
+   "segment": [
+    73.5,
+    77.0
+   ],
+   "verb": "put",
+   "noun": "bag",
+   "score": 0.171846
+  },
+  {
+   "segment": [
+    73.5,
+    74.5
+   ],
+   "verb": "put",
+   "noun": "cloth",
+   "score": 0.159423
+  },
+  {
+   "segment": [
+    73.5,
+    77.0
+   ],
+   "verb": "put",
+   "noun": "wrap:plastic",
+   "score": 0.158473
+  },
+  {
+   "segment": [
+    73.5,
+    74.5
+   ],
+   "verb": "remove",
+   "noun": "bag",
+   "score": 0.151382
+  },
+  {
+   "segment": [
+    73.5,
+    77.0
+   ],
+   "verb": "remove",
+   "noun": "bag",
+   "score": 0.148263
+  },
+  {
+   "segment": [
+    74.0,
+    76.0
+   ],
+   "verb": "put",
+   "noun": "bag",
+   "score": 0.187012
+  },
+  {
+   "segment": [
+    74.0,
+    75.0
+   ],
+   "verb": "put",
+   "noun": "bag",
+   "score": 0.181911
+  },
+  {
+   "segment": [
+    74.0,
+    76.0
+   ],
+   "verb": "put",
+   "noun": "wrap:plastic",
+   "score": 0.174499
+  },
+  {
+   "segment": [
+    74.0,
+    75.0
+   ],
+   "verb": "put",
+   "noun": "wrap:plastic",
+   "score": 0.168508
+  },
+  {
+   "segment": [
+    74.0,
+    75.0
+   ],
+   "verb": "remove",
+   "noun": "bag",
+   "score": 0.163168
+  },
+  {
+   "segment": [
+    74.0,
+    76.0
+   ],
+   "verb": "remove",
+   "noun": "bag",
+   "score": 0.155713
+  },
+  {
+   "segment": [
+    74.5,
+    75.5
+   ],
+   "verb": "put",
+   "noun": "bag",
+   "score": 0.201203
+  },
+  {
+   "segment": [
+    74.5,
+    75.5
+   ],
+   "verb": "put",
+   "noun": "wrap:plastic",
+   "score": 0.183428
+  },
+  {
+   "segment": [
+    74.5,
+    75.5
+   ],
+   "verb": "remove",
+   "noun": "bag",
+   "score": 0.167644
+  },
+  {
+   "segment": [
+    75.0,
+    76.0
+   ],
+   "verb": "put",
+   "noun": "bag",
+   "score": 0.191642
+  },
+  {
+   "segment": [
+    75.0,
+    78.5
+   ],
+   "verb": "put",
+   "noun": "bag",
+   "score": 0.186033
+  },
+  {
+   "segment": [
+    75.0,
+    81.0
+   ],
+   "verb": "put",
+   "noun": "bag",
+   "score": 0.183308
+  },
+  {
+   "segment": [
+    75.0,
+    76.0
+   ],
+   "verb": "put",
+   "noun": "wrap:plastic",
+   "score": 0.179926
+  },
+  {
+   "segment": [
+    75.0,
+    77.0
+   ],
+   "verb": "put",
+   "noun": "bag",
+   "score": 0.171939
+  },
+  {
+   "segment": [
+    75.0,
+    81.0
+   ],
+   "verb": "insert",
+   "noun": "bag",
+   "score": 0.170635
+  },
+  {
+   "segment": [
+    75.0,
+    78.5
+   ],
+   "verb": "insert",
+   "noun": "bag",
+   "score": 0.162641
+  },
+  {
+   "segment": [
+    75.0,
+    77.0
+   ],
+   "verb": "put",
+   "noun": "wrap:plastic",
+   "score": 0.159221
+  },
+  {
+   "segment": [
+    75.0,
+    81.0
+   ],
+   "verb": "open",
+   "noun": "bag",
+   "score": 0.158055
+  },
+  {
+   "segment": [
+    75.0,
+    78.5
+   ],
+   "verb": "wrap",
+   "noun": "bag",
+   "score": 0.156111
+  },
+  {
+   "segment": [
+    75.0,
+    76.0
+   ],
+   "verb": "remove",
+   "noun": "bag",
+   "score": 0.148167
+  },
+  {
+   "segment": [
+    75.0,
+    77.0
+   ],
+   "verb": "remove",
+   "noun": "bag",
+   "score": 0.139913
+  },
+  {
+   "segment": [
+    75.5,
+    76.5
+   ],
+   "verb": "put",
+   "noun": "bag",
+   "score": 0.164553
+  },
+  {
+   "segment": [
+    75.5,
+    76.5
+   ],
+   "verb": "put",
+   "noun": "wrap:plastic",
+   "score": 0.164529
+  },
+  {
+   "segment": [
+    75.5,
+    76.5
+   ],
+   "verb": "wrap",
+   "noun": "bag",
+   "score": 0.136364
+  },
+  {
+   "segment": [
+    76.0,
+    78.0
+   ],
+   "verb": "put",
+   "noun": "bag",
+   "score": 0.178274
+  },
+  {
+   "segment": [
+    76.0,
+    78.0
+   ],
+   "verb": "insert",
+   "noun": "bag",
+   "score": 0.174079
+  },
+  {
+   "segment": [
+    76.0,
+    78.0
+   ],
+   "verb": "open",
+   "noun": "bag",
+   "score": 0.162224
+  },
+  {
+   "segment": [
+    76.0,
+    77.0
+   ],
+   "verb": "put",
+   "noun": "bag",
+   "score": 0.150225
+  },
+  {
+   "segment": [
+    76.0,
+    77.0
+   ],
+   "verb": "open",
+   "noun": "bag",
+   "score": 0.141321
+  },
+  {
+   "segment": [
+    76.0,
+    77.0
+   ],
+   "verb": "insert",
+   "noun": "bag",
+   "score": 0.141052
+  },
+  {
+   "segment": [
+    76.5,
+    80.0
+   ],
+   "verb": "insert",
+   "noun": "bag",
+   "score": 0.196192
+  },
+  {
+   "segment": [
+    76.5,
+    80.0
+   ],
+   "verb": "put",
+   "noun": "bag",
+   "score": 0.195228
+  },
+  {
+   "segment": [
+    76.5,
+    77.5
+   ],
+   "verb": "put",
+   "noun": "bag",
+   "score": 0.185985
+  },
+  {
+   "segment": [
+    76.5,
+    77.5
+   ],
+   "verb": "insert",
+   "noun": "bag",
+   "score": 0.178111
+  },
+  {
+   "segment": [
+    76.5,
+    80.0
+   ],
+   "verb": "wrap",
+   "noun": "bag",
+   "score": 0.171675
+  },
+  {
+   "segment": [
+    76.5,
+    77.5
+   ],
+   "verb": "open",
+   "noun": "bag",
+   "score": 0.167881
+  },
+  {
+   "segment": [
+    77.0,
+    78.0
+   ],
+   "verb": "put",
+   "noun": "bag",
+   "score": 0.205536
+  },
+  {
+   "segment": [
+    77.0,
+    78.0
+   ],
+   "verb": "insert",
+   "noun": "bag",
+   "score": 0.205475
+  },
+  {
+   "segment": [
+    77.0,
+    79.0
+   ],
+   "verb": "put",
+   "noun": "bag",
+   "score": 0.205124
+  },
+  {
+   "segment": [
+    77.0,
+    79.0
+   ],
+   "verb": "insert",
+   "noun": "bag",
+   "score": 0.203853
+  },
+  {
+   "segment": [
+    77.0,
+    78.0
+   ],
+   "verb": "wrap",
+   "noun": "bag",
+   "score": 0.185508
+  },
+  {
+   "segment": [
+    77.0,
+    79.0
+   ],
+   "verb": "wrap",
+   "noun": "bag",
+   "score": 0.178652
+  },
+  {
+   "segment": [
+    77.5,
+    78.5
+   ],
+   "verb": "put",
+   "noun": "bag",
+   "score": 0.200539
+  },
+  {
+   "segment": [
+    77.5,
+    78.5
+   ],
+   "verb": "insert",
+   "noun": "bag",
+   "score": 0.199513
+  },
+  {
+   "segment": [
+    77.5,
+    78.5
+   ],
+   "verb": "wrap",
+   "noun": "bag",
+   "score": 0.181295
+  },
+  {
+   "segment": [
+    78.0,
+    79.0
+   ],
+   "verb": "put",
+   "noun": "bag",
+   "score": 0.204361
+  },
+  {
+   "segment": [
+    78.0,
+    79.0
+   ],
+   "verb": "insert",
+   "noun": "bag",
+   "score": 0.201972
+  },
+  {
+   "segment": [
+    78.0,
+    80.0
+   ],
+   "verb": "insert",
+   "noun": "bag",
+   "score": 0.201487
+  },
+  {
+   "segment": [
+    78.0,
+    80.0
+   ],
+   "verb": "put",
+   "noun": "bag",
+   "score": 0.199171
+  },
+  {
+   "segment": [
+    78.0,
+    81.5
+   ],
+   "verb": "put",
+   "noun": "bag",
+   "score": 0.186454
+  },
+  {
+   "segment": [
+    78.0,
+    81.5
+   ],
+   "verb": "insert",
+   "noun": "bag",
+   "score": 0.178081
+  },
+  {
+   "segment": [
+    78.0,
+    80.0
+   ],
+   "verb": "wrap",
+   "noun": "bag",
+   "score": 0.174406
+  },
+  {
+   "segment": [
+    78.0,
+    79.0
+   ],
+   "verb": "wrap",
+   "noun": "bag",
+   "score": 0.171789
+  },
+  {
+   "segment": [
+    78.0,
+    81.5
+   ],
+   "verb": "open",
+   "noun": "bag",
+   "score": 0.162914
+  },
+  {
+   "segment": [
+    78.5,
+    79.5
+   ],
+   "verb": "insert",
+   "noun": "bag",
+   "score": 0.2181
+  },
+  {
+   "segment": [
+    78.5,
+    79.5
+   ],
+   "verb": "put",
+   "noun": "bag",
+   "score": 0.214764
+  },
+  {
+   "segment": [
+    78.5,
+    79.5
+   ],
+   "verb": "open",
+   "noun": "bag",
+   "score": 0.182793
+  },
+  {
+   "segment": [
+    79.0,
+    80.0
+   ],
+   "verb": "insert",
+   "noun": "bag",
+   "score": 0.200522
+  },
+  {
+   "segment": [
+    79.0,
+    80.0
+   ],
+   "verb": "put",
+   "noun": "bag",
+   "score": 0.19289
+  },
+  {
+   "segment": [
+    79.0,
+    81.0
+   ],
+   "verb": "put",
+   "noun": "wrap:plastic",
+   "score": 0.1789
+  },
+  {
+   "segment": [
+    79.0,
+    80.0
+   ],
+   "verb": "wrap",
+   "noun": "bag",
+   "score": 0.176859
+  },
+  {
+   "segment": [
+    79.0,
+    81.0
+   ],
+   "verb": "insert",
+   "noun": "bag",
+   "score": 0.172352
+  },
+  {
+   "segment": [
+    79.0,
+    81.0
+   ],
+   "verb": "put",
+   "noun": "bag",
+   "score": 0.171568
+  },
+  {
+   "segment": [
+    79.5,
+    80.5
+   ],
+   "verb": "put",
+   "noun": "wrap:plastic",
+   "score": 0.187214
+  },
+  {
+   "segment": [
+    79.5,
+    80.5
+   ],
+   "verb": "insert",
+   "noun": "bag",
+   "score": 0.167611
+  },
+  {
+   "segment": [
+    79.5,
+    80.5
+   ],
+   "verb": "remove",
+   "noun": "wrap:plastic",
+   "score": 0.164939
+  },
+  {
+   "segment": [
+    79.5,
+    83.0
+   ],
+   "verb": "put",
+   "noun": "bag",
+   "score": 0.149133
+  },
+  {
+   "segment": [
+    79.5,
+    83.0
+   ],
+   "verb": "put",
+   "noun": "wrap:plastic",
+   "score": 0.133052
+  },
+  {
+   "segment": [
+    79.5,
+    83.0
+   ],
+   "verb": "throw",
+   "noun": "bag",
+   "score": 0.124897
+  },
+  {
+   "segment": [
+    80.0,
+    81.0
+   ],
+   "verb": "put",
+   "noun": "wrap:plastic",
+   "score": 0.18522
+  },
+  {
+   "segment": [
+    80.0,
+    82.0
+   ],
+   "verb": "put",
+   "noun": "bag",
+   "score": 0.172582
+  },
+  {
+   "segment": [
+    80.0,
+    81.0
+   ],
+   "verb": "remove",
+   "noun": "wrap:plastic",
+   "score": 0.157855
+  },
+  {
+   "segment": [
+    80.0,
+    82.0
+   ],
+   "verb": "put",
+   "noun": "wrap:plastic",
+   "score": 0.155491
+  },
+  {
+   "segment": [
+    80.0,
+    82.0
+   ],
+   "verb": "throw",
+   "noun": "bag",
+   "score": 0.150183
+  },
+  {
+   "segment": [
+    80.0,
+    81.0
+   ],
+   "verb": "put",
+   "noun": "bag",
+   "score": 0.14951
+  },
+  {
+   "segment": [
+    80.5,
+    81.5
+   ],
+   "verb": "put",
+   "noun": "bag",
+   "score": 0.179603
+  },
+  {
+   "segment": [
+    80.5,
+    81.5
+   ],
+   "verb": "throw",
+   "noun": "bag",
+   "score": 0.158163
+  },
+  {
+   "segment": [
+    80.5,
+    81.5
+   ],
+   "verb": "put",
+   "noun": "wrap:plastic",
+   "score": 0.15542
+  },
+  {
+   "segment": [
+    81.0,
+    82.0
+   ],
+   "verb": "put",
+   "noun": "bag",
+   "score": 0.193609
+  },
+  {
+   "segment": [
+    81.0,
+    82.0
+   ],
+   "verb": "throw",
+   "noun": "bag",
+   "score": 0.187398
+  },
+  {
+   "segment": [
+    81.0,
+    83.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.15547
+  },
+  {
+   "segment": [
+    81.0,
+    82.0
+   ],
+   "verb": "remove",
+   "noun": "bag",
+   "score": 0.151365
+  },
+  {
+   "segment": [
+    81.0,
+    83.0
+   ],
+   "verb": "put",
+   "noun": "bag",
+   "score": 0.145347
+  },
+  {
+   "segment": [
+    81.0,
+    83.0
+   ],
+   "verb": "throw",
+   "noun": "bag",
+   "score": 0.143554
+  },
+  {
+   "segment": [
+    81.5,
+    82.5
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.159247
+  },
+  {
+   "segment": [
+    81.5,
+    82.5
+   ],
+   "verb": "throw",
+   "noun": "bag",
+   "score": 0.153988
+  },
+  {
+   "segment": [
+    81.5,
+    82.5
+   ],
+   "verb": "put",
+   "noun": "bag",
+   "score": 0.15088
+  },
+  {
+   "segment": [
+    82.0,
+    83.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.180883
+  },
+  {
+   "segment": [
+    82.0,
+    83.0
+   ],
+   "verb": "throw",
+   "noun": "rubbish",
+   "score": 0.12587
+  },
+  {
+   "segment": [
+    82.0,
+    83.0
+   ],
+   "verb": "put",
+   "noun": "hob",
+   "score": 0.123289
+  }
+ ],
+ "highlights": [
+  {
+   "segment": [
+    21.0,
+    27.15
+   ]
+  },
+  {
+   "segment": [
+    58.0,
+    64.15
+   ]
+  }
+ ]
+}

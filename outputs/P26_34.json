@@ -1,0 +1,11371 @@
+{
+ "team_id": "SRMIST_PRISM",
+ "video_id": "P26_34",
+ "duration_sec": 107.07,
+ "label": {
+  "name": "cooking",
+  "score": 0.9998
+ },
+ "actions": [
+  {
+   "segment": [
+    0.0,
+    1.0
+   ],
+   "verb": "put",
+   "noun": "hob",
+   "score": 0.229336
+  },
+  {
+   "segment": [
+    0.0,
+    6.0
+   ],
+   "verb": "put",
+   "noun": "hob",
+   "score": 0.213647
+  },
+  {
+   "segment": [
+    0.0,
+    2.0
+   ],
+   "verb": "put",
+   "noun": "hob",
+   "score": 0.213231
+  },
+  {
+   "segment": [
+    0.0,
+    3.5
+   ],
+   "verb": "put",
+   "noun": "hob",
+   "score": 0.200201
+  },
+  {
+   "segment": [
+    0.0,
+    1.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.184281
+  },
+  {
+   "segment": [
+    0.0,
+    6.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.171337
+  },
+  {
+   "segment": [
+    0.0,
+    2.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.170324
+  },
+  {
+   "segment": [
+    0.0,
+    3.5
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.167345
+  },
+  {
+   "segment": [
+    0.0,
+    1.0
+   ],
+   "verb": "increase",
+   "noun": "hob",
+   "score": 0.16182
+  },
+  {
+   "segment": [
+    0.0,
+    2.0
+   ],
+   "verb": "increase",
+   "noun": "hob",
+   "score": 0.150817
+  },
+  {
+   "segment": [
+    0.0,
+    6.0
+   ],
+   "verb": "increase",
+   "noun": "hob",
+   "score": 0.142315
+  },
+  {
+   "segment": [
+    0.0,
+    3.5
+   ],
+   "verb": "take",
+   "noun": "hob",
+   "score": 0.137178
+  },
+  {
+   "segment": [
+    0.5,
+    1.5
+   ],
+   "verb": "put",
+   "noun": "hob",
+   "score": 0.225678
+  },
+  {
+   "segment": [
+    0.5,
+    1.5
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.165473
+  },
+  {
+   "segment": [
+    0.5,
+    1.5
+   ],
+   "verb": "increase",
+   "noun": "hob",
+   "score": 0.158383
+  },
+  {
+   "segment": [
+    1.0,
+    2.0
+   ],
+   "verb": "put",
+   "noun": "hob",
+   "score": 0.195655
+  },
+  {
+   "segment": [
+    1.0,
+    3.0
+   ],
+   "verb": "put",
+   "noun": "hob",
+   "score": 0.180735
+  },
+  {
+   "segment": [
+    1.0,
+    3.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.160828
+  },
+  {
+   "segment": [
+    1.0,
+    2.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.154985
+  },
+  {
+   "segment": [
+    1.0,
+    2.0
+   ],
+   "verb": "take",
+   "noun": "hob",
+   "score": 0.14395
+  },
+  {
+   "segment": [
+    1.0,
+    3.0
+   ],
+   "verb": "take",
+   "noun": "hob",
+   "score": 0.129576
+  },
+  {
+   "segment": [
+    1.5,
+    5.0
+   ],
+   "verb": "put",
+   "noun": "hob",
+   "score": 0.199645
+  },
+  {
+   "segment": [
+    1.5,
+    2.5
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.16117
+  },
+  {
+   "segment": [
+    1.5,
+    5.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.160507
+  },
+  {
+   "segment": [
+    1.5,
+    2.5
+   ],
+   "verb": "put",
+   "noun": "hob",
+   "score": 0.159125
+  },
+  {
+   "segment": [
+    1.5,
+    5.0
+   ],
+   "verb": "adjust",
+   "noun": "hob",
+   "score": 0.138522
+  },
+  {
+   "segment": [
+    1.5,
+    2.5
+   ],
+   "verb": "take",
+   "noun": "coffee",
+   "score": 0.128019
+  },
+  {
+   "segment": [
+    2.0,
+    4.0
+   ],
+   "verb": "put",
+   "noun": "hob",
+   "score": 0.19611
+  },
+  {
+   "segment": [
+    2.0,
+    3.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.166466
+  },
+  {
+   "segment": [
+    2.0,
+    3.0
+   ],
+   "verb": "put",
+   "noun": "hob",
+   "score": 0.164467
+  },
+  {
+   "segment": [
+    2.0,
+    4.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.16267
+  },
+  {
+   "segment": [
+    2.0,
+    4.0
+   ],
+   "verb": "adjust",
+   "noun": "hob",
+   "score": 0.13515
+  },
+  {
+   "segment": [
+    2.0,
+    3.0
+   ],
+   "verb": "throw",
+   "noun": "coffee",
+   "score": 0.125107
+  },
+  {
+   "segment": [
+    2.5,
+    3.5
+   ],
+   "verb": "put",
+   "noun": "hob",
+   "score": 0.195775
+  },
+  {
+   "segment": [
+    2.5,
+    3.5
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.161987
+  },
+  {
+   "segment": [
+    2.5,
+    3.5
+   ],
+   "verb": "adjust",
+   "noun": "hob",
+   "score": 0.132387
+  },
+  {
+   "segment": [
+    3.0,
+    4.0
+   ],
+   "verb": "put",
+   "noun": "hob",
+   "score": 0.226677
+  },
+  {
+   "segment": [
+    3.0,
+    5.0
+   ],
+   "verb": "put",
+   "noun": "hob",
+   "score": 0.224883
+  },
+  {
+   "segment": [
+    3.0,
+    6.5
+   ],
+   "verb": "put",
+   "noun": "hob",
+   "score": 0.223201
+  },
+  {
+   "segment": [
+    3.0,
+    9.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.191334
+  },
+  {
+   "segment": [
+    3.0,
+    9.0
+   ],
+   "verb": "put",
+   "noun": "hob",
+   "score": 0.188632
+  },
+  {
+   "segment": [
+    3.0,
+    6.5
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.175645
+  },
+  {
+   "segment": [
+    3.0,
+    5.0
+   ],
+   "verb": "adjust",
+   "noun": "hob",
+   "score": 0.166032
+  },
+  {
+   "segment": [
+    3.0,
+    4.0
+   ],
+   "verb": "adjust",
+   "noun": "hob",
+   "score": 0.163345
+  },
+  {
+   "segment": [
+    3.0,
+    4.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.156721
+  },
+  {
+   "segment": [
+    3.0,
+    6.5
+   ],
+   "verb": "adjust",
+   "noun": "hob",
+   "score": 0.155713
+  },
+  {
+   "segment": [
+    3.0,
+    5.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.154741
+  },
+  {
+   "segment": [
+    3.0,
+    9.0
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.144994
+  },
+  {
+   "segment": [
+    3.5,
+    4.5
+   ],
+   "verb": "put",
+   "noun": "hob",
+   "score": 0.236273
+  },
+  {
+   "segment": [
+    3.5,
+    4.5
+   ],
+   "verb": "adjust",
+   "noun": "hob",
+   "score": 0.182125
+  },
+  {
+   "segment": [
+    3.5,
+    4.5
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.158518
+  },
+  {
+   "segment": [
+    4.0,
+    6.0
+   ],
+   "verb": "put",
+   "noun": "hob",
+   "score": 0.226167
+  },
+  {
+   "segment": [
+    4.0,
+    5.0
+   ],
+   "verb": "put",
+   "noun": "hob",
+   "score": 0.221046
+  },
+  {
+   "segment": [
+    4.0,
+    6.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.175923
+  },
+  {
+   "segment": [
+    4.0,
+    5.0
+   ],
+   "verb": "adjust",
+   "noun": "hob",
+   "score": 0.167928
+  },
+  {
+   "segment": [
+    4.0,
+    6.0
+   ],
+   "verb": "adjust",
+   "noun": "hob",
+   "score": 0.156291
+  },
+  {
+   "segment": [
+    4.0,
+    5.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.151192
+  },
+  {
+   "segment": [
+    4.5,
+    5.5
+   ],
+   "verb": "put",
+   "noun": "hob",
+   "score": 0.213803
+  },
+  {
+   "segment": [
+    4.5,
+    8.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.193485
+  },
+  {
+   "segment": [
+    4.5,
+    8.0
+   ],
+   "verb": "put",
+   "noun": "hob",
+   "score": 0.181132
+  },
+  {
+   "segment": [
+    4.5,
+    5.5
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.162904
+  },
+  {
+   "segment": [
+    4.5,
+    8.0
+   ],
+   "verb": "insert",
+   "noun": "coffee",
+   "score": 0.156826
+  },
+  {
+   "segment": [
+    4.5,
+    5.5
+   ],
+   "verb": "adjust",
+   "noun": "hob",
+   "score": 0.14439
+  },
+  {
+   "segment": [
+    5.0,
+    6.0
+   ],
+   "verb": "put",
+   "noun": "hob",
+   "score": 0.231269
+  },
+  {
+   "segment": [
+    5.0,
+    7.0
+   ],
+   "verb": "put",
+   "noun": "hob",
+   "score": 0.204295
+  },
+  {
+   "segment": [
+    5.0,
+    7.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.198783
+  },
+  {
+   "segment": [
+    5.0,
+    6.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.19876
+  },
+  {
+   "segment": [
+    5.0,
+    7.0
+   ],
+   "verb": "insert",
+   "noun": "coffee",
+   "score": 0.17389
+  },
+  {
+   "segment": [
+    5.0,
+    6.0
+   ],
+   "verb": "insert",
+   "noun": "coffee",
+   "score": 0.155447
+  },
+  {
+   "segment": [
+    5.5,
+    6.5
+   ],
+   "verb": "put",
+   "noun": "hob",
+   "score": 0.21934
+  },
+  {
+   "segment": [
+    5.5,
+    6.5
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.212416
+  },
+  {
+   "segment": [
+    5.5,
+    6.5
+   ],
+   "verb": "insert",
+   "noun": "coffee",
+   "score": 0.188165
+  },
+  {
+   "segment": [
+    6.0,
+    12.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.227546
+  },
+  {
+   "segment": [
+    6.0,
+    9.5
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.21651
+  },
+  {
+   "segment": [
+    6.0,
+    8.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.203581
+  },
+  {
+   "segment": [
+    6.0,
+    12.0
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.199782
+  },
+  {
+   "segment": [
+    6.0,
+    7.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.198446
+  },
+  {
+   "segment": [
+    6.0,
+    7.0
+   ],
+   "verb": "insert",
+   "noun": "coffee",
+   "score": 0.191653
+  },
+  {
+   "segment": [
+    6.0,
+    12.0
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.180338
+  },
+  {
+   "segment": [
+    6.0,
+    9.5
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.171456
+  },
+  {
+   "segment": [
+    6.0,
+    8.0
+   ],
+   "verb": "insert",
+   "noun": "coffee",
+   "score": 0.170933
+  },
+  {
+   "segment": [
+    6.0,
+    7.0
+   ],
+   "verb": "put",
+   "noun": "hob",
+   "score": 0.169741
+  },
+  {
+   "segment": [
+    6.0,
+    9.5
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.168249
+  },
+  {
+   "segment": [
+    6.0,
+    8.0
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.15508
+  },
+  {
+   "segment": [
+    6.5,
+    7.5
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.206799
+  },
+  {
+   "segment": [
+    6.5,
+    7.5
+   ],
+   "verb": "insert",
+   "noun": "coffee",
+   "score": 0.182343
+  },
+  {
+   "segment": [
+    6.5,
+    7.5
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.174476
+  },
+  {
+   "segment": [
+    7.0,
+    9.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.218556
+  },
+  {
+   "segment": [
+    7.0,
+    8.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.206856
+  },
+  {
+   "segment": [
+    7.0,
+    9.0
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.183275
+  },
+  {
+   "segment": [
+    7.0,
+    8.0
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.178603
+  },
+  {
+   "segment": [
+    7.0,
+    9.0
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.167969
+  },
+  {
+   "segment": [
+    7.0,
+    8.0
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.155927
+  },
+  {
+   "segment": [
+    7.5,
+    11.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.231378
+  },
+  {
+   "segment": [
+    7.5,
+    8.5
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.215135
+  },
+  {
+   "segment": [
+    7.5,
+    11.0
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.199496
+  },
+  {
+   "segment": [
+    7.5,
+    11.0
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.183378
+  },
+  {
+   "segment": [
+    7.5,
+    8.5
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.179991
+  },
+  {
+   "segment": [
+    7.5,
+    8.5
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.14989
+  },
+  {
+   "segment": [
+    8.0,
+    10.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.232866
+  },
+  {
+   "segment": [
+    8.0,
+    9.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.2302
+  },
+  {
+   "segment": [
+    8.0,
+    10.0
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.195215
+  },
+  {
+   "segment": [
+    8.0,
+    10.0
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.188964
+  },
+  {
+   "segment": [
+    8.0,
+    9.0
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.187577
+  },
+  {
+   "segment": [
+    8.0,
+    9.0
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.180011
+  },
+  {
+   "segment": [
+    8.5,
+    9.5
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.226867
+  },
+  {
+   "segment": [
+    8.5,
+    9.5
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.196821
+  },
+  {
+   "segment": [
+    8.5,
+    9.5
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.189028
+  },
+  {
+   "segment": [
+    9.0,
+    11.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.243508
+  },
+  {
+   "segment": [
+    9.0,
+    12.5
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.238549
+  },
+  {
+   "segment": [
+    9.0,
+    10.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.235509
+  },
+  {
+   "segment": [
+    9.0,
+    15.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.231823
+  },
+  {
+   "segment": [
+    9.0,
+    12.5
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.229599
+  },
+  {
+   "segment": [
+    9.0,
+    11.0
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.214508
+  },
+  {
+   "segment": [
+    9.0,
+    15.0
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.213279
+  },
+  {
+   "segment": [
+    9.0,
+    15.0
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.20966
+  },
+  {
+   "segment": [
+    9.0,
+    12.5
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.206053
+  },
+  {
+   "segment": [
+    9.0,
+    10.0
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.202793
+  },
+  {
+   "segment": [
+    9.0,
+    11.0
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.199023
+  },
+  {
+   "segment": [
+    9.0,
+    10.0
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.197792
+  },
+  {
+   "segment": [
+    9.5,
+    10.5
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.236986
+  },
+  {
+   "segment": [
+    9.5,
+    10.5
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.204607
+  },
+  {
+   "segment": [
+    9.5,
+    10.5
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.191188
+  },
+  {
+   "segment": [
+    10.0,
+    11.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.25065
+  },
+  {
+   "segment": [
+    10.0,
+    12.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.243071
+  },
+  {
+   "segment": [
+    10.0,
+    12.0
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.237363
+  },
+  {
+   "segment": [
+    10.0,
+    11.0
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.224861
+  },
+  {
+   "segment": [
+    10.0,
+    11.0
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.200026
+  },
+  {
+   "segment": [
+    10.0,
+    12.0
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.196289
+  },
+  {
+   "segment": [
+    10.5,
+    11.5
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.255513
+  },
+  {
+   "segment": [
+    10.5,
+    11.5
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.244263
+  },
+  {
+   "segment": [
+    10.5,
+    14.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.231745
+  },
+  {
+   "segment": [
+    10.5,
+    14.0
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.229872
+  },
+  {
+   "segment": [
+    10.5,
+    14.0
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.227308
+  },
+  {
+   "segment": [
+    10.5,
+    11.5
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.194621
+  },
+  {
+   "segment": [
+    11.0,
+    12.0
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.245212
+  },
+  {
+   "segment": [
+    11.0,
+    13.0
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.239326
+  },
+  {
+   "segment": [
+    11.0,
+    12.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.234496
+  },
+  {
+   "segment": [
+    11.0,
+    13.0
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.231469
+  },
+  {
+   "segment": [
+    11.0,
+    13.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.226733
+  },
+  {
+   "segment": [
+    11.0,
+    12.0
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.191438
+  },
+  {
+   "segment": [
+    11.5,
+    12.5
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.242492
+  },
+  {
+   "segment": [
+    11.5,
+    12.5
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.224002
+  },
+  {
+   "segment": [
+    11.5,
+    12.5
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.21977
+  },
+  {
+   "segment": [
+    12.0,
+    13.0
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.267648
+  },
+  {
+   "segment": [
+    12.0,
+    14.0
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.247979
+  },
+  {
+   "segment": [
+    12.0,
+    18.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.235885
+  },
+  {
+   "segment": [
+    12.0,
+    13.0
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.232495
+  },
+  {
+   "segment": [
+    12.0,
+    14.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.223098
+  },
+  {
+   "segment": [
+    12.0,
+    15.5
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.223039
+  },
+  {
+   "segment": [
+    12.0,
+    13.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.217754
+  },
+  {
+   "segment": [
+    12.0,
+    14.0
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.217313
+  },
+  {
+   "segment": [
+    12.0,
+    15.5
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.214058
+  },
+  {
+   "segment": [
+    12.0,
+    18.0
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.198575
+  },
+  {
+   "segment": [
+    12.0,
+    15.5
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.191915
+  },
+  {
+   "segment": [
+    12.0,
+    18.0
+   ],
+   "verb": "insert",
+   "noun": "coffee",
+   "score": 0.188834
+  },
+  {
+   "segment": [
+    12.5,
+    13.5
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.266849
+  },
+  {
+   "segment": [
+    12.5,
+    13.5
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.22146
+  },
+  {
+   "segment": [
+    12.5,
+    13.5
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.217406
+  },
+  {
+   "segment": [
+    13.0,
+    14.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.22833
+  },
+  {
+   "segment": [
+    13.0,
+    14.0
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.226545
+  },
+  {
+   "segment": [
+    13.0,
+    15.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.22444
+  },
+  {
+   "segment": [
+    13.0,
+    14.0
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.20094
+  },
+  {
+   "segment": [
+    13.0,
+    15.0
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.19206
+  },
+  {
+   "segment": [
+    13.0,
+    15.0
+   ],
+   "verb": "insert",
+   "noun": "coffee",
+   "score": 0.18431
+  },
+  {
+   "segment": [
+    13.5,
+    17.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.235023
+  },
+  {
+   "segment": [
+    13.5,
+    14.5
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.221926
+  },
+  {
+   "segment": [
+    13.5,
+    17.0
+   ],
+   "verb": "insert",
+   "noun": "coffee",
+   "score": 0.193642
+  },
+  {
+   "segment": [
+    13.5,
+    14.5
+   ],
+   "verb": "insert",
+   "noun": "coffee",
+   "score": 0.180003
+  },
+  {
+   "segment": [
+    13.5,
+    14.5
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.177378
+  },
+  {
+   "segment": [
+    13.5,
+    17.0
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.167272
+  },
+  {
+   "segment": [
+    14.0,
+    16.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.227657
+  },
+  {
+   "segment": [
+    14.0,
+    15.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.220481
+  },
+  {
+   "segment": [
+    14.0,
+    16.0
+   ],
+   "verb": "insert",
+   "noun": "coffee",
+   "score": 0.201151
+  },
+  {
+   "segment": [
+    14.0,
+    15.0
+   ],
+   "verb": "insert",
+   "noun": "coffee",
+   "score": 0.195311
+  },
+  {
+   "segment": [
+    14.0,
+    16.0
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.159021
+  },
+  {
+   "segment": [
+    14.0,
+    15.0
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.153264
+  },
+  {
+   "segment": [
+    14.5,
+    15.5
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.226345
+  },
+  {
+   "segment": [
+    14.5,
+    15.5
+   ],
+   "verb": "insert",
+   "noun": "coffee",
+   "score": 0.208382
+  },
+  {
+   "segment": [
+    14.5,
+    15.5
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.161436
+  },
+  {
+   "segment": [
+    15.0,
+    21.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.259682
+  },
+  {
+   "segment": [
+    15.0,
+    18.5
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.251232
+  },
+  {
+   "segment": [
+    15.0,
+    17.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.244032
+  },
+  {
+   "segment": [
+    15.0,
+    16.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.234758
+  },
+  {
+   "segment": [
+    15.0,
+    21.0
+   ],
+   "verb": "insert",
+   "noun": "coffee",
+   "score": 0.210189
+  },
+  {
+   "segment": [
+    15.0,
+    16.0
+   ],
+   "verb": "insert",
+   "noun": "coffee",
+   "score": 0.206906
+  },
+  {
+   "segment": [
+    15.0,
+    18.5
+   ],
+   "verb": "insert",
+   "noun": "coffee",
+   "score": 0.203284
+  },
+  {
+   "segment": [
+    15.0,
+    21.0
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.203015
+  },
+  {
+   "segment": [
+    15.0,
+    17.0
+   ],
+   "verb": "insert",
+   "noun": "coffee",
+   "score": 0.19754
+  },
+  {
+   "segment": [
+    15.0,
+    18.5
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.178999
+  },
+  {
+   "segment": [
+    15.0,
+    16.0
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.168192
+  },
+  {
+   "segment": [
+    15.0,
+    17.0
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.16727
+  },
+  {
+   "segment": [
+    15.5,
+    16.5
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.247029
+  },
+  {
+   "segment": [
+    15.5,
+    16.5
+   ],
+   "verb": "insert",
+   "noun": "coffee",
+   "score": 0.196982
+  },
+  {
+   "segment": [
+    15.5,
+    16.5
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.174988
+  },
+  {
+   "segment": [
+    16.0,
+    18.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.255904
+  },
+  {
+   "segment": [
+    16.0,
+    17.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.252389
+  },
+  {
+   "segment": [
+    16.0,
+    18.0
+   ],
+   "verb": "insert",
+   "noun": "coffee",
+   "score": 0.198728
+  },
+  {
+   "segment": [
+    16.0,
+    17.0
+   ],
+   "verb": "insert",
+   "noun": "coffee",
+   "score": 0.188074
+  },
+  {
+   "segment": [
+    16.0,
+    18.0
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.178103
+  },
+  {
+   "segment": [
+    16.0,
+    17.0
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.177624
+  },
+  {
+   "segment": [
+    16.5,
+    20.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.264206
+  },
+  {
+   "segment": [
+    16.5,
+    17.5
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.259403
+  },
+  {
+   "segment": [
+    16.5,
+    20.0
+   ],
+   "verb": "insert",
+   "noun": "coffee",
+   "score": 0.214608
+  },
+  {
+   "segment": [
+    16.5,
+    20.0
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.213563
+  },
+  {
+   "segment": [
+    16.5,
+    17.5
+   ],
+   "verb": "insert",
+   "noun": "coffee",
+   "score": 0.199923
+  },
+  {
+   "segment": [
+    16.5,
+    17.5
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.176606
+  },
+  {
+   "segment": [
+    17.0,
+    19.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.26325
+  },
+  {
+   "segment": [
+    17.0,
+    18.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.259339
+  },
+  {
+   "segment": [
+    17.0,
+    19.0
+   ],
+   "verb": "insert",
+   "noun": "coffee",
+   "score": 0.212665
+  },
+  {
+   "segment": [
+    17.0,
+    18.0
+   ],
+   "verb": "insert",
+   "noun": "coffee",
+   "score": 0.208755
+  },
+  {
+   "segment": [
+    17.0,
+    19.0
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.207623
+  },
+  {
+   "segment": [
+    17.0,
+    18.0
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.181593
+  },
+  {
+   "segment": [
+    17.5,
+    18.5
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.25677
+  },
+  {
+   "segment": [
+    17.5,
+    18.5
+   ],
+   "verb": "insert",
+   "noun": "coffee",
+   "score": 0.207372
+  },
+  {
+   "segment": [
+    17.5,
+    18.5
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.193688
+  },
+  {
+   "segment": [
+    18.0,
+    20.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.269756
+  },
+  {
+   "segment": [
+    18.0,
+    21.5
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.268281
+  },
+  {
+   "segment": [
+    18.0,
+    19.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.267152
+  },
+  {
+   "segment": [
+    18.0,
+    24.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.253842
+  },
+  {
+   "segment": [
+    18.0,
+    20.0
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.240087
+  },
+  {
+   "segment": [
+    18.0,
+    19.0
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.231583
+  },
+  {
+   "segment": [
+    18.0,
+    21.5
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.226466
+  },
+  {
+   "segment": [
+    18.0,
+    20.0
+   ],
+   "verb": "insert",
+   "noun": "coffee",
+   "score": 0.225213
+  },
+  {
+   "segment": [
+    18.0,
+    19.0
+   ],
+   "verb": "insert",
+   "noun": "coffee",
+   "score": 0.216573
+  },
+  {
+   "segment": [
+    18.0,
+    24.0
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.214883
+  },
+  {
+   "segment": [
+    18.0,
+    21.5
+   ],
+   "verb": "insert",
+   "noun": "coffee",
+   "score": 0.21455
+  },
+  {
+   "segment": [
+    18.0,
+    24.0
+   ],
+   "verb": "insert",
+   "noun": "coffee",
+   "score": 0.204617
+  },
+  {
+   "segment": [
+    18.5,
+    19.5
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.266381
+  },
+  {
+   "segment": [
+    18.5,
+    19.5
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.24767
+  },
+  {
+   "segment": [
+    18.5,
+    19.5
+   ],
+   "verb": "insert",
+   "noun": "coffee",
+   "score": 0.221712
+  },
+  {
+   "segment": [
+    19.0,
+    20.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.272332
+  },
+  {
+   "segment": [
+    19.0,
+    21.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.271027
+  },
+  {
+   "segment": [
+    19.0,
+    20.0
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.248289
+  },
+  {
+   "segment": [
+    19.0,
+    20.0
+   ],
+   "verb": "insert",
+   "noun": "coffee",
+   "score": 0.233523
+  },
+  {
+   "segment": [
+    19.0,
+    21.0
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.229351
+  },
+  {
+   "segment": [
+    19.0,
+    21.0
+   ],
+   "verb": "insert",
+   "noun": "coffee",
+   "score": 0.219762
+  },
+  {
+   "segment": [
+    19.5,
+    20.5
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.272538
+  },
+  {
+   "segment": [
+    19.5,
+    23.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.256256
+  },
+  {
+   "segment": [
+    19.5,
+    20.5
+   ],
+   "verb": "insert",
+   "noun": "coffee",
+   "score": 0.223319
+  },
+  {
+   "segment": [
+    19.5,
+    20.5
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.222687
+  },
+  {
+   "segment": [
+    19.5,
+    23.0
+   ],
+   "verb": "put",
+   "noun": "tea",
+   "score": 0.215235
+  },
+  {
+   "segment": [
+    19.5,
+    23.0
+   ],
+   "verb": "insert",
+   "noun": "tea",
+   "score": 0.212887
+  },
+  {
+   "segment": [
+    20.0,
+    21.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.269715
+  },
+  {
+   "segment": [
+    20.0,
+    22.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.261305
+  },
+  {
+   "segment": [
+    20.0,
+    22.0
+   ],
+   "verb": "put",
+   "noun": "tea",
+   "score": 0.225648
+  },
+  {
+   "segment": [
+    20.0,
+    22.0
+   ],
+   "verb": "insert",
+   "noun": "tea",
+   "score": 0.222829
+  },
+  {
+   "segment": [
+    20.0,
+    21.0
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.208701
+  },
+  {
+   "segment": [
+    20.0,
+    21.0
+   ],
+   "verb": "insert",
+   "noun": "coffee",
+   "score": 0.20508
+  },
+  {
+   "segment": [
+    20.5,
+    21.5
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.268799
+  },
+  {
+   "segment": [
+    20.5,
+    21.5
+   ],
+   "verb": "put",
+   "noun": "tea",
+   "score": 0.229836
+  },
+  {
+   "segment": [
+    20.5,
+    21.5
+   ],
+   "verb": "insert",
+   "noun": "tea",
+   "score": 0.229136
+  },
+  {
+   "segment": [
+    21.0,
+    22.0
+   ],
+   "verb": "put",
+   "noun": "tea",
+   "score": 0.254461
+  },
+  {
+   "segment": [
+    21.0,
+    22.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.252126
+  },
+  {
+   "segment": [
+    21.0,
+    23.0
+   ],
+   "verb": "put",
+   "noun": "tea",
+   "score": 0.243469
+  },
+  {
+   "segment": [
+    21.0,
+    22.0
+   ],
+   "verb": "insert",
+   "noun": "tea",
+   "score": 0.243468
+  },
+  {
+   "segment": [
+    21.0,
+    23.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.241117
+  },
+  {
+   "segment": [
+    21.0,
+    24.5
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.234565
+  },
+  {
+   "segment": [
+    21.0,
+    27.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.234066
+  },
+  {
+   "segment": [
+    21.0,
+    23.0
+   ],
+   "verb": "insert",
+   "noun": "tea",
+   "score": 0.233611
+  },
+  {
+   "segment": [
+    21.0,
+    27.0
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.213601
+  },
+  {
+   "segment": [
+    21.0,
+    24.5
+   ],
+   "verb": "insert",
+   "noun": "tea",
+   "score": 0.210774
+  },
+  {
+   "segment": [
+    21.0,
+    24.5
+   ],
+   "verb": "put",
+   "noun": "tea",
+   "score": 0.210418
+  },
+  {
+   "segment": [
+    21.0,
+    27.0
+   ],
+   "verb": "insert",
+   "noun": "coffee",
+   "score": 0.191966
+  },
+  {
+   "segment": [
+    21.5,
+    22.5
+   ],
+   "verb": "put",
+   "noun": "tea",
+   "score": 0.251647
+  },
+  {
+   "segment": [
+    21.5,
+    22.5
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.239016
+  },
+  {
+   "segment": [
+    21.5,
+    22.5
+   ],
+   "verb": "insert",
+   "noun": "tea",
+   "score": 0.234321
+  },
+  {
+   "segment": [
+    22.0,
+    23.0
+   ],
+   "verb": "put",
+   "noun": "tea",
+   "score": 0.231541
+  },
+  {
+   "segment": [
+    22.0,
+    23.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.229165
+  },
+  {
+   "segment": [
+    22.0,
+    24.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.226445
+  },
+  {
+   "segment": [
+    22.0,
+    23.0
+   ],
+   "verb": "insert",
+   "noun": "tea",
+   "score": 0.222946
+  },
+  {
+   "segment": [
+    22.0,
+    24.0
+   ],
+   "verb": "insert",
+   "noun": "tea",
+   "score": 0.207606
+  },
+  {
+   "segment": [
+    22.0,
+    24.0
+   ],
+   "verb": "put",
+   "noun": "tea",
+   "score": 0.201738
+  },
+  {
+   "segment": [
+    22.5,
+    26.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.229863
+  },
+  {
+   "segment": [
+    22.5,
+    23.5
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.225542
+  },
+  {
+   "segment": [
+    22.5,
+    26.0
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.217518
+  },
+  {
+   "segment": [
+    22.5,
+    23.5
+   ],
+   "verb": "insert",
+   "noun": "tea",
+   "score": 0.204496
+  },
+  {
+   "segment": [
+    22.5,
+    23.5
+   ],
+   "verb": "insert",
+   "noun": "coffee",
+   "score": 0.195599
+  },
+  {
+   "segment": [
+    22.5,
+    26.0
+   ],
+   "verb": "insert",
+   "noun": "coffee",
+   "score": 0.191937
+  },
+  {
+   "segment": [
+    23.0,
+    25.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.226956
+  },
+  {
+   "segment": [
+    23.0,
+    25.0
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.224228
+  },
+  {
+   "segment": [
+    23.0,
+    24.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.223692
+  },
+  {
+   "segment": [
+    23.0,
+    24.0
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.20999
+  },
+  {
+   "segment": [
+    23.0,
+    24.0
+   ],
+   "verb": "insert",
+   "noun": "coffee",
+   "score": 0.19637
+  },
+  {
+   "segment": [
+    23.0,
+    25.0
+   ],
+   "verb": "insert",
+   "noun": "coffee",
+   "score": 0.188112
+  },
+  {
+   "segment": [
+    23.5,
+    24.5
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.232434
+  },
+  {
+   "segment": [
+    23.5,
+    24.5
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.224866
+  },
+  {
+   "segment": [
+    23.5,
+    24.5
+   ],
+   "verb": "insert",
+   "noun": "coffee",
+   "score": 0.185267
+  },
+  {
+   "segment": [
+    24.0,
+    30.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.243231
+  },
+  {
+   "segment": [
+    24.0,
+    30.0
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.237584
+  },
+  {
+   "segment": [
+    24.0,
+    25.0
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.237483
+  },
+  {
+   "segment": [
+    24.0,
+    27.5
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.235812
+  },
+  {
+   "segment": [
+    24.0,
+    26.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.234089
+  },
+  {
+   "segment": [
+    24.0,
+    27.5
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.232522
+  },
+  {
+   "segment": [
+    24.0,
+    25.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.230137
+  },
+  {
+   "segment": [
+    24.0,
+    26.0
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.228224
+  },
+  {
+   "segment": [
+    24.0,
+    30.0
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.21219
+  },
+  {
+   "segment": [
+    24.0,
+    27.5
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.197885
+  },
+  {
+   "segment": [
+    24.0,
+    26.0
+   ],
+   "verb": "insert",
+   "noun": "coffee",
+   "score": 0.189906
+  },
+  {
+   "segment": [
+    24.0,
+    25.0
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.182178
+  },
+  {
+   "segment": [
+    24.5,
+    25.5
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.240691
+  },
+  {
+   "segment": [
+    24.5,
+    25.5
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.23032
+  },
+  {
+   "segment": [
+    24.5,
+    25.5
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.190342
+  },
+  {
+   "segment": [
+    25.0,
+    26.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.238037
+  },
+  {
+   "segment": [
+    25.0,
+    27.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.233836
+  },
+  {
+   "segment": [
+    25.0,
+    27.0
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.224358
+  },
+  {
+   "segment": [
+    25.0,
+    26.0
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.218277
+  },
+  {
+   "segment": [
+    25.0,
+    27.0
+   ],
+   "verb": "insert",
+   "noun": "coffee",
+   "score": 0.203117
+  },
+  {
+   "segment": [
+    25.0,
+    26.0
+   ],
+   "verb": "insert",
+   "noun": "coffee",
+   "score": 0.199938
+  },
+  {
+   "segment": [
+    25.5,
+    29.0
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.247833
+  },
+  {
+   "segment": [
+    25.5,
+    29.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.244796
+  },
+  {
+   "segment": [
+    25.5,
+    26.5
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.226966
+  },
+  {
+   "segment": [
+    25.5,
+    26.5
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.223971
+  },
+  {
+   "segment": [
+    25.5,
+    29.0
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.217415
+  },
+  {
+   "segment": [
+    25.5,
+    26.5
+   ],
+   "verb": "insert",
+   "noun": "coffee",
+   "score": 0.207418
+  },
+  {
+   "segment": [
+    26.0,
+    28.0
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.243093
+  },
+  {
+   "segment": [
+    26.0,
+    28.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.23882
+  },
+  {
+   "segment": [
+    26.0,
+    27.0
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.229839
+  },
+  {
+   "segment": [
+    26.0,
+    27.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.22962
+  },
+  {
+   "segment": [
+    26.0,
+    28.0
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.220575
+  },
+  {
+   "segment": [
+    26.0,
+    27.0
+   ],
+   "verb": "insert",
+   "noun": "coffee",
+   "score": 0.205958
+  },
+  {
+   "segment": [
+    26.5,
+    27.5
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.240844
+  },
+  {
+   "segment": [
+    26.5,
+    27.5
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.236583
+  },
+  {
+   "segment": [
+    26.5,
+    27.5
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.227417
+  },
+  {
+   "segment": [
+    27.0,
+    29.0
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.26163
+  },
+  {
+   "segment": [
+    27.0,
+    29.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.254051
+  },
+  {
+   "segment": [
+    27.0,
+    28.0
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.251018
+  },
+  {
+   "segment": [
+    27.0,
+    30.5
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.248279
+  },
+  {
+   "segment": [
+    27.0,
+    28.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.243729
+  },
+  {
+   "segment": [
+    27.0,
+    33.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.24281
+  },
+  {
+   "segment": [
+    27.0,
+    28.0
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.238446
+  },
+  {
+   "segment": [
+    27.0,
+    30.5
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.237531
+  },
+  {
+   "segment": [
+    27.0,
+    29.0
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.236712
+  },
+  {
+   "segment": [
+    27.0,
+    30.5
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.226913
+  },
+  {
+   "segment": [
+    27.0,
+    33.0
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.225608
+  },
+  {
+   "segment": [
+    27.0,
+    33.0
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.203528
+  },
+  {
+   "segment": [
+    27.5,
+    28.5
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.271359
+  },
+  {
+   "segment": [
+    27.5,
+    28.5
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.253344
+  },
+  {
+   "segment": [
+    27.5,
+    28.5
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.236722
+  },
+  {
+   "segment": [
+    28.0,
+    29.0
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.271774
+  },
+  {
+   "segment": [
+    28.0,
+    29.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.263921
+  },
+  {
+   "segment": [
+    28.0,
+    30.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.253845
+  },
+  {
+   "segment": [
+    28.0,
+    30.0
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.238627
+  },
+  {
+   "segment": [
+    28.0,
+    29.0
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.232902
+  },
+  {
+   "segment": [
+    28.0,
+    30.0
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.226156
+  },
+  {
+   "segment": [
+    28.5,
+    29.5
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.247125
+  },
+  {
+   "segment": [
+    28.5,
+    32.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.236129
+  },
+  {
+   "segment": [
+    28.5,
+    29.5
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.226812
+  },
+  {
+   "segment": [
+    28.5,
+    29.5
+   ],
+   "verb": "insert",
+   "noun": "coffee",
+   "score": 0.218255
+  },
+  {
+   "segment": [
+    28.5,
+    32.0
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.207327
+  },
+  {
+   "segment": [
+    28.5,
+    32.0
+   ],
+   "verb": "insert",
+   "noun": "coffee",
+   "score": 0.200046
+  },
+  {
+   "segment": [
+    29.0,
+    30.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.243753
+  },
+  {
+   "segment": [
+    29.0,
+    31.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.230502
+  },
+  {
+   "segment": [
+    29.0,
+    30.0
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.219336
+  },
+  {
+   "segment": [
+    29.0,
+    30.0
+   ],
+   "verb": "insert",
+   "noun": "coffee",
+   "score": 0.209141
+  },
+  {
+   "segment": [
+    29.0,
+    31.0
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.199923
+  },
+  {
+   "segment": [
+    29.0,
+    31.0
+   ],
+   "verb": "insert",
+   "noun": "coffee",
+   "score": 0.194093
+  },
+  {
+   "segment": [
+    29.5,
+    30.5
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.241228
+  },
+  {
+   "segment": [
+    29.5,
+    30.5
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.212109
+  },
+  {
+   "segment": [
+    29.5,
+    30.5
+   ],
+   "verb": "insert",
+   "noun": "coffee",
+   "score": 0.199478
+  },
+  {
+   "segment": [
+    30.0,
+    36.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.248699
+  },
+  {
+   "segment": [
+    30.0,
+    33.5
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.237925
+  },
+  {
+   "segment": [
+    30.0,
+    36.0
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.233054
+  },
+  {
+   "segment": [
+    30.0,
+    32.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.225705
+  },
+  {
+   "segment": [
+    30.0,
+    31.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.21563
+  },
+  {
+   "segment": [
+    30.0,
+    33.5
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.211086
+  },
+  {
+   "segment": [
+    30.0,
+    36.0
+   ],
+   "verb": "insert",
+   "noun": "coffee",
+   "score": 0.205991
+  },
+  {
+   "segment": [
+    30.0,
+    32.0
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.196235
+  },
+  {
+   "segment": [
+    30.0,
+    33.5
+   ],
+   "verb": "insert",
+   "noun": "coffee",
+   "score": 0.193461
+  },
+  {
+   "segment": [
+    30.0,
+    32.0
+   ],
+   "verb": "insert",
+   "noun": "coffee",
+   "score": 0.186336
+  },
+  {
+   "segment": [
+    30.0,
+    31.0
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.182236
+  },
+  {
+   "segment": [
+    30.0,
+    31.0
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.177219
+  },
+  {
+   "segment": [
+    30.5,
+    31.5
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.213166
+  },
+  {
+   "segment": [
+    30.5,
+    31.5
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.185168
+  },
+  {
+   "segment": [
+    30.5,
+    31.5
+   ],
+   "verb": "insert",
+   "noun": "coffee",
+   "score": 0.179426
+  },
+  {
+   "segment": [
+    31.0,
+    33.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.243232
+  },
+  {
+   "segment": [
+    31.0,
+    32.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.235191
+  },
+  {
+   "segment": [
+    31.0,
+    33.0
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.216202
+  },
+  {
+   "segment": [
+    31.0,
+    32.0
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.209095
+  },
+  {
+   "segment": [
+    31.0,
+    33.0
+   ],
+   "verb": "insert",
+   "noun": "coffee",
+   "score": 0.197796
+  },
+  {
+   "segment": [
+    31.0,
+    32.0
+   ],
+   "verb": "insert",
+   "noun": "coffee",
+   "score": 0.195206
+  },
+  {
+   "segment": [
+    31.5,
+    35.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.255065
+  },
+  {
+   "segment": [
+    31.5,
+    35.0
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.246261
+  },
+  {
+   "segment": [
+    31.5,
+    32.5
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.243625
+  },
+  {
+   "segment": [
+    31.5,
+    35.0
+   ],
+   "verb": "insert",
+   "noun": "coffee",
+   "score": 0.212934
+  },
+  {
+   "segment": [
+    31.5,
+    32.5
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.210717
+  },
+  {
+   "segment": [
+    31.5,
+    32.5
+   ],
+   "verb": "insert",
+   "noun": "coffee",
+   "score": 0.197042
+  },
+  {
+   "segment": [
+    32.0,
+    34.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.257483
+  },
+  {
+   "segment": [
+    32.0,
+    33.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.250983
+  },
+  {
+   "segment": [
+    32.0,
+    34.0
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.242175
+  },
+  {
+   "segment": [
+    32.0,
+    33.0
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.223052
+  },
+  {
+   "segment": [
+    32.0,
+    34.0
+   ],
+   "verb": "insert",
+   "noun": "coffee",
+   "score": 0.209419
+  },
+  {
+   "segment": [
+    32.0,
+    33.0
+   ],
+   "verb": "insert",
+   "noun": "coffee",
+   "score": 0.200341
+  },
+  {
+   "segment": [
+    32.5,
+    33.5
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.258739
+  },
+  {
+   "segment": [
+    32.5,
+    33.5
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.243298
+  },
+  {
+   "segment": [
+    32.5,
+    33.5
+   ],
+   "verb": "insert",
+   "noun": "tea",
+   "score": 0.216463
+  },
+  {
+   "segment": [
+    33.0,
+    34.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.263806
+  },
+  {
+   "segment": [
+    33.0,
+    35.0
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.262954
+  },
+  {
+   "segment": [
+    33.0,
+    36.5
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.262598
+  },
+  {
+   "segment": [
+    33.0,
+    34.0
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.259846
+  },
+  {
+   "segment": [
+    33.0,
+    35.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.259534
+  },
+  {
+   "segment": [
+    33.0,
+    39.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.259409
+  },
+  {
+   "segment": [
+    33.0,
+    39.0
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.258035
+  },
+  {
+   "segment": [
+    33.0,
+    36.5
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.255656
+  },
+  {
+   "segment": [
+    33.0,
+    35.0
+   ],
+   "verb": "insert",
+   "noun": "coffee",
+   "score": 0.222431
+  },
+  {
+   "segment": [
+    33.0,
+    34.0
+   ],
+   "verb": "insert",
+   "noun": "coffee",
+   "score": 0.218094
+  },
+  {
+   "segment": [
+    33.0,
+    36.5
+   ],
+   "verb": "insert",
+   "noun": "coffee",
+   "score": 0.216752
+  },
+  {
+   "segment": [
+    33.0,
+    39.0
+   ],
+   "verb": "insert",
+   "noun": "coffee",
+   "score": 0.210539
+  },
+  {
+   "segment": [
+    33.5,
+    34.5
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.269892
+  },
+  {
+   "segment": [
+    33.5,
+    34.5
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.264008
+  },
+  {
+   "segment": [
+    33.5,
+    34.5
+   ],
+   "verb": "insert",
+   "noun": "coffee",
+   "score": 0.225473
+  },
+  {
+   "segment": [
+    34.0,
+    35.0
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.266
+  },
+  {
+   "segment": [
+    34.0,
+    36.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.261503
+  },
+  {
+   "segment": [
+    34.0,
+    36.0
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.256938
+  },
+  {
+   "segment": [
+    34.0,
+    35.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.254746
+  },
+  {
+   "segment": [
+    34.0,
+    35.0
+   ],
+   "verb": "insert",
+   "noun": "coffee",
+   "score": 0.226755
+  },
+  {
+   "segment": [
+    34.0,
+    36.0
+   ],
+   "verb": "insert",
+   "noun": "coffee",
+   "score": 0.221014
+  },
+  {
+   "segment": [
+    34.5,
+    38.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.260062
+  },
+  {
+   "segment": [
+    34.5,
+    35.5
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.257411
+  },
+  {
+   "segment": [
+    34.5,
+    38.0
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.255191
+  },
+  {
+   "segment": [
+    34.5,
+    35.5
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.252688
+  },
+  {
+   "segment": [
+    34.5,
+    35.5
+   ],
+   "verb": "insert",
+   "noun": "coffee",
+   "score": 0.220284
+  },
+  {
+   "segment": [
+    34.5,
+    38.0
+   ],
+   "verb": "insert",
+   "noun": "coffee",
+   "score": 0.214328
+  },
+  {
+   "segment": [
+    35.0,
+    36.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.267943
+  },
+  {
+   "segment": [
+    35.0,
+    37.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.26679
+  },
+  {
+   "segment": [
+    35.0,
+    36.0
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.247702
+  },
+  {
+   "segment": [
+    35.0,
+    37.0
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.246354
+  },
+  {
+   "segment": [
+    35.0,
+    36.0
+   ],
+   "verb": "insert",
+   "noun": "coffee",
+   "score": 0.215212
+  },
+  {
+   "segment": [
+    35.0,
+    37.0
+   ],
+   "verb": "insert",
+   "noun": "coffee",
+   "score": 0.211257
+  },
+  {
+   "segment": [
+    35.5,
+    36.5
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.27208
+  },
+  {
+   "segment": [
+    35.5,
+    36.5
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.246021
+  },
+  {
+   "segment": [
+    35.5,
+    36.5
+   ],
+   "verb": "insert",
+   "noun": "coffee",
+   "score": 0.209076
+  },
+  {
+   "segment": [
+    36.0,
+    37.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.265504
+  },
+  {
+   "segment": [
+    36.0,
+    42.0
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.264207
+  },
+  {
+   "segment": [
+    36.0,
+    39.5
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.260301
+  },
+  {
+   "segment": [
+    36.0,
+    39.5
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.259629
+  },
+  {
+   "segment": [
+    36.0,
+    38.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.258057
+  },
+  {
+   "segment": [
+    36.0,
+    38.0
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.255327
+  },
+  {
+   "segment": [
+    36.0,
+    42.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.246105
+  },
+  {
+   "segment": [
+    36.0,
+    37.0
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.244895
+  },
+  {
+   "segment": [
+    36.0,
+    38.0
+   ],
+   "verb": "insert",
+   "noun": "coffee",
+   "score": 0.209547
+  },
+  {
+   "segment": [
+    36.0,
+    37.0
+   ],
+   "verb": "insert",
+   "noun": "coffee",
+   "score": 0.207288
+  },
+  {
+   "segment": [
+    36.0,
+    39.5
+   ],
+   "verb": "insert",
+   "noun": "coffee",
+   "score": 0.200314
+  },
+  {
+   "segment": [
+    36.0,
+    42.0
+   ],
+   "verb": "insert",
+   "noun": "coffee",
+   "score": 0.194681
+  },
+  {
+   "segment": [
+    36.5,
+    37.5
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.259508
+  },
+  {
+   "segment": [
+    36.5,
+    37.5
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.251965
+  },
+  {
+   "segment": [
+    36.5,
+    37.5
+   ],
+   "verb": "insert",
+   "noun": "coffee",
+   "score": 0.216393
+  },
+  {
+   "segment": [
+    37.0,
+    38.0
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.265707
+  },
+  {
+   "segment": [
+    37.0,
+    39.0
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.264501
+  },
+  {
+   "segment": [
+    37.0,
+    39.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.251625
+  },
+  {
+   "segment": [
+    37.0,
+    38.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.248624
+  },
+  {
+   "segment": [
+    37.0,
+    38.0
+   ],
+   "verb": "insert",
+   "noun": "coffee",
+   "score": 0.211376
+  },
+  {
+   "segment": [
+    37.0,
+    39.0
+   ],
+   "verb": "insert",
+   "noun": "coffee",
+   "score": 0.197333
+  },
+  {
+   "segment": [
+    37.5,
+    41.0
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.280403
+  },
+  {
+   "segment": [
+    37.5,
+    38.5
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.268742
+  },
+  {
+   "segment": [
+    37.5,
+    38.5
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.249609
+  },
+  {
+   "segment": [
+    37.5,
+    41.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.246957
+  },
+  {
+   "segment": [
+    37.5,
+    38.5
+   ],
+   "verb": "insert",
+   "noun": "coffee",
+   "score": 0.196379
+  },
+  {
+   "segment": [
+    37.5,
+    41.0
+   ],
+   "verb": "insert",
+   "noun": "coffee",
+   "score": 0.191204
+  },
+  {
+   "segment": [
+    38.0,
+    40.0
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.268144
+  },
+  {
+   "segment": [
+    38.0,
+    39.0
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.261825
+  },
+  {
+   "segment": [
+    38.0,
+    40.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.255479
+  },
+  {
+   "segment": [
+    38.0,
+    39.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.252599
+  },
+  {
+   "segment": [
+    38.0,
+    39.0
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.194619
+  },
+  {
+   "segment": [
+    38.0,
+    40.0
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.19197
+  },
+  {
+   "segment": [
+    38.5,
+    39.5
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.268719
+  },
+  {
+   "segment": [
+    38.5,
+    39.5
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.264904
+  },
+  {
+   "segment": [
+    38.5,
+    39.5
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.199931
+  },
+  {
+   "segment": [
+    39.0,
+    41.0
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.291255
+  },
+  {
+   "segment": [
+    39.0,
+    40.0
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.274403
+  },
+  {
+   "segment": [
+    39.0,
+    40.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.258166
+  },
+  {
+   "segment": [
+    39.0,
+    42.5
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.255229
+  },
+  {
+   "segment": [
+    39.0,
+    41.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.243494
+  },
+  {
+   "segment": [
+    39.0,
+    45.0
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.234769
+  },
+  {
+   "segment": [
+    39.0,
+    45.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.232543
+  },
+  {
+   "segment": [
+    39.0,
+    42.5
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.230547
+  },
+  {
+   "segment": [
+    39.0,
+    41.0
+   ],
+   "verb": "insert",
+   "noun": "coffee",
+   "score": 0.190914
+  },
+  {
+   "segment": [
+    39.0,
+    40.0
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.188768
+  },
+  {
+   "segment": [
+    39.0,
+    42.5
+   ],
+   "verb": "insert",
+   "noun": "coffee",
+   "score": 0.184691
+  },
+  {
+   "segment": [
+    39.0,
+    45.0
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.181389
+  },
+  {
+   "segment": [
+    39.5,
+    40.5
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.293067
+  },
+  {
+   "segment": [
+    39.5,
+    40.5
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.23504
+  },
+  {
+   "segment": [
+    39.5,
+    40.5
+   ],
+   "verb": "insert",
+   "noun": "coffee",
+   "score": 0.187255
+  },
+  {
+   "segment": [
+    40.0,
+    41.0
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.307312
+  },
+  {
+   "segment": [
+    40.0,
+    42.0
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.268188
+  },
+  {
+   "segment": [
+    40.0,
+    41.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.227737
+  },
+  {
+   "segment": [
+    40.0,
+    42.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.222745
+  },
+  {
+   "segment": [
+    40.0,
+    41.0
+   ],
+   "verb": "insert",
+   "noun": "coffee",
+   "score": 0.193413
+  },
+  {
+   "segment": [
+    40.0,
+    42.0
+   ],
+   "verb": "insert",
+   "noun": "coffee",
+   "score": 0.188271
+  },
+  {
+   "segment": [
+    40.5,
+    41.5
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.278932
+  },
+  {
+   "segment": [
+    40.5,
+    44.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.225719
+  },
+  {
+   "segment": [
+    40.5,
+    41.5
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.218321
+  },
+  {
+   "segment": [
+    40.5,
+    44.0
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.212756
+  },
+  {
+   "segment": [
+    40.5,
+    41.5
+   ],
+   "verb": "insert",
+   "noun": "coffee",
+   "score": 0.191278
+  },
+  {
+   "segment": [
+    40.5,
+    44.0
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.183257
+  },
+  {
+   "segment": [
+    41.0,
+    42.0
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.222352
+  },
+  {
+   "segment": [
+    41.0,
+    43.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.219684
+  },
+  {
+   "segment": [
+    41.0,
+    42.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.217646
+  },
+  {
+   "segment": [
+    41.0,
+    43.0
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.192201
+  },
+  {
+   "segment": [
+    41.0,
+    42.0
+   ],
+   "verb": "insert",
+   "noun": "coffee",
+   "score": 0.182993
+  },
+  {
+   "segment": [
+    41.0,
+    43.0
+   ],
+   "verb": "insert",
+   "noun": "coffee",
+   "score": 0.176567
+  },
+  {
+   "segment": [
+    41.5,
+    42.5
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.208363
+  },
+  {
+   "segment": [
+    41.5,
+    42.5
+   ],
+   "verb": "insert",
+   "noun": "coffee",
+   "score": 0.168891
+  },
+  {
+   "segment": [
+    41.5,
+    42.5
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.168879
+  },
+  {
+   "segment": [
+    42.0,
+    48.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.234237
+  },
+  {
+   "segment": [
+    42.0,
+    44.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.23122
+  },
+  {
+   "segment": [
+    42.0,
+    45.5
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.229672
+  },
+  {
+   "segment": [
+    42.0,
+    43.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.221722
+  },
+  {
+   "segment": [
+    42.0,
+    48.0
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.205466
+  },
+  {
+   "segment": [
+    42.0,
+    44.0
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.205185
+  },
+  {
+   "segment": [
+    42.0,
+    45.5
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.201268
+  },
+  {
+   "segment": [
+    42.0,
+    45.5
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.191669
+  },
+  {
+   "segment": [
+    42.0,
+    43.0
+   ],
+   "verb": "put",
+   "noun": "tea",
+   "score": 0.187164
+  },
+  {
+   "segment": [
+    42.0,
+    43.0
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.185635
+  },
+  {
+   "segment": [
+    42.0,
+    48.0
+   ],
+   "verb": "insert",
+   "noun": "coffee",
+   "score": 0.182638
+  },
+  {
+   "segment": [
+    42.0,
+    44.0
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.179596
+  },
+  {
+   "segment": [
+    42.5,
+    43.5
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.231842
+  },
+  {
+   "segment": [
+    42.5,
+    43.5
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.213379
+  },
+  {
+   "segment": [
+    42.5,
+    43.5
+   ],
+   "verb": "put",
+   "noun": "tea",
+   "score": 0.187775
+  },
+  {
+   "segment": [
+    43.0,
+    44.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.238234
+  },
+  {
+   "segment": [
+    43.0,
+    45.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.233391
+  },
+  {
+   "segment": [
+    43.0,
+    44.0
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.220012
+  },
+  {
+   "segment": [
+    43.0,
+    45.0
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.209217
+  },
+  {
+   "segment": [
+    43.0,
+    45.0
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.20116
+  },
+  {
+   "segment": [
+    43.0,
+    44.0
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.197568
+  },
+  {
+   "segment": [
+    43.5,
+    44.5
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.242767
+  },
+  {
+   "segment": [
+    43.5,
+    47.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.239336
+  },
+  {
+   "segment": [
+    43.5,
+    47.0
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.223991
+  },
+  {
+   "segment": [
+    43.5,
+    44.5
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.215977
+  },
+  {
+   "segment": [
+    43.5,
+    44.5
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.212744
+  },
+  {
+   "segment": [
+    43.5,
+    47.0
+   ],
+   "verb": "insert",
+   "noun": "coffee",
+   "score": 0.188569
+  },
+  {
+   "segment": [
+    44.0,
+    46.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.230352
+  },
+  {
+   "segment": [
+    44.0,
+    46.0
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.229385
+  },
+  {
+   "segment": [
+    44.0,
+    45.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.226753
+  },
+  {
+   "segment": [
+    44.0,
+    45.0
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.220855
+  },
+  {
+   "segment": [
+    44.0,
+    46.0
+   ],
+   "verb": "insert",
+   "noun": "coffee",
+   "score": 0.185475
+  },
+  {
+   "segment": [
+    44.0,
+    45.0
+   ],
+   "verb": "insert",
+   "noun": "coffee",
+   "score": 0.178193
+  },
+  {
+   "segment": [
+    44.5,
+    45.5
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.233558
+  },
+  {
+   "segment": [
+    44.5,
+    45.5
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.225488
+  },
+  {
+   "segment": [
+    44.5,
+    45.5
+   ],
+   "verb": "insert",
+   "noun": "coffee",
+   "score": 0.184186
+  },
+  {
+   "segment": [
+    45.0,
+    48.5
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.240567
+  },
+  {
+   "segment": [
+    45.0,
+    47.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.240274
+  },
+  {
+   "segment": [
+    45.0,
+    46.0
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.237916
+  },
+  {
+   "segment": [
+    45.0,
+    51.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.23514
+  },
+  {
+   "segment": [
+    45.0,
+    46.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.233851
+  },
+  {
+   "segment": [
+    45.0,
+    47.0
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.228119
+  },
+  {
+   "segment": [
+    45.0,
+    48.5
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.210483
+  },
+  {
+   "segment": [
+    45.0,
+    47.0
+   ],
+   "verb": "insert",
+   "noun": "coffee",
+   "score": 0.194815
+  },
+  {
+   "segment": [
+    45.0,
+    46.0
+   ],
+   "verb": "insert",
+   "noun": "coffee",
+   "score": 0.192755
+  },
+  {
+   "segment": [
+    45.0,
+    51.0
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.19259
+  },
+  {
+   "segment": [
+    45.0,
+    48.5
+   ],
+   "verb": "insert",
+   "noun": "coffee",
+   "score": 0.1914
+  },
+  {
+   "segment": [
+    45.0,
+    51.0
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.181145
+  },
+  {
+   "segment": [
+    45.5,
+    46.5
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.245732
+  },
+  {
+   "segment": [
+    45.5,
+    46.5
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.226162
+  },
+  {
+   "segment": [
+    45.5,
+    46.5
+   ],
+   "verb": "insert",
+   "noun": "coffee",
+   "score": 0.198942
+  },
+  {
+   "segment": [
+    46.0,
+    47.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.246617
+  },
+  {
+   "segment": [
+    46.0,
+    48.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.240551
+  },
+  {
+   "segment": [
+    46.0,
+    47.0
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.217687
+  },
+  {
+   "segment": [
+    46.0,
+    48.0
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.20601
+  },
+  {
+   "segment": [
+    46.0,
+    47.0
+   ],
+   "verb": "insert",
+   "noun": "coffee",
+   "score": 0.196873
+  },
+  {
+   "segment": [
+    46.0,
+    48.0
+   ],
+   "verb": "insert",
+   "noun": "coffee",
+   "score": 0.190889
+  },
+  {
+   "segment": [
+    46.5,
+    47.5
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.240945
+  },
+  {
+   "segment": [
+    46.5,
+    50.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.228525
+  },
+  {
+   "segment": [
+    46.5,
+    47.5
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.209245
+  },
+  {
+   "segment": [
+    46.5,
+    47.5
+   ],
+   "verb": "insert",
+   "noun": "coffee",
+   "score": 0.191181
+  },
+  {
+   "segment": [
+    46.5,
+    50.0
+   ],
+   "verb": "put",
+   "noun": "tea",
+   "score": 0.181228
+  },
+  {
+   "segment": [
+    46.5,
+    50.0
+   ],
+   "verb": "put",
+   "noun": "hob",
+   "score": 0.180476
+  },
+  {
+   "segment": [
+    47.0,
+    48.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.234467
+  },
+  {
+   "segment": [
+    47.0,
+    49.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.228403
+  },
+  {
+   "segment": [
+    47.0,
+    48.0
+   ],
+   "verb": "put",
+   "noun": "hob",
+   "score": 0.198718
+  },
+  {
+   "segment": [
+    47.0,
+    48.0
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.19422
+  },
+  {
+   "segment": [
+    47.0,
+    49.0
+   ],
+   "verb": "put",
+   "noun": "hob",
+   "score": 0.19353
+  },
+  {
+   "segment": [
+    47.0,
+    49.0
+   ],
+   "verb": "put",
+   "noun": "tea",
+   "score": 0.18861
+  },
+  {
+   "segment": [
+    47.5,
+    48.5
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.241662
+  },
+  {
+   "segment": [
+    47.5,
+    48.5
+   ],
+   "verb": "put",
+   "noun": "hob",
+   "score": 0.206436
+  },
+  {
+   "segment": [
+    47.5,
+    48.5
+   ],
+   "verb": "insert",
+   "noun": "tea",
+   "score": 0.198025
+  },
+  {
+   "segment": [
+    48.0,
+    54.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.239291
+  },
+  {
+   "segment": [
+    48.0,
+    51.5
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.231236
+  },
+  {
+   "segment": [
+    48.0,
+    49.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.222332
+  },
+  {
+   "segment": [
+    48.0,
+    50.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.221981
+  },
+  {
+   "segment": [
+    48.0,
+    51.5
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.206751
+  },
+  {
+   "segment": [
+    48.0,
+    50.0
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.203154
+  },
+  {
+   "segment": [
+    48.0,
+    54.0
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.201505
+  },
+  {
+   "segment": [
+    48.0,
+    54.0
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.19997
+  },
+  {
+   "segment": [
+    48.0,
+    49.0
+   ],
+   "verb": "put",
+   "noun": "tea",
+   "score": 0.195513
+  },
+  {
+   "segment": [
+    48.0,
+    49.0
+   ],
+   "verb": "put",
+   "noun": "hob",
+   "score": 0.188335
+  },
+  {
+   "segment": [
+    48.0,
+    50.0
+   ],
+   "verb": "put",
+   "noun": "tea",
+   "score": 0.185353
+  },
+  {
+   "segment": [
+    48.0,
+    51.5
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.170505
+  },
+  {
+   "segment": [
+    48.5,
+    49.5
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.200977
+  },
+  {
+   "segment": [
+    48.5,
+    49.5
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.19276
+  },
+  {
+   "segment": [
+    48.5,
+    49.5
+   ],
+   "verb": "put",
+   "noun": "tea",
+   "score": 0.183749
+  },
+  {
+   "segment": [
+    49.0,
+    51.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.23653
+  },
+  {
+   "segment": [
+    49.0,
+    50.0
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.231162
+  },
+  {
+   "segment": [
+    49.0,
+    51.0
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.228086
+  },
+  {
+   "segment": [
+    49.0,
+    50.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.221374
+  },
+  {
+   "segment": [
+    49.0,
+    51.0
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.175596
+  },
+  {
+   "segment": [
+    49.0,
+    50.0
+   ],
+   "verb": "put",
+   "noun": "tea",
+   "score": 0.17367
+  },
+  {
+   "segment": [
+    49.5,
+    53.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.242349
+  },
+  {
+   "segment": [
+    49.5,
+    50.5
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.233811
+  },
+  {
+   "segment": [
+    49.5,
+    50.5
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.232675
+  },
+  {
+   "segment": [
+    49.5,
+    53.0
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.213045
+  },
+  {
+   "segment": [
+    49.5,
+    53.0
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.206293
+  },
+  {
+   "segment": [
+    49.5,
+    50.5
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.178334
+  },
+  {
+   "segment": [
+    50.0,
+    51.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.249406
+  },
+  {
+   "segment": [
+    50.0,
+    52.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.245234
+  },
+  {
+   "segment": [
+    50.0,
+    51.0
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.224866
+  },
+  {
+   "segment": [
+    50.0,
+    52.0
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.213597
+  },
+  {
+   "segment": [
+    50.0,
+    52.0
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.201225
+  },
+  {
+   "segment": [
+    50.0,
+    51.0
+   ],
+   "verb": "insert",
+   "noun": "coffee",
+   "score": 0.186731
+  },
+  {
+   "segment": [
+    50.5,
+    51.5
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.245933
+  },
+  {
+   "segment": [
+    50.5,
+    51.5
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.201837
+  },
+  {
+   "segment": [
+    50.5,
+    51.5
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.189646
+  },
+  {
+   "segment": [
+    51.0,
+    54.5
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.247686
+  },
+  {
+   "segment": [
+    51.0,
+    53.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.240712
+  },
+  {
+   "segment": [
+    51.0,
+    52.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.240646
+  },
+  {
+   "segment": [
+    51.0,
+    54.5
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.231086
+  },
+  {
+   "segment": [
+    51.0,
+    57.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.228667
+  },
+  {
+   "segment": [
+    51.0,
+    53.0
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.222617
+  },
+  {
+   "segment": [
+    51.0,
+    52.0
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.220442
+  },
+  {
+   "segment": [
+    51.0,
+    54.5
+   ],
+   "verb": "insert",
+   "noun": "coffee",
+   "score": 0.202286
+  },
+  {
+   "segment": [
+    51.0,
+    52.0
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.200987
+  },
+  {
+   "segment": [
+    51.0,
+    53.0
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.200395
+  },
+  {
+   "segment": [
+    51.0,
+    57.0
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.19339
+  },
+  {
+   "segment": [
+    51.0,
+    57.0
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.191107
+  },
+  {
+   "segment": [
+    51.5,
+    52.5
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.245473
+  },
+  {
+   "segment": [
+    51.5,
+    52.5
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.24394
+  },
+  {
+   "segment": [
+    51.5,
+    52.5
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.211461
+  },
+  {
+   "segment": [
+    52.0,
+    54.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.24876
+  },
+  {
+   "segment": [
+    52.0,
+    53.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.240281
+  },
+  {
+   "segment": [
+    52.0,
+    54.0
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.231446
+  },
+  {
+   "segment": [
+    52.0,
+    53.0
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.224132
+  },
+  {
+   "segment": [
+    52.0,
+    54.0
+   ],
+   "verb": "insert",
+   "noun": "coffee",
+   "score": 0.2051
+  },
+  {
+   "segment": [
+    52.0,
+    53.0
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.199443
+  },
+  {
+   "segment": [
+    52.5,
+    53.5
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.244465
+  },
+  {
+   "segment": [
+    52.5,
+    56.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.243165
+  },
+  {
+   "segment": [
+    52.5,
+    53.5
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.219596
+  },
+  {
+   "segment": [
+    52.5,
+    56.0
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.203068
+  },
+  {
+   "segment": [
+    52.5,
+    56.0
+   ],
+   "verb": "insert",
+   "noun": "coffee",
+   "score": 0.201435
+  },
+  {
+   "segment": [
+    52.5,
+    53.5
+   ],
+   "verb": "insert",
+   "noun": "coffee",
+   "score": 0.199553
+  },
+  {
+   "segment": [
+    53.0,
+    54.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.257233
+  },
+  {
+   "segment": [
+    53.0,
+    55.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.253729
+  },
+  {
+   "segment": [
+    53.0,
+    54.0
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.238759
+  },
+  {
+   "segment": [
+    53.0,
+    55.0
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.224696
+  },
+  {
+   "segment": [
+    53.0,
+    54.0
+   ],
+   "verb": "insert",
+   "noun": "coffee",
+   "score": 0.218963
+  },
+  {
+   "segment": [
+    53.0,
+    55.0
+   ],
+   "verb": "insert",
+   "noun": "coffee",
+   "score": 0.214964
+  },
+  {
+   "segment": [
+    53.5,
+    54.5
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.262413
+  },
+  {
+   "segment": [
+    53.5,
+    54.5
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.247387
+  },
+  {
+   "segment": [
+    53.5,
+    54.5
+   ],
+   "verb": "insert",
+   "noun": "coffee",
+   "score": 0.227351
+  },
+  {
+   "segment": [
+    54.0,
+    55.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.250011
+  },
+  {
+   "segment": [
+    54.0,
+    56.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.235273
+  },
+  {
+   "segment": [
+    54.0,
+    55.0
+   ],
+   "verb": "insert",
+   "noun": "coffee",
+   "score": 0.210718
+  },
+  {
+   "segment": [
+    54.0,
+    55.0
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.209172
+  },
+  {
+   "segment": [
+    54.0,
+    56.0
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.202136
+  },
+  {
+   "segment": [
+    54.0,
+    57.5
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.199339
+  },
+  {
+   "segment": [
+    54.0,
+    56.0
+   ],
+   "verb": "insert",
+   "noun": "coffee",
+   "score": 0.194514
+  },
+  {
+   "segment": [
+    54.0,
+    57.5
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.178933
+  },
+  {
+   "segment": [
+    54.0,
+    57.5
+   ],
+   "verb": "insert",
+   "noun": "coffee",
+   "score": 0.155895
+  },
+  {
+   "segment": [
+    54.0,
+    60.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.143801
+  },
+  {
+   "segment": [
+    54.0,
+    60.0
+   ],
+   "verb": "pull",
+   "noun": "wire",
+   "score": 0.133079
+  },
+  {
+   "segment": [
+    54.0,
+    60.0
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.128974
+  },
+  {
+   "segment": [
+    54.5,
+    55.5
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.244149
+  },
+  {
+   "segment": [
+    54.5,
+    55.5
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.209792
+  },
+  {
+   "segment": [
+    54.5,
+    55.5
+   ],
+   "verb": "insert",
+   "noun": "coffee",
+   "score": 0.1978
+  },
+  {
+   "segment": [
+    55.0,
+    56.0
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.223203
+  },
+  {
+   "segment": [
+    55.0,
+    56.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.220516
+  },
+  {
+   "segment": [
+    55.0,
+    57.0
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.194342
+  },
+  {
+   "segment": [
+    55.0,
+    57.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.191367
+  },
+  {
+   "segment": [
+    55.0,
+    56.0
+   ],
+   "verb": "insert",
+   "noun": "tea",
+   "score": 0.183659
+  },
+  {
+   "segment": [
+    55.0,
+    57.0
+   ],
+   "verb": "insert",
+   "noun": "coffee",
+   "score": 0.145357
+  },
+  {
+   "segment": [
+    55.5,
+    56.5
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.205549
+  },
+  {
+   "segment": [
+    55.5,
+    56.5
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.19082
+  },
+  {
+   "segment": [
+    55.5,
+    59.0
+   ],
+   "verb": "pull",
+   "noun": "wire",
+   "score": 0.153165
+  },
+  {
+   "segment": [
+    55.5,
+    59.0
+   ],
+   "verb": "move",
+   "noun": "wire",
+   "score": 0.151599
+  },
+  {
+   "segment": [
+    55.5,
+    56.5
+   ],
+   "verb": "insert",
+   "noun": "coffee",
+   "score": 0.145512
+  },
+  {
+   "segment": [
+    55.5,
+    59.0
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.119526
+  },
+  {
+   "segment": [
+    56.0,
+    57.0
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.164976
+  },
+  {
+   "segment": [
+    56.0,
+    57.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.161636
+  },
+  {
+   "segment": [
+    56.0,
+    58.0
+   ],
+   "verb": "move",
+   "noun": "wire",
+   "score": 0.137295
+  },
+  {
+   "segment": [
+    56.0,
+    58.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.128346
+  },
+  {
+   "segment": [
+    56.0,
+    58.0
+   ],
+   "verb": "pull",
+   "noun": "wire",
+   "score": 0.127622
+  },
+  {
+   "segment": [
+    56.0,
+    57.0
+   ],
+   "verb": "move",
+   "noun": "hob",
+   "score": 0.127337
+  },
+  {
+   "segment": [
+    56.5,
+    57.5
+   ],
+   "verb": "move",
+   "noun": "wire",
+   "score": 0.13586
+  },
+  {
+   "segment": [
+    56.5,
+    57.5
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.129923
+  },
+  {
+   "segment": [
+    56.5,
+    57.5
+   ],
+   "verb": "pull",
+   "noun": "wire",
+   "score": 0.12561
+  },
+  {
+   "segment": [
+    57.0,
+    59.0
+   ],
+   "verb": "pull",
+   "noun": "wire",
+   "score": 0.194182
+  },
+  {
+   "segment": [
+    57.0,
+    59.0
+   ],
+   "verb": "move",
+   "noun": "wire",
+   "score": 0.192175
+  },
+  {
+   "segment": [
+    57.0,
+    58.0
+   ],
+   "verb": "move",
+   "noun": "wire",
+   "score": 0.189034
+  },
+  {
+   "segment": [
+    57.0,
+    58.0
+   ],
+   "verb": "pull",
+   "noun": "wire",
+   "score": 0.175739
+  },
+  {
+   "segment": [
+    57.0,
+    60.5
+   ],
+   "verb": "take",
+   "noun": "cloth",
+   "score": 0.161153
+  },
+  {
+   "segment": [
+    57.0,
+    60.5
+   ],
+   "verb": "pull",
+   "noun": "wire",
+   "score": 0.159324
+  },
+  {
+   "segment": [
+    57.0,
+    60.5
+   ],
+   "verb": "move",
+   "noun": "wire",
+   "score": 0.154107
+  },
+  {
+   "segment": [
+    57.0,
+    63.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.139041
+  },
+  {
+   "segment": [
+    57.0,
+    58.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.135727
+  },
+  {
+   "segment": [
+    57.0,
+    63.0
+   ],
+   "verb": "take",
+   "noun": "cloth",
+   "score": 0.133183
+  },
+  {
+   "segment": [
+    57.0,
+    59.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.130609
+  },
+  {
+   "segment": [
+    57.0,
+    63.0
+   ],
+   "verb": "pull",
+   "noun": "wire",
+   "score": 0.121449
+  },
+  {
+   "segment": [
+    57.5,
+    58.5
+   ],
+   "verb": "move",
+   "noun": "wire",
+   "score": 0.212816
+  },
+  {
+   "segment": [
+    57.5,
+    58.5
+   ],
+   "verb": "pull",
+   "noun": "wire",
+   "score": 0.211962
+  },
+  {
+   "segment": [
+    57.5,
+    58.5
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.136736
+  },
+  {
+   "segment": [
+    58.0,
+    59.0
+   ],
+   "verb": "pull",
+   "noun": "wire",
+   "score": 0.210057
+  },
+  {
+   "segment": [
+    58.0,
+    59.0
+   ],
+   "verb": "move",
+   "noun": "wire",
+   "score": 0.194977
+  },
+  {
+   "segment": [
+    58.0,
+    60.0
+   ],
+   "verb": "take",
+   "noun": "cloth",
+   "score": 0.171046
+  },
+  {
+   "segment": [
+    58.0,
+    60.0
+   ],
+   "verb": "pull",
+   "noun": "wire",
+   "score": 0.170652
+  },
+  {
+   "segment": [
+    58.0,
+    60.0
+   ],
+   "verb": "move",
+   "noun": "wire",
+   "score": 0.154888
+  },
+  {
+   "segment": [
+    58.0,
+    59.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.12547
+  },
+  {
+   "segment": [
+    58.5,
+    59.5
+   ],
+   "verb": "pull",
+   "noun": "wire",
+   "score": 0.171327
+  },
+  {
+   "segment": [
+    58.5,
+    62.0
+   ],
+   "verb": "take",
+   "noun": "cloth",
+   "score": 0.16932
+  },
+  {
+   "segment": [
+    58.5,
+    59.5
+   ],
+   "verb": "take",
+   "noun": "cloth",
+   "score": 0.164429
+  },
+  {
+   "segment": [
+    58.5,
+    62.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.14976
+  },
+  {
+   "segment": [
+    58.5,
+    59.5
+   ],
+   "verb": "move",
+   "noun": "wire",
+   "score": 0.144508
+  },
+  {
+   "segment": [
+    58.5,
+    62.0
+   ],
+   "verb": "put",
+   "noun": "cloth",
+   "score": 0.135459
+  },
+  {
+   "segment": [
+    59.0,
+    60.0
+   ],
+   "verb": "take",
+   "noun": "cloth",
+   "score": 0.228537
+  },
+  {
+   "segment": [
+    59.0,
+    61.0
+   ],
+   "verb": "take",
+   "noun": "cloth",
+   "score": 0.215714
+  },
+  {
+   "segment": [
+    59.0,
+    60.0
+   ],
+   "verb": "put",
+   "noun": "cloth",
+   "score": 0.180362
+  },
+  {
+   "segment": [
+    59.0,
+    61.0
+   ],
+   "verb": "put",
+   "noun": "cloth",
+   "score": 0.173215
+  },
+  {
+   "segment": [
+    59.0,
+    61.0
+   ],
+   "verb": "take",
+   "noun": "towel",
+   "score": 0.128516
+  },
+  {
+   "segment": [
+    59.0,
+    60.0
+   ],
+   "verb": "hang",
+   "noun": "cloth",
+   "score": 0.127208
+  },
+  {
+   "segment": [
+    59.5,
+    60.5
+   ],
+   "verb": "take",
+   "noun": "cloth",
+   "score": 0.241133
+  },
+  {
+   "segment": [
+    59.5,
+    60.5
+   ],
+   "verb": "put",
+   "noun": "cloth",
+   "score": 0.194167
+  },
+  {
+   "segment": [
+    59.5,
+    60.5
+   ],
+   "verb": "take",
+   "noun": "towel",
+   "score": 0.138067
+  },
+  {
+   "segment": [
+    60.0,
+    66.0
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.221804
+  },
+  {
+   "segment": [
+    60.0,
+    61.0
+   ],
+   "verb": "take",
+   "noun": "cloth",
+   "score": 0.20226
+  },
+  {
+   "segment": [
+    60.0,
+    62.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.181131
+  },
+  {
+   "segment": [
+    60.0,
+    66.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.169388
+  },
+  {
+   "segment": [
+    60.0,
+    61.0
+   ],
+   "verb": "put",
+   "noun": "cloth",
+   "score": 0.165855
+  },
+  {
+   "segment": [
+    60.0,
+    63.5
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.150838
+  },
+  {
+   "segment": [
+    60.0,
+    62.0
+   ],
+   "verb": "take",
+   "noun": "cloth",
+   "score": 0.14891
+  },
+  {
+   "segment": [
+    60.0,
+    61.0
+   ],
+   "verb": "take",
+   "noun": "towel",
+   "score": 0.139538
+  },
+  {
+   "segment": [
+    60.0,
+    66.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.12281
+  },
+  {
+   "segment": [
+    60.0,
+    62.0
+   ],
+   "verb": "put",
+   "noun": "cloth",
+   "score": 0.121182
+  },
+  {
+   "segment": [
+    60.0,
+    63.5
+   ],
+   "verb": "take",
+   "noun": "cloth",
+   "score": 0.115363
+  },
+  {
+   "segment": [
+    60.0,
+    63.5
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.107106
+  },
+  {
+   "segment": [
+    60.5,
+    61.5
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.20236
+  },
+  {
+   "segment": [
+    60.5,
+    61.5
+   ],
+   "verb": "take",
+   "noun": "cloth",
+   "score": 0.120582
+  },
+  {
+   "segment": [
+    60.5,
+    61.5
+   ],
+   "verb": "take",
+   "noun": "towel",
+   "score": 0.114988
+  },
+  {
+   "segment": [
+    61.0,
+    62.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.214787
+  },
+  {
+   "segment": [
+    61.0,
+    63.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.169536
+  },
+  {
+   "segment": [
+    61.0,
+    63.0
+   ],
+   "verb": "put",
+   "noun": "hob",
+   "score": 0.115566
+  },
+  {
+   "segment": [
+    61.0,
+    63.0
+   ],
+   "verb": "take",
+   "noun": "hob",
+   "score": 0.114837
+  },
+  {
+   "segment": [
+    61.0,
+    62.0
+   ],
+   "verb": "take",
+   "noun": "hob",
+   "score": 0.103338
+  },
+  {
+   "segment": [
+    61.0,
+    62.0
+   ],
+   "verb": "look",
+   "noun": "kitchen",
+   "score": 0.099108
+  },
+  {
+   "segment": [
+    61.5,
+    65.0
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.225141
+  },
+  {
+   "segment": [
+    61.5,
+    65.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.183582
+  },
+  {
+   "segment": [
+    61.5,
+    62.5
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.177419
+  },
+  {
+   "segment": [
+    61.5,
+    65.0
+   ],
+   "verb": "put",
+   "noun": "hob",
+   "score": 0.132354
+  },
+  {
+   "segment": [
+    61.5,
+    62.5
+   ],
+   "verb": "take",
+   "noun": "hob",
+   "score": 0.12452
+  },
+  {
+   "segment": [
+    61.5,
+    62.5
+   ],
+   "verb": "put",
+   "noun": "hob",
+   "score": 0.118864
+  },
+  {
+   "segment": [
+    62.0,
+    64.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.178254
+  },
+  {
+   "segment": [
+    62.0,
+    64.0
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.172717
+  },
+  {
+   "segment": [
+    62.0,
+    64.0
+   ],
+   "verb": "put",
+   "noun": "hob",
+   "score": 0.149
+  },
+  {
+   "segment": [
+    62.0,
+    63.0
+   ],
+   "verb": "put",
+   "noun": "hob",
+   "score": 0.139366
+  },
+  {
+   "segment": [
+    62.0,
+    63.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.137454
+  },
+  {
+   "segment": [
+    62.0,
+    63.0
+   ],
+   "verb": "turn-on",
+   "noun": "hob",
+   "score": 0.126357
+  },
+  {
+   "segment": [
+    62.5,
+    63.5
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.182569
+  },
+  {
+   "segment": [
+    62.5,
+    63.5
+   ],
+   "verb": "put",
+   "noun": "hob",
+   "score": 0.154962
+  },
+  {
+   "segment": [
+    62.5,
+    63.5
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.146554
+  },
+  {
+   "segment": [
+    63.0,
+    69.0
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.380147
+  },
+  {
+   "segment": [
+    63.0,
+    66.5
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.325921
+  },
+  {
+   "segment": [
+    63.0,
+    65.0
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.297176
+  },
+  {
+   "segment": [
+    63.0,
+    66.5
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.234018
+  },
+  {
+   "segment": [
+    63.0,
+    64.0
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.22797
+  },
+  {
+   "segment": [
+    63.0,
+    65.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.223875
+  },
+  {
+   "segment": [
+    63.0,
+    69.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.220133
+  },
+  {
+   "segment": [
+    63.0,
+    64.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.214719
+  },
+  {
+   "segment": [
+    63.0,
+    64.0
+   ],
+   "verb": "put",
+   "noun": "hob",
+   "score": 0.158634
+  },
+  {
+   "segment": [
+    63.0,
+    65.0
+   ],
+   "verb": "take",
+   "noun": "coffee",
+   "score": 0.143071
+  },
+  {
+   "segment": [
+    63.0,
+    66.5
+   ],
+   "verb": "take",
+   "noun": "coffee",
+   "score": 0.142942
+  },
+  {
+   "segment": [
+    63.0,
+    69.0
+   ],
+   "verb": "take",
+   "noun": "coffee",
+   "score": 0.131783
+  },
+  {
+   "segment": [
+    63.5,
+    64.5
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.297818
+  },
+  {
+   "segment": [
+    63.5,
+    64.5
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.225943
+  },
+  {
+   "segment": [
+    63.5,
+    64.5
+   ],
+   "verb": "take",
+   "noun": "coffee",
+   "score": 0.142734
+  },
+  {
+   "segment": [
+    64.0,
+    66.0
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.363191
+  },
+  {
+   "segment": [
+    64.0,
+    65.0
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.353939
+  },
+  {
+   "segment": [
+    64.0,
+    66.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.242005
+  },
+  {
+   "segment": [
+    64.0,
+    65.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.232804
+  },
+  {
+   "segment": [
+    64.0,
+    65.0
+   ],
+   "verb": "take",
+   "noun": "coffee",
+   "score": 0.151957
+  },
+  {
+   "segment": [
+    64.0,
+    66.0
+   ],
+   "verb": "take",
+   "noun": "coffee",
+   "score": 0.149726
+  },
+  {
+   "segment": [
+    64.5,
+    68.0
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.412114
+  },
+  {
+   "segment": [
+    64.5,
+    65.5
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.378726
+  },
+  {
+   "segment": [
+    64.5,
+    65.5
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.246096
+  },
+  {
+   "segment": [
+    64.5,
+    68.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.230776
+  },
+  {
+   "segment": [
+    64.5,
+    65.5
+   ],
+   "verb": "take",
+   "noun": "coffee",
+   "score": 0.154386
+  },
+  {
+   "segment": [
+    64.5,
+    68.0
+   ],
+   "verb": "take",
+   "noun": "coffee",
+   "score": 0.136703
+  },
+  {
+   "segment": [
+    65.0,
+    67.0
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.375981
+  },
+  {
+   "segment": [
+    65.0,
+    66.0
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.372298
+  },
+  {
+   "segment": [
+    65.0,
+    66.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.251194
+  },
+  {
+   "segment": [
+    65.0,
+    67.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.241934
+  },
+  {
+   "segment": [
+    65.0,
+    66.0
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.148374
+  },
+  {
+   "segment": [
+    65.0,
+    67.0
+   ],
+   "verb": "take",
+   "noun": "coffee",
+   "score": 0.139237
+  },
+  {
+   "segment": [
+    65.5,
+    66.5
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.360902
+  },
+  {
+   "segment": [
+    65.5,
+    66.5
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.246368
+  },
+  {
+   "segment": [
+    65.5,
+    66.5
+   ],
+   "verb": "take",
+   "noun": "coffee",
+   "score": 0.140478
+  },
+  {
+   "segment": [
+    66.0,
+    68.0
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.435904
+  },
+  {
+   "segment": [
+    66.0,
+    69.5
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.424161
+  },
+  {
+   "segment": [
+    66.0,
+    72.0
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.39081
+  },
+  {
+   "segment": [
+    66.0,
+    67.0
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.379629
+  },
+  {
+   "segment": [
+    66.0,
+    67.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.232306
+  },
+  {
+   "segment": [
+    66.0,
+    68.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.216523
+  },
+  {
+   "segment": [
+    66.0,
+    69.5
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.200186
+  },
+  {
+   "segment": [
+    66.0,
+    72.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.198959
+  },
+  {
+   "segment": [
+    66.0,
+    67.0
+   ],
+   "verb": "take",
+   "noun": "coffee",
+   "score": 0.131104
+  },
+  {
+   "segment": [
+    66.0,
+    68.0
+   ],
+   "verb": "take",
+   "noun": "coffee",
+   "score": 0.123458
+  },
+  {
+   "segment": [
+    66.0,
+    69.5
+   ],
+   "verb": "take",
+   "noun": "coffee",
+   "score": 0.112232
+  },
+  {
+   "segment": [
+    66.0,
+    72.0
+   ],
+   "verb": "take",
+   "noun": "coffee",
+   "score": 0.106291
+  },
+  {
+   "segment": [
+    66.5,
+    67.5
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.454168
+  },
+  {
+   "segment": [
+    66.5,
+    67.5
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.221192
+  },
+  {
+   "segment": [
+    66.5,
+    67.5
+   ],
+   "verb": "take",
+   "noun": "coffee",
+   "score": 0.126694
+  },
+  {
+   "segment": [
+    67.0,
+    68.0
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.486258
+  },
+  {
+   "segment": [
+    67.0,
+    69.0
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.458527
+  },
+  {
+   "segment": [
+    67.0,
+    68.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.199273
+  },
+  {
+   "segment": [
+    67.0,
+    69.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.189059
+  },
+  {
+   "segment": [
+    67.0,
+    69.0
+   ],
+   "verb": "pour",
+   "noun": "oil",
+   "score": 0.120686
+  },
+  {
+   "segment": [
+    67.0,
+    68.0
+   ],
+   "verb": "take",
+   "noun": "coffee",
+   "score": 0.115199
+  },
+  {
+   "segment": [
+    67.5,
+    68.5
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.46507
+  },
+  {
+   "segment": [
+    67.5,
+    71.0
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.415701
+  },
+  {
+   "segment": [
+    67.5,
+    71.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.187672
+  },
+  {
+   "segment": [
+    67.5,
+    68.5
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.180052
+  },
+  {
+   "segment": [
+    67.5,
+    68.5
+   ],
+   "verb": "pour",
+   "noun": "oil",
+   "score": 0.11938
+  },
+  {
+   "segment": [
+    67.5,
+    71.0
+   ],
+   "verb": "pour",
+   "noun": "oil",
+   "score": 0.118074
+  },
+  {
+   "segment": [
+    68.0,
+    69.0
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.427822
+  },
+  {
+   "segment": [
+    68.0,
+    70.0
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.405986
+  },
+  {
+   "segment": [
+    68.0,
+    69.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.177824
+  },
+  {
+   "segment": [
+    68.0,
+    70.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.176334
+  },
+  {
+   "segment": [
+    68.0,
+    69.0
+   ],
+   "verb": "pour",
+   "noun": "oil",
+   "score": 0.132127
+  },
+  {
+   "segment": [
+    68.0,
+    70.0
+   ],
+   "verb": "pour",
+   "noun": "oil",
+   "score": 0.127852
+  },
+  {
+   "segment": [
+    68.5,
+    69.5
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.379752
+  },
+  {
+   "segment": [
+    68.5,
+    69.5
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.17125
+  },
+  {
+   "segment": [
+    68.5,
+    69.5
+   ],
+   "verb": "put",
+   "noun": "tea",
+   "score": 0.134749
+  },
+  {
+   "segment": [
+    69.0,
+    71.0
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.382925
+  },
+  {
+   "segment": [
+    69.0,
+    70.0
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.37996
+  },
+  {
+   "segment": [
+    69.0,
+    72.5
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.302655
+  },
+  {
+   "segment": [
+    69.0,
+    75.0
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.21844
+  },
+  {
+   "segment": [
+    69.0,
+    75.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.193996
+  },
+  {
+   "segment": [
+    69.0,
+    71.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.193813
+  },
+  {
+   "segment": [
+    69.0,
+    72.5
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.176976
+  },
+  {
+   "segment": [
+    69.0,
+    70.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.174359
+  },
+  {
+   "segment": [
+    69.0,
+    75.0
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.162429
+  },
+  {
+   "segment": [
+    69.0,
+    70.0
+   ],
+   "verb": "put",
+   "noun": "tea",
+   "score": 0.125887
+  },
+  {
+   "segment": [
+    69.0,
+    71.0
+   ],
+   "verb": "pour",
+   "noun": "cup",
+   "score": 0.110168
+  },
+  {
+   "segment": [
+    69.0,
+    72.5
+   ],
+   "verb": "put",
+   "noun": "spoon",
+   "score": 0.100109
+  },
+  {
+   "segment": [
+    69.5,
+    70.5
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.389978
+  },
+  {
+   "segment": [
+    69.5,
+    70.5
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.187456
+  },
+  {
+   "segment": [
+    69.5,
+    70.5
+   ],
+   "verb": "pour",
+   "noun": "cup",
+   "score": 0.110384
+  },
+  {
+   "segment": [
+    70.0,
+    71.0
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.385383
+  },
+  {
+   "segment": [
+    70.0,
+    72.0
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.307194
+  },
+  {
+   "segment": [
+    70.0,
+    71.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.21267
+  },
+  {
+   "segment": [
+    70.0,
+    72.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.199209
+  },
+  {
+   "segment": [
+    70.0,
+    71.0
+   ],
+   "verb": "insert",
+   "noun": "coffee",
+   "score": 0.123603
+  },
+  {
+   "segment": [
+    70.0,
+    72.0
+   ],
+   "verb": "insert",
+   "noun": "coffee",
+   "score": 0.112158
+  },
+  {
+   "segment": [
+    70.5,
+    71.5
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.326671
+  },
+  {
+   "segment": [
+    70.5,
+    71.5
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.221004
+  },
+  {
+   "segment": [
+    70.5,
+    74.0
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.167921
+  },
+  {
+   "segment": [
+    70.5,
+    74.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.159657
+  },
+  {
+   "segment": [
+    70.5,
+    74.0
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.147944
+  },
+  {
+   "segment": [
+    70.5,
+    71.5
+   ],
+   "verb": "insert",
+   "noun": "coffee",
+   "score": 0.125763
+  },
+  {
+   "segment": [
+    71.0,
+    72.0
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.213856
+  },
+  {
+   "segment": [
+    71.0,
+    72.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.185739
+  },
+  {
+   "segment": [
+    71.0,
+    73.0
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.144506
+  },
+  {
+   "segment": [
+    71.0,
+    72.0
+   ],
+   "verb": "put",
+   "noun": "spoon",
+   "score": 0.136679
+  },
+  {
+   "segment": [
+    71.0,
+    73.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.130863
+  },
+  {
+   "segment": [
+    71.0,
+    73.0
+   ],
+   "verb": "throw",
+   "noun": "sink",
+   "score": 0.121355
+  },
+  {
+   "segment": [
+    71.5,
+    72.5
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.124786
+  },
+  {
+   "segment": [
+    71.5,
+    72.5
+   ],
+   "verb": "put",
+   "noun": "spoon",
+   "score": 0.122493
+  },
+  {
+   "segment": [
+    71.5,
+    72.5
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.119132
+  },
+  {
+   "segment": [
+    72.0,
+    78.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.27206
+  },
+  {
+   "segment": [
+    72.0,
+    75.5
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.261884
+  },
+  {
+   "segment": [
+    72.0,
+    75.5
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.208923
+  },
+  {
+   "segment": [
+    72.0,
+    75.5
+   ],
+   "verb": "remove",
+   "noun": "fridge",
+   "score": 0.201985
+  },
+  {
+   "segment": [
+    72.0,
+    78.0
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.199735
+  },
+  {
+   "segment": [
+    72.0,
+    78.0
+   ],
+   "verb": "remove",
+   "noun": "fridge",
+   "score": 0.196796
+  },
+  {
+   "segment": [
+    72.0,
+    74.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.192874
+  },
+  {
+   "segment": [
+    72.0,
+    74.0
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.178791
+  },
+  {
+   "segment": [
+    72.0,
+    73.0
+   ],
+   "verb": "throw",
+   "noun": "sink",
+   "score": 0.15127
+  },
+  {
+   "segment": [
+    72.0,
+    74.0
+   ],
+   "verb": "throw",
+   "noun": "sink",
+   "score": 0.135446
+  },
+  {
+   "segment": [
+    72.0,
+    73.0
+   ],
+   "verb": "move",
+   "noun": "pan",
+   "score": 0.100153
+  },
+  {
+   "segment": [
+    72.0,
+    73.0
+   ],
+   "verb": "put",
+   "noun": "spoon",
+   "score": 0.097505
+  },
+  {
+   "segment": [
+    72.5,
+    73.5
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.172742
+  },
+  {
+   "segment": [
+    72.5,
+    73.5
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.168573
+  },
+  {
+   "segment": [
+    72.5,
+    73.5
+   ],
+   "verb": "throw",
+   "noun": "sink",
+   "score": 0.156822
+  },
+  {
+   "segment": [
+    73.0,
+    75.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.305045
+  },
+  {
+   "segment": [
+    73.0,
+    74.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.273058
+  },
+  {
+   "segment": [
+    73.0,
+    75.0
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.256053
+  },
+  {
+   "segment": [
+    73.0,
+    74.0
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.255041
+  },
+  {
+   "segment": [
+    73.0,
+    75.0
+   ],
+   "verb": "remove",
+   "noun": "fridge",
+   "score": 0.230851
+  },
+  {
+   "segment": [
+    73.0,
+    74.0
+   ],
+   "verb": "remove",
+   "noun": "fridge",
+   "score": 0.170418
+  },
+  {
+   "segment": [
+    73.5,
+    74.5
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.325179
+  },
+  {
+   "segment": [
+    73.5,
+    77.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.30952
+  },
+  {
+   "segment": [
+    73.5,
+    74.5
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.283275
+  },
+  {
+   "segment": [
+    73.5,
+    74.5
+   ],
+   "verb": "remove",
+   "noun": "fridge",
+   "score": 0.236931
+  },
+  {
+   "segment": [
+    73.5,
+    77.0
+   ],
+   "verb": "remove",
+   "noun": "fridge",
+   "score": 0.234832
+  },
+  {
+   "segment": [
+    73.5,
+    77.0
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.224367
+  },
+  {
+   "segment": [
+    74.0,
+    75.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.333119
+  },
+  {
+   "segment": [
+    74.0,
+    76.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.32918
+  },
+  {
+   "segment": [
+    74.0,
+    75.0
+   ],
+   "verb": "remove",
+   "noun": "fridge",
+   "score": 0.277158
+  },
+  {
+   "segment": [
+    74.0,
+    76.0
+   ],
+   "verb": "remove",
+   "noun": "fridge",
+   "score": 0.264782
+  },
+  {
+   "segment": [
+    74.0,
+    75.0
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.256977
+  },
+  {
+   "segment": [
+    74.0,
+    76.0
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.23389
+  },
+  {
+   "segment": [
+    74.5,
+    75.5
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.324719
+  },
+  {
+   "segment": [
+    74.5,
+    75.5
+   ],
+   "verb": "remove",
+   "noun": "fridge",
+   "score": 0.278461
+  },
+  {
+   "segment": [
+    74.5,
+    75.5
+   ],
+   "verb": "open",
+   "noun": "freezer",
+   "score": 0.237846
+  },
+  {
+   "segment": [
+    75.0,
+    76.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.325194
+  },
+  {
+   "segment": [
+    75.0,
+    77.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.299124
+  },
+  {
+   "segment": [
+    75.0,
+    78.5
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.292291
+  },
+  {
+   "segment": [
+    75.0,
+    81.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.280737
+  },
+  {
+   "segment": [
+    75.0,
+    76.0
+   ],
+   "verb": "remove",
+   "noun": "fridge",
+   "score": 0.251799
+  },
+  {
+   "segment": [
+    75.0,
+    76.0
+   ],
+   "verb": "open",
+   "noun": "freezer",
+   "score": 0.248555
+  },
+  {
+   "segment": [
+    75.0,
+    78.5
+   ],
+   "verb": "open",
+   "noun": "freezer",
+   "score": 0.229824
+  },
+  {
+   "segment": [
+    75.0,
+    77.0
+   ],
+   "verb": "open",
+   "noun": "freezer",
+   "score": 0.228152
+  },
+  {
+   "segment": [
+    75.0,
+    77.0
+   ],
+   "verb": "remove",
+   "noun": "fridge",
+   "score": 0.219391
+  },
+  {
+   "segment": [
+    75.0,
+    78.5
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.211555
+  },
+  {
+   "segment": [
+    75.0,
+    81.0
+   ],
+   "verb": "open",
+   "noun": "freezer",
+   "score": 0.208631
+  },
+  {
+   "segment": [
+    75.0,
+    81.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.195726
+  },
+  {
+   "segment": [
+    75.5,
+    76.5
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.30301
+  },
+  {
+   "segment": [
+    75.5,
+    76.5
+   ],
+   "verb": "open",
+   "noun": "freezer",
+   "score": 0.232456
+  },
+  {
+   "segment": [
+    75.5,
+    76.5
+   ],
+   "verb": "remove",
+   "noun": "fridge",
+   "score": 0.205649
+  },
+  {
+   "segment": [
+    76.0,
+    78.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.276629
+  },
+  {
+   "segment": [
+    76.0,
+    77.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.270617
+  },
+  {
+   "segment": [
+    76.0,
+    77.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.24378
+  },
+  {
+   "segment": [
+    76.0,
+    78.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.241708
+  },
+  {
+   "segment": [
+    76.0,
+    78.0
+   ],
+   "verb": "open",
+   "noun": "freezer",
+   "score": 0.216386
+  },
+  {
+   "segment": [
+    76.0,
+    77.0
+   ],
+   "verb": "open",
+   "noun": "freezer",
+   "score": 0.205785
+  },
+  {
+   "segment": [
+    76.5,
+    80.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.294358
+  },
+  {
+   "segment": [
+    76.5,
+    77.5
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.26093
+  },
+  {
+   "segment": [
+    76.5,
+    77.5
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.252921
+  },
+  {
+   "segment": [
+    76.5,
+    80.0
+   ],
+   "verb": "open",
+   "noun": "freezer",
+   "score": 0.218927
+  },
+  {
+   "segment": [
+    76.5,
+    80.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.217252
+  },
+  {
+   "segment": [
+    76.5,
+    77.5
+   ],
+   "verb": "open",
+   "noun": "freezer",
+   "score": 0.20415
+  },
+  {
+   "segment": [
+    77.0,
+    79.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.291449
+  },
+  {
+   "segment": [
+    77.0,
+    78.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.282514
+  },
+  {
+   "segment": [
+    77.0,
+    78.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.239618
+  },
+  {
+   "segment": [
+    77.0,
+    79.0
+   ],
+   "verb": "open",
+   "noun": "freezer",
+   "score": 0.231012
+  },
+  {
+   "segment": [
+    77.0,
+    78.0
+   ],
+   "verb": "open",
+   "noun": "freezer",
+   "score": 0.226492
+  },
+  {
+   "segment": [
+    77.0,
+    79.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.223631
+  },
+  {
+   "segment": [
+    77.5,
+    78.5
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.290466
+  },
+  {
+   "segment": [
+    77.5,
+    78.5
+   ],
+   "verb": "open",
+   "noun": "freezer",
+   "score": 0.236867
+  },
+  {
+   "segment": [
+    77.5,
+    78.5
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.221945
+  },
+  {
+   "segment": [
+    78.0,
+    80.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.308744
+  },
+  {
+   "segment": [
+    78.0,
+    79.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.299555
+  },
+  {
+   "segment": [
+    78.0,
+    81.5
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.248252
+  },
+  {
+   "segment": [
+    78.0,
+    79.0
+   ],
+   "verb": "open",
+   "noun": "freezer",
+   "score": 0.23511
+  },
+  {
+   "segment": [
+    78.0,
+    80.0
+   ],
+   "verb": "open",
+   "noun": "freezer",
+   "score": 0.222608
+  },
+  {
+   "segment": [
+    78.0,
+    79.0
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.208801
+  },
+  {
+   "segment": [
+    78.0,
+    80.0
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.207367
+  },
+  {
+   "segment": [
+    78.0,
+    84.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.197369
+  },
+  {
+   "segment": [
+    78.0,
+    81.5
+   ],
+   "verb": "open",
+   "noun": "freezer",
+   "score": 0.174672
+  },
+  {
+   "segment": [
+    78.0,
+    81.5
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.169604
+  },
+  {
+   "segment": [
+    78.0,
+    84.0
+   ],
+   "verb": "open",
+   "noun": "freezer",
+   "score": 0.138844
+  },
+  {
+   "segment": [
+    78.0,
+    84.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.135419
+  },
+  {
+   "segment": [
+    78.5,
+    79.5
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.324254
+  },
+  {
+   "segment": [
+    78.5,
+    79.5
+   ],
+   "verb": "open",
+   "noun": "freezer",
+   "score": 0.230633
+  },
+  {
+   "segment": [
+    78.5,
+    79.5
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.217656
+  },
+  {
+   "segment": [
+    79.0,
+    80.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.317926
+  },
+  {
+   "segment": [
+    79.0,
+    81.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.249948
+  },
+  {
+   "segment": [
+    79.0,
+    80.0
+   ],
+   "verb": "open",
+   "noun": "freezer",
+   "score": 0.208501
+  },
+  {
+   "segment": [
+    79.0,
+    80.0
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.205713
+  },
+  {
+   "segment": [
+    79.0,
+    81.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.165088
+  },
+  {
+   "segment": [
+    79.0,
+    81.0
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.164134
+  },
+  {
+   "segment": [
+    79.5,
+    80.5
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.260537
+  },
+  {
+   "segment": [
+    79.5,
+    80.5
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.171991
+  },
+  {
+   "segment": [
+    79.5,
+    80.5
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.167462
+  },
+  {
+   "segment": [
+    79.5,
+    83.0
+   ],
+   "verb": "take",
+   "noun": "coffee",
+   "score": 0.151479
+  },
+  {
+   "segment": [
+    79.5,
+    83.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.150347
+  },
+  {
+   "segment": [
+    79.5,
+    83.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.134975
+  },
+  {
+   "segment": [
+    80.0,
+    81.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.163661
+  },
+  {
+   "segment": [
+    80.0,
+    82.0
+   ],
+   "verb": "take",
+   "noun": "coffee",
+   "score": 0.161504
+  },
+  {
+   "segment": [
+    80.0,
+    81.0
+   ],
+   "verb": "take",
+   "noun": "coffee",
+   "score": 0.152346
+  },
+  {
+   "segment": [
+    80.0,
+    81.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.149248
+  },
+  {
+   "segment": [
+    80.0,
+    82.0
+   ],
+   "verb": "wait",
+   "noun": "coffee",
+   "score": 0.136365
+  },
+  {
+   "segment": [
+    80.0,
+    82.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.135544
+  },
+  {
+   "segment": [
+    80.5,
+    81.5
+   ],
+   "verb": "take",
+   "noun": "coffee",
+   "score": 0.168801
+  },
+  {
+   "segment": [
+    80.5,
+    81.5
+   ],
+   "verb": "wait",
+   "noun": "coffee",
+   "score": 0.150727
+  },
+  {
+   "segment": [
+    80.5,
+    81.5
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.136482
+  },
+  {
+   "segment": [
+    81.0,
+    87.0
+   ],
+   "verb": "put",
+   "noun": "spoon",
+   "score": 0.205563
+  },
+  {
+   "segment": [
+    81.0,
+    87.0
+   ],
+   "verb": "take",
+   "noun": "spoon",
+   "score": 0.19202
+  },
+  {
+   "segment": [
+    81.0,
+    84.5
+   ],
+   "verb": "put",
+   "noun": "spoon",
+   "score": 0.18728
+  },
+  {
+   "segment": [
+    81.0,
+    84.5
+   ],
+   "verb": "take",
+   "noun": "spoon",
+   "score": 0.185974
+  },
+  {
+   "segment": [
+    81.0,
+    83.0
+   ],
+   "verb": "put",
+   "noun": "spoon",
+   "score": 0.170707
+  },
+  {
+   "segment": [
+    81.0,
+    82.0
+   ],
+   "verb": "take",
+   "noun": "coffee",
+   "score": 0.17066
+  },
+  {
+   "segment": [
+    81.0,
+    83.0
+   ],
+   "verb": "take",
+   "noun": "spoon",
+   "score": 0.168393
+  },
+  {
+   "segment": [
+    81.0,
+    84.5
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.162796
+  },
+  {
+   "segment": [
+    81.0,
+    83.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.161855
+  },
+  {
+   "segment": [
+    81.0,
+    87.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.160301
+  },
+  {
+   "segment": [
+    81.0,
+    82.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.159976
+  },
+  {
+   "segment": [
+    81.0,
+    82.0
+   ],
+   "verb": "wait",
+   "noun": "coffee",
+   "score": 0.148255
+  },
+  {
+   "segment": [
+    81.5,
+    82.5
+   ],
+   "verb": "put",
+   "noun": "spoon",
+   "score": 0.175416
+  },
+  {
+   "segment": [
+    81.5,
+    82.5
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.17359
+  },
+  {
+   "segment": [
+    81.5,
+    82.5
+   ],
+   "verb": "take",
+   "noun": "spoon",
+   "score": 0.173039
+  },
+  {
+   "segment": [
+    82.0,
+    83.0
+   ],
+   "verb": "put",
+   "noun": "spoon",
+   "score": 0.216719
+  },
+  {
+   "segment": [
+    82.0,
+    83.0
+   ],
+   "verb": "take",
+   "noun": "spoon",
+   "score": 0.215928
+  },
+  {
+   "segment": [
+    82.0,
+    84.0
+   ],
+   "verb": "put",
+   "noun": "spoon",
+   "score": 0.215594
+  },
+  {
+   "segment": [
+    82.0,
+    84.0
+   ],
+   "verb": "take",
+   "noun": "spoon",
+   "score": 0.214745
+  },
+  {
+   "segment": [
+    82.0,
+    83.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.162967
+  },
+  {
+   "segment": [
+    82.0,
+    84.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.162548
+  },
+  {
+   "segment": [
+    82.5,
+    83.5
+   ],
+   "verb": "take",
+   "noun": "spoon",
+   "score": 0.226921
+  },
+  {
+   "segment": [
+    82.5,
+    83.5
+   ],
+   "verb": "put",
+   "noun": "spoon",
+   "score": 0.226599
+  },
+  {
+   "segment": [
+    82.5,
+    86.0
+   ],
+   "verb": "put",
+   "noun": "spoon",
+   "score": 0.217351
+  },
+  {
+   "segment": [
+    82.5,
+    86.0
+   ],
+   "verb": "take",
+   "noun": "spoon",
+   "score": 0.207141
+  },
+  {
+   "segment": [
+    82.5,
+    86.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.161749
+  },
+  {
+   "segment": [
+    82.5,
+    83.5
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.159277
+  },
+  {
+   "segment": [
+    83.0,
+    84.0
+   ],
+   "verb": "put",
+   "noun": "spoon",
+   "score": 0.214364
+  },
+  {
+   "segment": [
+    83.0,
+    84.0
+   ],
+   "verb": "take",
+   "noun": "spoon",
+   "score": 0.213459
+  },
+  {
+   "segment": [
+    83.0,
+    85.0
+   ],
+   "verb": "put",
+   "noun": "spoon",
+   "score": 0.204676
+  },
+  {
+   "segment": [
+    83.0,
+    85.0
+   ],
+   "verb": "take",
+   "noun": "spoon",
+   "score": 0.203642
+  },
+  {
+   "segment": [
+    83.0,
+    85.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.163405
+  },
+  {
+   "segment": [
+    83.0,
+    84.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.16203
+  },
+  {
+   "segment": [
+    83.5,
+    84.5
+   ],
+   "verb": "put",
+   "noun": "spoon",
+   "score": 0.197646
+  },
+  {
+   "segment": [
+    83.5,
+    84.5
+   ],
+   "verb": "take",
+   "noun": "spoon",
+   "score": 0.195499
+  },
+  {
+   "segment": [
+    83.5,
+    84.5
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.165706
+  },
+  {
+   "segment": [
+    84.0,
+    87.5
+   ],
+   "verb": "put",
+   "noun": "spoon",
+   "score": 0.227626
+  },
+  {
+   "segment": [
+    84.0,
+    86.0
+   ],
+   "verb": "put",
+   "noun": "spoon",
+   "score": 0.216386
+  },
+  {
+   "segment": [
+    84.0,
+    87.5
+   ],
+   "verb": "take",
+   "noun": "spoon",
+   "score": 0.205514
+  },
+  {
+   "segment": [
+    84.0,
+    90.0
+   ],
+   "verb": "put",
+   "noun": "spoon",
+   "score": 0.199643
+  },
+  {
+   "segment": [
+    84.0,
+    86.0
+   ],
+   "verb": "take",
+   "noun": "spoon",
+   "score": 0.199004
+  },
+  {
+   "segment": [
+    84.0,
+    85.0
+   ],
+   "verb": "put",
+   "noun": "spoon",
+   "score": 0.194844
+  },
+  {
+   "segment": [
+    84.0,
+    85.0
+   ],
+   "verb": "take",
+   "noun": "spoon",
+   "score": 0.193672
+  },
+  {
+   "segment": [
+    84.0,
+    90.0
+   ],
+   "verb": "take",
+   "noun": "spoon",
+   "score": 0.183691
+  },
+  {
+   "segment": [
+    84.0,
+    90.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.178271
+  },
+  {
+   "segment": [
+    84.0,
+    85.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.164641
+  },
+  {
+   "segment": [
+    84.0,
+    86.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.162192
+  },
+  {
+   "segment": [
+    84.0,
+    87.5
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.15869
+  },
+  {
+   "segment": [
+    84.5,
+    85.5
+   ],
+   "verb": "put",
+   "noun": "spoon",
+   "score": 0.206657
+  },
+  {
+   "segment": [
+    84.5,
+    85.5
+   ],
+   "verb": "take",
+   "noun": "spoon",
+   "score": 0.19148
+  },
+  {
+   "segment": [
+    84.5,
+    85.5
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.152076
+  },
+  {
+   "segment": [
+    85.0,
+    87.0
+   ],
+   "verb": "put",
+   "noun": "spoon",
+   "score": 0.238566
+  },
+  {
+   "segment": [
+    85.0,
+    86.0
+   ],
+   "verb": "put",
+   "noun": "spoon",
+   "score": 0.237917
+  },
+  {
+   "segment": [
+    85.0,
+    86.0
+   ],
+   "verb": "take",
+   "noun": "spoon",
+   "score": 0.203401
+  },
+  {
+   "segment": [
+    85.0,
+    87.0
+   ],
+   "verb": "take",
+   "noun": "spoon",
+   "score": 0.202289
+  },
+  {
+   "segment": [
+    85.0,
+    86.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.157612
+  },
+  {
+   "segment": [
+    85.0,
+    87.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.154286
+  },
+  {
+   "segment": [
+    85.5,
+    86.5
+   ],
+   "verb": "put",
+   "noun": "spoon",
+   "score": 0.250285
+  },
+  {
+   "segment": [
+    85.5,
+    89.0
+   ],
+   "verb": "put",
+   "noun": "spoon",
+   "score": 0.22208
+  },
+  {
+   "segment": [
+    85.5,
+    86.5
+   ],
+   "verb": "take",
+   "noun": "spoon",
+   "score": 0.204886
+  },
+  {
+   "segment": [
+    85.5,
+    89.0
+   ],
+   "verb": "take",
+   "noun": "spoon",
+   "score": 0.201468
+  },
+  {
+   "segment": [
+    85.5,
+    89.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.17208
+  },
+  {
+   "segment": [
+    85.5,
+    86.5
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.158406
+  },
+  {
+   "segment": [
+    86.0,
+    87.0
+   ],
+   "verb": "put",
+   "noun": "spoon",
+   "score": 0.238386
+  },
+  {
+   "segment": [
+    86.0,
+    88.0
+   ],
+   "verb": "put",
+   "noun": "spoon",
+   "score": 0.235727
+  },
+  {
+   "segment": [
+    86.0,
+    88.0
+   ],
+   "verb": "take",
+   "noun": "spoon",
+   "score": 0.213758
+  },
+  {
+   "segment": [
+    86.0,
+    87.0
+   ],
+   "verb": "take",
+   "noun": "spoon",
+   "score": 0.200649
+  },
+  {
+   "segment": [
+    86.0,
+    88.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.156468
+  },
+  {
+   "segment": [
+    86.0,
+    87.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.150763
+  },
+  {
+   "segment": [
+    86.5,
+    87.5
+   ],
+   "verb": "put",
+   "noun": "spoon",
+   "score": 0.242537
+  },
+  {
+   "segment": [
+    86.5,
+    87.5
+   ],
+   "verb": "take",
+   "noun": "spoon",
+   "score": 0.223288
+  },
+  {
+   "segment": [
+    86.5,
+    87.5
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.158576
+  },
+  {
+   "segment": [
+    87.0,
+    88.0
+   ],
+   "verb": "put",
+   "noun": "spoon",
+   "score": 0.233043
+  },
+  {
+   "segment": [
+    87.0,
+    88.0
+   ],
+   "verb": "take",
+   "noun": "spoon",
+   "score": 0.226086
+  },
+  {
+   "segment": [
+    87.0,
+    93.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.20605
+  },
+  {
+   "segment": [
+    87.0,
+    89.0
+   ],
+   "verb": "put",
+   "noun": "spoon",
+   "score": 0.203665
+  },
+  {
+   "segment": [
+    87.0,
+    90.5
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.200456
+  },
+  {
+   "segment": [
+    87.0,
+    89.0
+   ],
+   "verb": "take",
+   "noun": "spoon",
+   "score": 0.197889
+  },
+  {
+   "segment": [
+    87.0,
+    93.0
+   ],
+   "verb": "take",
+   "noun": "coffee",
+   "score": 0.185668
+  },
+  {
+   "segment": [
+    87.0,
+    90.5
+   ],
+   "verb": "take",
+   "noun": "coffee",
+   "score": 0.181051
+  },
+  {
+   "segment": [
+    87.0,
+    89.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.180739
+  },
+  {
+   "segment": [
+    87.0,
+    90.5
+   ],
+   "verb": "put",
+   "noun": "spoon",
+   "score": 0.170577
+  },
+  {
+   "segment": [
+    87.0,
+    88.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.161962
+  },
+  {
+   "segment": [
+    87.0,
+    93.0
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.152282
+  },
+  {
+   "segment": [
+    87.5,
+    88.5
+   ],
+   "verb": "put",
+   "noun": "spoon",
+   "score": 0.205939
+  },
+  {
+   "segment": [
+    87.5,
+    88.5
+   ],
+   "verb": "take",
+   "noun": "spoon",
+   "score": 0.204913
+  },
+  {
+   "segment": [
+    87.5,
+    88.5
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.173847
+  },
+  {
+   "segment": [
+    88.0,
+    90.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.210621
+  },
+  {
+   "segment": [
+    88.0,
+    89.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.198209
+  },
+  {
+   "segment": [
+    88.0,
+    90.0
+   ],
+   "verb": "take",
+   "noun": "coffee",
+   "score": 0.192857
+  },
+  {
+   "segment": [
+    88.0,
+    89.0
+   ],
+   "verb": "take",
+   "noun": "coffee",
+   "score": 0.173778
+  },
+  {
+   "segment": [
+    88.0,
+    89.0
+   ],
+   "verb": "put",
+   "noun": "spoon",
+   "score": 0.168014
+  },
+  {
+   "segment": [
+    88.0,
+    90.0
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.159023
+  },
+  {
+   "segment": [
+    88.5,
+    92.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.216384
+  },
+  {
+   "segment": [
+    88.5,
+    89.5
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.216193
+  },
+  {
+   "segment": [
+    88.5,
+    89.5
+   ],
+   "verb": "take",
+   "noun": "coffee",
+   "score": 0.198474
+  },
+  {
+   "segment": [
+    88.5,
+    92.0
+   ],
+   "verb": "take",
+   "noun": "coffee",
+   "score": 0.197668
+  },
+  {
+   "segment": [
+    88.5,
+    89.5
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.16588
+  },
+  {
+   "segment": [
+    88.5,
+    92.0
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.160712
+  },
+  {
+   "segment": [
+    89.0,
+    91.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.221765
+  },
+  {
+   "segment": [
+    89.0,
+    90.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.221428
+  },
+  {
+   "segment": [
+    89.0,
+    90.0
+   ],
+   "verb": "take",
+   "noun": "coffee",
+   "score": 0.208993
+  },
+  {
+   "segment": [
+    89.0,
+    91.0
+   ],
+   "verb": "take",
+   "noun": "coffee",
+   "score": 0.204838
+  },
+  {
+   "segment": [
+    89.0,
+    91.0
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.160643
+  },
+  {
+   "segment": [
+    89.0,
+    90.0
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.156323
+  },
+  {
+   "segment": [
+    89.5,
+    90.5
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.225973
+  },
+  {
+   "segment": [
+    89.5,
+    90.5
+   ],
+   "verb": "take",
+   "noun": "coffee",
+   "score": 0.206423
+  },
+  {
+   "segment": [
+    89.5,
+    90.5
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.157644
+  },
+  {
+   "segment": [
+    90.0,
+    91.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.220154
+  },
+  {
+   "segment": [
+    90.0,
+    93.5
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.216251
+  },
+  {
+   "segment": [
+    90.0,
+    96.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.21483
+  },
+  {
+   "segment": [
+    90.0,
+    92.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.214255
+  },
+  {
+   "segment": [
+    90.0,
+    91.0
+   ],
+   "verb": "take",
+   "noun": "coffee",
+   "score": 0.197829
+  },
+  {
+   "segment": [
+    90.0,
+    92.0
+   ],
+   "verb": "take",
+   "noun": "coffee",
+   "score": 0.194078
+  },
+  {
+   "segment": [
+    90.0,
+    93.5
+   ],
+   "verb": "take",
+   "noun": "coffee",
+   "score": 0.19391
+  },
+  {
+   "segment": [
+    90.0,
+    96.0
+   ],
+   "verb": "take",
+   "noun": "coffee",
+   "score": 0.190529
+  },
+  {
+   "segment": [
+    90.0,
+    91.0
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.164261
+  },
+  {
+   "segment": [
+    90.0,
+    92.0
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.160074
+  },
+  {
+   "segment": [
+    90.0,
+    93.5
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.157807
+  },
+  {
+   "segment": [
+    90.0,
+    96.0
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.153671
+  },
+  {
+   "segment": [
+    90.5,
+    91.5
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.207375
+  },
+  {
+   "segment": [
+    90.5,
+    91.5
+   ],
+   "verb": "take",
+   "noun": "coffee",
+   "score": 0.18689
+  },
+  {
+   "segment": [
+    90.5,
+    91.5
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.161857
+  },
+  {
+   "segment": [
+    91.0,
+    93.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.213981
+  },
+  {
+   "segment": [
+    91.0,
+    92.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.208093
+  },
+  {
+   "segment": [
+    91.0,
+    93.0
+   ],
+   "verb": "take",
+   "noun": "coffee",
+   "score": 0.192004
+  },
+  {
+   "segment": [
+    91.0,
+    92.0
+   ],
+   "verb": "take",
+   "noun": "coffee",
+   "score": 0.189968
+  },
+  {
+   "segment": [
+    91.0,
+    92.0
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.155674
+  },
+  {
+   "segment": [
+    91.0,
+    93.0
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.153259
+  },
+  {
+   "segment": [
+    91.5,
+    92.5
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.219542
+  },
+  {
+   "segment": [
+    91.5,
+    95.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.211578
+  },
+  {
+   "segment": [
+    91.5,
+    92.5
+   ],
+   "verb": "take",
+   "noun": "coffee",
+   "score": 0.198397
+  },
+  {
+   "segment": [
+    91.5,
+    95.0
+   ],
+   "verb": "take",
+   "noun": "coffee",
+   "score": 0.186531
+  },
+  {
+   "segment": [
+    91.5,
+    92.5
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.156596
+  },
+  {
+   "segment": [
+    91.5,
+    95.0
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.152829
+  },
+  {
+   "segment": [
+    92.0,
+    93.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.219689
+  },
+  {
+   "segment": [
+    92.0,
+    94.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.211812
+  },
+  {
+   "segment": [
+    92.0,
+    93.0
+   ],
+   "verb": "take",
+   "noun": "coffee",
+   "score": 0.194011
+  },
+  {
+   "segment": [
+    92.0,
+    94.0
+   ],
+   "verb": "take",
+   "noun": "coffee",
+   "score": 0.186467
+  },
+  {
+   "segment": [
+    92.0,
+    94.0
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.15187
+  },
+  {
+   "segment": [
+    92.0,
+    93.0
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.150815
+  },
+  {
+   "segment": [
+    92.5,
+    93.5
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.21495
+  },
+  {
+   "segment": [
+    92.5,
+    93.5
+   ],
+   "verb": "take",
+   "noun": "coffee",
+   "score": 0.190488
+  },
+  {
+   "segment": [
+    92.5,
+    93.5
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.152005
+  },
+  {
+   "segment": [
+    93.0,
+    99.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.221975
+  },
+  {
+   "segment": [
+    93.0,
+    96.5
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.217215
+  },
+  {
+   "segment": [
+    93.0,
+    95.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.206794
+  },
+  {
+   "segment": [
+    93.0,
+    94.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.203364
+  },
+  {
+   "segment": [
+    93.0,
+    99.0
+   ],
+   "verb": "take",
+   "noun": "coffee",
+   "score": 0.191352
+  },
+  {
+   "segment": [
+    93.0,
+    96.5
+   ],
+   "verb": "take",
+   "noun": "coffee",
+   "score": 0.188801
+  },
+  {
+   "segment": [
+    93.0,
+    95.0
+   ],
+   "verb": "take",
+   "noun": "coffee",
+   "score": 0.179592
+  },
+  {
+   "segment": [
+    93.0,
+    94.0
+   ],
+   "verb": "take",
+   "noun": "coffee",
+   "score": 0.178352
+  },
+  {
+   "segment": [
+    93.0,
+    95.0
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.153776
+  },
+  {
+   "segment": [
+    93.0,
+    94.0
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.15292
+  },
+  {
+   "segment": [
+    93.0,
+    96.5
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.149477
+  },
+  {
+   "segment": [
+    93.0,
+    99.0
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.14875
+  },
+  {
+   "segment": [
+    93.5,
+    94.5
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.200074
+  },
+  {
+   "segment": [
+    93.5,
+    94.5
+   ],
+   "verb": "take",
+   "noun": "coffee",
+   "score": 0.169524
+  },
+  {
+   "segment": [
+    93.5,
+    94.5
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.153736
+  },
+  {
+   "segment": [
+    94.0,
+    96.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.218264
+  },
+  {
+   "segment": [
+    94.0,
+    95.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.210217
+  },
+  {
+   "segment": [
+    94.0,
+    96.0
+   ],
+   "verb": "take",
+   "noun": "coffee",
+   "score": 0.191027
+  },
+  {
+   "segment": [
+    94.0,
+    95.0
+   ],
+   "verb": "take",
+   "noun": "coffee",
+   "score": 0.18083
+  },
+  {
+   "segment": [
+    94.0,
+    95.0
+   ],
+   "verb": "take",
+   "noun": "tea",
+   "score": 0.159432
+  },
+  {
+   "segment": [
+    94.0,
+    96.0
+   ],
+   "verb": "take",
+   "noun": "tea",
+   "score": 0.154925
+  },
+  {
+   "segment": [
+    94.5,
+    98.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.230134
+  },
+  {
+   "segment": [
+    94.5,
+    95.5
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.218852
+  },
+  {
+   "segment": [
+    94.5,
+    98.0
+   ],
+   "verb": "take",
+   "noun": "coffee",
+   "score": 0.194718
+  },
+  {
+   "segment": [
+    94.5,
+    95.5
+   ],
+   "verb": "take",
+   "noun": "coffee",
+   "score": 0.192614
+  },
+  {
+   "segment": [
+    94.5,
+    95.5
+   ],
+   "verb": "take",
+   "noun": "tea",
+   "score": 0.154795
+  },
+  {
+   "segment": [
+    94.5,
+    98.0
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.149277
+  },
+  {
+   "segment": [
+    95.0,
+    97.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.234385
+  },
+  {
+   "segment": [
+    95.0,
+    96.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.225862
+  },
+  {
+   "segment": [
+    95.0,
+    96.0
+   ],
+   "verb": "take",
+   "noun": "coffee",
+   "score": 0.200512
+  },
+  {
+   "segment": [
+    95.0,
+    97.0
+   ],
+   "verb": "take",
+   "noun": "coffee",
+   "score": 0.19949
+  },
+  {
+   "segment": [
+    95.0,
+    96.0
+   ],
+   "verb": "take",
+   "noun": "tea",
+   "score": 0.150358
+  },
+  {
+   "segment": [
+    95.0,
+    97.0
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.146371
+  },
+  {
+   "segment": [
+    95.5,
+    96.5
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.232674
+  },
+  {
+   "segment": [
+    95.5,
+    96.5
+   ],
+   "verb": "take",
+   "noun": "coffee",
+   "score": 0.201601
+  },
+  {
+   "segment": [
+    95.5,
+    96.5
+   ],
+   "verb": "take",
+   "noun": "tea",
+   "score": 0.140892
+  },
+  {
+   "segment": [
+    96.0,
+    97.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.242882
+  },
+  {
+   "segment": [
+    96.0,
+    98.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.236966
+  },
+  {
+   "segment": [
+    96.0,
+    99.5
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.233636
+  },
+  {
+   "segment": [
+    96.0,
+    102.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.228339
+  },
+  {
+   "segment": [
+    96.0,
+    102.0
+   ],
+   "verb": "take",
+   "noun": "coffee",
+   "score": 0.20447
+  },
+  {
+   "segment": [
+    96.0,
+    99.5
+   ],
+   "verb": "take",
+   "noun": "coffee",
+   "score": 0.203233
+  },
+  {
+   "segment": [
+    96.0,
+    97.0
+   ],
+   "verb": "take",
+   "noun": "coffee",
+   "score": 0.197901
+  },
+  {
+   "segment": [
+    96.0,
+    98.0
+   ],
+   "verb": "take",
+   "noun": "coffee",
+   "score": 0.193416
+  },
+  {
+   "segment": [
+    96.0,
+    102.0
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.156411
+  },
+  {
+   "segment": [
+    96.0,
+    98.0
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.153476
+  },
+  {
+   "segment": [
+    96.0,
+    97.0
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.149445
+  },
+  {
+   "segment": [
+    96.0,
+    99.5
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.148517
+  },
+  {
+   "segment": [
+    96.5,
+    97.5
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.237068
+  },
+  {
+   "segment": [
+    96.5,
+    97.5
+   ],
+   "verb": "take",
+   "noun": "coffee",
+   "score": 0.190486
+  },
+  {
+   "segment": [
+    96.5,
+    97.5
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.154174
+  },
+  {
+   "segment": [
+    97.0,
+    98.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.231021
+  },
+  {
+   "segment": [
+    97.0,
+    99.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.224339
+  },
+  {
+   "segment": [
+    97.0,
+    99.0
+   ],
+   "verb": "take",
+   "noun": "coffee",
+   "score": 0.194758
+  },
+  {
+   "segment": [
+    97.0,
+    98.0
+   ],
+   "verb": "take",
+   "noun": "coffee",
+   "score": 0.188914
+  },
+  {
+   "segment": [
+    97.0,
+    99.0
+   ],
+   "verb": "put",
+   "noun": "spoon",
+   "score": 0.170833
+  },
+  {
+   "segment": [
+    97.0,
+    98.0
+   ],
+   "verb": "put",
+   "noun": "spoon",
+   "score": 0.161115
+  },
+  {
+   "segment": [
+    97.5,
+    101.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.228898
+  },
+  {
+   "segment": [
+    97.5,
+    98.5
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.224575
+  },
+  {
+   "segment": [
+    97.5,
+    101.0
+   ],
+   "verb": "take",
+   "noun": "coffee",
+   "score": 0.210589
+  },
+  {
+   "segment": [
+    97.5,
+    98.5
+   ],
+   "verb": "put",
+   "noun": "spoon",
+   "score": 0.201531
+  },
+  {
+   "segment": [
+    97.5,
+    98.5
+   ],
+   "verb": "take",
+   "noun": "coffee",
+   "score": 0.195312
+  },
+  {
+   "segment": [
+    97.5,
+    101.0
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.156892
+  },
+  {
+   "segment": [
+    98.0,
+    100.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.228854
+  },
+  {
+   "segment": [
+    98.0,
+    99.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.217648
+  },
+  {
+   "segment": [
+    98.0,
+    100.0
+   ],
+   "verb": "take",
+   "noun": "coffee",
+   "score": 0.215189
+  },
+  {
+   "segment": [
+    98.0,
+    99.0
+   ],
+   "verb": "take",
+   "noun": "coffee",
+   "score": 0.200071
+  },
+  {
+   "segment": [
+    98.0,
+    99.0
+   ],
+   "verb": "put",
+   "noun": "spoon",
+   "score": 0.179527
+  },
+  {
+   "segment": [
+    98.0,
+    100.0
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.145083
+  },
+  {
+   "segment": [
+    98.5,
+    99.5
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.234258
+  },
+  {
+   "segment": [
+    98.5,
+    99.5
+   ],
+   "verb": "take",
+   "noun": "coffee",
+   "score": 0.221589
+  },
+  {
+   "segment": [
+    98.5,
+    99.5
+   ],
+   "verb": "insert",
+   "noun": "coffee",
+   "score": 0.150042
+  },
+  {
+   "segment": [
+    99.0,
+    100.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.239184
+  },
+  {
+   "segment": [
+    99.0,
+    101.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.233197
+  },
+  {
+   "segment": [
+    99.0,
+    100.0
+   ],
+   "verb": "take",
+   "noun": "coffee",
+   "score": 0.228867
+  },
+  {
+   "segment": [
+    99.0,
+    102.5
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.219532
+  },
+  {
+   "segment": [
+    99.0,
+    101.0
+   ],
+   "verb": "take",
+   "noun": "coffee",
+   "score": 0.219209
+  },
+  {
+   "segment": [
+    99.0,
+    102.5
+   ],
+   "verb": "take",
+   "noun": "coffee",
+   "score": 0.205582
+  },
+  {
+   "segment": [
+    99.0,
+    105.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.194542
+  },
+  {
+   "segment": [
+    99.0,
+    105.0
+   ],
+   "verb": "take",
+   "noun": "coffee",
+   "score": 0.175902
+  },
+  {
+   "segment": [
+    99.0,
+    101.0
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.166127
+  },
+  {
+   "segment": [
+    99.0,
+    102.5
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.160006
+  },
+  {
+   "segment": [
+    99.0,
+    100.0
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.155333
+  },
+  {
+   "segment": [
+    99.0,
+    105.0
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.144149
+  },
+  {
+   "segment": [
+    99.5,
+    100.5
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.227237
+  },
+  {
+   "segment": [
+    99.5,
+    100.5
+   ],
+   "verb": "take",
+   "noun": "coffee",
+   "score": 0.213543
+  },
+  {
+   "segment": [
+    99.5,
+    100.5
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.164224
+  },
+  {
+   "segment": [
+    100.0,
+    101.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.226393
+  },
+  {
+   "segment": [
+    100.0,
+    102.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.218992
+  },
+  {
+   "segment": [
+    100.0,
+    101.0
+   ],
+   "verb": "take",
+   "noun": "coffee",
+   "score": 0.208186
+  },
+  {
+   "segment": [
+    100.0,
+    102.0
+   ],
+   "verb": "take",
+   "noun": "coffee",
+   "score": 0.203098
+  },
+  {
+   "segment": [
+    100.0,
+    101.0
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.176742
+  },
+  {
+   "segment": [
+    100.0,
+    102.0
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.169436
+  },
+  {
+   "segment": [
+    100.5,
+    101.5
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.218309
+  },
+  {
+   "segment": [
+    100.5,
+    101.5
+   ],
+   "verb": "take",
+   "noun": "coffee",
+   "score": 0.199122
+  },
+  {
+   "segment": [
+    100.5,
+    104.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.175658
+  },
+  {
+   "segment": [
+    100.5,
+    101.5
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.172275
+  },
+  {
+   "segment": [
+    100.5,
+    104.0
+   ],
+   "verb": "take",
+   "noun": "coffee",
+   "score": 0.160471
+  },
+  {
+   "segment": [
+    100.5,
+    104.0
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.134408
+  },
+  {
+   "segment": [
+    101.0,
+    102.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.21159
+  },
+  {
+   "segment": [
+    101.0,
+    102.0
+   ],
+   "verb": "take",
+   "noun": "coffee",
+   "score": 0.197992
+  },
+  {
+   "segment": [
+    101.0,
+    103.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.186062
+  },
+  {
+   "segment": [
+    101.0,
+    103.0
+   ],
+   "verb": "take",
+   "noun": "coffee",
+   "score": 0.172198
+  },
+  {
+   "segment": [
+    101.0,
+    102.0
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.162116
+  },
+  {
+   "segment": [
+    101.0,
+    103.0
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.141121
+  },
+  {
+   "segment": [
+    101.5,
+    102.5
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.194412
+  },
+  {
+   "segment": [
+    101.5,
+    102.5
+   ],
+   "verb": "take",
+   "noun": "coffee",
+   "score": 0.182297
+  },
+  {
+   "segment": [
+    101.5,
+    102.5
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.142911
+  },
+  {
+   "segment": [
+    102.0,
+    104.0
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.157297
+  },
+  {
+   "segment": [
+    102.0,
+    103.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.154103
+  },
+  {
+   "segment": [
+    102.0,
+    105.5
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.150068
+  },
+  {
+   "segment": [
+    102.0,
+    105.5
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.141482
+  },
+  {
+   "segment": [
+    102.0,
+    104.0
+   ],
+   "verb": "insert",
+   "noun": "pan",
+   "score": 0.141102
+  },
+  {
+   "segment": [
+    102.0,
+    103.0
+   ],
+   "verb": "take",
+   "noun": "coffee",
+   "score": 0.139397
+  },
+  {
+   "segment": [
+    102.0,
+    104.0
+   ],
+   "verb": "move",
+   "noun": "pan",
+   "score": 0.133022
+  },
+  {
+   "segment": [
+    102.0,
+    105.5
+   ],
+   "verb": "insert",
+   "noun": "pan",
+   "score": 0.12485
+  },
+  {
+   "segment": [
+    102.0,
+    103.0
+   ],
+   "verb": "turn-on",
+   "noun": "hob",
+   "score": 0.114629
+  },
+  {
+   "segment": [
+    102.5,
+    103.5
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.164373
+  },
+  {
+   "segment": [
+    102.5,
+    103.5
+   ],
+   "verb": "insert",
+   "noun": "pan",
+   "score": 0.148993
+  },
+  {
+   "segment": [
+    102.5,
+    103.5
+   ],
+   "verb": "move",
+   "noun": "pan",
+   "score": 0.143324
+  },
+  {
+   "segment": [
+    103.0,
+    104.0
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.20061
+  },
+  {
+   "segment": [
+    103.0,
+    104.0
+   ],
+   "verb": "insert",
+   "noun": "pan",
+   "score": 0.180753
+  },
+  {
+   "segment": [
+    103.0,
+    105.0
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.173409
+  },
+  {
+   "segment": [
+    103.0,
+    104.0
+   ],
+   "verb": "move",
+   "noun": "pan",
+   "score": 0.162076
+  },
+  {
+   "segment": [
+    103.0,
+    105.0
+   ],
+   "verb": "insert",
+   "noun": "pan",
+   "score": 0.15342
+  },
+  {
+   "segment": [
+    103.0,
+    105.0
+   ],
+   "verb": "move",
+   "noun": "pan",
+   "score": 0.135412
+  },
+  {
+   "segment": [
+    103.5,
+    104.5
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.182296
+  },
+  {
+   "segment": [
+    103.5,
+    104.5
+   ],
+   "verb": "insert",
+   "noun": "pan",
+   "score": 0.161087
+  },
+  {
+   "segment": [
+    103.5,
+    104.5
+   ],
+   "verb": "move",
+   "noun": "pan",
+   "score": 0.137635
+  },
+  {
+   "segment": [
+    104.0,
+    105.0
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.171872
+  },
+  {
+   "segment": [
+    104.0,
+    106.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.170284
+  },
+  {
+   "segment": [
+    104.0,
+    105.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.169603
+  },
+  {
+   "segment": [
+    104.0,
+    105.0
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.143871
+  },
+  {
+   "segment": [
+    104.0,
+    106.0
+   ],
+   "verb": "take",
+   "noun": "tea",
+   "score": 0.141926
+  },
+  {
+   "segment": [
+    104.0,
+    106.0
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.141192
+  },
+  {
+   "segment": [
+    104.5,
+    105.5
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.192974
+  },
+  {
+   "segment": [
+    104.5,
+    105.5
+   ],
+   "verb": "mix",
+   "noun": "coffee",
+   "score": 0.169179
+  },
+  {
+   "segment": [
+    104.5,
+    105.5
+   ],
+   "verb": "put",
+   "noun": "tea",
+   "score": 0.153459
+  },
+  {
+   "segment": [
+    105.0,
+    106.0
+   ],
+   "verb": "take",
+   "noun": "tea",
+   "score": 0.170655
+  },
+  {
+   "segment": [
+    105.0,
+    106.0
+   ],
+   "verb": "put",
+   "noun": "coffee",
+   "score": 0.166653
+  },
+  {
+   "segment": [
+    105.0,
+    106.0
+   ],
+   "verb": "put",
+   "noun": "tea",
+   "score": 0.15714
+  },
+  {
+   "segment": [
+    105.5,
+    106.5
+   ],
+   "verb": "take",
+   "noun": "tea",
+   "score": 0.18521
+  },
+  {
+   "segment": [
+    105.5,
+    106.5
+   ],
+   "verb": "take",
+   "noun": "coffee",
+   "score": 0.148407
+  },
+  {
+   "segment": [
+    105.5,
+    106.5
+   ],
+   "verb": "put",
+   "noun": "tea",
+   "score": 0.14738
+  }
+ ],
+ "highlights": [
+  {
+   "segment": [
+    4.5,
+    9.78
+   ]
+  },
+  {
+   "segment": [
+    71.0,
+    76.28
+   ]
+  },
+  {
+   "segment": [
+    99.0,
+    104.28
+   ]
+  }
+ ]
+}

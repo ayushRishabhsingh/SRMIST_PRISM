@@ -1,0 +1,24 @@
+{
+ "team_id": "SRMIST_PRISM",
+ "video_id": "Surfing_7bzMGVKaiCQ",
+ "duration_sec": 68.87,
+ "label": {
+  "name": "surfing",
+  "score": 0.9707
+ },
+ "actions": [],
+ "highlights": [
+  {
+   "segment": [
+    28.0,
+    32.1
+   ]
+  },
+  {
+   "segment": [
+    44.0,
+    48.1
+   ]
+  }
+ ]
+}

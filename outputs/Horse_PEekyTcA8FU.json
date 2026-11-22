@@ -1,0 +1,60 @@
+{
+ "team_id": "SRMIST_PRISM",
+ "video_id": "Horse_PEekyTcA8FU",
+ "duration_sec": 229.08,
+ "label": {
+  "name": "horse",
+  "score": 0.9845
+ },
+ "actions": [],
+ "highlights": [
+  {
+   "segment": [
+    0.0,
+    4.1
+   ]
+  },
+  {
+   "segment": [
+    58.0,
+    62.1
+   ]
+  },
+  {
+   "segment": [
+    161.0,
+    165.1
+   ]
+  },
+  {
+   "segment": [
+    175.0,
+    179.1
+   ]
+  },
+  {
+   "segment": [
+    197.0,
+    201.1
+   ]
+  },
+  {
+   "segment": [
+    204.0,
+    208.1
+   ]
+  },
+  {
+   "segment": [
+    217.0,
+    221.1
+   ]
+  },
+  {
+   "segment": [
+    224.0,
+    228.1
+   ]
+  }
+ ]
+}

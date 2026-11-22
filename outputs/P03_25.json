@@ -1,0 +1,3880 @@
+{
+ "team_id": "SRMIST_PRISM",
+ "video_id": "P03_25",
+ "duration_sec": 37.21,
+ "label": {
+  "name": "cooking",
+  "score": 0.9962
+ },
+ "actions": [
+  {
+   "segment": [
+    0.0,
+    1.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.428067
+  },
+  {
+   "segment": [
+    0.0,
+    2.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.383292
+  },
+  {
+   "segment": [
+    0.0,
+    3.5
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.315759
+  },
+  {
+   "segment": [
+    0.0,
+    1.0
+   ],
+   "verb": "look",
+   "noun": "kitchen",
+   "score": 0.27805
+  },
+  {
+   "segment": [
+    0.0,
+    6.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.259627
+  },
+  {
+   "segment": [
+    0.0,
+    2.0
+   ],
+   "verb": "look",
+   "noun": "kitchen",
+   "score": 0.236804
+  },
+  {
+   "segment": [
+    0.0,
+    3.5
+   ],
+   "verb": "look",
+   "noun": "kitchen",
+   "score": 0.195689
+  },
+  {
+   "segment": [
+    0.0,
+    6.0
+   ],
+   "verb": "look",
+   "noun": "kitchen",
+   "score": 0.160737
+  },
+  {
+   "segment": [
+    0.0,
+    1.0
+   ],
+   "verb": "take",
+   "noun": "kitchen",
+   "score": 0.157407
+  },
+  {
+   "segment": [
+    0.0,
+    2.0
+   ],
+   "verb": "take",
+   "noun": "kitchen",
+   "score": 0.137956
+  },
+  {
+   "segment": [
+    0.0,
+    6.0
+   ],
+   "verb": "put",
+   "noun": "liquid:washing",
+   "score": 0.130434
+  },
+  {
+   "segment": [
+    0.0,
+    3.5
+   ],
+   "verb": "take",
+   "noun": "kitchen",
+   "score": 0.115098
+  },
+  {
+   "segment": [
+    0.5,
+    1.5
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.395895
+  },
+  {
+   "segment": [
+    0.5,
+    1.5
+   ],
+   "verb": "look",
+   "noun": "kitchen",
+   "score": 0.238993
+  },
+  {
+   "segment": [
+    0.5,
+    1.5
+   ],
+   "verb": "take",
+   "noun": "kitchen",
+   "score": 0.139469
+  },
+  {
+   "segment": [
+    1.0,
+    2.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.327813
+  },
+  {
+   "segment": [
+    1.0,
+    3.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.256051
+  },
+  {
+   "segment": [
+    1.0,
+    2.0
+   ],
+   "verb": "look",
+   "noun": "kitchen",
+   "score": 0.181922
+  },
+  {
+   "segment": [
+    1.0,
+    3.0
+   ],
+   "verb": "look",
+   "noun": "kitchen",
+   "score": 0.145071
+  },
+  {
+   "segment": [
+    1.0,
+    3.0
+   ],
+   "verb": "put",
+   "noun": "liquid:washing",
+   "score": 0.132082
+  },
+  {
+   "segment": [
+    1.0,
+    2.0
+   ],
+   "verb": "take",
+   "noun": "liquid:washing",
+   "score": 0.12714
+  },
+  {
+   "segment": [
+    1.5,
+    2.5
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.226595
+  },
+  {
+   "segment": [
+    1.5,
+    2.5
+   ],
+   "verb": "put",
+   "noun": "liquid:washing",
+   "score": 0.147245
+  },
+  {
+   "segment": [
+    1.5,
+    2.5
+   ],
+   "verb": "take",
+   "noun": "liquid:washing",
+   "score": 0.144527
+  },
+  {
+   "segment": [
+    1.5,
+    5.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.137633
+  },
+  {
+   "segment": [
+    1.5,
+    5.0
+   ],
+   "verb": "put",
+   "noun": "glass",
+   "score": 0.132568
+  },
+  {
+   "segment": [
+    1.5,
+    5.0
+   ],
+   "verb": "put",
+   "noun": "liquid:washing",
+   "score": 0.129616
+  },
+  {
+   "segment": [
+    2.0,
+    3.0
+   ],
+   "verb": "put",
+   "noun": "glass",
+   "score": 0.1781
+  },
+  {
+   "segment": [
+    2.0,
+    4.0
+   ],
+   "verb": "put",
+   "noun": "glass",
+   "score": 0.162258
+  },
+  {
+   "segment": [
+    2.0,
+    3.0
+   ],
+   "verb": "put",
+   "noun": "liquid:washing",
+   "score": 0.141754
+  },
+  {
+   "segment": [
+    2.0,
+    3.0
+   ],
+   "verb": "take",
+   "noun": "glass",
+   "score": 0.13804
+  },
+  {
+   "segment": [
+    2.0,
+    4.0
+   ],
+   "verb": "take",
+   "noun": "glass",
+   "score": 0.122783
+  },
+  {
+   "segment": [
+    2.0,
+    4.0
+   ],
+   "verb": "put",
+   "noun": "liquid:washing",
+   "score": 0.119801
+  },
+  {
+   "segment": [
+    2.5,
+    3.5
+   ],
+   "verb": "put",
+   "noun": "glass",
+   "score": 0.186565
+  },
+  {
+   "segment": [
+    2.5,
+    3.5
+   ],
+   "verb": "take",
+   "noun": "glass",
+   "score": 0.137426
+  },
+  {
+   "segment": [
+    2.5,
+    3.5
+   ],
+   "verb": "pour",
+   "noun": "water",
+   "score": 0.115772
+  },
+  {
+   "segment": [
+    3.0,
+    9.0
+   ],
+   "verb": "pour",
+   "noun": "water",
+   "score": 0.197724
+  },
+  {
+   "segment": [
+    3.0,
+    6.5
+   ],
+   "verb": "pour",
+   "noun": "water",
+   "score": 0.181404
+  },
+  {
+   "segment": [
+    3.0,
+    9.0
+   ],
+   "verb": "put",
+   "noun": "liquid:washing",
+   "score": 0.16852
+  },
+  {
+   "segment": [
+    3.0,
+    9.0
+   ],
+   "verb": "pour",
+   "noun": "liquid:washing",
+   "score": 0.167897
+  },
+  {
+   "segment": [
+    3.0,
+    6.5
+   ],
+   "verb": "pour",
+   "noun": "liquid:washing",
+   "score": 0.158126
+  },
+  {
+   "segment": [
+    3.0,
+    6.5
+   ],
+   "verb": "put",
+   "noun": "liquid:washing",
+   "score": 0.156661
+  },
+  {
+   "segment": [
+    3.0,
+    4.0
+   ],
+   "verb": "put",
+   "noun": "glass",
+   "score": 0.142272
+  },
+  {
+   "segment": [
+    3.0,
+    5.0
+   ],
+   "verb": "pour",
+   "noun": "water",
+   "score": 0.136725
+  },
+  {
+   "segment": [
+    3.0,
+    4.0
+   ],
+   "verb": "soak",
+   "noun": "sponge",
+   "score": 0.131728
+  },
+  {
+   "segment": [
+    3.0,
+    4.0
+   ],
+   "verb": "pour",
+   "noun": "water",
+   "score": 0.128058
+  },
+  {
+   "segment": [
+    3.0,
+    5.0
+   ],
+   "verb": "soak",
+   "noun": "sponge",
+   "score": 0.12436
+  },
+  {
+   "segment": [
+    3.0,
+    5.0
+   ],
+   "verb": "turn-on",
+   "noun": "tap",
+   "score": 0.120432
+  },
+  {
+   "segment": [
+    3.5,
+    4.5
+   ],
+   "verb": "pour",
+   "noun": "water",
+   "score": 0.135072
+  },
+  {
+   "segment": [
+    3.5,
+    4.5
+   ],
+   "verb": "soak",
+   "noun": "sponge",
+   "score": 0.13206
+  },
+  {
+   "segment": [
+    3.5,
+    4.5
+   ],
+   "verb": "turn-on",
+   "noun": "tap",
+   "score": 0.114109
+  },
+  {
+   "segment": [
+    4.0,
+    6.0
+   ],
+   "verb": "pour",
+   "noun": "water",
+   "score": 0.17963
+  },
+  {
+   "segment": [
+    4.0,
+    6.0
+   ],
+   "verb": "put",
+   "noun": "liquid:washing",
+   "score": 0.177471
+  },
+  {
+   "segment": [
+    4.0,
+    6.0
+   ],
+   "verb": "pour",
+   "noun": "liquid:washing",
+   "score": 0.175957
+  },
+  {
+   "segment": [
+    4.0,
+    5.0
+   ],
+   "verb": "turn-on",
+   "noun": "tap",
+   "score": 0.170052
+  },
+  {
+   "segment": [
+    4.0,
+    5.0
+   ],
+   "verb": "turn-off",
+   "noun": "tap",
+   "score": 0.148676
+  },
+  {
+   "segment": [
+    4.0,
+    5.0
+   ],
+   "verb": "pour",
+   "noun": "water",
+   "score": 0.14538
+  },
+  {
+   "segment": [
+    4.5,
+    8.0
+   ],
+   "verb": "pour",
+   "noun": "water",
+   "score": 0.224421
+  },
+  {
+   "segment": [
+    4.5,
+    8.0
+   ],
+   "verb": "pour",
+   "noun": "liquid:washing",
+   "score": 0.196647
+  },
+  {
+   "segment": [
+    4.5,
+    8.0
+   ],
+   "verb": "put",
+   "noun": "liquid:washing",
+   "score": 0.192686
+  },
+  {
+   "segment": [
+    4.5,
+    5.5
+   ],
+   "verb": "put",
+   "noun": "liquid:washing",
+   "score": 0.191316
+  },
+  {
+   "segment": [
+    4.5,
+    5.5
+   ],
+   "verb": "turn-on",
+   "noun": "tap",
+   "score": 0.183352
+  },
+  {
+   "segment": [
+    4.5,
+    5.5
+   ],
+   "verb": "pour",
+   "noun": "liquid:washing",
+   "score": 0.183258
+  },
+  {
+   "segment": [
+    5.0,
+    7.0
+   ],
+   "verb": "pour",
+   "noun": "water",
+   "score": 0.243814
+  },
+  {
+   "segment": [
+    5.0,
+    6.0
+   ],
+   "verb": "pour",
+   "noun": "liquid:washing",
+   "score": 0.216388
+  },
+  {
+   "segment": [
+    5.0,
+    6.0
+   ],
+   "verb": "put",
+   "noun": "liquid:washing",
+   "score": 0.212972
+  },
+  {
+   "segment": [
+    5.0,
+    6.0
+   ],
+   "verb": "pour",
+   "noun": "water",
+   "score": 0.210143
+  },
+  {
+   "segment": [
+    5.0,
+    7.0
+   ],
+   "verb": "pour",
+   "noun": "liquid:washing",
+   "score": 0.207377
+  },
+  {
+   "segment": [
+    5.0,
+    7.0
+   ],
+   "verb": "put",
+   "noun": "liquid:washing",
+   "score": 0.196392
+  },
+  {
+   "segment": [
+    5.5,
+    6.5
+   ],
+   "verb": "pour",
+   "noun": "water",
+   "score": 0.262238
+  },
+  {
+   "segment": [
+    5.5,
+    6.5
+   ],
+   "verb": "pour",
+   "noun": "liquid:washing",
+   "score": 0.217106
+  },
+  {
+   "segment": [
+    5.5,
+    6.5
+   ],
+   "verb": "put",
+   "noun": "liquid:washing",
+   "score": 0.201124
+  },
+  {
+   "segment": [
+    6.0,
+    7.0
+   ],
+   "verb": "pour",
+   "noun": "water",
+   "score": 0.272746
+  },
+  {
+   "segment": [
+    6.0,
+    8.0
+   ],
+   "verb": "pour",
+   "noun": "water",
+   "score": 0.244846
+  },
+  {
+   "segment": [
+    6.0,
+    9.5
+   ],
+   "verb": "pour",
+   "noun": "water",
+   "score": 0.221382
+  },
+  {
+   "segment": [
+    6.0,
+    7.0
+   ],
+   "verb": "pour",
+   "noun": "liquid:washing",
+   "score": 0.198137
+  },
+  {
+   "segment": [
+    6.0,
+    8.0
+   ],
+   "verb": "pour",
+   "noun": "liquid:washing",
+   "score": 0.194946
+  },
+  {
+   "segment": [
+    6.0,
+    8.0
+   ],
+   "verb": "put",
+   "noun": "liquid:washing",
+   "score": 0.187157
+  },
+  {
+   "segment": [
+    6.0,
+    12.0
+   ],
+   "verb": "pour",
+   "noun": "water",
+   "score": 0.183256
+  },
+  {
+   "segment": [
+    6.0,
+    9.5
+   ],
+   "verb": "put",
+   "noun": "liquid:washing",
+   "score": 0.179873
+  },
+  {
+   "segment": [
+    6.0,
+    7.0
+   ],
+   "verb": "put",
+   "noun": "liquid:washing",
+   "score": 0.178657
+  },
+  {
+   "segment": [
+    6.0,
+    9.5
+   ],
+   "verb": "pour",
+   "noun": "liquid:washing",
+   "score": 0.178099
+  },
+  {
+   "segment": [
+    6.0,
+    12.0
+   ],
+   "verb": "put",
+   "noun": "liquid:washing",
+   "score": 0.152202
+  },
+  {
+   "segment": [
+    6.0,
+    12.0
+   ],
+   "verb": "pour",
+   "noun": "liquid:washing",
+   "score": 0.147335
+  },
+  {
+   "segment": [
+    6.5,
+    7.5
+   ],
+   "verb": "pour",
+   "noun": "water",
+   "score": 0.246043
+  },
+  {
+   "segment": [
+    6.5,
+    7.5
+   ],
+   "verb": "pour",
+   "noun": "liquid:washing",
+   "score": 0.18821
+  },
+  {
+   "segment": [
+    6.5,
+    7.5
+   ],
+   "verb": "put",
+   "noun": "liquid:washing",
+   "score": 0.183564
+  },
+  {
+   "segment": [
+    7.0,
+    8.0
+   ],
+   "verb": "pour",
+   "noun": "water",
+   "score": 0.21142
+  },
+  {
+   "segment": [
+    7.0,
+    9.0
+   ],
+   "verb": "pour",
+   "noun": "water",
+   "score": 0.203024
+  },
+  {
+   "segment": [
+    7.0,
+    8.0
+   ],
+   "verb": "put",
+   "noun": "liquid:washing",
+   "score": 0.195579
+  },
+  {
+   "segment": [
+    7.0,
+    8.0
+   ],
+   "verb": "pour",
+   "noun": "liquid:washing",
+   "score": 0.19141
+  },
+  {
+   "segment": [
+    7.0,
+    9.0
+   ],
+   "verb": "put",
+   "noun": "liquid:washing",
+   "score": 0.188216
+  },
+  {
+   "segment": [
+    7.0,
+    9.0
+   ],
+   "verb": "pour",
+   "noun": "liquid:washing",
+   "score": 0.179491
+  },
+  {
+   "segment": [
+    7.5,
+    8.5
+   ],
+   "verb": "pour",
+   "noun": "water",
+   "score": 0.205379
+  },
+  {
+   "segment": [
+    7.5,
+    8.5
+   ],
+   "verb": "put",
+   "noun": "liquid:washing",
+   "score": 0.19348
+  },
+  {
+   "segment": [
+    7.5,
+    11.0
+   ],
+   "verb": "pour",
+   "noun": "water",
+   "score": 0.185767
+  },
+  {
+   "segment": [
+    7.5,
+    8.5
+   ],
+   "verb": "pour",
+   "noun": "liquid:washing",
+   "score": 0.185284
+  },
+  {
+   "segment": [
+    7.5,
+    11.0
+   ],
+   "verb": "put",
+   "noun": "liquid:washing",
+   "score": 0.163546
+  },
+  {
+   "segment": [
+    7.5,
+    11.0
+   ],
+   "verb": "pour",
+   "noun": "liquid:washing",
+   "score": 0.15348
+  },
+  {
+   "segment": [
+    8.0,
+    9.0
+   ],
+   "verb": "pour",
+   "noun": "water",
+   "score": 0.194266
+  },
+  {
+   "segment": [
+    8.0,
+    10.0
+   ],
+   "verb": "pour",
+   "noun": "water",
+   "score": 0.190319
+  },
+  {
+   "segment": [
+    8.0,
+    9.0
+   ],
+   "verb": "put",
+   "noun": "liquid:washing",
+   "score": 0.180552
+  },
+  {
+   "segment": [
+    8.0,
+    10.0
+   ],
+   "verb": "put",
+   "noun": "liquid:washing",
+   "score": 0.16811
+  },
+  {
+   "segment": [
+    8.0,
+    9.0
+   ],
+   "verb": "pour",
+   "noun": "liquid:washing",
+   "score": 0.166721
+  },
+  {
+   "segment": [
+    8.0,
+    10.0
+   ],
+   "verb": "put",
+   "noun": "glass",
+   "score": 0.163615
+  },
+  {
+   "segment": [
+    8.5,
+    9.5
+   ],
+   "verb": "pour",
+   "noun": "water",
+   "score": 0.17917
+  },
+  {
+   "segment": [
+    8.5,
+    9.5
+   ],
+   "verb": "put",
+   "noun": "jar",
+   "score": 0.165952
+  },
+  {
+   "segment": [
+    8.5,
+    9.5
+   ],
+   "verb": "put",
+   "noun": "glass",
+   "score": 0.162497
+  },
+  {
+   "segment": [
+    9.0,
+    15.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.246277
+  },
+  {
+   "segment": [
+    9.0,
+    10.0
+   ],
+   "verb": "put",
+   "noun": "glass",
+   "score": 0.188818
+  },
+  {
+   "segment": [
+    9.0,
+    12.5
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.18681
+  },
+  {
+   "segment": [
+    9.0,
+    10.0
+   ],
+   "verb": "pour",
+   "noun": "water",
+   "score": 0.186022
+  },
+  {
+   "segment": [
+    9.0,
+    15.0
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.182619
+  },
+  {
+   "segment": [
+    9.0,
+    11.0
+   ],
+   "verb": "pour",
+   "noun": "water",
+   "score": 0.174687
+  },
+  {
+   "segment": [
+    9.0,
+    12.5
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.165825
+  },
+  {
+   "segment": [
+    9.0,
+    12.5
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.164273
+  },
+  {
+   "segment": [
+    9.0,
+    11.0
+   ],
+   "verb": "put",
+   "noun": "glass",
+   "score": 0.158893
+  },
+  {
+   "segment": [
+    9.0,
+    10.0
+   ],
+   "verb": "put",
+   "noun": "liquid:washing",
+   "score": 0.155652
+  },
+  {
+   "segment": [
+    9.0,
+    15.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.154527
+  },
+  {
+   "segment": [
+    9.0,
+    11.0
+   ],
+   "verb": "put",
+   "noun": "liquid:washing",
+   "score": 0.146904
+  },
+  {
+   "segment": [
+    9.5,
+    10.5
+   ],
+   "verb": "pour",
+   "noun": "water",
+   "score": 0.196117
+  },
+  {
+   "segment": [
+    9.5,
+    10.5
+   ],
+   "verb": "put",
+   "noun": "glass",
+   "score": 0.181929
+  },
+  {
+   "segment": [
+    9.5,
+    10.5
+   ],
+   "verb": "put",
+   "noun": "liquid:washing",
+   "score": 0.156032
+  },
+  {
+   "segment": [
+    10.0,
+    11.0
+   ],
+   "verb": "pour",
+   "noun": "water",
+   "score": 0.163244
+  },
+  {
+   "segment": [
+    10.0,
+    12.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.156828
+  },
+  {
+   "segment": [
+    10.0,
+    12.0
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.152981
+  },
+  {
+   "segment": [
+    10.0,
+    12.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.148235
+  },
+  {
+   "segment": [
+    10.0,
+    11.0
+   ],
+   "verb": "move",
+   "noun": "pan",
+   "score": 0.142918
+  },
+  {
+   "segment": [
+    10.0,
+    11.0
+   ],
+   "verb": "put",
+   "noun": "liquid:washing",
+   "score": 0.138022
+  },
+  {
+   "segment": [
+    10.5,
+    14.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.299468
+  },
+  {
+   "segment": [
+    10.5,
+    14.0
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.223717
+  },
+  {
+   "segment": [
+    10.5,
+    14.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.185875
+  },
+  {
+   "segment": [
+    10.5,
+    11.5
+   ],
+   "verb": "hang",
+   "noun": "clothes",
+   "score": 0.158465
+  },
+  {
+   "segment": [
+    10.5,
+    11.5
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.129582
+  },
+  {
+   "segment": [
+    10.5,
+    11.5
+   ],
+   "verb": "move",
+   "noun": "pan",
+   "score": 0.124136
+  },
+  {
+   "segment": [
+    11.0,
+    13.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.294996
+  },
+  {
+   "segment": [
+    11.0,
+    13.0
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.23569
+  },
+  {
+   "segment": [
+    11.0,
+    13.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.229338
+  },
+  {
+   "segment": [
+    11.0,
+    12.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.2019
+  },
+  {
+   "segment": [
+    11.0,
+    12.0
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.198324
+  },
+  {
+   "segment": [
+    11.0,
+    12.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.192056
+  },
+  {
+   "segment": [
+    11.5,
+    12.5
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.287764
+  },
+  {
+   "segment": [
+    11.5,
+    12.5
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.255413
+  },
+  {
+   "segment": [
+    11.5,
+    12.5
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.240703
+  },
+  {
+   "segment": [
+    12.0,
+    14.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.377254
+  },
+  {
+   "segment": [
+    12.0,
+    13.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.376725
+  },
+  {
+   "segment": [
+    12.0,
+    15.5
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.293084
+  },
+  {
+   "segment": [
+    12.0,
+    13.0
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.270495
+  },
+  {
+   "segment": [
+    12.0,
+    14.0
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.261433
+  },
+  {
+   "segment": [
+    12.0,
+    13.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.255709
+  },
+  {
+   "segment": [
+    12.0,
+    18.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.238834
+  },
+  {
+   "segment": [
+    12.0,
+    15.5
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.209186
+  },
+  {
+   "segment": [
+    12.0,
+    15.5
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.202043
+  },
+  {
+   "segment": [
+    12.0,
+    14.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.19705
+  },
+  {
+   "segment": [
+    12.0,
+    18.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.173689
+  },
+  {
+   "segment": [
+    12.0,
+    18.0
+   ],
+   "verb": "pour",
+   "noun": "oil",
+   "score": 0.165592
+  },
+  {
+   "segment": [
+    12.5,
+    13.5
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.420876
+  },
+  {
+   "segment": [
+    12.5,
+    13.5
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.27699
+  },
+  {
+   "segment": [
+    12.5,
+    13.5
+   ],
+   "verb": "open",
+   "noun": "freezer",
+   "score": 0.207571
+  },
+  {
+   "segment": [
+    13.0,
+    14.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.376099
+  },
+  {
+   "segment": [
+    13.0,
+    15.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.272356
+  },
+  {
+   "segment": [
+    13.0,
+    14.0
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.24942
+  },
+  {
+   "segment": [
+    13.0,
+    15.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.242549
+  },
+  {
+   "segment": [
+    13.0,
+    14.0
+   ],
+   "verb": "open",
+   "noun": "freezer",
+   "score": 0.190669
+  },
+  {
+   "segment": [
+    13.0,
+    15.0
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.179461
+  },
+  {
+   "segment": [
+    13.5,
+    14.5
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.25508
+  },
+  {
+   "segment": [
+    13.5,
+    14.5
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.249644
+  },
+  {
+   "segment": [
+    13.5,
+    17.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.227538
+  },
+  {
+   "segment": [
+    13.5,
+    17.0
+   ],
+   "verb": "pour",
+   "noun": "oil",
+   "score": 0.187528
+  },
+  {
+   "segment": [
+    13.5,
+    14.5
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.17053
+  },
+  {
+   "segment": [
+    13.5,
+    17.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.144374
+  },
+  {
+   "segment": [
+    14.0,
+    15.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.302825
+  },
+  {
+   "segment": [
+    14.0,
+    16.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.271358
+  },
+  {
+   "segment": [
+    14.0,
+    15.0
+   ],
+   "verb": "throw",
+   "noun": "sink",
+   "score": 0.143429
+  },
+  {
+   "segment": [
+    14.0,
+    15.0
+   ],
+   "verb": "look",
+   "noun": "kitchen",
+   "score": 0.124697
+  },
+  {
+   "segment": [
+    14.0,
+    16.0
+   ],
+   "verb": "look",
+   "noun": "kitchen",
+   "score": 0.11809
+  },
+  {
+   "segment": [
+    14.0,
+    16.0
+   ],
+   "verb": "pour",
+   "noun": "oil",
+   "score": 0.116807
+  },
+  {
+   "segment": [
+    14.5,
+    15.5
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.301715
+  },
+  {
+   "segment": [
+    14.5,
+    15.5
+   ],
+   "verb": "look",
+   "noun": "kitchen",
+   "score": 0.134368
+  },
+  {
+   "segment": [
+    14.5,
+    15.5
+   ],
+   "verb": "throw",
+   "noun": "sink",
+   "score": 0.121787
+  },
+  {
+   "segment": [
+    15.0,
+    17.0
+   ],
+   "verb": "pour",
+   "noun": "oil",
+   "score": 0.261013
+  },
+  {
+   "segment": [
+    15.0,
+    21.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.258439
+  },
+  {
+   "segment": [
+    15.0,
+    18.5
+   ],
+   "verb": "pour",
+   "noun": "oil",
+   "score": 0.232297
+  },
+  {
+   "segment": [
+    15.0,
+    16.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.216456
+  },
+  {
+   "segment": [
+    15.0,
+    18.5
+   ],
+   "verb": "pour",
+   "noun": "liquid:washing",
+   "score": 0.194363
+  },
+  {
+   "segment": [
+    15.0,
+    17.0
+   ],
+   "verb": "pour",
+   "noun": "liquid:washing",
+   "score": 0.187583
+  },
+  {
+   "segment": [
+    15.0,
+    16.0
+   ],
+   "verb": "pour",
+   "noun": "oil",
+   "score": 0.175036
+  },
+  {
+   "segment": [
+    15.0,
+    21.0
+   ],
+   "verb": "pour",
+   "noun": "oil",
+   "score": 0.169874
+  },
+  {
+   "segment": [
+    15.0,
+    21.0
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.163954
+  },
+  {
+   "segment": [
+    15.0,
+    17.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.158902
+  },
+  {
+   "segment": [
+    15.0,
+    16.0
+   ],
+   "verb": "pour",
+   "noun": "liquid:washing",
+   "score": 0.149181
+  },
+  {
+   "segment": [
+    15.0,
+    18.5
+   ],
+   "verb": "pour",
+   "noun": "vinegar",
+   "score": 0.148129
+  },
+  {
+   "segment": [
+    15.5,
+    16.5
+   ],
+   "verb": "pour",
+   "noun": "oil",
+   "score": 0.275492
+  },
+  {
+   "segment": [
+    15.5,
+    16.5
+   ],
+   "verb": "pour",
+   "noun": "liquid:washing",
+   "score": 0.187248
+  },
+  {
+   "segment": [
+    15.5,
+    16.5
+   ],
+   "verb": "pour",
+   "noun": "vinegar",
+   "score": 0.155372
+  },
+  {
+   "segment": [
+    16.0,
+    17.0
+   ],
+   "verb": "pour",
+   "noun": "oil",
+   "score": 0.331083
+  },
+  {
+   "segment": [
+    16.0,
+    18.0
+   ],
+   "verb": "pour",
+   "noun": "oil",
+   "score": 0.282822
+  },
+  {
+   "segment": [
+    16.0,
+    18.0
+   ],
+   "verb": "pour",
+   "noun": "liquid:washing",
+   "score": 0.225403
+  },
+  {
+   "segment": [
+    16.0,
+    17.0
+   ],
+   "verb": "pour",
+   "noun": "liquid:washing",
+   "score": 0.222309
+  },
+  {
+   "segment": [
+    16.0,
+    17.0
+   ],
+   "verb": "pour",
+   "noun": "vinegar",
+   "score": 0.185774
+  },
+  {
+   "segment": [
+    16.0,
+    18.0
+   ],
+   "verb": "pour",
+   "noun": "vinegar",
+   "score": 0.175807
+  },
+  {
+   "segment": [
+    16.5,
+    17.5
+   ],
+   "verb": "pour",
+   "noun": "oil",
+   "score": 0.312724
+  },
+  {
+   "segment": [
+    16.5,
+    20.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.246715
+  },
+  {
+   "segment": [
+    16.5,
+    17.5
+   ],
+   "verb": "pour",
+   "noun": "liquid:washing",
+   "score": 0.23625
+  },
+  {
+   "segment": [
+    16.5,
+    17.5
+   ],
+   "verb": "put",
+   "noun": "vinegar",
+   "score": 0.1904
+  },
+  {
+   "segment": [
+    16.5,
+    20.0
+   ],
+   "verb": "pour",
+   "noun": "oil",
+   "score": 0.165847
+  },
+  {
+   "segment": [
+    16.5,
+    20.0
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.160515
+  },
+  {
+   "segment": [
+    17.0,
+    18.0
+   ],
+   "verb": "pour",
+   "noun": "liquid:washing",
+   "score": 0.228441
+  },
+  {
+   "segment": [
+    17.0,
+    18.0
+   ],
+   "verb": "pour",
+   "noun": "oil",
+   "score": 0.224679
+  },
+  {
+   "segment": [
+    17.0,
+    18.0
+   ],
+   "verb": "put",
+   "noun": "bottle",
+   "score": 0.192102
+  },
+  {
+   "segment": [
+    17.0,
+    19.0
+   ],
+   "verb": "pour",
+   "noun": "liquid:washing",
+   "score": 0.176652
+  },
+  {
+   "segment": [
+    17.0,
+    19.0
+   ],
+   "verb": "pour",
+   "noun": "oil",
+   "score": 0.155101
+  },
+  {
+   "segment": [
+    17.0,
+    19.0
+   ],
+   "verb": "put",
+   "noun": "bottle",
+   "score": 0.154062
+  },
+  {
+   "segment": [
+    17.5,
+    18.5
+   ],
+   "verb": "pour",
+   "noun": "liquid:washing",
+   "score": 0.185759
+  },
+  {
+   "segment": [
+    17.5,
+    18.5
+   ],
+   "verb": "put",
+   "noun": "bottle",
+   "score": 0.178712
+  },
+  {
+   "segment": [
+    17.5,
+    18.5
+   ],
+   "verb": "put",
+   "noun": "liquid:washing",
+   "score": 0.152959
+  },
+  {
+   "segment": [
+    18.0,
+    21.5
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.35463
+  },
+  {
+   "segment": [
+    18.0,
+    24.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.309666
+  },
+  {
+   "segment": [
+    18.0,
+    20.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.303824
+  },
+  {
+   "segment": [
+    18.0,
+    21.5
+   ],
+   "verb": "open",
+   "noun": "freezer",
+   "score": 0.222781
+  },
+  {
+   "segment": [
+    18.0,
+    21.5
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.220831
+  },
+  {
+   "segment": [
+    18.0,
+    20.0
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.197669
+  },
+  {
+   "segment": [
+    18.0,
+    24.0
+   ],
+   "verb": "open",
+   "noun": "freezer",
+   "score": 0.195746
+  },
+  {
+   "segment": [
+    18.0,
+    24.0
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.188249
+  },
+  {
+   "segment": [
+    18.0,
+    19.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.185742
+  },
+  {
+   "segment": [
+    18.0,
+    20.0
+   ],
+   "verb": "open",
+   "noun": "freezer",
+   "score": 0.158598
+  },
+  {
+   "segment": [
+    18.0,
+    19.0
+   ],
+   "verb": "hang",
+   "noun": "clothes",
+   "score": 0.138974
+  },
+  {
+   "segment": [
+    18.0,
+    19.0
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.127204
+  },
+  {
+   "segment": [
+    18.5,
+    19.5
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.28975
+  },
+  {
+   "segment": [
+    18.5,
+    19.5
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.190011
+  },
+  {
+   "segment": [
+    18.5,
+    19.5
+   ],
+   "verb": "open",
+   "noun": "freezer",
+   "score": 0.14076
+  },
+  {
+   "segment": [
+    19.0,
+    21.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.403948
+  },
+  {
+   "segment": [
+    19.0,
+    20.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.381989
+  },
+  {
+   "segment": [
+    19.0,
+    21.0
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.253944
+  },
+  {
+   "segment": [
+    19.0,
+    21.0
+   ],
+   "verb": "open",
+   "noun": "freezer",
+   "score": 0.251416
+  },
+  {
+   "segment": [
+    19.0,
+    20.0
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.245551
+  },
+  {
+   "segment": [
+    19.0,
+    20.0
+   ],
+   "verb": "open",
+   "noun": "freezer",
+   "score": 0.201943
+  },
+  {
+   "segment": [
+    19.5,
+    20.5
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.425266
+  },
+  {
+   "segment": [
+    19.5,
+    23.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.373526
+  },
+  {
+   "segment": [
+    19.5,
+    20.5
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.269058
+  },
+  {
+   "segment": [
+    19.5,
+    20.5
+   ],
+   "verb": "open",
+   "noun": "freezer",
+   "score": 0.256846
+  },
+  {
+   "segment": [
+    19.5,
+    23.0
+   ],
+   "verb": "open",
+   "noun": "freezer",
+   "score": 0.246286
+  },
+  {
+   "segment": [
+    19.5,
+    23.0
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.222641
+  },
+  {
+   "segment": [
+    20.0,
+    21.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.425429
+  },
+  {
+   "segment": [
+    20.0,
+    22.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.413374
+  },
+  {
+   "segment": [
+    20.0,
+    21.0
+   ],
+   "verb": "open",
+   "noun": "freezer",
+   "score": 0.298154
+  },
+  {
+   "segment": [
+    20.0,
+    22.0
+   ],
+   "verb": "open",
+   "noun": "freezer",
+   "score": 0.287473
+  },
+  {
+   "segment": [
+    20.0,
+    21.0
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.261521
+  },
+  {
+   "segment": [
+    20.0,
+    22.0
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.243048
+  },
+  {
+   "segment": [
+    20.5,
+    21.5
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.413256
+  },
+  {
+   "segment": [
+    20.5,
+    21.5
+   ],
+   "verb": "open",
+   "noun": "freezer",
+   "score": 0.301694
+  },
+  {
+   "segment": [
+    20.5,
+    21.5
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.242736
+  },
+  {
+   "segment": [
+    21.0,
+    22.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.401116
+  },
+  {
+   "segment": [
+    21.0,
+    23.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.332298
+  },
+  {
+   "segment": [
+    21.0,
+    22.0
+   ],
+   "verb": "open",
+   "noun": "freezer",
+   "score": 0.276526
+  },
+  {
+   "segment": [
+    21.0,
+    24.5
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.24781
+  },
+  {
+   "segment": [
+    21.0,
+    22.0
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.223335
+  },
+  {
+   "segment": [
+    21.0,
+    23.0
+   ],
+   "verb": "open",
+   "noun": "freezer",
+   "score": 0.221264
+  },
+  {
+   "segment": [
+    21.0,
+    27.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.197104
+  },
+  {
+   "segment": [
+    21.0,
+    23.0
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.186168
+  },
+  {
+   "segment": [
+    21.0,
+    24.5
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.181728
+  },
+  {
+   "segment": [
+    21.0,
+    24.5
+   ],
+   "verb": "open",
+   "noun": "freezer",
+   "score": 0.164731
+  },
+  {
+   "segment": [
+    21.0,
+    27.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.163682
+  },
+  {
+   "segment": [
+    21.0,
+    27.0
+   ],
+   "verb": "open",
+   "noun": "freezer",
+   "score": 0.130981
+  },
+  {
+   "segment": [
+    21.5,
+    22.5
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.356753
+  },
+  {
+   "segment": [
+    21.5,
+    22.5
+   ],
+   "verb": "open",
+   "noun": "freezer",
+   "score": 0.229533
+  },
+  {
+   "segment": [
+    21.5,
+    22.5
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.196126
+  },
+  {
+   "segment": [
+    22.0,
+    23.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.257821
+  },
+  {
+   "segment": [
+    22.0,
+    24.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.203476
+  },
+  {
+   "segment": [
+    22.0,
+    24.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.185339
+  },
+  {
+   "segment": [
+    22.0,
+    23.0
+   ],
+   "verb": "open",
+   "noun": "freezer",
+   "score": 0.158615
+  },
+  {
+   "segment": [
+    22.0,
+    23.0
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.146242
+  },
+  {
+   "segment": [
+    22.0,
+    24.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.123576
+  },
+  {
+   "segment": [
+    22.5,
+    26.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.208999
+  },
+  {
+   "segment": [
+    22.5,
+    23.5
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.180094
+  },
+  {
+   "segment": [
+    22.5,
+    23.5
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.142884
+  },
+  {
+   "segment": [
+    22.5,
+    23.5
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.125251
+  },
+  {
+   "segment": [
+    22.5,
+    26.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.098436
+  },
+  {
+   "segment": [
+    22.5,
+    26.0
+   ],
+   "verb": "look",
+   "noun": "kitchen",
+   "score": 0.096754
+  },
+  {
+   "segment": [
+    23.0,
+    24.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.256448
+  },
+  {
+   "segment": [
+    23.0,
+    25.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.252592
+  },
+  {
+   "segment": [
+    23.0,
+    24.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.131703
+  },
+  {
+   "segment": [
+    23.0,
+    25.0
+   ],
+   "verb": "look",
+   "noun": "kitchen",
+   "score": 0.121558
+  },
+  {
+   "segment": [
+    23.0,
+    24.0
+   ],
+   "verb": "move",
+   "noun": "bowl",
+   "score": 0.120155
+  },
+  {
+   "segment": [
+    23.0,
+    25.0
+   ],
+   "verb": "move",
+   "noun": "bowl",
+   "score": 0.111355
+  },
+  {
+   "segment": [
+    23.5,
+    24.5
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.277355
+  },
+  {
+   "segment": [
+    23.5,
+    24.5
+   ],
+   "verb": "look",
+   "noun": "kitchen",
+   "score": 0.136734
+  },
+  {
+   "segment": [
+    23.5,
+    24.5
+   ],
+   "verb": "move",
+   "noun": "bowl",
+   "score": 0.125583
+  },
+  {
+   "segment": [
+    24.0,
+    25.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.247485
+  },
+  {
+   "segment": [
+    24.0,
+    26.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.184933
+  },
+  {
+   "segment": [
+    24.0,
+    30.0
+   ],
+   "verb": "turn-on",
+   "noun": "tap",
+   "score": 0.157742
+  },
+  {
+   "segment": [
+    24.0,
+    30.0
+   ],
+   "verb": "turn-off",
+   "noun": "tap",
+   "score": 0.152413
+  },
+  {
+   "segment": [
+    24.0,
+    30.0
+   ],
+   "verb": "pour",
+   "noun": "water",
+   "score": 0.148014
+  },
+  {
+   "segment": [
+    24.0,
+    27.5
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.145289
+  },
+  {
+   "segment": [
+    24.0,
+    25.0
+   ],
+   "verb": "look",
+   "noun": "kitchen",
+   "score": 0.137077
+  },
+  {
+   "segment": [
+    24.0,
+    27.5
+   ],
+   "verb": "put",
+   "noun": "glass",
+   "score": 0.124717
+  },
+  {
+   "segment": [
+    24.0,
+    26.0
+   ],
+   "verb": "put",
+   "noun": "glass",
+   "score": 0.120483
+  },
+  {
+   "segment": [
+    24.0,
+    26.0
+   ],
+   "verb": "empty",
+   "noun": "sink",
+   "score": 0.112032
+  },
+  {
+   "segment": [
+    24.0,
+    27.5
+   ],
+   "verb": "empty",
+   "noun": "sink",
+   "score": 0.11149
+  },
+  {
+   "segment": [
+    24.0,
+    25.0
+   ],
+   "verb": "put",
+   "noun": "glass",
+   "score": 0.1071
+  },
+  {
+   "segment": [
+    24.5,
+    25.5
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.188777
+  },
+  {
+   "segment": [
+    24.5,
+    25.5
+   ],
+   "verb": "put",
+   "noun": "glass",
+   "score": 0.143189
+  },
+  {
+   "segment": [
+    24.5,
+    25.5
+   ],
+   "verb": "take",
+   "noun": "glass",
+   "score": 0.121377
+  },
+  {
+   "segment": [
+    25.0,
+    26.0
+   ],
+   "verb": "put",
+   "noun": "glass",
+   "score": 0.133468
+  },
+  {
+   "segment": [
+    25.0,
+    27.0
+   ],
+   "verb": "empty",
+   "noun": "sink",
+   "score": 0.121635
+  },
+  {
+   "segment": [
+    25.0,
+    26.0
+   ],
+   "verb": "empty",
+   "noun": "sink",
+   "score": 0.121222
+  },
+  {
+   "segment": [
+    25.0,
+    27.0
+   ],
+   "verb": "put",
+   "noun": "glass",
+   "score": 0.119551
+  },
+  {
+   "segment": [
+    25.0,
+    26.0
+   ],
+   "verb": "move",
+   "noun": "pan",
+   "score": 0.11473
+  },
+  {
+   "segment": [
+    25.0,
+    27.0
+   ],
+   "verb": "filter",
+   "noun": "sink",
+   "score": 0.110406
+  },
+  {
+   "segment": [
+    25.5,
+    29.0
+   ],
+   "verb": "turn-on",
+   "noun": "tap",
+   "score": 0.18173
+  },
+  {
+   "segment": [
+    25.5,
+    29.0
+   ],
+   "verb": "turn-off",
+   "noun": "tap",
+   "score": 0.174797
+  },
+  {
+   "segment": [
+    25.5,
+    29.0
+   ],
+   "verb": "pour",
+   "noun": "water",
+   "score": 0.159112
+  },
+  {
+   "segment": [
+    25.5,
+    26.5
+   ],
+   "verb": "empty",
+   "noun": "sink",
+   "score": 0.126971
+  },
+  {
+   "segment": [
+    25.5,
+    26.5
+   ],
+   "verb": "turn-off",
+   "noun": "tap",
+   "score": 0.113841
+  },
+  {
+   "segment": [
+    25.5,
+    26.5
+   ],
+   "verb": "filter",
+   "noun": "sink",
+   "score": 0.113062
+  },
+  {
+   "segment": [
+    26.0,
+    28.0
+   ],
+   "verb": "turn-on",
+   "noun": "tap",
+   "score": 0.153029
+  },
+  {
+   "segment": [
+    26.0,
+    28.0
+   ],
+   "verb": "turn-off",
+   "noun": "tap",
+   "score": 0.146248
+  },
+  {
+   "segment": [
+    26.0,
+    28.0
+   ],
+   "verb": "pour",
+   "noun": "water",
+   "score": 0.143038
+  },
+  {
+   "segment": [
+    26.0,
+    27.0
+   ],
+   "verb": "turn-off",
+   "noun": "tap",
+   "score": 0.123937
+  },
+  {
+   "segment": [
+    26.0,
+    27.0
+   ],
+   "verb": "turn-on",
+   "noun": "tap",
+   "score": 0.123546
+  },
+  {
+   "segment": [
+    26.0,
+    27.0
+   ],
+   "verb": "empty",
+   "noun": "sink",
+   "score": 0.122003
+  },
+  {
+   "segment": [
+    26.5,
+    27.5
+   ],
+   "verb": "put",
+   "noun": "glass",
+   "score": 0.148391
+  },
+  {
+   "segment": [
+    26.5,
+    27.5
+   ],
+   "verb": "pour",
+   "noun": "water",
+   "score": 0.142501
+  },
+  {
+   "segment": [
+    26.5,
+    27.5
+   ],
+   "verb": "turn-on",
+   "noun": "tap",
+   "score": 0.136758
+  },
+  {
+   "segment": [
+    27.0,
+    29.0
+   ],
+   "verb": "turn-on",
+   "noun": "tap",
+   "score": 0.222259
+  },
+  {
+   "segment": [
+    27.0,
+    29.0
+   ],
+   "verb": "turn-off",
+   "noun": "tap",
+   "score": 0.210822
+  },
+  {
+   "segment": [
+    27.0,
+    30.5
+   ],
+   "verb": "turn-on",
+   "noun": "tap",
+   "score": 0.206071
+  },
+  {
+   "segment": [
+    27.0,
+    29.0
+   ],
+   "verb": "pour",
+   "noun": "water",
+   "score": 0.196846
+  },
+  {
+   "segment": [
+    27.0,
+    30.5
+   ],
+   "verb": "turn-off",
+   "noun": "tap",
+   "score": 0.196645
+  },
+  {
+   "segment": [
+    27.0,
+    30.5
+   ],
+   "verb": "pour",
+   "noun": "water",
+   "score": 0.192529
+  },
+  {
+   "segment": [
+    27.0,
+    28.0
+   ],
+   "verb": "turn-on",
+   "noun": "tap",
+   "score": 0.180827
+  },
+  {
+   "segment": [
+    27.0,
+    28.0
+   ],
+   "verb": "pour",
+   "noun": "water",
+   "score": 0.176717
+  },
+  {
+   "segment": [
+    27.0,
+    28.0
+   ],
+   "verb": "put",
+   "noun": "glass",
+   "score": 0.171127
+  },
+  {
+   "segment": [
+    27.0,
+    33.0
+   ],
+   "verb": "turn-on",
+   "noun": "tap",
+   "score": 0.170666
+  },
+  {
+   "segment": [
+    27.0,
+    33.0
+   ],
+   "verb": "put",
+   "noun": "liquid:washing",
+   "score": 0.165254
+  },
+  {
+   "segment": [
+    27.0,
+    33.0
+   ],
+   "verb": "pour",
+   "noun": "water",
+   "score": 0.163987
+  },
+  {
+   "segment": [
+    27.5,
+    28.5
+   ],
+   "verb": "turn-on",
+   "noun": "tap",
+   "score": 0.234944
+  },
+  {
+   "segment": [
+    27.5,
+    28.5
+   ],
+   "verb": "turn-off",
+   "noun": "tap",
+   "score": 0.221328
+  },
+  {
+   "segment": [
+    27.5,
+    28.5
+   ],
+   "verb": "pour",
+   "noun": "water",
+   "score": 0.203539
+  },
+  {
+   "segment": [
+    28.0,
+    29.0
+   ],
+   "verb": "turn-on",
+   "noun": "tap",
+   "score": 0.257599
+  },
+  {
+   "segment": [
+    28.0,
+    29.0
+   ],
+   "verb": "turn-off",
+   "noun": "tap",
+   "score": 0.246891
+  },
+  {
+   "segment": [
+    28.0,
+    30.0
+   ],
+   "verb": "turn-on",
+   "noun": "tap",
+   "score": 0.229841
+  },
+  {
+   "segment": [
+    28.0,
+    30.0
+   ],
+   "verb": "turn-off",
+   "noun": "tap",
+   "score": 0.222006
+  },
+  {
+   "segment": [
+    28.0,
+    29.0
+   ],
+   "verb": "pour",
+   "noun": "water",
+   "score": 0.215363
+  },
+  {
+   "segment": [
+    28.0,
+    30.0
+   ],
+   "verb": "pour",
+   "noun": "water",
+   "score": 0.204988
+  },
+  {
+   "segment": [
+    28.5,
+    29.5
+   ],
+   "verb": "turn-on",
+   "noun": "tap",
+   "score": 0.238179
+  },
+  {
+   "segment": [
+    28.5,
+    29.5
+   ],
+   "verb": "turn-off",
+   "noun": "tap",
+   "score": 0.231878
+  },
+  {
+   "segment": [
+    28.5,
+    29.5
+   ],
+   "verb": "pour",
+   "noun": "water",
+   "score": 0.207632
+  },
+  {
+   "segment": [
+    28.5,
+    32.0
+   ],
+   "verb": "put",
+   "noun": "liquid:washing",
+   "score": 0.191308
+  },
+  {
+   "segment": [
+    28.5,
+    32.0
+   ],
+   "verb": "turn-on",
+   "noun": "tap",
+   "score": 0.178692
+  },
+  {
+   "segment": [
+    28.5,
+    32.0
+   ],
+   "verb": "pour",
+   "noun": "liquid:washing",
+   "score": 0.173345
+  },
+  {
+   "segment": [
+    29.0,
+    30.0
+   ],
+   "verb": "turn-on",
+   "noun": "tap",
+   "score": 0.197108
+  },
+  {
+   "segment": [
+    29.0,
+    31.0
+   ],
+   "verb": "put",
+   "noun": "liquid:washing",
+   "score": 0.196838
+  },
+  {
+   "segment": [
+    29.0,
+    30.0
+   ],
+   "verb": "pour",
+   "noun": "water",
+   "score": 0.193659
+  },
+  {
+   "segment": [
+    29.0,
+    30.0
+   ],
+   "verb": "turn-off",
+   "noun": "tap",
+   "score": 0.19296
+  },
+  {
+   "segment": [
+    29.0,
+    31.0
+   ],
+   "verb": "pour",
+   "noun": "liquid:washing",
+   "score": 0.177538
+  },
+  {
+   "segment": [
+    29.0,
+    31.0
+   ],
+   "verb": "pour",
+   "noun": "water",
+   "score": 0.176881
+  },
+  {
+   "segment": [
+    29.5,
+    30.5
+   ],
+   "verb": "put",
+   "noun": "liquid:washing",
+   "score": 0.195432
+  },
+  {
+   "segment": [
+    29.5,
+    30.5
+   ],
+   "verb": "pour",
+   "noun": "water",
+   "score": 0.177473
+  },
+  {
+   "segment": [
+    29.5,
+    30.5
+   ],
+   "verb": "pour",
+   "noun": "liquid:washing",
+   "score": 0.170264
+  },
+  {
+   "segment": [
+    30.0,
+    31.0
+   ],
+   "verb": "put",
+   "noun": "liquid:washing",
+   "score": 0.205153
+  },
+  {
+   "segment": [
+    30.0,
+    32.0
+   ],
+   "verb": "put",
+   "noun": "liquid:washing",
+   "score": 0.199005
+  },
+  {
+   "segment": [
+    30.0,
+    36.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.19897
+  },
+  {
+   "segment": [
+    30.0,
+    31.0
+   ],
+   "verb": "pour",
+   "noun": "liquid:washing",
+   "score": 0.169121
+  },
+  {
+   "segment": [
+    30.0,
+    32.0
+   ],
+   "verb": "pour",
+   "noun": "liquid:washing",
+   "score": 0.159537
+  },
+  {
+   "segment": [
+    30.0,
+    31.0
+   ],
+   "verb": "pour",
+   "noun": "water",
+   "score": 0.157699
+  },
+  {
+   "segment": [
+    30.0,
+    33.5
+   ],
+   "verb": "put",
+   "noun": "liquid:washing",
+   "score": 0.154071
+  },
+  {
+   "segment": [
+    30.0,
+    32.0
+   ],
+   "verb": "put",
+   "noun": "jar",
+   "score": 0.147678
+  },
+  {
+   "segment": [
+    30.0,
+    33.5
+   ],
+   "verb": "put",
+   "noun": "jar",
+   "score": 0.127454
+  },
+  {
+   "segment": [
+    30.0,
+    33.5
+   ],
+   "verb": "pour",
+   "noun": "liquid:washing",
+   "score": 0.12493
+  },
+  {
+   "segment": [
+    30.0,
+    36.0
+   ],
+   "verb": "put",
+   "noun": "liquid:washing",
+   "score": 0.113519
+  },
+  {
+   "segment": [
+    30.0,
+    36.0
+   ],
+   "verb": "open",
+   "noun": "drawer",
+   "score": 0.104401
+  },
+  {
+   "segment": [
+    30.5,
+    31.5
+   ],
+   "verb": "put",
+   "noun": "liquid:washing",
+   "score": 0.20922
+  },
+  {
+   "segment": [
+    30.5,
+    31.5
+   ],
+   "verb": "pour",
+   "noun": "liquid:washing",
+   "score": 0.165859
+  },
+  {
+   "segment": [
+    30.5,
+    31.5
+   ],
+   "verb": "turn-on",
+   "noun": "tap",
+   "score": 0.146754
+  },
+  {
+   "segment": [
+    31.0,
+    32.0
+   ],
+   "verb": "put",
+   "noun": "liquid:washing",
+   "score": 0.192762
+  },
+  {
+   "segment": [
+    31.0,
+    32.0
+   ],
+   "verb": "put",
+   "noun": "jar",
+   "score": 0.152172
+  },
+  {
+   "segment": [
+    31.0,
+    32.0
+   ],
+   "verb": "pour",
+   "noun": "liquid:washing",
+   "score": 0.149517
+  },
+  {
+   "segment": [
+    31.0,
+    33.0
+   ],
+   "verb": "put",
+   "noun": "liquid:washing",
+   "score": 0.14917
+  },
+  {
+   "segment": [
+    31.0,
+    33.0
+   ],
+   "verb": "put",
+   "noun": "jar",
+   "score": 0.138417
+  },
+  {
+   "segment": [
+    31.0,
+    33.0
+   ],
+   "verb": "soak",
+   "noun": "sponge",
+   "score": 0.137555
+  },
+  {
+   "segment": [
+    31.5,
+    35.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.189783
+  },
+  {
+   "segment": [
+    31.5,
+    32.5
+   ],
+   "verb": "soak",
+   "noun": "sponge",
+   "score": 0.157522
+  },
+  {
+   "segment": [
+    31.5,
+    32.5
+   ],
+   "verb": "put",
+   "noun": "liquid:washing",
+   "score": 0.154534
+  },
+  {
+   "segment": [
+    31.5,
+    32.5
+   ],
+   "verb": "put",
+   "noun": "jar",
+   "score": 0.149868
+  },
+  {
+   "segment": [
+    31.5,
+    35.0
+   ],
+   "verb": "open",
+   "noun": "drawer",
+   "score": 0.131098
+  },
+  {
+   "segment": [
+    31.5,
+    35.0
+   ],
+   "verb": "look",
+   "noun": "kitchen",
+   "score": 0.10208
+  },
+  {
+   "segment": [
+    32.0,
+    34.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.194742
+  },
+  {
+   "segment": [
+    32.0,
+    33.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.159189
+  },
+  {
+   "segment": [
+    32.0,
+    34.0
+   ],
+   "verb": "open",
+   "noun": "drawer",
+   "score": 0.148348
+  },
+  {
+   "segment": [
+    32.0,
+    33.0
+   ],
+   "verb": "soak",
+   "noun": "sponge",
+   "score": 0.143239
+  },
+  {
+   "segment": [
+    32.0,
+    33.0
+   ],
+   "verb": "put",
+   "noun": "jar",
+   "score": 0.124622
+  },
+  {
+   "segment": [
+    32.0,
+    34.0
+   ],
+   "verb": "move",
+   "noun": "pan",
+   "score": 0.099707
+  },
+  {
+   "segment": [
+    32.5,
+    33.5
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.199583
+  },
+  {
+   "segment": [
+    32.5,
+    33.5
+   ],
+   "verb": "open",
+   "noun": "drawer",
+   "score": 0.156546
+  },
+  {
+   "segment": [
+    32.5,
+    33.5
+   ],
+   "verb": "take",
+   "noun": "glass",
+   "score": 0.108006
+  },
+  {
+   "segment": [
+    33.0,
+    36.5
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.250951
+  },
+  {
+   "segment": [
+    33.0,
+    34.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.21705
+  },
+  {
+   "segment": [
+    33.0,
+    35.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.21424
+  },
+  {
+   "segment": [
+    33.0,
+    34.0
+   ],
+   "verb": "open",
+   "noun": "drawer",
+   "score": 0.184485
+  },
+  {
+   "segment": [
+    33.0,
+    35.0
+   ],
+   "verb": "open",
+   "noun": "drawer",
+   "score": 0.155941
+  },
+  {
+   "segment": [
+    33.0,
+    35.0
+   ],
+   "verb": "look",
+   "noun": "kitchen",
+   "score": 0.123545
+  },
+  {
+   "segment": [
+    33.0,
+    36.5
+   ],
+   "verb": "open",
+   "noun": "drawer",
+   "score": 0.119786
+  },
+  {
+   "segment": [
+    33.0,
+    36.5
+   ],
+   "verb": "look",
+   "noun": "kitchen",
+   "score": 0.115379
+  },
+  {
+   "segment": [
+    33.0,
+    34.0
+   ],
+   "verb": "move",
+   "noun": "pan",
+   "score": 0.106866
+  },
+  {
+   "segment": [
+    33.5,
+    34.5
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.216371
+  },
+  {
+   "segment": [
+    33.5,
+    34.5
+   ],
+   "verb": "open",
+   "noun": "drawer",
+   "score": 0.167573
+  },
+  {
+   "segment": [
+    33.5,
+    34.5
+   ],
+   "verb": "look",
+   "noun": "kitchen",
+   "score": 0.131523
+  },
+  {
+   "segment": [
+    34.0,
+    36.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.259182
+  },
+  {
+   "segment": [
+    34.0,
+    35.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.210801
+  },
+  {
+   "segment": [
+    34.0,
+    35.0
+   ],
+   "verb": "look",
+   "noun": "kitchen",
+   "score": 0.14319
+  },
+  {
+   "segment": [
+    34.0,
+    35.0
+   ],
+   "verb": "turn-on",
+   "noun": "hob",
+   "score": 0.128183
+  },
+  {
+   "segment": [
+    34.0,
+    36.0
+   ],
+   "verb": "move",
+   "noun": "hob",
+   "score": 0.123781
+  },
+  {
+   "segment": [
+    34.0,
+    36.0
+   ],
+   "verb": "look",
+   "noun": "kitchen",
+   "score": 0.122863
+  },
+  {
+   "segment": [
+    34.5,
+    35.5
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.275201
+  },
+  {
+   "segment": [
+    34.5,
+    35.5
+   ],
+   "verb": "move",
+   "noun": "hob",
+   "score": 0.138458
+  },
+  {
+   "segment": [
+    34.5,
+    35.5
+   ],
+   "verb": "turn-on",
+   "noun": "hob",
+   "score": 0.13106
+  },
+  {
+   "segment": [
+    35.0,
+    36.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.299265
+  },
+  {
+   "segment": [
+    35.0,
+    37.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.258328
+  },
+  {
+   "segment": [
+    35.0,
+    36.0
+   ],
+   "verb": "move",
+   "noun": "hob",
+   "score": 0.121903
+  },
+  {
+   "segment": [
+    35.0,
+    37.0
+   ],
+   "verb": "look",
+   "noun": "kitchen",
+   "score": 0.107867
+  },
+  {
+   "segment": [
+    35.0,
+    36.0
+   ],
+   "verb": "turn-on",
+   "noun": "hob",
+   "score": 0.105869
+  },
+  {
+   "segment": [
+    35.0,
+    37.0
+   ],
+   "verb": "move",
+   "noun": "hob",
+   "score": 0.101735
+  },
+  {
+   "segment": [
+    35.5,
+    36.5
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.279096
+  },
+  {
+   "segment": [
+    35.5,
+    36.5
+   ],
+   "verb": "look",
+   "noun": "kitchen",
+   "score": 0.108337
+  },
+  {
+   "segment": [
+    35.5,
+    36.5
+   ],
+   "verb": "turn-off",
+   "noun": "toaster",
+   "score": 0.099391
+  },
+  {
+   "segment": [
+    36.0,
+    37.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.213832
+  },
+  {
+   "segment": [
+    36.0,
+    37.0
+   ],
+   "verb": "turn-off",
+   "noun": "toaster",
+   "score": 0.125857
+  },
+  {
+   "segment": [
+    36.0,
+    37.0
+   ],
+   "verb": "put",
+   "noun": "board:chopping",
+   "score": 0.12455
+  }
+ ],
+ "highlights": [
+  {
+   "segment": [
+    6.0,
+    11.34
+   ]
+  }
+ ]
+}

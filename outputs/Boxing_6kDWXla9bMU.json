@@ -1,0 +1,72 @@
+{
+ "team_id": "SRMIST_PRISM",
+ "video_id": "Boxing_6kDWXla9bMU",
+ "duration_sec": 345.35,
+ "label": {
+  "name": "boxing",
+  "score": 0.9817
+ },
+ "actions": [],
+ "highlights": [
+  {
+   "segment": [
+    25.0,
+    34.1
+   ]
+  },
+  {
+   "segment": [
+    42.0,
+    51.1
+   ]
+  },
+  {
+   "segment": [
+    54.0,
+    58.1
+   ]
+  },
+  {
+   "segment": [
+    59.0,
+    63.1
+   ]
+  },
+  {
+   "segment": [
+    78.0,
+    82.1
+   ]
+  },
+  {
+   "segment": [
+    138.0,
+    142.1
+   ]
+  },
+  {
+   "segment": [
+    214.0,
+    218.1
+   ]
+  },
+  {
+   "segment": [
+    277.0,
+    281.1
+   ]
+  },
+  {
+   "segment": [
+    299.0,
+    303.1
+   ]
+  },
+  {
+   "segment": [
+    325.0,
+    329.1
+   ]
+  }
+ ]
+}

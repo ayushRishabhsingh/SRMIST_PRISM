@@ -1,0 +1,42 @@
+{
+ "team_id": "SRMIST_PRISM",
+ "video_id": "Motor_0JZi_gJ7Jfw",
+ "duration_sec": 139.94,
+ "label": {
+  "name": "motor",
+  "score": 0.9995
+ },
+ "actions": [],
+ "highlights": [
+  {
+   "segment": [
+    31.0,
+    35.1
+   ]
+  },
+  {
+   "segment": [
+    36.0,
+    40.1
+   ]
+  },
+  {
+   "segment": [
+    53.0,
+    57.1
+   ]
+  },
+  {
+   "segment": [
+    58.0,
+    62.1
+   ]
+  },
+  {
+   "segment": [
+    127.0,
+    131.1
+   ]
+  }
+ ]
+}

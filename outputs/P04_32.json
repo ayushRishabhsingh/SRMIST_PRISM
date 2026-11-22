@@ -1,0 +1,5608 @@
+{
+ "team_id": "SRMIST_PRISM",
+ "video_id": "P04_32",
+ "duration_sec": 53.55,
+ "label": {
+  "name": "cooking",
+  "score": 1.0
+ },
+ "actions": [
+  {
+   "segment": [
+    0.0,
+    2.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.222447
+  },
+  {
+   "segment": [
+    0.0,
+    1.0
+   ],
+   "verb": "open",
+   "noun": "dishwasher",
+   "score": 0.207736
+  },
+  {
+   "segment": [
+    0.0,
+    1.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.206149
+  },
+  {
+   "segment": [
+    0.0,
+    3.5
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.184104
+  },
+  {
+   "segment": [
+    0.0,
+    6.0
+   ],
+   "verb": "put",
+   "noun": "broccoli",
+   "score": 0.18252
+  },
+  {
+   "segment": [
+    0.0,
+    1.0
+   ],
+   "verb": "pull",
+   "noun": "dishwasher",
+   "score": 0.177379
+  },
+  {
+   "segment": [
+    0.0,
+    2.0
+   ],
+   "verb": "open",
+   "noun": "dishwasher",
+   "score": 0.157487
+  },
+  {
+   "segment": [
+    0.0,
+    6.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.154388
+  },
+  {
+   "segment": [
+    0.0,
+    6.0
+   ],
+   "verb": "take",
+   "noun": "broccoli",
+   "score": 0.153553
+  },
+  {
+   "segment": [
+    0.0,
+    2.0
+   ],
+   "verb": "pull",
+   "noun": "dishwasher",
+   "score": 0.137336
+  },
+  {
+   "segment": [
+    0.0,
+    3.5
+   ],
+   "verb": "open",
+   "noun": "dishwasher",
+   "score": 0.124265
+  },
+  {
+   "segment": [
+    0.0,
+    3.5
+   ],
+   "verb": "pull",
+   "noun": "dishwasher",
+   "score": 0.108388
+  },
+  {
+   "segment": [
+    0.5,
+    1.5
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.242843
+  },
+  {
+   "segment": [
+    0.5,
+    1.5
+   ],
+   "verb": "open",
+   "noun": "dishwasher",
+   "score": 0.153008
+  },
+  {
+   "segment": [
+    0.5,
+    1.5
+   ],
+   "verb": "pull",
+   "noun": "dishwasher",
+   "score": 0.136286
+  },
+  {
+   "segment": [
+    1.0,
+    2.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.23763
+  },
+  {
+   "segment": [
+    1.0,
+    3.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.186596
+  },
+  {
+   "segment": [
+    1.0,
+    2.0
+   ],
+   "verb": "look",
+   "noun": "kitchen",
+   "score": 0.125152
+  },
+  {
+   "segment": [
+    1.0,
+    2.0
+   ],
+   "verb": "take",
+   "noun": "hob",
+   "score": 0.12443
+  },
+  {
+   "segment": [
+    1.0,
+    3.0
+   ],
+   "verb": "take",
+   "noun": "hob",
+   "score": 0.109293
+  },
+  {
+   "segment": [
+    1.0,
+    3.0
+   ],
+   "verb": "cook",
+   "noun": "rice",
+   "score": 0.099533
+  },
+  {
+   "segment": [
+    1.5,
+    2.5
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.181872
+  },
+  {
+   "segment": [
+    1.5,
+    5.0
+   ],
+   "verb": "put",
+   "noun": "broccoli",
+   "score": 0.175604
+  },
+  {
+   "segment": [
+    1.5,
+    5.0
+   ],
+   "verb": "take",
+   "noun": "broccoli",
+   "score": 0.150953
+  },
+  {
+   "segment": [
+    1.5,
+    5.0
+   ],
+   "verb": "pour",
+   "noun": "broccoli",
+   "score": 0.128075
+  },
+  {
+   "segment": [
+    1.5,
+    2.5
+   ],
+   "verb": "take",
+   "noun": "hob",
+   "score": 0.115036
+  },
+  {
+   "segment": [
+    1.5,
+    2.5
+   ],
+   "verb": "cook",
+   "noun": "rice",
+   "score": 0.103676
+  },
+  {
+   "segment": [
+    2.0,
+    4.0
+   ],
+   "verb": "put",
+   "noun": "broccoli",
+   "score": 0.145059
+  },
+  {
+   "segment": [
+    2.0,
+    4.0
+   ],
+   "verb": "take",
+   "noun": "broccoli",
+   "score": 0.135428
+  },
+  {
+   "segment": [
+    2.0,
+    3.0
+   ],
+   "verb": "cook",
+   "noun": "rice",
+   "score": 0.117931
+  },
+  {
+   "segment": [
+    2.0,
+    4.0
+   ],
+   "verb": "cook",
+   "noun": "rice",
+   "score": 0.117696
+  },
+  {
+   "segment": [
+    2.0,
+    3.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.100802
+  },
+  {
+   "segment": [
+    2.0,
+    3.0
+   ],
+   "verb": "mix",
+   "noun": "food",
+   "score": 0.100353
+  },
+  {
+   "segment": [
+    2.5,
+    3.5
+   ],
+   "verb": "put",
+   "noun": "broccoli",
+   "score": 0.154741
+  },
+  {
+   "segment": [
+    2.5,
+    3.5
+   ],
+   "verb": "take",
+   "noun": "broccoli",
+   "score": 0.147009
+  },
+  {
+   "segment": [
+    2.5,
+    3.5
+   ],
+   "verb": "cook",
+   "noun": "rice",
+   "score": 0.12413
+  },
+  {
+   "segment": [
+    3.0,
+    9.0
+   ],
+   "verb": "put",
+   "noun": "broccoli",
+   "score": 0.307062
+  },
+  {
+   "segment": [
+    3.0,
+    6.5
+   ],
+   "verb": "put",
+   "noun": "broccoli",
+   "score": 0.283815
+  },
+  {
+   "segment": [
+    3.0,
+    9.0
+   ],
+   "verb": "take",
+   "noun": "broccoli",
+   "score": 0.261961
+  },
+  {
+   "segment": [
+    3.0,
+    6.5
+   ],
+   "verb": "take",
+   "noun": "broccoli",
+   "score": 0.238528
+  },
+  {
+   "segment": [
+    3.0,
+    5.0
+   ],
+   "verb": "put",
+   "noun": "broccoli",
+   "score": 0.231614
+  },
+  {
+   "segment": [
+    3.0,
+    9.0
+   ],
+   "verb": "pour",
+   "noun": "broccoli",
+   "score": 0.230434
+  },
+  {
+   "segment": [
+    3.0,
+    6.5
+   ],
+   "verb": "pour",
+   "noun": "broccoli",
+   "score": 0.210842
+  },
+  {
+   "segment": [
+    3.0,
+    5.0
+   ],
+   "verb": "take",
+   "noun": "broccoli",
+   "score": 0.19502
+  },
+  {
+   "segment": [
+    3.0,
+    4.0
+   ],
+   "verb": "put",
+   "noun": "broccoli",
+   "score": 0.185208
+  },
+  {
+   "segment": [
+    3.0,
+    5.0
+   ],
+   "verb": "pour",
+   "noun": "broccoli",
+   "score": 0.169806
+  },
+  {
+   "segment": [
+    3.0,
+    4.0
+   ],
+   "verb": "take",
+   "noun": "broccoli",
+   "score": 0.169518
+  },
+  {
+   "segment": [
+    3.0,
+    4.0
+   ],
+   "verb": "pour",
+   "noun": "broccoli",
+   "score": 0.136727
+  },
+  {
+   "segment": [
+    3.5,
+    4.5
+   ],
+   "verb": "put",
+   "noun": "broccoli",
+   "score": 0.216947
+  },
+  {
+   "segment": [
+    3.5,
+    4.5
+   ],
+   "verb": "take",
+   "noun": "broccoli",
+   "score": 0.182173
+  },
+  {
+   "segment": [
+    3.5,
+    4.5
+   ],
+   "verb": "mix",
+   "noun": "broccoli",
+   "score": 0.163383
+  },
+  {
+   "segment": [
+    4.0,
+    6.0
+   ],
+   "verb": "put",
+   "noun": "broccoli",
+   "score": 0.31552
+  },
+  {
+   "segment": [
+    4.0,
+    5.0
+   ],
+   "verb": "put",
+   "noun": "broccoli",
+   "score": 0.27719
+  },
+  {
+   "segment": [
+    4.0,
+    6.0
+   ],
+   "verb": "take",
+   "noun": "broccoli",
+   "score": 0.254576
+  },
+  {
+   "segment": [
+    4.0,
+    6.0
+   ],
+   "verb": "pour",
+   "noun": "broccoli",
+   "score": 0.235724
+  },
+  {
+   "segment": [
+    4.0,
+    5.0
+   ],
+   "verb": "take",
+   "noun": "broccoli",
+   "score": 0.220505
+  },
+  {
+   "segment": [
+    4.0,
+    5.0
+   ],
+   "verb": "pour",
+   "noun": "broccoli",
+   "score": 0.202379
+  },
+  {
+   "segment": [
+    4.5,
+    8.0
+   ],
+   "verb": "put",
+   "noun": "broccoli",
+   "score": 0.338485
+  },
+  {
+   "segment": [
+    4.5,
+    5.5
+   ],
+   "verb": "put",
+   "noun": "broccoli",
+   "score": 0.329825
+  },
+  {
+   "segment": [
+    4.5,
+    8.0
+   ],
+   "verb": "take",
+   "noun": "broccoli",
+   "score": 0.2875
+  },
+  {
+   "segment": [
+    4.5,
+    5.5
+   ],
+   "verb": "take",
+   "noun": "broccoli",
+   "score": 0.261021
+  },
+  {
+   "segment": [
+    4.5,
+    8.0
+   ],
+   "verb": "pour",
+   "noun": "broccoli",
+   "score": 0.253722
+  },
+  {
+   "segment": [
+    4.5,
+    5.5
+   ],
+   "verb": "pour",
+   "noun": "broccoli",
+   "score": 0.249317
+  },
+  {
+   "segment": [
+    5.0,
+    6.0
+   ],
+   "verb": "put",
+   "noun": "broccoli",
+   "score": 0.352306
+  },
+  {
+   "segment": [
+    5.0,
+    7.0
+   ],
+   "verb": "put",
+   "noun": "broccoli",
+   "score": 0.345726
+  },
+  {
+   "segment": [
+    5.0,
+    7.0
+   ],
+   "verb": "take",
+   "noun": "broccoli",
+   "score": 0.294299
+  },
+  {
+   "segment": [
+    5.0,
+    6.0
+   ],
+   "verb": "take",
+   "noun": "broccoli",
+   "score": 0.286954
+  },
+  {
+   "segment": [
+    5.0,
+    6.0
+   ],
+   "verb": "pour",
+   "noun": "broccoli",
+   "score": 0.267218
+  },
+  {
+   "segment": [
+    5.0,
+    7.0
+   ],
+   "verb": "pour",
+   "noun": "broccoli",
+   "score": 0.255294
+  },
+  {
+   "segment": [
+    5.5,
+    6.5
+   ],
+   "verb": "put",
+   "noun": "broccoli",
+   "score": 0.348554
+  },
+  {
+   "segment": [
+    5.5,
+    6.5
+   ],
+   "verb": "take",
+   "noun": "broccoli",
+   "score": 0.300707
+  },
+  {
+   "segment": [
+    5.5,
+    6.5
+   ],
+   "verb": "pour",
+   "noun": "broccoli",
+   "score": 0.259735
+  },
+  {
+   "segment": [
+    6.0,
+    12.0
+   ],
+   "verb": "put",
+   "noun": "broccoli",
+   "score": 0.345332
+  },
+  {
+   "segment": [
+    6.0,
+    9.5
+   ],
+   "verb": "put",
+   "noun": "broccoli",
+   "score": 0.340734
+  },
+  {
+   "segment": [
+    6.0,
+    8.0
+   ],
+   "verb": "put",
+   "noun": "broccoli",
+   "score": 0.339218
+  },
+  {
+   "segment": [
+    6.0,
+    7.0
+   ],
+   "verb": "put",
+   "noun": "broccoli",
+   "score": 0.339146
+  },
+  {
+   "segment": [
+    6.0,
+    12.0
+   ],
+   "verb": "take",
+   "noun": "broccoli",
+   "score": 0.30374
+  },
+  {
+   "segment": [
+    6.0,
+    7.0
+   ],
+   "verb": "take",
+   "noun": "broccoli",
+   "score": 0.301109
+  },
+  {
+   "segment": [
+    6.0,
+    8.0
+   ],
+   "verb": "take",
+   "noun": "broccoli",
+   "score": 0.297275
+  },
+  {
+   "segment": [
+    6.0,
+    9.5
+   ],
+   "verb": "take",
+   "noun": "broccoli",
+   "score": 0.29643
+  },
+  {
+   "segment": [
+    6.0,
+    12.0
+   ],
+   "verb": "pour",
+   "noun": "broccoli",
+   "score": 0.261379
+  },
+  {
+   "segment": [
+    6.0,
+    9.5
+   ],
+   "verb": "pour",
+   "noun": "broccoli",
+   "score": 0.255137
+  },
+  {
+   "segment": [
+    6.0,
+    8.0
+   ],
+   "verb": "pour",
+   "noun": "broccoli",
+   "score": 0.252627
+  },
+  {
+   "segment": [
+    6.0,
+    7.0
+   ],
+   "verb": "pour",
+   "noun": "broccoli",
+   "score": 0.243162
+  },
+  {
+   "segment": [
+    6.5,
+    7.5
+   ],
+   "verb": "put",
+   "noun": "broccoli",
+   "score": 0.337545
+  },
+  {
+   "segment": [
+    6.5,
+    7.5
+   ],
+   "verb": "take",
+   "noun": "broccoli",
+   "score": 0.298656
+  },
+  {
+   "segment": [
+    6.5,
+    7.5
+   ],
+   "verb": "pour",
+   "noun": "broccoli",
+   "score": 0.24807
+  },
+  {
+   "segment": [
+    7.0,
+    9.0
+   ],
+   "verb": "put",
+   "noun": "broccoli",
+   "score": 0.34042
+  },
+  {
+   "segment": [
+    7.0,
+    8.0
+   ],
+   "verb": "put",
+   "noun": "broccoli",
+   "score": 0.339274
+  },
+  {
+   "segment": [
+    7.0,
+    8.0
+   ],
+   "verb": "take",
+   "noun": "broccoli",
+   "score": 0.293429
+  },
+  {
+   "segment": [
+    7.0,
+    9.0
+   ],
+   "verb": "take",
+   "noun": "broccoli",
+   "score": 0.293122
+  },
+  {
+   "segment": [
+    7.0,
+    9.0
+   ],
+   "verb": "pour",
+   "noun": "broccoli",
+   "score": 0.262642
+  },
+  {
+   "segment": [
+    7.0,
+    8.0
+   ],
+   "verb": "pour",
+   "noun": "broccoli",
+   "score": 0.261617
+  },
+  {
+   "segment": [
+    7.5,
+    11.0
+   ],
+   "verb": "put",
+   "noun": "broccoli",
+   "score": 0.350137
+  },
+  {
+   "segment": [
+    7.5,
+    8.5
+   ],
+   "verb": "put",
+   "noun": "broccoli",
+   "score": 0.33833
+  },
+  {
+   "segment": [
+    7.5,
+    11.0
+   ],
+   "verb": "take",
+   "noun": "broccoli",
+   "score": 0.305032
+  },
+  {
+   "segment": [
+    7.5,
+    8.5
+   ],
+   "verb": "take",
+   "noun": "broccoli",
+   "score": 0.289302
+  },
+  {
+   "segment": [
+    7.5,
+    8.5
+   ],
+   "verb": "pour",
+   "noun": "broccoli",
+   "score": 0.266626
+  },
+  {
+   "segment": [
+    7.5,
+    11.0
+   ],
+   "verb": "pour",
+   "noun": "broccoli",
+   "score": 0.258891
+  },
+  {
+   "segment": [
+    8.0,
+    10.0
+   ],
+   "verb": "put",
+   "noun": "broccoli",
+   "score": 0.347249
+  },
+  {
+   "segment": [
+    8.0,
+    9.0
+   ],
+   "verb": "put",
+   "noun": "broccoli",
+   "score": 0.341561
+  },
+  {
+   "segment": [
+    8.0,
+    10.0
+   ],
+   "verb": "take",
+   "noun": "broccoli",
+   "score": 0.299615
+  },
+  {
+   "segment": [
+    8.0,
+    9.0
+   ],
+   "verb": "take",
+   "noun": "broccoli",
+   "score": 0.292814
+  },
+  {
+   "segment": [
+    8.0,
+    9.0
+   ],
+   "verb": "pour",
+   "noun": "broccoli",
+   "score": 0.263664
+  },
+  {
+   "segment": [
+    8.0,
+    10.0
+   ],
+   "verb": "pour",
+   "noun": "broccoli",
+   "score": 0.253926
+  },
+  {
+   "segment": [
+    8.5,
+    9.5
+   ],
+   "verb": "put",
+   "noun": "broccoli",
+   "score": 0.342667
+  },
+  {
+   "segment": [
+    8.5,
+    9.5
+   ],
+   "verb": "take",
+   "noun": "broccoli",
+   "score": 0.29521
+  },
+  {
+   "segment": [
+    8.5,
+    9.5
+   ],
+   "verb": "pour",
+   "noun": "broccoli",
+   "score": 0.249934
+  },
+  {
+   "segment": [
+    9.0,
+    11.0
+   ],
+   "verb": "put",
+   "noun": "broccoli",
+   "score": 0.358485
+  },
+  {
+   "segment": [
+    9.0,
+    10.0
+   ],
+   "verb": "put",
+   "noun": "broccoli",
+   "score": 0.352775
+  },
+  {
+   "segment": [
+    9.0,
+    12.5
+   ],
+   "verb": "put",
+   "noun": "broccoli",
+   "score": 0.348467
+  },
+  {
+   "segment": [
+    9.0,
+    15.0
+   ],
+   "verb": "put",
+   "noun": "broccoli",
+   "score": 0.333187
+  },
+  {
+   "segment": [
+    9.0,
+    11.0
+   ],
+   "verb": "take",
+   "noun": "broccoli",
+   "score": 0.316597
+  },
+  {
+   "segment": [
+    9.0,
+    12.5
+   ],
+   "verb": "take",
+   "noun": "broccoli",
+   "score": 0.310298
+  },
+  {
+   "segment": [
+    9.0,
+    10.0
+   ],
+   "verb": "take",
+   "noun": "broccoli",
+   "score": 0.306183
+  },
+  {
+   "segment": [
+    9.0,
+    15.0
+   ],
+   "verb": "take",
+   "noun": "broccoli",
+   "score": 0.292404
+  },
+  {
+   "segment": [
+    9.0,
+    12.5
+   ],
+   "verb": "pour",
+   "noun": "broccoli",
+   "score": 0.265371
+  },
+  {
+   "segment": [
+    9.0,
+    11.0
+   ],
+   "verb": "pour",
+   "noun": "broccoli",
+   "score": 0.256083
+  },
+  {
+   "segment": [
+    9.0,
+    15.0
+   ],
+   "verb": "pour",
+   "noun": "broccoli",
+   "score": 0.252195
+  },
+  {
+   "segment": [
+    9.0,
+    10.0
+   ],
+   "verb": "pour",
+   "noun": "broccoli",
+   "score": 0.243905
+  },
+  {
+   "segment": [
+    9.5,
+    10.5
+   ],
+   "verb": "put",
+   "noun": "broccoli",
+   "score": 0.364131
+  },
+  {
+   "segment": [
+    9.5,
+    10.5
+   ],
+   "verb": "take",
+   "noun": "broccoli",
+   "score": 0.323165
+  },
+  {
+   "segment": [
+    9.5,
+    10.5
+   ],
+   "verb": "pour",
+   "noun": "broccoli",
+   "score": 0.248246
+  },
+  {
+   "segment": [
+    10.0,
+    11.0
+   ],
+   "verb": "put",
+   "noun": "broccoli",
+   "score": 0.363505
+  },
+  {
+   "segment": [
+    10.0,
+    12.0
+   ],
+   "verb": "put",
+   "noun": "broccoli",
+   "score": 0.348893
+  },
+  {
+   "segment": [
+    10.0,
+    11.0
+   ],
+   "verb": "take",
+   "noun": "broccoli",
+   "score": 0.326792
+  },
+  {
+   "segment": [
+    10.0,
+    12.0
+   ],
+   "verb": "take",
+   "noun": "broccoli",
+   "score": 0.314195
+  },
+  {
+   "segment": [
+    10.0,
+    12.0
+   ],
+   "verb": "pour",
+   "noun": "broccoli",
+   "score": 0.277559
+  },
+  {
+   "segment": [
+    10.0,
+    11.0
+   ],
+   "verb": "pour",
+   "noun": "broccoli",
+   "score": 0.268227
+  },
+  {
+   "segment": [
+    10.5,
+    11.5
+   ],
+   "verb": "put",
+   "noun": "broccoli",
+   "score": 0.340744
+  },
+  {
+   "segment": [
+    10.5,
+    14.0
+   ],
+   "verb": "put",
+   "noun": "broccoli",
+   "score": 0.33155
+  },
+  {
+   "segment": [
+    10.5,
+    11.5
+   ],
+   "verb": "take",
+   "noun": "broccoli",
+   "score": 0.305907
+  },
+  {
+   "segment": [
+    10.5,
+    14.0
+   ],
+   "verb": "take",
+   "noun": "broccoli",
+   "score": 0.292527
+  },
+  {
+   "segment": [
+    10.5,
+    11.5
+   ],
+   "verb": "pour",
+   "noun": "broccoli",
+   "score": 0.275647
+  },
+  {
+   "segment": [
+    10.5,
+    14.0
+   ],
+   "verb": "pour",
+   "noun": "broccoli",
+   "score": 0.259832
+  },
+  {
+   "segment": [
+    11.0,
+    12.0
+   ],
+   "verb": "put",
+   "noun": "broccoli",
+   "score": 0.334151
+  },
+  {
+   "segment": [
+    11.0,
+    13.0
+   ],
+   "verb": "put",
+   "noun": "broccoli",
+   "score": 0.330097
+  },
+  {
+   "segment": [
+    11.0,
+    12.0
+   ],
+   "verb": "take",
+   "noun": "broccoli",
+   "score": 0.3015
+  },
+  {
+   "segment": [
+    11.0,
+    13.0
+   ],
+   "verb": "take",
+   "noun": "broccoli",
+   "score": 0.297279
+  },
+  {
+   "segment": [
+    11.0,
+    12.0
+   ],
+   "verb": "pour",
+   "noun": "broccoli",
+   "score": 0.286056
+  },
+  {
+   "segment": [
+    11.0,
+    13.0
+   ],
+   "verb": "pour",
+   "noun": "broccoli",
+   "score": 0.267533
+  },
+  {
+   "segment": [
+    11.5,
+    12.5
+   ],
+   "verb": "put",
+   "noun": "broccoli",
+   "score": 0.340824
+  },
+  {
+   "segment": [
+    11.5,
+    12.5
+   ],
+   "verb": "take",
+   "noun": "broccoli",
+   "score": 0.305916
+  },
+  {
+   "segment": [
+    11.5,
+    12.5
+   ],
+   "verb": "pour",
+   "noun": "broccoli",
+   "score": 0.280116
+  },
+  {
+   "segment": [
+    12.0,
+    13.0
+   ],
+   "verb": "put",
+   "noun": "broccoli",
+   "score": 0.325682
+  },
+  {
+   "segment": [
+    12.0,
+    14.0
+   ],
+   "verb": "put",
+   "noun": "broccoli",
+   "score": 0.322336
+  },
+  {
+   "segment": [
+    12.0,
+    15.5
+   ],
+   "verb": "put",
+   "noun": "broccoli",
+   "score": 0.296767
+  },
+  {
+   "segment": [
+    12.0,
+    13.0
+   ],
+   "verb": "take",
+   "noun": "broccoli",
+   "score": 0.292693
+  },
+  {
+   "segment": [
+    12.0,
+    14.0
+   ],
+   "verb": "take",
+   "noun": "broccoli",
+   "score": 0.280278
+  },
+  {
+   "segment": [
+    12.0,
+    15.5
+   ],
+   "verb": "take",
+   "noun": "broccoli",
+   "score": 0.256057
+  },
+  {
+   "segment": [
+    12.0,
+    13.0
+   ],
+   "verb": "pour",
+   "noun": "broccoli",
+   "score": 0.246648
+  },
+  {
+   "segment": [
+    12.0,
+    14.0
+   ],
+   "verb": "pour",
+   "noun": "broccoli",
+   "score": 0.239561
+  },
+  {
+   "segment": [
+    12.0,
+    18.0
+   ],
+   "verb": "put",
+   "noun": "broccoli",
+   "score": 0.232401
+  },
+  {
+   "segment": [
+    12.0,
+    15.5
+   ],
+   "verb": "pour",
+   "noun": "broccoli",
+   "score": 0.221457
+  },
+  {
+   "segment": [
+    12.0,
+    18.0
+   ],
+   "verb": "take",
+   "noun": "broccoli",
+   "score": 0.197907
+  },
+  {
+   "segment": [
+    12.0,
+    18.0
+   ],
+   "verb": "put",
+   "noun": "rice",
+   "score": 0.192115
+  },
+  {
+   "segment": [
+    12.5,
+    13.5
+   ],
+   "verb": "put",
+   "noun": "broccoli",
+   "score": 0.322626
+  },
+  {
+   "segment": [
+    12.5,
+    13.5
+   ],
+   "verb": "take",
+   "noun": "broccoli",
+   "score": 0.283145
+  },
+  {
+   "segment": [
+    12.5,
+    13.5
+   ],
+   "verb": "pour",
+   "noun": "broccoli",
+   "score": 0.2283
+  },
+  {
+   "segment": [
+    13.0,
+    14.0
+   ],
+   "verb": "put",
+   "noun": "broccoli",
+   "score": 0.318984
+  },
+  {
+   "segment": [
+    13.0,
+    15.0
+   ],
+   "verb": "put",
+   "noun": "broccoli",
+   "score": 0.309167
+  },
+  {
+   "segment": [
+    13.0,
+    14.0
+   ],
+   "verb": "take",
+   "noun": "broccoli",
+   "score": 0.267441
+  },
+  {
+   "segment": [
+    13.0,
+    15.0
+   ],
+   "verb": "take",
+   "noun": "broccoli",
+   "score": 0.260998
+  },
+  {
+   "segment": [
+    13.0,
+    14.0
+   ],
+   "verb": "pour",
+   "noun": "broccoli",
+   "score": 0.23234
+  },
+  {
+   "segment": [
+    13.0,
+    15.0
+   ],
+   "verb": "pour",
+   "noun": "broccoli",
+   "score": 0.232306
+  },
+  {
+   "segment": [
+    13.5,
+    14.5
+   ],
+   "verb": "put",
+   "noun": "broccoli",
+   "score": 0.314645
+  },
+  {
+   "segment": [
+    13.5,
+    14.5
+   ],
+   "verb": "take",
+   "noun": "broccoli",
+   "score": 0.26381
+  },
+  {
+   "segment": [
+    13.5,
+    14.5
+   ],
+   "verb": "pour",
+   "noun": "broccoli",
+   "score": 0.244287
+  },
+  {
+   "segment": [
+    13.5,
+    17.0
+   ],
+   "verb": "put",
+   "noun": "broccoli",
+   "score": 0.219262
+  },
+  {
+   "segment": [
+    13.5,
+    17.0
+   ],
+   "verb": "put",
+   "noun": "rice",
+   "score": 0.182524
+  },
+  {
+   "segment": [
+    13.5,
+    17.0
+   ],
+   "verb": "take",
+   "noun": "broccoli",
+   "score": 0.182362
+  },
+  {
+   "segment": [
+    14.0,
+    15.0
+   ],
+   "verb": "put",
+   "noun": "broccoli",
+   "score": 0.299196
+  },
+  {
+   "segment": [
+    14.0,
+    15.0
+   ],
+   "verb": "take",
+   "noun": "broccoli",
+   "score": 0.254332
+  },
+  {
+   "segment": [
+    14.0,
+    16.0
+   ],
+   "verb": "put",
+   "noun": "broccoli",
+   "score": 0.234973
+  },
+  {
+   "segment": [
+    14.0,
+    15.0
+   ],
+   "verb": "pour",
+   "noun": "broccoli",
+   "score": 0.231625
+  },
+  {
+   "segment": [
+    14.0,
+    16.0
+   ],
+   "verb": "take",
+   "noun": "broccoli",
+   "score": 0.197472
+  },
+  {
+   "segment": [
+    14.0,
+    16.0
+   ],
+   "verb": "pour",
+   "noun": "broccoli",
+   "score": 0.172004
+  },
+  {
+   "segment": [
+    14.5,
+    15.5
+   ],
+   "verb": "put",
+   "noun": "broccoli",
+   "score": 0.233521
+  },
+  {
+   "segment": [
+    14.5,
+    15.5
+   ],
+   "verb": "take",
+   "noun": "broccoli",
+   "score": 0.197858
+  },
+  {
+   "segment": [
+    14.5,
+    15.5
+   ],
+   "verb": "pour",
+   "noun": "broccoli",
+   "score": 0.170863
+  },
+  {
+   "segment": [
+    15.0,
+    21.0
+   ],
+   "verb": "put",
+   "noun": "rice",
+   "score": 0.286708
+  },
+  {
+   "segment": [
+    15.0,
+    18.5
+   ],
+   "verb": "put",
+   "noun": "rice",
+   "score": 0.263274
+  },
+  {
+   "segment": [
+    15.0,
+    17.0
+   ],
+   "verb": "put",
+   "noun": "rice",
+   "score": 0.221673
+  },
+  {
+   "segment": [
+    15.0,
+    18.5
+   ],
+   "verb": "pour",
+   "noun": "rice",
+   "score": 0.216029
+  },
+  {
+   "segment": [
+    15.0,
+    21.0
+   ],
+   "verb": "insert",
+   "noun": "rice",
+   "score": 0.208149
+  },
+  {
+   "segment": [
+    15.0,
+    21.0
+   ],
+   "verb": "pour",
+   "noun": "rice",
+   "score": 0.205084
+  },
+  {
+   "segment": [
+    15.0,
+    16.0
+   ],
+   "verb": "put",
+   "noun": "rice",
+   "score": 0.193132
+  },
+  {
+   "segment": [
+    15.0,
+    18.5
+   ],
+   "verb": "insert",
+   "noun": "rice",
+   "score": 0.187153
+  },
+  {
+   "segment": [
+    15.0,
+    17.0
+   ],
+   "verb": "pour",
+   "noun": "rice",
+   "score": 0.186908
+  },
+  {
+   "segment": [
+    15.0,
+    17.0
+   ],
+   "verb": "cook",
+   "noun": "rice",
+   "score": 0.185308
+  },
+  {
+   "segment": [
+    15.0,
+    16.0
+   ],
+   "verb": "cook",
+   "noun": "rice",
+   "score": 0.176082
+  },
+  {
+   "segment": [
+    15.0,
+    16.0
+   ],
+   "verb": "put",
+   "noun": "broccoli",
+   "score": 0.167805
+  },
+  {
+   "segment": [
+    15.5,
+    16.5
+   ],
+   "verb": "put",
+   "noun": "rice",
+   "score": 0.22808
+  },
+  {
+   "segment": [
+    15.5,
+    16.5
+   ],
+   "verb": "cook",
+   "noun": "rice",
+   "score": 0.198736
+  },
+  {
+   "segment": [
+    15.5,
+    16.5
+   ],
+   "verb": "mix",
+   "noun": "rice",
+   "score": 0.190818
+  },
+  {
+   "segment": [
+    16.0,
+    18.0
+   ],
+   "verb": "put",
+   "noun": "rice",
+   "score": 0.279644
+  },
+  {
+   "segment": [
+    16.0,
+    18.0
+   ],
+   "verb": "pour",
+   "noun": "rice",
+   "score": 0.2657
+  },
+  {
+   "segment": [
+    16.0,
+    17.0
+   ],
+   "verb": "pour",
+   "noun": "rice",
+   "score": 0.259908
+  },
+  {
+   "segment": [
+    16.0,
+    17.0
+   ],
+   "verb": "put",
+   "noun": "rice",
+   "score": 0.249685
+  },
+  {
+   "segment": [
+    16.0,
+    17.0
+   ],
+   "verb": "mix",
+   "noun": "rice",
+   "score": 0.217352
+  },
+  {
+   "segment": [
+    16.0,
+    18.0
+   ],
+   "verb": "mix",
+   "noun": "rice",
+   "score": 0.206106
+  },
+  {
+   "segment": [
+    16.5,
+    20.0
+   ],
+   "verb": "put",
+   "noun": "rice",
+   "score": 0.312107
+  },
+  {
+   "segment": [
+    16.5,
+    17.5
+   ],
+   "verb": "pour",
+   "noun": "rice",
+   "score": 0.300042
+  },
+  {
+   "segment": [
+    16.5,
+    17.5
+   ],
+   "verb": "put",
+   "noun": "rice",
+   "score": 0.284583
+  },
+  {
+   "segment": [
+    16.5,
+    20.0
+   ],
+   "verb": "pour",
+   "noun": "rice",
+   "score": 0.235234
+  },
+  {
+   "segment": [
+    16.5,
+    20.0
+   ],
+   "verb": "insert",
+   "noun": "rice",
+   "score": 0.233432
+  },
+  {
+   "segment": [
+    16.5,
+    17.5
+   ],
+   "verb": "mix",
+   "noun": "rice",
+   "score": 0.215015
+  },
+  {
+   "segment": [
+    17.0,
+    19.0
+   ],
+   "verb": "put",
+   "noun": "rice",
+   "score": 0.317383
+  },
+  {
+   "segment": [
+    17.0,
+    18.0
+   ],
+   "verb": "put",
+   "noun": "rice",
+   "score": 0.306244
+  },
+  {
+   "segment": [
+    17.0,
+    18.0
+   ],
+   "verb": "pour",
+   "noun": "rice",
+   "score": 0.271258
+  },
+  {
+   "segment": [
+    17.0,
+    19.0
+   ],
+   "verb": "pour",
+   "noun": "rice",
+   "score": 0.241939
+  },
+  {
+   "segment": [
+    17.0,
+    19.0
+   ],
+   "verb": "insert",
+   "noun": "rice",
+   "score": 0.236808
+  },
+  {
+   "segment": [
+    17.0,
+    18.0
+   ],
+   "verb": "insert",
+   "noun": "rice",
+   "score": 0.231338
+  },
+  {
+   "segment": [
+    17.5,
+    18.5
+   ],
+   "verb": "put",
+   "noun": "rice",
+   "score": 0.308606
+  },
+  {
+   "segment": [
+    17.5,
+    18.5
+   ],
+   "verb": "insert",
+   "noun": "rice",
+   "score": 0.233165
+  },
+  {
+   "segment": [
+    17.5,
+    18.5
+   ],
+   "verb": "pour",
+   "noun": "rice",
+   "score": 0.216317
+  },
+  {
+   "segment": [
+    18.0,
+    20.0
+   ],
+   "verb": "put",
+   "noun": "rice",
+   "score": 0.328437
+  },
+  {
+   "segment": [
+    18.0,
+    19.0
+   ],
+   "verb": "put",
+   "noun": "rice",
+   "score": 0.326939
+  },
+  {
+   "segment": [
+    18.0,
+    21.5
+   ],
+   "verb": "put",
+   "noun": "rice",
+   "score": 0.313175
+  },
+  {
+   "segment": [
+    18.0,
+    24.0
+   ],
+   "verb": "put",
+   "noun": "rice",
+   "score": 0.257716
+  },
+  {
+   "segment": [
+    18.0,
+    20.0
+   ],
+   "verb": "insert",
+   "noun": "rice",
+   "score": 0.24499
+  },
+  {
+   "segment": [
+    18.0,
+    19.0
+   ],
+   "verb": "insert",
+   "noun": "rice",
+   "score": 0.241444
+  },
+  {
+   "segment": [
+    18.0,
+    21.5
+   ],
+   "verb": "insert",
+   "noun": "rice",
+   "score": 0.229139
+  },
+  {
+   "segment": [
+    18.0,
+    21.5
+   ],
+   "verb": "mix",
+   "noun": "rice",
+   "score": 0.224742
+  },
+  {
+   "segment": [
+    18.0,
+    20.0
+   ],
+   "verb": "move",
+   "noun": "rice",
+   "score": 0.216232
+  },
+  {
+   "segment": [
+    18.0,
+    24.0
+   ],
+   "verb": "mix",
+   "noun": "rice",
+   "score": 0.213579
+  },
+  {
+   "segment": [
+    18.0,
+    19.0
+   ],
+   "verb": "pour",
+   "noun": "rice",
+   "score": 0.210778
+  },
+  {
+   "segment": [
+    18.0,
+    24.0
+   ],
+   "verb": "cook",
+   "noun": "rice",
+   "score": 0.195007
+  },
+  {
+   "segment": [
+    18.5,
+    19.5
+   ],
+   "verb": "put",
+   "noun": "rice",
+   "score": 0.327089
+  },
+  {
+   "segment": [
+    18.5,
+    19.5
+   ],
+   "verb": "insert",
+   "noun": "rice",
+   "score": 0.241984
+  },
+  {
+   "segment": [
+    18.5,
+    19.5
+   ],
+   "verb": "move",
+   "noun": "rice",
+   "score": 0.216785
+  },
+  {
+   "segment": [
+    19.0,
+    20.0
+   ],
+   "verb": "put",
+   "noun": "rice",
+   "score": 0.329414
+  },
+  {
+   "segment": [
+    19.0,
+    21.0
+   ],
+   "verb": "put",
+   "noun": "rice",
+   "score": 0.316821
+  },
+  {
+   "segment": [
+    19.0,
+    20.0
+   ],
+   "verb": "insert",
+   "noun": "rice",
+   "score": 0.248321
+  },
+  {
+   "segment": [
+    19.0,
+    21.0
+   ],
+   "verb": "insert",
+   "noun": "rice",
+   "score": 0.235793
+  },
+  {
+   "segment": [
+    19.0,
+    21.0
+   ],
+   "verb": "mix",
+   "noun": "rice",
+   "score": 0.23033
+  },
+  {
+   "segment": [
+    19.0,
+    20.0
+   ],
+   "verb": "move",
+   "noun": "rice",
+   "score": 0.223865
+  },
+  {
+   "segment": [
+    19.5,
+    20.5
+   ],
+   "verb": "put",
+   "noun": "rice",
+   "score": 0.326116
+  },
+  {
+   "segment": [
+    19.5,
+    23.0
+   ],
+   "verb": "put",
+   "noun": "rice",
+   "score": 0.260793
+  },
+  {
+   "segment": [
+    19.5,
+    23.0
+   ],
+   "verb": "mix",
+   "noun": "rice",
+   "score": 0.257397
+  },
+  {
+   "segment": [
+    19.5,
+    20.5
+   ],
+   "verb": "insert",
+   "noun": "rice",
+   "score": 0.247435
+  },
+  {
+   "segment": [
+    19.5,
+    20.5
+   ],
+   "verb": "move",
+   "noun": "rice",
+   "score": 0.227992
+  },
+  {
+   "segment": [
+    19.5,
+    23.0
+   ],
+   "verb": "cook",
+   "noun": "rice",
+   "score": 0.225067
+  },
+  {
+   "segment": [
+    20.0,
+    21.0
+   ],
+   "verb": "put",
+   "noun": "rice",
+   "score": 0.303168
+  },
+  {
+   "segment": [
+    20.0,
+    22.0
+   ],
+   "verb": "mix",
+   "noun": "rice",
+   "score": 0.283917
+  },
+  {
+   "segment": [
+    20.0,
+    22.0
+   ],
+   "verb": "put",
+   "noun": "rice",
+   "score": 0.275716
+  },
+  {
+   "segment": [
+    20.0,
+    21.0
+   ],
+   "verb": "mix",
+   "noun": "rice",
+   "score": 0.263801
+  },
+  {
+   "segment": [
+    20.0,
+    22.0
+   ],
+   "verb": "cook",
+   "noun": "rice",
+   "score": 0.238622
+  },
+  {
+   "segment": [
+    20.0,
+    21.0
+   ],
+   "verb": "cook",
+   "noun": "rice",
+   "score": 0.22981
+  },
+  {
+   "segment": [
+    20.5,
+    21.5
+   ],
+   "verb": "mix",
+   "noun": "rice",
+   "score": 0.288824
+  },
+  {
+   "segment": [
+    20.5,
+    21.5
+   ],
+   "verb": "put",
+   "noun": "rice",
+   "score": 0.273428
+  },
+  {
+   "segment": [
+    20.5,
+    21.5
+   ],
+   "verb": "cook",
+   "noun": "rice",
+   "score": 0.237524
+  },
+  {
+   "segment": [
+    21.0,
+    22.0
+   ],
+   "verb": "mix",
+   "noun": "rice",
+   "score": 0.299432
+  },
+  {
+   "segment": [
+    21.0,
+    23.0
+   ],
+   "verb": "mix",
+   "noun": "rice",
+   "score": 0.259133
+  },
+  {
+   "segment": [
+    21.0,
+    22.0
+   ],
+   "verb": "pour",
+   "noun": "rice",
+   "score": 0.258842
+  },
+  {
+   "segment": [
+    21.0,
+    22.0
+   ],
+   "verb": "put",
+   "noun": "rice",
+   "score": 0.247913
+  },
+  {
+   "segment": [
+    21.0,
+    27.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.243622
+  },
+  {
+   "segment": [
+    21.0,
+    23.0
+   ],
+   "verb": "cook",
+   "noun": "rice",
+   "score": 0.225647
+  },
+  {
+   "segment": [
+    21.0,
+    23.0
+   ],
+   "verb": "put",
+   "noun": "rice",
+   "score": 0.221731
+  },
+  {
+   "segment": [
+    21.0,
+    24.5
+   ],
+   "verb": "mix",
+   "noun": "rice",
+   "score": 0.194776
+  },
+  {
+   "segment": [
+    21.0,
+    24.5
+   ],
+   "verb": "cook",
+   "noun": "rice",
+   "score": 0.174728
+  },
+  {
+   "segment": [
+    21.0,
+    24.5
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.17369
+  },
+  {
+   "segment": [
+    21.0,
+    27.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.1504
+  },
+  {
+   "segment": [
+    21.0,
+    27.0
+   ],
+   "verb": "mix",
+   "noun": "rice",
+   "score": 0.145703
+  },
+  {
+   "segment": [
+    21.5,
+    22.5
+   ],
+   "verb": "mix",
+   "noun": "rice",
+   "score": 0.268296
+  },
+  {
+   "segment": [
+    21.5,
+    22.5
+   ],
+   "verb": "pour",
+   "noun": "rice",
+   "score": 0.235581
+  },
+  {
+   "segment": [
+    21.5,
+    22.5
+   ],
+   "verb": "cook",
+   "noun": "rice",
+   "score": 0.229217
+  },
+  {
+   "segment": [
+    22.0,
+    23.0
+   ],
+   "verb": "mix",
+   "noun": "rice",
+   "score": 0.217018
+  },
+  {
+   "segment": [
+    22.0,
+    23.0
+   ],
+   "verb": "cook",
+   "noun": "rice",
+   "score": 0.206071
+  },
+  {
+   "segment": [
+    22.0,
+    23.0
+   ],
+   "verb": "put",
+   "noun": "rice",
+   "score": 0.195134
+  },
+  {
+   "segment": [
+    22.0,
+    24.0
+   ],
+   "verb": "mix",
+   "noun": "rice",
+   "score": 0.16294
+  },
+  {
+   "segment": [
+    22.0,
+    24.0
+   ],
+   "verb": "cook",
+   "noun": "rice",
+   "score": 0.161971
+  },
+  {
+   "segment": [
+    22.0,
+    24.0
+   ],
+   "verb": "put",
+   "noun": "rice",
+   "score": 0.15558
+  },
+  {
+   "segment": [
+    22.5,
+    26.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.29758
+  },
+  {
+   "segment": [
+    22.5,
+    26.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.184465
+  },
+  {
+   "segment": [
+    22.5,
+    26.0
+   ],
+   "verb": "put",
+   "noun": "cupboard",
+   "score": 0.171159
+  },
+  {
+   "segment": [
+    22.5,
+    23.5
+   ],
+   "verb": "cook",
+   "noun": "rice",
+   "score": 0.165527
+  },
+  {
+   "segment": [
+    22.5,
+    23.5
+   ],
+   "verb": "put",
+   "noun": "rice",
+   "score": 0.159936
+  },
+  {
+   "segment": [
+    22.5,
+    23.5
+   ],
+   "verb": "mix",
+   "noun": "rice",
+   "score": 0.159208
+  },
+  {
+   "segment": [
+    23.0,
+    25.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.293341
+  },
+  {
+   "segment": [
+    23.0,
+    24.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.193828
+  },
+  {
+   "segment": [
+    23.0,
+    25.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.180133
+  },
+  {
+   "segment": [
+    23.0,
+    25.0
+   ],
+   "verb": "move",
+   "noun": "cupboard",
+   "score": 0.169073
+  },
+  {
+   "segment": [
+    23.0,
+    24.0
+   ],
+   "verb": "move",
+   "noun": "pan",
+   "score": 0.123783
+  },
+  {
+   "segment": [
+    23.0,
+    24.0
+   ],
+   "verb": "pour",
+   "noun": "broccoli",
+   "score": 0.122708
+  },
+  {
+   "segment": [
+    23.5,
+    24.5
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.299508
+  },
+  {
+   "segment": [
+    23.5,
+    24.5
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.1804
+  },
+  {
+   "segment": [
+    23.5,
+    24.5
+   ],
+   "verb": "move",
+   "noun": "cupboard",
+   "score": 0.17519
+  },
+  {
+   "segment": [
+    24.0,
+    25.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.36065
+  },
+  {
+   "segment": [
+    24.0,
+    26.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.358011
+  },
+  {
+   "segment": [
+    24.0,
+    27.5
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.284821
+  },
+  {
+   "segment": [
+    24.0,
+    30.0
+   ],
+   "verb": "put",
+   "noun": "plate",
+   "score": 0.236114
+  },
+  {
+   "segment": [
+    24.0,
+    26.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.221764
+  },
+  {
+   "segment": [
+    24.0,
+    25.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.220578
+  },
+  {
+   "segment": [
+    24.0,
+    30.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.21831
+  },
+  {
+   "segment": [
+    24.0,
+    25.0
+   ],
+   "verb": "put",
+   "noun": "cupboard",
+   "score": 0.210749
+  },
+  {
+   "segment": [
+    24.0,
+    26.0
+   ],
+   "verb": "put",
+   "noun": "cupboard",
+   "score": 0.207451
+  },
+  {
+   "segment": [
+    24.0,
+    30.0
+   ],
+   "verb": "put",
+   "noun": "rice",
+   "score": 0.203012
+  },
+  {
+   "segment": [
+    24.0,
+    27.5
+   ],
+   "verb": "put",
+   "noun": "plate",
+   "score": 0.176658
+  },
+  {
+   "segment": [
+    24.0,
+    27.5
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.17562
+  },
+  {
+   "segment": [
+    24.5,
+    25.5
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.388339
+  },
+  {
+   "segment": [
+    24.5,
+    25.5
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.241107
+  },
+  {
+   "segment": [
+    24.5,
+    25.5
+   ],
+   "verb": "put",
+   "noun": "plate",
+   "score": 0.233166
+  },
+  {
+   "segment": [
+    25.0,
+    26.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.355371
+  },
+  {
+   "segment": [
+    25.0,
+    27.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.279209
+  },
+  {
+   "segment": [
+    25.0,
+    26.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.222908
+  },
+  {
+   "segment": [
+    25.0,
+    26.0
+   ],
+   "verb": "put",
+   "noun": "cupboard",
+   "score": 0.204143
+  },
+  {
+   "segment": [
+    25.0,
+    27.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.173327
+  },
+  {
+   "segment": [
+    25.0,
+    27.0
+   ],
+   "verb": "put",
+   "noun": "plate",
+   "score": 0.159456
+  },
+  {
+   "segment": [
+    25.5,
+    26.5
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.287886
+  },
+  {
+   "segment": [
+    25.5,
+    29.0
+   ],
+   "verb": "put",
+   "noun": "plate",
+   "score": 0.209388
+  },
+  {
+   "segment": [
+    25.5,
+    29.0
+   ],
+   "verb": "put",
+   "noun": "rice",
+   "score": 0.203657
+  },
+  {
+   "segment": [
+    25.5,
+    26.5
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.179001
+  },
+  {
+   "segment": [
+    25.5,
+    26.5
+   ],
+   "verb": "put",
+   "noun": "cupboard",
+   "score": 0.159075
+  },
+  {
+   "segment": [
+    25.5,
+    29.0
+   ],
+   "verb": "take",
+   "noun": "rice",
+   "score": 0.154348
+  },
+  {
+   "segment": [
+    26.0,
+    28.0
+   ],
+   "verb": "put",
+   "noun": "rice",
+   "score": 0.175788
+  },
+  {
+   "segment": [
+    26.0,
+    27.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.169018
+  },
+  {
+   "segment": [
+    26.0,
+    28.0
+   ],
+   "verb": "put",
+   "noun": "plate",
+   "score": 0.161083
+  },
+  {
+   "segment": [
+    26.0,
+    27.0
+   ],
+   "verb": "move",
+   "noun": "pan",
+   "score": 0.150747
+  },
+  {
+   "segment": [
+    26.0,
+    28.0
+   ],
+   "verb": "take",
+   "noun": "rice",
+   "score": 0.139638
+  },
+  {
+   "segment": [
+    26.0,
+    27.0
+   ],
+   "verb": "move",
+   "noun": "spatula",
+   "score": 0.122912
+  },
+  {
+   "segment": [
+    26.5,
+    27.5
+   ],
+   "verb": "put",
+   "noun": "rice",
+   "score": 0.163128
+  },
+  {
+   "segment": [
+    26.5,
+    27.5
+   ],
+   "verb": "put",
+   "noun": "plate",
+   "score": 0.140468
+  },
+  {
+   "segment": [
+    26.5,
+    27.5
+   ],
+   "verb": "take",
+   "noun": "rice",
+   "score": 0.131829
+  },
+  {
+   "segment": [
+    27.0,
+    33.0
+   ],
+   "verb": "put",
+   "noun": "rice",
+   "score": 0.300533
+  },
+  {
+   "segment": [
+    27.0,
+    30.5
+   ],
+   "verb": "put",
+   "noun": "rice",
+   "score": 0.294988
+  },
+  {
+   "segment": [
+    27.0,
+    30.5
+   ],
+   "verb": "put",
+   "noun": "plate",
+   "score": 0.288468
+  },
+  {
+   "segment": [
+    27.0,
+    29.0
+   ],
+   "verb": "put",
+   "noun": "rice",
+   "score": 0.258802
+  },
+  {
+   "segment": [
+    27.0,
+    29.0
+   ],
+   "verb": "put",
+   "noun": "plate",
+   "score": 0.253891
+  },
+  {
+   "segment": [
+    27.0,
+    33.0
+   ],
+   "verb": "put",
+   "noun": "plate",
+   "score": 0.242056
+  },
+  {
+   "segment": [
+    27.0,
+    28.0
+   ],
+   "verb": "put",
+   "noun": "rice",
+   "score": 0.22619
+  },
+  {
+   "segment": [
+    27.0,
+    28.0
+   ],
+   "verb": "put",
+   "noun": "plate",
+   "score": 0.203507
+  },
+  {
+   "segment": [
+    27.0,
+    30.5
+   ],
+   "verb": "take",
+   "noun": "rice",
+   "score": 0.196133
+  },
+  {
+   "segment": [
+    27.0,
+    29.0
+   ],
+   "verb": "take",
+   "noun": "rice",
+   "score": 0.195312
+  },
+  {
+   "segment": [
+    27.0,
+    33.0
+   ],
+   "verb": "take",
+   "noun": "rice",
+   "score": 0.19437
+  },
+  {
+   "segment": [
+    27.0,
+    28.0
+   ],
+   "verb": "take",
+   "noun": "rice",
+   "score": 0.179393
+  },
+  {
+   "segment": [
+    27.5,
+    28.5
+   ],
+   "verb": "put",
+   "noun": "rice",
+   "score": 0.268679
+  },
+  {
+   "segment": [
+    27.5,
+    28.5
+   ],
+   "verb": "put",
+   "noun": "plate",
+   "score": 0.253306
+  },
+  {
+   "segment": [
+    27.5,
+    28.5
+   ],
+   "verb": "take",
+   "noun": "rice",
+   "score": 0.206687
+  },
+  {
+   "segment": [
+    28.0,
+    30.0
+   ],
+   "verb": "put",
+   "noun": "plate",
+   "score": 0.317998
+  },
+  {
+   "segment": [
+    28.0,
+    30.0
+   ],
+   "verb": "put",
+   "noun": "rice",
+   "score": 0.305589
+  },
+  {
+   "segment": [
+    28.0,
+    29.0
+   ],
+   "verb": "put",
+   "noun": "plate",
+   "score": 0.296659
+  },
+  {
+   "segment": [
+    28.0,
+    29.0
+   ],
+   "verb": "put",
+   "noun": "rice",
+   "score": 0.288328
+  },
+  {
+   "segment": [
+    28.0,
+    29.0
+   ],
+   "verb": "take",
+   "noun": "rice",
+   "score": 0.210323
+  },
+  {
+   "segment": [
+    28.0,
+    30.0
+   ],
+   "verb": "take",
+   "noun": "rice",
+   "score": 0.202202
+  },
+  {
+   "segment": [
+    28.5,
+    32.0
+   ],
+   "verb": "put",
+   "noun": "rice",
+   "score": 0.337649
+  },
+  {
+   "segment": [
+    28.5,
+    29.5
+   ],
+   "verb": "put",
+   "noun": "plate",
+   "score": 0.32351
+  },
+  {
+   "segment": [
+    28.5,
+    29.5
+   ],
+   "verb": "put",
+   "noun": "rice",
+   "score": 0.304513
+  },
+  {
+   "segment": [
+    28.5,
+    32.0
+   ],
+   "verb": "put",
+   "noun": "plate",
+   "score": 0.274277
+  },
+  {
+   "segment": [
+    28.5,
+    29.5
+   ],
+   "verb": "take",
+   "noun": "rice",
+   "score": 0.201531
+  },
+  {
+   "segment": [
+    28.5,
+    32.0
+   ],
+   "verb": "take",
+   "noun": "rice",
+   "score": 0.199565
+  },
+  {
+   "segment": [
+    29.0,
+    31.0
+   ],
+   "verb": "put",
+   "noun": "rice",
+   "score": 0.351211
+  },
+  {
+   "segment": [
+    29.0,
+    30.0
+   ],
+   "verb": "put",
+   "noun": "plate",
+   "score": 0.339265
+  },
+  {
+   "segment": [
+    29.0,
+    30.0
+   ],
+   "verb": "put",
+   "noun": "rice",
+   "score": 0.322843
+  },
+  {
+   "segment": [
+    29.0,
+    31.0
+   ],
+   "verb": "put",
+   "noun": "plate",
+   "score": 0.316035
+  },
+  {
+   "segment": [
+    29.0,
+    31.0
+   ],
+   "verb": "take",
+   "noun": "rice",
+   "score": 0.197681
+  },
+  {
+   "segment": [
+    29.0,
+    30.0
+   ],
+   "verb": "take",
+   "noun": "rice",
+   "score": 0.192185
+  },
+  {
+   "segment": [
+    29.5,
+    30.5
+   ],
+   "verb": "put",
+   "noun": "rice",
+   "score": 0.355475
+  },
+  {
+   "segment": [
+    29.5,
+    30.5
+   ],
+   "verb": "put",
+   "noun": "plate",
+   "score": 0.332815
+  },
+  {
+   "segment": [
+    29.5,
+    30.5
+   ],
+   "verb": "take",
+   "noun": "rice",
+   "score": 0.192355
+  },
+  {
+   "segment": [
+    30.0,
+    31.0
+   ],
+   "verb": "put",
+   "noun": "rice",
+   "score": 0.379251
+  },
+  {
+   "segment": [
+    30.0,
+    32.0
+   ],
+   "verb": "put",
+   "noun": "rice",
+   "score": 0.355857
+  },
+  {
+   "segment": [
+    30.0,
+    36.0
+   ],
+   "verb": "put",
+   "noun": "rice",
+   "score": 0.324789
+  },
+  {
+   "segment": [
+    30.0,
+    33.5
+   ],
+   "verb": "put",
+   "noun": "rice",
+   "score": 0.307269
+  },
+  {
+   "segment": [
+    30.0,
+    31.0
+   ],
+   "verb": "put",
+   "noun": "plate",
+   "score": 0.279484
+  },
+  {
+   "segment": [
+    30.0,
+    36.0
+   ],
+   "verb": "mix",
+   "noun": "rice",
+   "score": 0.218275
+  },
+  {
+   "segment": [
+    30.0,
+    36.0
+   ],
+   "verb": "take",
+   "noun": "rice",
+   "score": 0.205135
+  },
+  {
+   "segment": [
+    30.0,
+    32.0
+   ],
+   "verb": "put",
+   "noun": "plate",
+   "score": 0.205097
+  },
+  {
+   "segment": [
+    30.0,
+    31.0
+   ],
+   "verb": "take",
+   "noun": "rice",
+   "score": 0.201685
+  },
+  {
+   "segment": [
+    30.0,
+    32.0
+   ],
+   "verb": "take",
+   "noun": "rice",
+   "score": 0.199879
+  },
+  {
+   "segment": [
+    30.0,
+    33.5
+   ],
+   "verb": "take",
+   "noun": "rice",
+   "score": 0.188731
+  },
+  {
+   "segment": [
+    30.0,
+    33.5
+   ],
+   "verb": "insert",
+   "noun": "rice",
+   "score": 0.170985
+  },
+  {
+   "segment": [
+    30.5,
+    31.5
+   ],
+   "verb": "put",
+   "noun": "rice",
+   "score": 0.379672
+  },
+  {
+   "segment": [
+    30.5,
+    31.5
+   ],
+   "verb": "take",
+   "noun": "rice",
+   "score": 0.211001
+  },
+  {
+   "segment": [
+    30.5,
+    31.5
+   ],
+   "verb": "insert",
+   "noun": "rice",
+   "score": 0.205001
+  },
+  {
+   "segment": [
+    31.0,
+    32.0
+   ],
+   "verb": "put",
+   "noun": "rice",
+   "score": 0.33235
+  },
+  {
+   "segment": [
+    31.0,
+    33.0
+   ],
+   "verb": "put",
+   "noun": "rice",
+   "score": 0.286832
+  },
+  {
+   "segment": [
+    31.0,
+    32.0
+   ],
+   "verb": "insert",
+   "noun": "rice",
+   "score": 0.201421
+  },
+  {
+   "segment": [
+    31.0,
+    32.0
+   ],
+   "verb": "take",
+   "noun": "rice",
+   "score": 0.197779
+  },
+  {
+   "segment": [
+    31.0,
+    33.0
+   ],
+   "verb": "take",
+   "noun": "rice",
+   "score": 0.18477
+  },
+  {
+   "segment": [
+    31.0,
+    33.0
+   ],
+   "verb": "insert",
+   "noun": "rice",
+   "score": 0.177863
+  },
+  {
+   "segment": [
+    31.5,
+    35.0
+   ],
+   "verb": "put",
+   "noun": "rice",
+   "score": 0.281745
+  },
+  {
+   "segment": [
+    31.5,
+    32.5
+   ],
+   "verb": "put",
+   "noun": "rice",
+   "score": 0.269649
+  },
+  {
+   "segment": [
+    31.5,
+    35.0
+   ],
+   "verb": "mix",
+   "noun": "rice",
+   "score": 0.244991
+  },
+  {
+   "segment": [
+    31.5,
+    35.0
+   ],
+   "verb": "take",
+   "noun": "rice",
+   "score": 0.192563
+  },
+  {
+   "segment": [
+    31.5,
+    32.5
+   ],
+   "verb": "insert",
+   "noun": "rice",
+   "score": 0.178941
+  },
+  {
+   "segment": [
+    31.5,
+    32.5
+   ],
+   "verb": "take",
+   "noun": "rice",
+   "score": 0.173146
+  },
+  {
+   "segment": [
+    32.0,
+    34.0
+   ],
+   "verb": "put",
+   "noun": "rice",
+   "score": 0.246238
+  },
+  {
+   "segment": [
+    32.0,
+    34.0
+   ],
+   "verb": "mix",
+   "noun": "rice",
+   "score": 0.240388
+  },
+  {
+   "segment": [
+    32.0,
+    33.0
+   ],
+   "verb": "put",
+   "noun": "rice",
+   "score": 0.228394
+  },
+  {
+   "segment": [
+    32.0,
+    34.0
+   ],
+   "verb": "take",
+   "noun": "rice",
+   "score": 0.183248
+  },
+  {
+   "segment": [
+    32.0,
+    33.0
+   ],
+   "verb": "take",
+   "noun": "rice",
+   "score": 0.169664
+  },
+  {
+   "segment": [
+    32.0,
+    33.0
+   ],
+   "verb": "cook",
+   "noun": "rice",
+   "score": 0.157186
+  },
+  {
+   "segment": [
+    32.5,
+    33.5
+   ],
+   "verb": "mix",
+   "noun": "rice",
+   "score": 0.225938
+  },
+  {
+   "segment": [
+    32.5,
+    33.5
+   ],
+   "verb": "put",
+   "noun": "rice",
+   "score": 0.220863
+  },
+  {
+   "segment": [
+    32.5,
+    33.5
+   ],
+   "verb": "take",
+   "noun": "rice",
+   "score": 0.176614
+  },
+  {
+   "segment": [
+    33.0,
+    39.0
+   ],
+   "verb": "put",
+   "noun": "rice",
+   "score": 0.360476
+  },
+  {
+   "segment": [
+    33.0,
+    36.5
+   ],
+   "verb": "put",
+   "noun": "rice",
+   "score": 0.337791
+  },
+  {
+   "segment": [
+    33.0,
+    35.0
+   ],
+   "verb": "put",
+   "noun": "rice",
+   "score": 0.303636
+  },
+  {
+   "segment": [
+    33.0,
+    35.0
+   ],
+   "verb": "mix",
+   "noun": "rice",
+   "score": 0.302628
+  },
+  {
+   "segment": [
+    33.0,
+    34.0
+   ],
+   "verb": "mix",
+   "noun": "rice",
+   "score": 0.300438
+  },
+  {
+   "segment": [
+    33.0,
+    36.5
+   ],
+   "verb": "mix",
+   "noun": "rice",
+   "score": 0.27138
+  },
+  {
+   "segment": [
+    33.0,
+    34.0
+   ],
+   "verb": "put",
+   "noun": "rice",
+   "score": 0.261789
+  },
+  {
+   "segment": [
+    33.0,
+    36.5
+   ],
+   "verb": "adjust",
+   "noun": "rice",
+   "score": 0.23047
+  },
+  {
+   "segment": [
+    33.0,
+    39.0
+   ],
+   "verb": "mix",
+   "noun": "rice",
+   "score": 0.229879
+  },
+  {
+   "segment": [
+    33.0,
+    35.0
+   ],
+   "verb": "adjust",
+   "noun": "rice",
+   "score": 0.221589
+  },
+  {
+   "segment": [
+    33.0,
+    39.0
+   ],
+   "verb": "take",
+   "noun": "rice",
+   "score": 0.21834
+  },
+  {
+   "segment": [
+    33.0,
+    34.0
+   ],
+   "verb": "cook",
+   "noun": "rice",
+   "score": 0.202351
+  },
+  {
+   "segment": [
+    33.5,
+    34.5
+   ],
+   "verb": "mix",
+   "noun": "rice",
+   "score": 0.343684
+  },
+  {
+   "segment": [
+    33.5,
+    34.5
+   ],
+   "verb": "put",
+   "noun": "rice",
+   "score": 0.320167
+  },
+  {
+   "segment": [
+    33.5,
+    34.5
+   ],
+   "verb": "adjust",
+   "noun": "rice",
+   "score": 0.240537
+  },
+  {
+   "segment": [
+    34.0,
+    36.0
+   ],
+   "verb": "put",
+   "noun": "rice",
+   "score": 0.363063
+  },
+  {
+   "segment": [
+    34.0,
+    35.0
+   ],
+   "verb": "put",
+   "noun": "rice",
+   "score": 0.344305
+  },
+  {
+   "segment": [
+    34.0,
+    35.0
+   ],
+   "verb": "mix",
+   "noun": "rice",
+   "score": 0.30337
+  },
+  {
+   "segment": [
+    34.0,
+    36.0
+   ],
+   "verb": "mix",
+   "noun": "rice",
+   "score": 0.270439
+  },
+  {
+   "segment": [
+    34.0,
+    36.0
+   ],
+   "verb": "adjust",
+   "noun": "rice",
+   "score": 0.2485
+  },
+  {
+   "segment": [
+    34.0,
+    35.0
+   ],
+   "verb": "adjust",
+   "noun": "rice",
+   "score": 0.247467
+  },
+  {
+   "segment": [
+    34.5,
+    38.0
+   ],
+   "verb": "put",
+   "noun": "rice",
+   "score": 0.383942
+  },
+  {
+   "segment": [
+    34.5,
+    35.5
+   ],
+   "verb": "put",
+   "noun": "rice",
+   "score": 0.360152
+  },
+  {
+   "segment": [
+    34.5,
+    35.5
+   ],
+   "verb": "mix",
+   "noun": "rice",
+   "score": 0.244914
+  },
+  {
+   "segment": [
+    34.5,
+    35.5
+   ],
+   "verb": "adjust",
+   "noun": "rice",
+   "score": 0.242288
+  },
+  {
+   "segment": [
+    34.5,
+    38.0
+   ],
+   "verb": "take",
+   "noun": "rice",
+   "score": 0.225485
+  },
+  {
+   "segment": [
+    34.5,
+    38.0
+   ],
+   "verb": "adjust",
+   "noun": "rice",
+   "score": 0.219139
+  },
+  {
+   "segment": [
+    35.0,
+    37.0
+   ],
+   "verb": "put",
+   "noun": "rice",
+   "score": 0.383155
+  },
+  {
+   "segment": [
+    35.0,
+    36.0
+   ],
+   "verb": "put",
+   "noun": "rice",
+   "score": 0.381478
+  },
+  {
+   "segment": [
+    35.0,
+    36.0
+   ],
+   "verb": "adjust",
+   "noun": "rice",
+   "score": 0.249466
+  },
+  {
+   "segment": [
+    35.0,
+    36.0
+   ],
+   "verb": "take",
+   "noun": "rice",
+   "score": 0.245529
+  },
+  {
+   "segment": [
+    35.0,
+    37.0
+   ],
+   "verb": "adjust",
+   "noun": "rice",
+   "score": 0.232582
+  },
+  {
+   "segment": [
+    35.0,
+    37.0
+   ],
+   "verb": "take",
+   "noun": "rice",
+   "score": 0.232308
+  },
+  {
+   "segment": [
+    35.5,
+    36.5
+   ],
+   "verb": "put",
+   "noun": "rice",
+   "score": 0.380286
+  },
+  {
+   "segment": [
+    35.5,
+    36.5
+   ],
+   "verb": "adjust",
+   "noun": "rice",
+   "score": 0.238595
+  },
+  {
+   "segment": [
+    35.5,
+    36.5
+   ],
+   "verb": "take",
+   "noun": "rice",
+   "score": 0.234734
+  },
+  {
+   "segment": [
+    36.0,
+    38.0
+   ],
+   "verb": "put",
+   "noun": "rice",
+   "score": 0.394057
+  },
+  {
+   "segment": [
+    36.0,
+    42.0
+   ],
+   "verb": "put",
+   "noun": "rice",
+   "score": 0.382685
+  },
+  {
+   "segment": [
+    36.0,
+    37.0
+   ],
+   "verb": "put",
+   "noun": "rice",
+   "score": 0.382067
+  },
+  {
+   "segment": [
+    36.0,
+    39.5
+   ],
+   "verb": "put",
+   "noun": "rice",
+   "score": 0.38033
+  },
+  {
+   "segment": [
+    36.0,
+    42.0
+   ],
+   "verb": "take",
+   "noun": "rice",
+   "score": 0.224762
+  },
+  {
+   "segment": [
+    36.0,
+    37.0
+   ],
+   "verb": "take",
+   "noun": "rice",
+   "score": 0.218919
+  },
+  {
+   "segment": [
+    36.0,
+    38.0
+   ],
+   "verb": "take",
+   "noun": "rice",
+   "score": 0.217553
+  },
+  {
+   "segment": [
+    36.0,
+    39.5
+   ],
+   "verb": "take",
+   "noun": "rice",
+   "score": 0.217237
+  },
+  {
+   "segment": [
+    36.0,
+    37.0
+   ],
+   "verb": "adjust",
+   "noun": "rice",
+   "score": 0.215667
+  },
+  {
+   "segment": [
+    36.0,
+    42.0
+   ],
+   "verb": "adjust",
+   "noun": "rice",
+   "score": 0.208451
+  },
+  {
+   "segment": [
+    36.0,
+    38.0
+   ],
+   "verb": "adjust",
+   "noun": "rice",
+   "score": 0.199462
+  },
+  {
+   "segment": [
+    36.0,
+    39.5
+   ],
+   "verb": "remove",
+   "noun": "rice",
+   "score": 0.192587
+  },
+  {
+   "segment": [
+    36.5,
+    37.5
+   ],
+   "verb": "put",
+   "noun": "rice",
+   "score": 0.392849
+  },
+  {
+   "segment": [
+    36.5,
+    37.5
+   ],
+   "verb": "take",
+   "noun": "rice",
+   "score": 0.212565
+  },
+  {
+   "segment": [
+    36.5,
+    37.5
+   ],
+   "verb": "remove",
+   "noun": "rice",
+   "score": 0.195632
+  },
+  {
+   "segment": [
+    37.0,
+    38.0
+   ],
+   "verb": "put",
+   "noun": "rice",
+   "score": 0.406017
+  },
+  {
+   "segment": [
+    37.0,
+    39.0
+   ],
+   "verb": "put",
+   "noun": "rice",
+   "score": 0.386469
+  },
+  {
+   "segment": [
+    37.0,
+    38.0
+   ],
+   "verb": "take",
+   "noun": "rice",
+   "score": 0.216012
+  },
+  {
+   "segment": [
+    37.0,
+    39.0
+   ],
+   "verb": "take",
+   "noun": "rice",
+   "score": 0.215583
+  },
+  {
+   "segment": [
+    37.0,
+    38.0
+   ],
+   "verb": "remove",
+   "noun": "rice",
+   "score": 0.190784
+  },
+  {
+   "segment": [
+    37.0,
+    39.0
+   ],
+   "verb": "remove",
+   "noun": "rice",
+   "score": 0.187241
+  },
+  {
+   "segment": [
+    37.5,
+    38.5
+   ],
+   "verb": "put",
+   "noun": "rice",
+   "score": 0.387597
+  },
+  {
+   "segment": [
+    37.5,
+    41.0
+   ],
+   "verb": "put",
+   "noun": "rice",
+   "score": 0.382764
+  },
+  {
+   "segment": [
+    37.5,
+    41.0
+   ],
+   "verb": "take",
+   "noun": "rice",
+   "score": 0.225614
+  },
+  {
+   "segment": [
+    37.5,
+    38.5
+   ],
+   "verb": "take",
+   "noun": "rice",
+   "score": 0.215251
+  },
+  {
+   "segment": [
+    37.5,
+    41.0
+   ],
+   "verb": "mix",
+   "noun": "rice",
+   "score": 0.209494
+  },
+  {
+   "segment": [
+    37.5,
+    38.5
+   ],
+   "verb": "remove",
+   "noun": "rice",
+   "score": 0.186123
+  },
+  {
+   "segment": [
+    38.0,
+    39.0
+   ],
+   "verb": "put",
+   "noun": "rice",
+   "score": 0.366914
+  },
+  {
+   "segment": [
+    38.0,
+    40.0
+   ],
+   "verb": "put",
+   "noun": "rice",
+   "score": 0.362124
+  },
+  {
+   "segment": [
+    38.0,
+    40.0
+   ],
+   "verb": "take",
+   "noun": "rice",
+   "score": 0.216723
+  },
+  {
+   "segment": [
+    38.0,
+    39.0
+   ],
+   "verb": "take",
+   "noun": "rice",
+   "score": 0.214577
+  },
+  {
+   "segment": [
+    38.0,
+    40.0
+   ],
+   "verb": "adjust",
+   "noun": "rice",
+   "score": 0.190333
+  },
+  {
+   "segment": [
+    38.0,
+    39.0
+   ],
+   "verb": "remove",
+   "noun": "rice",
+   "score": 0.183462
+  },
+  {
+   "segment": [
+    38.5,
+    39.5
+   ],
+   "verb": "put",
+   "noun": "rice",
+   "score": 0.361518
+  },
+  {
+   "segment": [
+    38.5,
+    39.5
+   ],
+   "verb": "take",
+   "noun": "rice",
+   "score": 0.220909
+  },
+  {
+   "segment": [
+    38.5,
+    39.5
+   ],
+   "verb": "adjust",
+   "noun": "rice",
+   "score": 0.187992
+  },
+  {
+   "segment": [
+    39.0,
+    45.0
+   ],
+   "verb": "put",
+   "noun": "rice",
+   "score": 0.391715
+  },
+  {
+   "segment": [
+    39.0,
+    41.0
+   ],
+   "verb": "put",
+   "noun": "rice",
+   "score": 0.381397
+  },
+  {
+   "segment": [
+    39.0,
+    42.5
+   ],
+   "verb": "put",
+   "noun": "rice",
+   "score": 0.374264
+  },
+  {
+   "segment": [
+    39.0,
+    40.0
+   ],
+   "verb": "put",
+   "noun": "rice",
+   "score": 0.35693
+  },
+  {
+   "segment": [
+    39.0,
+    41.0
+   ],
+   "verb": "mix",
+   "noun": "rice",
+   "score": 0.245725
+  },
+  {
+   "segment": [
+    39.0,
+    45.0
+   ],
+   "verb": "take",
+   "noun": "rice",
+   "score": 0.236059
+  },
+  {
+   "segment": [
+    39.0,
+    42.5
+   ],
+   "verb": "mix",
+   "noun": "rice",
+   "score": 0.234557
+  },
+  {
+   "segment": [
+    39.0,
+    45.0
+   ],
+   "verb": "adjust",
+   "noun": "rice",
+   "score": 0.23355
+  },
+  {
+   "segment": [
+    39.0,
+    41.0
+   ],
+   "verb": "adjust",
+   "noun": "rice",
+   "score": 0.232929
+  },
+  {
+   "segment": [
+    39.0,
+    42.5
+   ],
+   "verb": "take",
+   "noun": "rice",
+   "score": 0.229987
+  },
+  {
+   "segment": [
+    39.0,
+    40.0
+   ],
+   "verb": "take",
+   "noun": "rice",
+   "score": 0.218849
+  },
+  {
+   "segment": [
+    39.0,
+    40.0
+   ],
+   "verb": "mix",
+   "noun": "rice",
+   "score": 0.212953
+  },
+  {
+   "segment": [
+    39.5,
+    40.5
+   ],
+   "verb": "put",
+   "noun": "rice",
+   "score": 0.383307
+  },
+  {
+   "segment": [
+    39.5,
+    40.5
+   ],
+   "verb": "mix",
+   "noun": "rice",
+   "score": 0.2583
+  },
+  {
+   "segment": [
+    39.5,
+    40.5
+   ],
+   "verb": "adjust",
+   "noun": "rice",
+   "score": 0.240424
+  },
+  {
+   "segment": [
+    40.0,
+    41.0
+   ],
+   "verb": "put",
+   "noun": "rice",
+   "score": 0.402641
+  },
+  {
+   "segment": [
+    40.0,
+    42.0
+   ],
+   "verb": "put",
+   "noun": "rice",
+   "score": 0.388208
+  },
+  {
+   "segment": [
+    40.0,
+    41.0
+   ],
+   "verb": "mix",
+   "noun": "rice",
+   "score": 0.278415
+  },
+  {
+   "segment": [
+    40.0,
+    41.0
+   ],
+   "verb": "scoop",
+   "noun": "rice",
+   "score": 0.264202
+  },
+  {
+   "segment": [
+    40.0,
+    42.0
+   ],
+   "verb": "mix",
+   "noun": "rice",
+   "score": 0.250275
+  },
+  {
+   "segment": [
+    40.0,
+    42.0
+   ],
+   "verb": "scoop",
+   "noun": "rice",
+   "score": 0.246196
+  },
+  {
+   "segment": [
+    40.5,
+    41.5
+   ],
+   "verb": "put",
+   "noun": "rice",
+   "score": 0.398959
+  },
+  {
+   "segment": [
+    40.5,
+    44.0
+   ],
+   "verb": "put",
+   "noun": "rice",
+   "score": 0.386542
+  },
+  {
+   "segment": [
+    40.5,
+    41.5
+   ],
+   "verb": "scoop",
+   "noun": "rice",
+   "score": 0.267462
+  },
+  {
+   "segment": [
+    40.5,
+    41.5
+   ],
+   "verb": "mix",
+   "noun": "rice",
+   "score": 0.2551
+  },
+  {
+   "segment": [
+    40.5,
+    44.0
+   ],
+   "verb": "mix",
+   "noun": "rice",
+   "score": 0.237898
+  },
+  {
+   "segment": [
+    40.5,
+    44.0
+   ],
+   "verb": "take",
+   "noun": "rice",
+   "score": 0.232158
+  },
+  {
+   "segment": [
+    41.0,
+    42.0
+   ],
+   "verb": "put",
+   "noun": "rice",
+   "score": 0.372363
+  },
+  {
+   "segment": [
+    41.0,
+    43.0
+   ],
+   "verb": "put",
+   "noun": "rice",
+   "score": 0.366175
+  },
+  {
+   "segment": [
+    41.0,
+    42.0
+   ],
+   "verb": "take",
+   "noun": "rice",
+   "score": 0.234962
+  },
+  {
+   "segment": [
+    41.0,
+    42.0
+   ],
+   "verb": "scoop",
+   "noun": "rice",
+   "score": 0.228027
+  },
+  {
+   "segment": [
+    41.0,
+    43.0
+   ],
+   "verb": "mix",
+   "noun": "rice",
+   "score": 0.224635
+  },
+  {
+   "segment": [
+    41.0,
+    43.0
+   ],
+   "verb": "take",
+   "noun": "rice",
+   "score": 0.224527
+  },
+  {
+   "segment": [
+    41.5,
+    42.5
+   ],
+   "verb": "put",
+   "noun": "rice",
+   "score": 0.348185
+  },
+  {
+   "segment": [
+    41.5,
+    42.5
+   ],
+   "verb": "take",
+   "noun": "rice",
+   "score": 0.215929
+  },
+  {
+   "segment": [
+    41.5,
+    42.5
+   ],
+   "verb": "mix",
+   "noun": "rice",
+   "score": 0.20627
+  },
+  {
+   "segment": [
+    42.0,
+    45.5
+   ],
+   "verb": "put",
+   "noun": "rice",
+   "score": 0.40718
+  },
+  {
+   "segment": [
+    42.0,
+    48.0
+   ],
+   "verb": "put",
+   "noun": "rice",
+   "score": 0.391786
+  },
+  {
+   "segment": [
+    42.0,
+    44.0
+   ],
+   "verb": "put",
+   "noun": "rice",
+   "score": 0.388752
+  },
+  {
+   "segment": [
+    42.0,
+    43.0
+   ],
+   "verb": "put",
+   "noun": "rice",
+   "score": 0.3599
+  },
+  {
+   "segment": [
+    42.0,
+    45.5
+   ],
+   "verb": "adjust",
+   "noun": "rice",
+   "score": 0.241688
+  },
+  {
+   "segment": [
+    42.0,
+    45.5
+   ],
+   "verb": "take",
+   "noun": "rice",
+   "score": 0.24072
+  },
+  {
+   "segment": [
+    42.0,
+    44.0
+   ],
+   "verb": "mix",
+   "noun": "rice",
+   "score": 0.239085
+  },
+  {
+   "segment": [
+    42.0,
+    48.0
+   ],
+   "verb": "remove",
+   "noun": "rice",
+   "score": 0.232729
+  },
+  {
+   "segment": [
+    42.0,
+    44.0
+   ],
+   "verb": "adjust",
+   "noun": "rice",
+   "score": 0.229436
+  },
+  {
+   "segment": [
+    42.0,
+    48.0
+   ],
+   "verb": "scoop",
+   "noun": "rice",
+   "score": 0.228602
+  },
+  {
+   "segment": [
+    42.0,
+    43.0
+   ],
+   "verb": "mix",
+   "noun": "rice",
+   "score": 0.226767
+  },
+  {
+   "segment": [
+    42.0,
+    43.0
+   ],
+   "verb": "take",
+   "noun": "rice",
+   "score": 0.214047
+  },
+  {
+   "segment": [
+    42.5,
+    43.5
+   ],
+   "verb": "put",
+   "noun": "rice",
+   "score": 0.384363
+  },
+  {
+   "segment": [
+    42.5,
+    43.5
+   ],
+   "verb": "mix",
+   "noun": "rice",
+   "score": 0.250739
+  },
+  {
+   "segment": [
+    42.5,
+    43.5
+   ],
+   "verb": "adjust",
+   "noun": "rice",
+   "score": 0.232979
+  },
+  {
+   "segment": [
+    43.0,
+    45.0
+   ],
+   "verb": "put",
+   "noun": "rice",
+   "score": 0.426264
+  },
+  {
+   "segment": [
+    43.0,
+    44.0
+   ],
+   "verb": "put",
+   "noun": "rice",
+   "score": 0.415484
+  },
+  {
+   "segment": [
+    43.0,
+    45.0
+   ],
+   "verb": "adjust",
+   "noun": "rice",
+   "score": 0.260984
+  },
+  {
+   "segment": [
+    43.0,
+    44.0
+   ],
+   "verb": "adjust",
+   "noun": "rice",
+   "score": 0.257818
+  },
+  {
+   "segment": [
+    43.0,
+    45.0
+   ],
+   "verb": "remove",
+   "noun": "rice",
+   "score": 0.254186
+  },
+  {
+   "segment": [
+    43.0,
+    44.0
+   ],
+   "verb": "mix",
+   "noun": "rice",
+   "score": 0.249074
+  },
+  {
+   "segment": [
+    43.5,
+    44.5
+   ],
+   "verb": "put",
+   "noun": "rice",
+   "score": 0.429856
+  },
+  {
+   "segment": [
+    43.5,
+    47.0
+   ],
+   "verb": "put",
+   "noun": "rice",
+   "score": 0.415745
+  },
+  {
+   "segment": [
+    43.5,
+    44.5
+   ],
+   "verb": "adjust",
+   "noun": "rice",
+   "score": 0.262215
+  },
+  {
+   "segment": [
+    43.5,
+    44.5
+   ],
+   "verb": "insert",
+   "noun": "rice",
+   "score": 0.259553
+  },
+  {
+   "segment": [
+    43.5,
+    47.0
+   ],
+   "verb": "remove",
+   "noun": "rice",
+   "score": 0.256025
+  },
+  {
+   "segment": [
+    43.5,
+    47.0
+   ],
+   "verb": "scoop",
+   "noun": "rice",
+   "score": 0.242629
+  },
+  {
+   "segment": [
+    44.0,
+    45.0
+   ],
+   "verb": "put",
+   "noun": "rice",
+   "score": 0.436911
+  },
+  {
+   "segment": [
+    44.0,
+    46.0
+   ],
+   "verb": "put",
+   "noun": "rice",
+   "score": 0.426317
+  },
+  {
+   "segment": [
+    44.0,
+    45.0
+   ],
+   "verb": "scoop",
+   "noun": "rice",
+   "score": 0.26591
+  },
+  {
+   "segment": [
+    44.0,
+    45.0
+   ],
+   "verb": "adjust",
+   "noun": "rice",
+   "score": 0.264145
+  },
+  {
+   "segment": [
+    44.0,
+    46.0
+   ],
+   "verb": "remove",
+   "noun": "rice",
+   "score": 0.262202
+  },
+  {
+   "segment": [
+    44.0,
+    46.0
+   ],
+   "verb": "scoop",
+   "noun": "rice",
+   "score": 0.260086
+  },
+  {
+   "segment": [
+    44.5,
+    45.5
+   ],
+   "verb": "put",
+   "noun": "rice",
+   "score": 0.434966
+  },
+  {
+   "segment": [
+    44.5,
+    45.5
+   ],
+   "verb": "scoop",
+   "noun": "rice",
+   "score": 0.268606
+  },
+  {
+   "segment": [
+    44.5,
+    45.5
+   ],
+   "verb": "remove",
+   "noun": "rice",
+   "score": 0.266612
+  },
+  {
+   "segment": [
+    45.0,
+    46.0
+   ],
+   "verb": "put",
+   "noun": "rice",
+   "score": 0.415476
+  },
+  {
+   "segment": [
+    45.0,
+    47.0
+   ],
+   "verb": "put",
+   "noun": "rice",
+   "score": 0.399716
+  },
+  {
+   "segment": [
+    45.0,
+    48.5
+   ],
+   "verb": "put",
+   "noun": "rice",
+   "score": 0.380861
+  },
+  {
+   "segment": [
+    45.0,
+    51.0
+   ],
+   "verb": "put",
+   "noun": "rice",
+   "score": 0.366585
+  },
+  {
+   "segment": [
+    45.0,
+    46.0
+   ],
+   "verb": "remove",
+   "noun": "rice",
+   "score": 0.264114
+  },
+  {
+   "segment": [
+    45.0,
+    46.0
+   ],
+   "verb": "scoop",
+   "noun": "rice",
+   "score": 0.25408
+  },
+  {
+   "segment": [
+    45.0,
+    47.0
+   ],
+   "verb": "remove",
+   "noun": "rice",
+   "score": 0.251267
+  },
+  {
+   "segment": [
+    45.0,
+    51.0
+   ],
+   "verb": "scoop",
+   "noun": "rice",
+   "score": 0.235749
+  },
+  {
+   "segment": [
+    45.0,
+    48.5
+   ],
+   "verb": "remove",
+   "noun": "rice",
+   "score": 0.232762
+  },
+  {
+   "segment": [
+    45.0,
+    48.5
+   ],
+   "verb": "scoop",
+   "noun": "rice",
+   "score": 0.23253
+  },
+  {
+   "segment": [
+    45.0,
+    47.0
+   ],
+   "verb": "scoop",
+   "noun": "rice",
+   "score": 0.231125
+  },
+  {
+   "segment": [
+    45.0,
+    51.0
+   ],
+   "verb": "remove",
+   "noun": "rice",
+   "score": 0.223608
+  },
+  {
+   "segment": [
+    45.5,
+    46.5
+   ],
+   "verb": "put",
+   "noun": "rice",
+   "score": 0.401987
+  },
+  {
+   "segment": [
+    45.5,
+    46.5
+   ],
+   "verb": "remove",
+   "noun": "rice",
+   "score": 0.252355
+  },
+  {
+   "segment": [
+    45.5,
+    46.5
+   ],
+   "verb": "scoop",
+   "noun": "rice",
+   "score": 0.227482
+  },
+  {
+   "segment": [
+    46.0,
+    47.0
+   ],
+   "verb": "put",
+   "noun": "rice",
+   "score": 0.383628
+  },
+  {
+   "segment": [
+    46.0,
+    48.0
+   ],
+   "verb": "put",
+   "noun": "rice",
+   "score": 0.359945
+  },
+  {
+   "segment": [
+    46.0,
+    47.0
+   ],
+   "verb": "remove",
+   "noun": "rice",
+   "score": 0.238345
+  },
+  {
+   "segment": [
+    46.0,
+    48.0
+   ],
+   "verb": "remove",
+   "noun": "rice",
+   "score": 0.21843
+  },
+  {
+   "segment": [
+    46.0,
+    48.0
+   ],
+   "verb": "scoop",
+   "noun": "rice",
+   "score": 0.211991
+  },
+  {
+   "segment": [
+    46.0,
+    47.0
+   ],
+   "verb": "scoop",
+   "noun": "rice",
+   "score": 0.207941
+  },
+  {
+   "segment": [
+    46.5,
+    50.0
+   ],
+   "verb": "put",
+   "noun": "rice",
+   "score": 0.363339
+  },
+  {
+   "segment": [
+    46.5,
+    47.5
+   ],
+   "verb": "put",
+   "noun": "rice",
+   "score": 0.357712
+  },
+  {
+   "segment": [
+    46.5,
+    50.0
+   ],
+   "verb": "scoop",
+   "noun": "rice",
+   "score": 0.244528
+  },
+  {
+   "segment": [
+    46.5,
+    50.0
+   ],
+   "verb": "mix",
+   "noun": "rice",
+   "score": 0.240816
+  },
+  {
+   "segment": [
+    46.5,
+    47.5
+   ],
+   "verb": "remove",
+   "noun": "rice",
+   "score": 0.21712
+  },
+  {
+   "segment": [
+    46.5,
+    47.5
+   ],
+   "verb": "scoop",
+   "noun": "rice",
+   "score": 0.204312
+  },
+  {
+   "segment": [
+    47.0,
+    49.0
+   ],
+   "verb": "put",
+   "noun": "rice",
+   "score": 0.365751
+  },
+  {
+   "segment": [
+    47.0,
+    48.0
+   ],
+   "verb": "put",
+   "noun": "rice",
+   "score": 0.335995
+  },
+  {
+   "segment": [
+    47.0,
+    49.0
+   ],
+   "verb": "mix",
+   "noun": "rice",
+   "score": 0.272255
+  },
+  {
+   "segment": [
+    47.0,
+    48.0
+   ],
+   "verb": "mix",
+   "noun": "rice",
+   "score": 0.243005
+  },
+  {
+   "segment": [
+    47.0,
+    49.0
+   ],
+   "verb": "scoop",
+   "noun": "rice",
+   "score": 0.241994
+  },
+  {
+   "segment": [
+    47.0,
+    48.0
+   ],
+   "verb": "scoop",
+   "noun": "rice",
+   "score": 0.215364
+  },
+  {
+   "segment": [
+    47.5,
+    48.5
+   ],
+   "verb": "put",
+   "noun": "rice",
+   "score": 0.359567
+  },
+  {
+   "segment": [
+    47.5,
+    48.5
+   ],
+   "verb": "mix",
+   "noun": "rice",
+   "score": 0.293244
+  },
+  {
+   "segment": [
+    47.5,
+    48.5
+   ],
+   "verb": "scoop",
+   "noun": "rice",
+   "score": 0.247739
+  },
+  {
+   "segment": [
+    48.0,
+    49.0
+   ],
+   "verb": "put",
+   "noun": "rice",
+   "score": 0.393146
+  },
+  {
+   "segment": [
+    48.0,
+    50.0
+   ],
+   "verb": "put",
+   "noun": "rice",
+   "score": 0.373379
+  },
+  {
+   "segment": [
+    48.0,
+    51.5
+   ],
+   "verb": "put",
+   "noun": "rice",
+   "score": 0.34957
+  },
+  {
+   "segment": [
+    48.0,
+    49.0
+   ],
+   "verb": "mix",
+   "noun": "rice",
+   "score": 0.300762
+  },
+  {
+   "segment": [
+    48.0,
+    50.0
+   ],
+   "verb": "scoop",
+   "noun": "rice",
+   "score": 0.269639
+  },
+  {
+   "segment": [
+    48.0,
+    49.0
+   ],
+   "verb": "scoop",
+   "noun": "rice",
+   "score": 0.26803
+  },
+  {
+   "segment": [
+    48.0,
+    50.0
+   ],
+   "verb": "mix",
+   "noun": "rice",
+   "score": 0.254311
+  },
+  {
+   "segment": [
+    48.0,
+    51.5
+   ],
+   "verb": "scoop",
+   "noun": "rice",
+   "score": 0.235552
+  },
+  {
+   "segment": [
+    48.0,
+    51.5
+   ],
+   "verb": "take",
+   "noun": "rice",
+   "score": 0.225696
+  },
+  {
+   "segment": [
+    48.5,
+    49.5
+   ],
+   "verb": "put",
+   "noun": "rice",
+   "score": 0.375052
+  },
+  {
+   "segment": [
+    48.5,
+    49.5
+   ],
+   "verb": "scoop",
+   "noun": "rice",
+   "score": 0.271559
+  },
+  {
+   "segment": [
+    48.5,
+    49.5
+   ],
+   "verb": "mix",
+   "noun": "rice",
+   "score": 0.245254
+  },
+  {
+   "segment": [
+    49.0,
+    50.0
+   ],
+   "verb": "put",
+   "noun": "rice",
+   "score": 0.352041
+  },
+  {
+   "segment": [
+    49.0,
+    51.0
+   ],
+   "verb": "put",
+   "noun": "rice",
+   "score": 0.332653
+  },
+  {
+   "segment": [
+    49.0,
+    50.0
+   ],
+   "verb": "scoop",
+   "noun": "rice",
+   "score": 0.267442
+  },
+  {
+   "segment": [
+    49.0,
+    51.0
+   ],
+   "verb": "scoop",
+   "noun": "rice",
+   "score": 0.231522
+  },
+  {
+   "segment": [
+    49.0,
+    50.0
+   ],
+   "verb": "take",
+   "noun": "rice",
+   "score": 0.229094
+  },
+  {
+   "segment": [
+    49.0,
+    51.0
+   ],
+   "verb": "take",
+   "noun": "rice",
+   "score": 0.216974
+  },
+  {
+   "segment": [
+    49.5,
+    53.0
+   ],
+   "verb": "put",
+   "noun": "rice",
+   "score": 0.33043
+  },
+  {
+   "segment": [
+    49.5,
+    50.5
+   ],
+   "verb": "put",
+   "noun": "rice",
+   "score": 0.328848
+  },
+  {
+   "segment": [
+    49.5,
+    50.5
+   ],
+   "verb": "scoop",
+   "noun": "rice",
+   "score": 0.237267
+  },
+  {
+   "segment": [
+    49.5,
+    53.0
+   ],
+   "verb": "take",
+   "noun": "rice",
+   "score": 0.236335
+  },
+  {
+   "segment": [
+    49.5,
+    50.5
+   ],
+   "verb": "take",
+   "noun": "rice",
+   "score": 0.215474
+  },
+  {
+   "segment": [
+    49.5,
+    53.0
+   ],
+   "verb": "scoop",
+   "noun": "rice",
+   "score": 0.207156
+  },
+  {
+   "segment": [
+    50.0,
+    52.0
+   ],
+   "verb": "put",
+   "noun": "rice",
+   "score": 0.321111
+  },
+  {
+   "segment": [
+    50.0,
+    51.0
+   ],
+   "verb": "put",
+   "noun": "rice",
+   "score": 0.311708
+  },
+  {
+   "segment": [
+    50.0,
+    52.0
+   ],
+   "verb": "take",
+   "noun": "rice",
+   "score": 0.225257
+  },
+  {
+   "segment": [
+    50.0,
+    51.0
+   ],
+   "verb": "take",
+   "noun": "rice",
+   "score": 0.20377
+  },
+  {
+   "segment": [
+    50.0,
+    51.0
+   ],
+   "verb": "scoop",
+   "noun": "rice",
+   "score": 0.195433
+  },
+  {
+   "segment": [
+    50.0,
+    52.0
+   ],
+   "verb": "scoop",
+   "noun": "rice",
+   "score": 0.191909
+  },
+  {
+   "segment": [
+    50.5,
+    51.5
+   ],
+   "verb": "put",
+   "noun": "rice",
+   "score": 0.318597
+  },
+  {
+   "segment": [
+    50.5,
+    51.5
+   ],
+   "verb": "take",
+   "noun": "rice",
+   "score": 0.218107
+  },
+  {
+   "segment": [
+    50.5,
+    51.5
+   ],
+   "verb": "remove",
+   "noun": "rice",
+   "score": 0.19532
+  },
+  {
+   "segment": [
+    51.0,
+    53.0
+   ],
+   "verb": "put",
+   "noun": "rice",
+   "score": 0.333287
+  },
+  {
+   "segment": [
+    51.0,
+    52.0
+   ],
+   "verb": "put",
+   "noun": "rice",
+   "score": 0.330504
+  },
+  {
+   "segment": [
+    51.0,
+    53.0
+   ],
+   "verb": "take",
+   "noun": "rice",
+   "score": 0.250807
+  },
+  {
+   "segment": [
+    51.0,
+    52.0
+   ],
+   "verb": "take",
+   "noun": "rice",
+   "score": 0.24597
+  },
+  {
+   "segment": [
+    51.0,
+    53.0
+   ],
+   "verb": "scoop",
+   "noun": "rice",
+   "score": 0.199379
+  },
+  {
+   "segment": [
+    51.0,
+    52.0
+   ],
+   "verb": "scoop",
+   "noun": "rice",
+   "score": 0.187805
+  },
+  {
+   "segment": [
+    51.5,
+    52.5
+   ],
+   "verb": "put",
+   "noun": "rice",
+   "score": 0.335863
+  },
+  {
+   "segment": [
+    51.5,
+    52.5
+   ],
+   "verb": "take",
+   "noun": "rice",
+   "score": 0.260233
+  },
+  {
+   "segment": [
+    51.5,
+    52.5
+   ],
+   "verb": "scoop",
+   "noun": "rice",
+   "score": 0.2005
+  },
+  {
+   "segment": [
+    52.0,
+    53.0
+   ],
+   "verb": "put",
+   "noun": "rice",
+   "score": 0.335941
+  },
+  {
+   "segment": [
+    52.0,
+    53.0
+   ],
+   "verb": "take",
+   "noun": "rice",
+   "score": 0.255415
+  },
+  {
+   "segment": [
+    52.0,
+    53.0
+   ],
+   "verb": "scoop",
+   "noun": "rice",
+   "score": 0.210052
+  }
+ ],
+ "highlights": [
+  {
+   "segment": [
+    10.5,
+    18.29
+   ]
+  }
+ ]
+}

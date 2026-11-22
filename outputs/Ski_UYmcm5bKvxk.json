@@ -1,0 +1,36 @@
+{
+ "team_id": "SRMIST_PRISM",
+ "video_id": "Ski_UYmcm5bKvxk",
+ "duration_sec": 158.46,
+ "label": {
+  "name": "ski",
+  "score": 0.9718
+ },
+ "actions": [],
+ "highlights": [
+  {
+   "segment": [
+    68.0,
+    77.1
+   ]
+  },
+  {
+   "segment": [
+    106.0,
+    110.1
+   ]
+  },
+  {
+   "segment": [
+    116.0,
+    120.1
+   ]
+  },
+  {
+   "segment": [
+    135.0,
+    139.1
+   ]
+  }
+ ]
+}

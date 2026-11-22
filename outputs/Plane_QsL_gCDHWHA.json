@@ -1,0 +1,42 @@
+{
+ "team_id": "SRMIST_PRISM",
+ "video_id": "Plane_QsL_gCDHWHA",
+ "duration_sec": 205.47,
+ "label": {
+  "name": "parkour",
+  "score": 0.7255
+ },
+ "actions": [],
+ "highlights": [
+  {
+   "segment": [
+    28.0,
+    42.1
+   ]
+  },
+  {
+   "segment": [
+    104.0,
+    108.1
+   ]
+  },
+  {
+   "segment": [
+    109.0,
+    113.1
+   ]
+  },
+  {
+   "segment": [
+    129.0,
+    133.1
+   ]
+  },
+  {
+   "segment": [
+    163.0,
+    167.1
+   ]
+  }
+ ]
+}

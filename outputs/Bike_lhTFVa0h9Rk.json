@@ -1,0 +1,54 @@
+{
+ "team_id": "SRMIST_PRISM",
+ "video_id": "Bike_lhTFVa0h9Rk",
+ "duration_sec": 287.44,
+ "label": {
+  "name": "bike",
+  "score": 0.7794
+ },
+ "actions": [],
+ "highlights": [
+  {
+   "segment": [
+    5.0,
+    21.0
+   ]
+  },
+  {
+   "segment": [
+    55.0,
+    59.1
+   ]
+  },
+  {
+   "segment": [
+    105.0,
+    109.1
+   ]
+  },
+  {
+   "segment": [
+    188.0,
+    192.1
+   ]
+  },
+  {
+   "segment": [
+    201.0,
+    205.1
+   ]
+  },
+  {
+   "segment": [
+    232.0,
+    236.1
+   ]
+  },
+  {
+   "segment": [
+    243.0,
+    247.1
+   ]
+  }
+ ]
+}

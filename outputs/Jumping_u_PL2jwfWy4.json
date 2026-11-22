@@ -1,0 +1,30 @@
+{
+ "team_id": "SRMIST_PRISM",
+ "video_id": "Jumping_u_PL2jwfWy4",
+ "duration_sec": 117.08,
+ "label": {
+  "name": "ski",
+  "score": 0.5423
+ },
+ "actions": [],
+ "highlights": [
+  {
+   "segment": [
+    22.0,
+    31.1
+   ]
+  },
+  {
+   "segment": [
+    35.0,
+    39.1
+   ]
+  },
+  {
+   "segment": [
+    48.0,
+    52.1
+   ]
+  }
+ ]
+}

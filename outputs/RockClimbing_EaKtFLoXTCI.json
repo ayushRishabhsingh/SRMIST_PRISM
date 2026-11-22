@@ -1,0 +1,78 @@
+{
+ "team_id": "SRMIST_PRISM",
+ "video_id": "RockClimbing_EaKtFLoXTCI",
+ "duration_sec": 373.94,
+ "label": {
+  "name": "rockclimbing",
+  "score": 0.8915
+ },
+ "actions": [],
+ "highlights": [
+  {
+   "segment": [
+    45.0,
+    49.1
+   ]
+  },
+  {
+   "segment": [
+    63.0,
+    67.1
+   ]
+  },
+  {
+   "segment": [
+    70.0,
+    74.1
+   ]
+  },
+  {
+   "segment": [
+    78.0,
+    82.1
+   ]
+  },
+  {
+   "segment": [
+    100.0,
+    104.1
+   ]
+  },
+  {
+   "segment": [
+    108.0,
+    112.1
+   ]
+  },
+  {
+   "segment": [
+    136.0,
+    140.1
+   ]
+  },
+  {
+   "segment": [
+    149.0,
+    163.1
+   ]
+  },
+  {
+   "segment": [
+    164.0,
+    168.1
+   ]
+  },
+  {
+   "segment": [
+    190.0,
+    194.1
+   ]
+  },
+  {
+   "segment": [
+    364.0,
+    368.1
+   ]
+  }
+ ]
+}

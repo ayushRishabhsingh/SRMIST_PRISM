@@ -1,0 +1,7018 @@
+{
+ "team_id": "SRMIST_PRISM",
+ "video_id": "P18_08",
+ "duration_sec": 66.52,
+ "label": {
+  "name": "cooking",
+  "score": 1.0
+ },
+ "actions": [
+  {
+   "segment": [
+    0.0,
+    1.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.215113
+  },
+  {
+   "segment": [
+    0.0,
+    2.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.191848
+  },
+  {
+   "segment": [
+    0.0,
+    1.0
+   ],
+   "verb": "look",
+   "noun": "kitchen",
+   "score": 0.188137
+  },
+  {
+   "segment": [
+    0.0,
+    2.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.171074
+  },
+  {
+   "segment": [
+    0.0,
+    2.0
+   ],
+   "verb": "look",
+   "noun": "kitchen",
+   "score": 0.169093
+  },
+  {
+   "segment": [
+    0.0,
+    3.5
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.165394
+  },
+  {
+   "segment": [
+    0.0,
+    1.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.161073
+  },
+  {
+   "segment": [
+    0.0,
+    3.5
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.150761
+  },
+  {
+   "segment": [
+    0.0,
+    3.5
+   ],
+   "verb": "look",
+   "noun": "kitchen",
+   "score": 0.148613
+  },
+  {
+   "segment": [
+    0.0,
+    6.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.140167
+  },
+  {
+   "segment": [
+    0.0,
+    6.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.124977
+  },
+  {
+   "segment": [
+    0.0,
+    6.0
+   ],
+   "verb": "put",
+   "noun": "lid",
+   "score": 0.124962
+  },
+  {
+   "segment": [
+    0.5,
+    1.5
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.196748
+  },
+  {
+   "segment": [
+    0.5,
+    1.5
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.17692
+  },
+  {
+   "segment": [
+    0.5,
+    1.5
+   ],
+   "verb": "look",
+   "noun": "kitchen",
+   "score": 0.172078
+  },
+  {
+   "segment": [
+    1.0,
+    2.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.180415
+  },
+  {
+   "segment": [
+    1.0,
+    2.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.16565
+  },
+  {
+   "segment": [
+    1.0,
+    2.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.154271
+  },
+  {
+   "segment": [
+    1.0,
+    3.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.153767
+  },
+  {
+   "segment": [
+    1.0,
+    3.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.139971
+  },
+  {
+   "segment": [
+    1.0,
+    3.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.134613
+  },
+  {
+   "segment": [
+    1.5,
+    2.5
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.158407
+  },
+  {
+   "segment": [
+    1.5,
+    2.5
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.139724
+  },
+  {
+   "segment": [
+    1.5,
+    5.0
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.138962
+  },
+  {
+   "segment": [
+    1.5,
+    5.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.133537
+  },
+  {
+   "segment": [
+    1.5,
+    2.5
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.130826
+  },
+  {
+   "segment": [
+    1.5,
+    5.0
+   ],
+   "verb": "put",
+   "noun": "lid",
+   "score": 0.123893
+  },
+  {
+   "segment": [
+    2.0,
+    4.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.144091
+  },
+  {
+   "segment": [
+    2.0,
+    4.0
+   ],
+   "verb": "take",
+   "noun": "pasta",
+   "score": 0.132214
+  },
+  {
+   "segment": [
+    2.0,
+    4.0
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.130233
+  },
+  {
+   "segment": [
+    2.0,
+    3.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.115153
+  },
+  {
+   "segment": [
+    2.0,
+    3.0
+   ],
+   "verb": "take",
+   "noun": "pasta",
+   "score": 0.112565
+  },
+  {
+   "segment": [
+    2.0,
+    3.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.11005
+  },
+  {
+   "segment": [
+    2.5,
+    3.5
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.152527
+  },
+  {
+   "segment": [
+    2.5,
+    3.5
+   ],
+   "verb": "take",
+   "noun": "pasta",
+   "score": 0.143444
+  },
+  {
+   "segment": [
+    2.5,
+    3.5
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.127049
+  },
+  {
+   "segment": [
+    3.0,
+    5.0
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.181751
+  },
+  {
+   "segment": [
+    3.0,
+    6.5
+   ],
+   "verb": "put",
+   "noun": "lid",
+   "score": 0.179452
+  },
+  {
+   "segment": [
+    3.0,
+    9.0
+   ],
+   "verb": "put",
+   "noun": "rack:drying",
+   "score": 0.17891
+  },
+  {
+   "segment": [
+    3.0,
+    4.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.17785
+  },
+  {
+   "segment": [
+    3.0,
+    5.0
+   ],
+   "verb": "put",
+   "noun": "lid",
+   "score": 0.171716
+  },
+  {
+   "segment": [
+    3.0,
+    4.0
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.169652
+  },
+  {
+   "segment": [
+    3.0,
+    5.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.163825
+  },
+  {
+   "segment": [
+    3.0,
+    4.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.156191
+  },
+  {
+   "segment": [
+    3.0,
+    9.0
+   ],
+   "verb": "filter",
+   "noun": "rack:drying",
+   "score": 0.152618
+  },
+  {
+   "segment": [
+    3.0,
+    9.0
+   ],
+   "verb": "put",
+   "noun": "lid",
+   "score": 0.146582
+  },
+  {
+   "segment": [
+    3.0,
+    6.5
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.14476
+  },
+  {
+   "segment": [
+    3.0,
+    6.5
+   ],
+   "verb": "take",
+   "noun": "lid",
+   "score": 0.133904
+  },
+  {
+   "segment": [
+    3.5,
+    4.5
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.197284
+  },
+  {
+   "segment": [
+    3.5,
+    4.5
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.178876
+  },
+  {
+   "segment": [
+    3.5,
+    4.5
+   ],
+   "verb": "move",
+   "noun": "pan",
+   "score": 0.174669
+  },
+  {
+   "segment": [
+    4.0,
+    6.0
+   ],
+   "verb": "put",
+   "noun": "lid",
+   "score": 0.214889
+  },
+  {
+   "segment": [
+    4.0,
+    5.0
+   ],
+   "verb": "put",
+   "noun": "lid",
+   "score": 0.21017
+  },
+  {
+   "segment": [
+    4.0,
+    5.0
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.193496
+  },
+  {
+   "segment": [
+    4.0,
+    5.0
+   ],
+   "verb": "move",
+   "noun": "pan",
+   "score": 0.173546
+  },
+  {
+   "segment": [
+    4.0,
+    6.0
+   ],
+   "verb": "take",
+   "noun": "lid",
+   "score": 0.161582
+  },
+  {
+   "segment": [
+    4.0,
+    6.0
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.147499
+  },
+  {
+   "segment": [
+    4.5,
+    5.5
+   ],
+   "verb": "put",
+   "noun": "lid",
+   "score": 0.236498
+  },
+  {
+   "segment": [
+    4.5,
+    5.5
+   ],
+   "verb": "take",
+   "noun": "lid",
+   "score": 0.178583
+  },
+  {
+   "segment": [
+    4.5,
+    8.0
+   ],
+   "verb": "put",
+   "noun": "rack:drying",
+   "score": 0.170077
+  },
+  {
+   "segment": [
+    4.5,
+    8.0
+   ],
+   "verb": "put",
+   "noun": "lid",
+   "score": 0.165668
+  },
+  {
+   "segment": [
+    4.5,
+    5.5
+   ],
+   "verb": "remove",
+   "noun": "lid",
+   "score": 0.147923
+  },
+  {
+   "segment": [
+    4.5,
+    8.0
+   ],
+   "verb": "filter",
+   "noun": "rack:drying",
+   "score": 0.146205
+  },
+  {
+   "segment": [
+    5.0,
+    6.0
+   ],
+   "verb": "put",
+   "noun": "lid",
+   "score": 0.216747
+  },
+  {
+   "segment": [
+    5.0,
+    6.0
+   ],
+   "verb": "take",
+   "noun": "lid",
+   "score": 0.169165
+  },
+  {
+   "segment": [
+    5.0,
+    7.0
+   ],
+   "verb": "put",
+   "noun": "lid",
+   "score": 0.168452
+  },
+  {
+   "segment": [
+    5.0,
+    7.0
+   ],
+   "verb": "put",
+   "noun": "rack:drying",
+   "score": 0.154693
+  },
+  {
+   "segment": [
+    5.0,
+    7.0
+   ],
+   "verb": "filter",
+   "noun": "rack:drying",
+   "score": 0.147274
+  },
+  {
+   "segment": [
+    5.0,
+    6.0
+   ],
+   "verb": "remove",
+   "noun": "lid",
+   "score": 0.140132
+  },
+  {
+   "segment": [
+    5.5,
+    6.5
+   ],
+   "verb": "put",
+   "noun": "lid",
+   "score": 0.16551
+  },
+  {
+   "segment": [
+    5.5,
+    6.5
+   ],
+   "verb": "put",
+   "noun": "rack:drying",
+   "score": 0.158526
+  },
+  {
+   "segment": [
+    5.5,
+    6.5
+   ],
+   "verb": "filter",
+   "noun": "rack:drying",
+   "score": 0.156774
+  },
+  {
+   "segment": [
+    6.0,
+    12.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.277926
+  },
+  {
+   "segment": [
+    6.0,
+    9.5
+   ],
+   "verb": "put",
+   "noun": "rack:drying",
+   "score": 0.236007
+  },
+  {
+   "segment": [
+    6.0,
+    12.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.211478
+  },
+  {
+   "segment": [
+    6.0,
+    8.0
+   ],
+   "verb": "put",
+   "noun": "rack:drying",
+   "score": 0.208942
+  },
+  {
+   "segment": [
+    6.0,
+    9.5
+   ],
+   "verb": "filter",
+   "noun": "rack:drying",
+   "score": 0.196987
+  },
+  {
+   "segment": [
+    6.0,
+    7.0
+   ],
+   "verb": "put",
+   "noun": "rack:drying",
+   "score": 0.188857
+  },
+  {
+   "segment": [
+    6.0,
+    12.0
+   ],
+   "verb": "put",
+   "noun": "rack:drying",
+   "score": 0.177795
+  },
+  {
+   "segment": [
+    6.0,
+    8.0
+   ],
+   "verb": "filter",
+   "noun": "rack:drying",
+   "score": 0.172844
+  },
+  {
+   "segment": [
+    6.0,
+    7.0
+   ],
+   "verb": "filter",
+   "noun": "rack:drying",
+   "score": 0.172732
+  },
+  {
+   "segment": [
+    6.0,
+    9.5
+   ],
+   "verb": "take",
+   "noun": "rack:drying",
+   "score": 0.163717
+  },
+  {
+   "segment": [
+    6.0,
+    7.0
+   ],
+   "verb": "dry",
+   "noun": "maker:coffee",
+   "score": 0.157562
+  },
+  {
+   "segment": [
+    6.0,
+    8.0
+   ],
+   "verb": "take",
+   "noun": "rack:drying",
+   "score": 0.145439
+  },
+  {
+   "segment": [
+    6.5,
+    7.5
+   ],
+   "verb": "put",
+   "noun": "rack:drying",
+   "score": 0.204397
+  },
+  {
+   "segment": [
+    6.5,
+    7.5
+   ],
+   "verb": "filter",
+   "noun": "rack:drying",
+   "score": 0.164278
+  },
+  {
+   "segment": [
+    6.5,
+    7.5
+   ],
+   "verb": "put",
+   "noun": "maker:coffee",
+   "score": 0.153974
+  },
+  {
+   "segment": [
+    7.0,
+    9.0
+   ],
+   "verb": "put",
+   "noun": "rack:drying",
+   "score": 0.260798
+  },
+  {
+   "segment": [
+    7.0,
+    8.0
+   ],
+   "verb": "put",
+   "noun": "rack:drying",
+   "score": 0.227739
+  },
+  {
+   "segment": [
+    7.0,
+    9.0
+   ],
+   "verb": "filter",
+   "noun": "rack:drying",
+   "score": 0.212303
+  },
+  {
+   "segment": [
+    7.0,
+    9.0
+   ],
+   "verb": "take",
+   "noun": "rack:drying",
+   "score": 0.189183
+  },
+  {
+   "segment": [
+    7.0,
+    8.0
+   ],
+   "verb": "filter",
+   "noun": "rack:drying",
+   "score": 0.172922
+  },
+  {
+   "segment": [
+    7.0,
+    8.0
+   ],
+   "verb": "take",
+   "noun": "rack:drying",
+   "score": 0.168539
+  },
+  {
+   "segment": [
+    7.5,
+    8.5
+   ],
+   "verb": "put",
+   "noun": "rack:drying",
+   "score": 0.281743
+  },
+  {
+   "segment": [
+    7.5,
+    11.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.256721
+  },
+  {
+   "segment": [
+    7.5,
+    8.5
+   ],
+   "verb": "filter",
+   "noun": "rack:drying",
+   "score": 0.228949
+  },
+  {
+   "segment": [
+    7.5,
+    8.5
+   ],
+   "verb": "take",
+   "noun": "rack:drying",
+   "score": 0.209552
+  },
+  {
+   "segment": [
+    7.5,
+    11.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.20306
+  },
+  {
+   "segment": [
+    7.5,
+    11.0
+   ],
+   "verb": "put",
+   "noun": "rack:drying",
+   "score": 0.196986
+  },
+  {
+   "segment": [
+    8.0,
+    9.0
+   ],
+   "verb": "put",
+   "noun": "rack:drying",
+   "score": 0.289181
+  },
+  {
+   "segment": [
+    8.0,
+    9.0
+   ],
+   "verb": "filter",
+   "noun": "rack:drying",
+   "score": 0.24443
+  },
+  {
+   "segment": [
+    8.0,
+    10.0
+   ],
+   "verb": "put",
+   "noun": "rack:drying",
+   "score": 0.227722
+  },
+  {
+   "segment": [
+    8.0,
+    9.0
+   ],
+   "verb": "take",
+   "noun": "rack:drying",
+   "score": 0.207185
+  },
+  {
+   "segment": [
+    8.0,
+    10.0
+   ],
+   "verb": "filter",
+   "noun": "rack:drying",
+   "score": 0.188772
+  },
+  {
+   "segment": [
+    8.0,
+    10.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.164719
+  },
+  {
+   "segment": [
+    8.5,
+    9.5
+   ],
+   "verb": "put",
+   "noun": "rack:drying",
+   "score": 0.243033
+  },
+  {
+   "segment": [
+    8.5,
+    9.5
+   ],
+   "verb": "filter",
+   "noun": "rack:drying",
+   "score": 0.205681
+  },
+  {
+   "segment": [
+    8.5,
+    9.5
+   ],
+   "verb": "move",
+   "noun": "rack:drying",
+   "score": 0.171633
+  },
+  {
+   "segment": [
+    9.0,
+    12.5
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.362718
+  },
+  {
+   "segment": [
+    9.0,
+    15.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.336834
+  },
+  {
+   "segment": [
+    9.0,
+    11.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.3155
+  },
+  {
+   "segment": [
+    9.0,
+    12.5
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.270669
+  },
+  {
+   "segment": [
+    9.0,
+    15.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.249098
+  },
+  {
+   "segment": [
+    9.0,
+    11.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.246799
+  },
+  {
+   "segment": [
+    9.0,
+    10.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.198219
+  },
+  {
+   "segment": [
+    9.0,
+    12.5
+   ],
+   "verb": "put",
+   "noun": "cupboard",
+   "score": 0.17765
+  },
+  {
+   "segment": [
+    9.0,
+    15.0
+   ],
+   "verb": "put",
+   "noun": "cupboard",
+   "score": 0.169246
+  },
+  {
+   "segment": [
+    9.0,
+    10.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.165002
+  },
+  {
+   "segment": [
+    9.0,
+    11.0
+   ],
+   "verb": "put",
+   "noun": "cupboard",
+   "score": 0.162708
+  },
+  {
+   "segment": [
+    9.0,
+    10.0
+   ],
+   "verb": "put",
+   "noun": "rack:drying",
+   "score": 0.159572
+  },
+  {
+   "segment": [
+    9.5,
+    10.5
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.281346
+  },
+  {
+   "segment": [
+    9.5,
+    10.5
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.218677
+  },
+  {
+   "segment": [
+    9.5,
+    10.5
+   ],
+   "verb": "put",
+   "noun": "cupboard",
+   "score": 0.145081
+  },
+  {
+   "segment": [
+    10.0,
+    12.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.429182
+  },
+  {
+   "segment": [
+    10.0,
+    11.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.403358
+  },
+  {
+   "segment": [
+    10.0,
+    12.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.320366
+  },
+  {
+   "segment": [
+    10.0,
+    11.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.310183
+  },
+  {
+   "segment": [
+    10.0,
+    12.0
+   ],
+   "verb": "put",
+   "noun": "cupboard",
+   "score": 0.214008
+  },
+  {
+   "segment": [
+    10.0,
+    11.0
+   ],
+   "verb": "put",
+   "noun": "cupboard",
+   "score": 0.210835
+  },
+  {
+   "segment": [
+    10.5,
+    11.5
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.49212
+  },
+  {
+   "segment": [
+    10.5,
+    11.5
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.370475
+  },
+  {
+   "segment": [
+    10.5,
+    14.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.351886
+  },
+  {
+   "segment": [
+    10.5,
+    14.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.256711
+  },
+  {
+   "segment": [
+    10.5,
+    11.5
+   ],
+   "verb": "put",
+   "noun": "cupboard",
+   "score": 0.246895
+  },
+  {
+   "segment": [
+    10.5,
+    14.0
+   ],
+   "verb": "put",
+   "noun": "maker:coffee",
+   "score": 0.171163
+  },
+  {
+   "segment": [
+    11.0,
+    12.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.453316
+  },
+  {
+   "segment": [
+    11.0,
+    13.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.370458
+  },
+  {
+   "segment": [
+    11.0,
+    12.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.330141
+  },
+  {
+   "segment": [
+    11.0,
+    13.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.265143
+  },
+  {
+   "segment": [
+    11.0,
+    12.0
+   ],
+   "verb": "put",
+   "noun": "cupboard",
+   "score": 0.217102
+  },
+  {
+   "segment": [
+    11.0,
+    13.0
+   ],
+   "verb": "put",
+   "noun": "cupboard",
+   "score": 0.173272
+  },
+  {
+   "segment": [
+    11.5,
+    12.5
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.372279
+  },
+  {
+   "segment": [
+    11.5,
+    12.5
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.257786
+  },
+  {
+   "segment": [
+    11.5,
+    12.5
+   ],
+   "verb": "put",
+   "noun": "cupboard",
+   "score": 0.16726
+  },
+  {
+   "segment": [
+    12.0,
+    15.5
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.334436
+  },
+  {
+   "segment": [
+    12.0,
+    18.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.307214
+  },
+  {
+   "segment": [
+    12.0,
+    15.5
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.239421
+  },
+  {
+   "segment": [
+    12.0,
+    13.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.229982
+  },
+  {
+   "segment": [
+    12.0,
+    14.0
+   ],
+   "verb": "put",
+   "noun": "maker:coffee",
+   "score": 0.224949
+  },
+  {
+   "segment": [
+    12.0,
+    13.0
+   ],
+   "verb": "put",
+   "noun": "maker:coffee",
+   "score": 0.223824
+  },
+  {
+   "segment": [
+    12.0,
+    18.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.216536
+  },
+  {
+   "segment": [
+    12.0,
+    18.0
+   ],
+   "verb": "put",
+   "noun": "maker:coffee",
+   "score": 0.212632
+  },
+  {
+   "segment": [
+    12.0,
+    14.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.206027
+  },
+  {
+   "segment": [
+    12.0,
+    13.0
+   ],
+   "verb": "open",
+   "noun": "maker:coffee",
+   "score": 0.181856
+  },
+  {
+   "segment": [
+    12.0,
+    14.0
+   ],
+   "verb": "open",
+   "noun": "maker:coffee",
+   "score": 0.181331
+  },
+  {
+   "segment": [
+    12.0,
+    15.5
+   ],
+   "verb": "put",
+   "noun": "cupboard",
+   "score": 0.179381
+  },
+  {
+   "segment": [
+    12.5,
+    13.5
+   ],
+   "verb": "put",
+   "noun": "maker:coffee",
+   "score": 0.25065
+  },
+  {
+   "segment": [
+    12.5,
+    13.5
+   ],
+   "verb": "open",
+   "noun": "maker:coffee",
+   "score": 0.202824
+  },
+  {
+   "segment": [
+    12.5,
+    13.5
+   ],
+   "verb": "move",
+   "noun": "maker:coffee",
+   "score": 0.188717
+  },
+  {
+   "segment": [
+    13.0,
+    15.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.321517
+  },
+  {
+   "segment": [
+    13.0,
+    15.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.232291
+  },
+  {
+   "segment": [
+    13.0,
+    14.0
+   ],
+   "verb": "put",
+   "noun": "maker:coffee",
+   "score": 0.225909
+  },
+  {
+   "segment": [
+    13.0,
+    14.0
+   ],
+   "verb": "open",
+   "noun": "maker:coffee",
+   "score": 0.180582
+  },
+  {
+   "segment": [
+    13.0,
+    14.0
+   ],
+   "verb": "move",
+   "noun": "maker:coffee",
+   "score": 0.176736
+  },
+  {
+   "segment": [
+    13.0,
+    15.0
+   ],
+   "verb": "put",
+   "noun": "cupboard",
+   "score": 0.171338
+  },
+  {
+   "segment": [
+    13.5,
+    17.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.382215
+  },
+  {
+   "segment": [
+    13.5,
+    14.5
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.308686
+  },
+  {
+   "segment": [
+    13.5,
+    17.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.271233
+  },
+  {
+   "segment": [
+    13.5,
+    14.5
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.216883
+  },
+  {
+   "segment": [
+    13.5,
+    17.0
+   ],
+   "verb": "put",
+   "noun": "cupboard",
+   "score": 0.215849
+  },
+  {
+   "segment": [
+    13.5,
+    14.5
+   ],
+   "verb": "put",
+   "noun": "maker:coffee",
+   "score": 0.153604
+  },
+  {
+   "segment": [
+    14.0,
+    16.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.438052
+  },
+  {
+   "segment": [
+    14.0,
+    15.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.397794
+  },
+  {
+   "segment": [
+    14.0,
+    16.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.317134
+  },
+  {
+   "segment": [
+    14.0,
+    15.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.288491
+  },
+  {
+   "segment": [
+    14.0,
+    16.0
+   ],
+   "verb": "put",
+   "noun": "cupboard",
+   "score": 0.250739
+  },
+  {
+   "segment": [
+    14.0,
+    15.0
+   ],
+   "verb": "put",
+   "noun": "cupboard",
+   "score": 0.216312
+  },
+  {
+   "segment": [
+    14.5,
+    15.5
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.485347
+  },
+  {
+   "segment": [
+    14.5,
+    15.5
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.356455
+  },
+  {
+   "segment": [
+    14.5,
+    15.5
+   ],
+   "verb": "put",
+   "noun": "cupboard",
+   "score": 0.280548
+  },
+  {
+   "segment": [
+    15.0,
+    16.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.478156
+  },
+  {
+   "segment": [
+    15.0,
+    17.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.397461
+  },
+  {
+   "segment": [
+    15.0,
+    16.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.345684
+  },
+  {
+   "segment": [
+    15.0,
+    18.5
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.291998
+  },
+  {
+   "segment": [
+    15.0,
+    16.0
+   ],
+   "verb": "put",
+   "noun": "cupboard",
+   "score": 0.284184
+  },
+  {
+   "segment": [
+    15.0,
+    17.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.278567
+  },
+  {
+   "segment": [
+    15.0,
+    18.5
+   ],
+   "verb": "put",
+   "noun": "maker:coffee",
+   "score": 0.247149
+  },
+  {
+   "segment": [
+    15.0,
+    21.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.239175
+  },
+  {
+   "segment": [
+    15.0,
+    17.0
+   ],
+   "verb": "put",
+   "noun": "cupboard",
+   "score": 0.232582
+  },
+  {
+   "segment": [
+    15.0,
+    21.0
+   ],
+   "verb": "put",
+   "noun": "maker:coffee",
+   "score": 0.214233
+  },
+  {
+   "segment": [
+    15.0,
+    18.5
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.204654
+  },
+  {
+   "segment": [
+    15.0,
+    21.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.167632
+  },
+  {
+   "segment": [
+    15.5,
+    16.5
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.395503
+  },
+  {
+   "segment": [
+    15.5,
+    16.5
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.273786
+  },
+  {
+   "segment": [
+    15.5,
+    16.5
+   ],
+   "verb": "put",
+   "noun": "cupboard",
+   "score": 0.232046
+  },
+  {
+   "segment": [
+    16.0,
+    17.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.294875
+  },
+  {
+   "segment": [
+    16.0,
+    18.0
+   ],
+   "verb": "put",
+   "noun": "maker:coffee",
+   "score": 0.286239
+  },
+  {
+   "segment": [
+    16.0,
+    18.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.20261
+  },
+  {
+   "segment": [
+    16.0,
+    17.0
+   ],
+   "verb": "put",
+   "noun": "maker:coffee",
+   "score": 0.196136
+  },
+  {
+   "segment": [
+    16.0,
+    18.0
+   ],
+   "verb": "open",
+   "noun": "maker:coffee",
+   "score": 0.192303
+  },
+  {
+   "segment": [
+    16.0,
+    17.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.188377
+  },
+  {
+   "segment": [
+    16.5,
+    17.5
+   ],
+   "verb": "put",
+   "noun": "maker:coffee",
+   "score": 0.29686
+  },
+  {
+   "segment": [
+    16.5,
+    20.0
+   ],
+   "verb": "put",
+   "noun": "maker:coffee",
+   "score": 0.273777
+  },
+  {
+   "segment": [
+    16.5,
+    17.5
+   ],
+   "verb": "open",
+   "noun": "maker:coffee",
+   "score": 0.208125
+  },
+  {
+   "segment": [
+    16.5,
+    20.0
+   ],
+   "verb": "open",
+   "noun": "maker:coffee",
+   "score": 0.173235
+  },
+  {
+   "segment": [
+    16.5,
+    17.5
+   ],
+   "verb": "insert",
+   "noun": "maker:coffee",
+   "score": 0.171119
+  },
+  {
+   "segment": [
+    16.5,
+    20.0
+   ],
+   "verb": "take",
+   "noun": "maker:coffee",
+   "score": 0.168794
+  },
+  {
+   "segment": [
+    17.0,
+    18.0
+   ],
+   "verb": "put",
+   "noun": "maker:coffee",
+   "score": 0.346347
+  },
+  {
+   "segment": [
+    17.0,
+    19.0
+   ],
+   "verb": "put",
+   "noun": "maker:coffee",
+   "score": 0.318483
+  },
+  {
+   "segment": [
+    17.0,
+    18.0
+   ],
+   "verb": "open",
+   "noun": "maker:coffee",
+   "score": 0.223939
+  },
+  {
+   "segment": [
+    17.0,
+    18.0
+   ],
+   "verb": "take",
+   "noun": "maker:coffee",
+   "score": 0.206602
+  },
+  {
+   "segment": [
+    17.0,
+    19.0
+   ],
+   "verb": "take",
+   "noun": "maker:coffee",
+   "score": 0.199403
+  },
+  {
+   "segment": [
+    17.0,
+    19.0
+   ],
+   "verb": "open",
+   "noun": "maker:coffee",
+   "score": 0.196409
+  },
+  {
+   "segment": [
+    17.5,
+    18.5
+   ],
+   "verb": "put",
+   "noun": "maker:coffee",
+   "score": 0.335293
+  },
+  {
+   "segment": [
+    17.5,
+    18.5
+   ],
+   "verb": "take",
+   "noun": "maker:coffee",
+   "score": 0.212153
+  },
+  {
+   "segment": [
+    17.5,
+    18.5
+   ],
+   "verb": "open",
+   "noun": "maker:coffee",
+   "score": 0.201773
+  },
+  {
+   "segment": [
+    18.0,
+    19.0
+   ],
+   "verb": "put",
+   "noun": "maker:coffee",
+   "score": 0.282627
+  },
+  {
+   "segment": [
+    18.0,
+    20.0
+   ],
+   "verb": "put",
+   "noun": "maker:coffee",
+   "score": 0.213923
+  },
+  {
+   "segment": [
+    18.0,
+    20.0
+   ],
+   "verb": "sprinkle",
+   "noun": "salt",
+   "score": 0.213715
+  },
+  {
+   "segment": [
+    18.0,
+    19.0
+   ],
+   "verb": "sprinkle",
+   "noun": "salt",
+   "score": 0.213221
+  },
+  {
+   "segment": [
+    18.0,
+    21.5
+   ],
+   "verb": "pour",
+   "noun": "pasta",
+   "score": 0.203718
+  },
+  {
+   "segment": [
+    18.0,
+    21.5
+   ],
+   "verb": "sprinkle",
+   "noun": "salt",
+   "score": 0.195108
+  },
+  {
+   "segment": [
+    18.0,
+    19.0
+   ],
+   "verb": "take",
+   "noun": "maker:coffee",
+   "score": 0.190233
+  },
+  {
+   "segment": [
+    18.0,
+    20.0
+   ],
+   "verb": "pour",
+   "noun": "pasta",
+   "score": 0.188974
+  },
+  {
+   "segment": [
+    18.0,
+    21.5
+   ],
+   "verb": "put",
+   "noun": "maker:coffee",
+   "score": 0.168635
+  },
+  {
+   "segment": [
+    18.0,
+    24.0
+   ],
+   "verb": "pour",
+   "noun": "pasta",
+   "score": 0.160921
+  },
+  {
+   "segment": [
+    18.0,
+    24.0
+   ],
+   "verb": "put",
+   "noun": "maker:coffee",
+   "score": 0.15524
+  },
+  {
+   "segment": [
+    18.0,
+    24.0
+   ],
+   "verb": "take",
+   "noun": "pasta",
+   "score": 0.149119
+  },
+  {
+   "segment": [
+    18.5,
+    19.5
+   ],
+   "verb": "sprinkle",
+   "noun": "salt",
+   "score": 0.247415
+  },
+  {
+   "segment": [
+    18.5,
+    19.5
+   ],
+   "verb": "pour",
+   "noun": "pasta",
+   "score": 0.207187
+  },
+  {
+   "segment": [
+    18.5,
+    19.5
+   ],
+   "verb": "pour",
+   "noun": "salt",
+   "score": 0.184705
+  },
+  {
+   "segment": [
+    19.0,
+    20.0
+   ],
+   "verb": "pour",
+   "noun": "pasta",
+   "score": 0.247972
+  },
+  {
+   "segment": [
+    19.0,
+    21.0
+   ],
+   "verb": "pour",
+   "noun": "pasta",
+   "score": 0.240403
+  },
+  {
+   "segment": [
+    19.0,
+    20.0
+   ],
+   "verb": "sprinkle",
+   "noun": "salt",
+   "score": 0.210472
+  },
+  {
+   "segment": [
+    19.0,
+    21.0
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.199674
+  },
+  {
+   "segment": [
+    19.0,
+    21.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.193744
+  },
+  {
+   "segment": [
+    19.0,
+    20.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.172935
+  },
+  {
+   "segment": [
+    19.5,
+    20.5
+   ],
+   "verb": "pour",
+   "noun": "pasta",
+   "score": 0.243864
+  },
+  {
+   "segment": [
+    19.5,
+    20.5
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.211854
+  },
+  {
+   "segment": [
+    19.5,
+    20.5
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.210716
+  },
+  {
+   "segment": [
+    19.5,
+    23.0
+   ],
+   "verb": "pour",
+   "noun": "pasta",
+   "score": 0.177849
+  },
+  {
+   "segment": [
+    19.5,
+    23.0
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.155277
+  },
+  {
+   "segment": [
+    19.5,
+    23.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.140689
+  },
+  {
+   "segment": [
+    20.0,
+    21.0
+   ],
+   "verb": "pour",
+   "noun": "pasta",
+   "score": 0.232174
+  },
+  {
+   "segment": [
+    20.0,
+    21.0
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.228954
+  },
+  {
+   "segment": [
+    20.0,
+    21.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.213171
+  },
+  {
+   "segment": [
+    20.0,
+    22.0
+   ],
+   "verb": "pour",
+   "noun": "pasta",
+   "score": 0.204057
+  },
+  {
+   "segment": [
+    20.0,
+    22.0
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.189133
+  },
+  {
+   "segment": [
+    20.0,
+    22.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.167151
+  },
+  {
+   "segment": [
+    20.5,
+    21.5
+   ],
+   "verb": "pour",
+   "noun": "pasta",
+   "score": 0.225872
+  },
+  {
+   "segment": [
+    20.5,
+    21.5
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.208433
+  },
+  {
+   "segment": [
+    20.5,
+    21.5
+   ],
+   "verb": "sprinkle",
+   "noun": "salt",
+   "score": 0.182407
+  },
+  {
+   "segment": [
+    21.0,
+    27.0
+   ],
+   "verb": "take",
+   "noun": "pasta",
+   "score": 0.224999
+  },
+  {
+   "segment": [
+    21.0,
+    27.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.195025
+  },
+  {
+   "segment": [
+    21.0,
+    24.5
+   ],
+   "verb": "take",
+   "noun": "pasta",
+   "score": 0.193911
+  },
+  {
+   "segment": [
+    21.0,
+    22.0
+   ],
+   "verb": "pour",
+   "noun": "pasta",
+   "score": 0.175553
+  },
+  {
+   "segment": [
+    21.0,
+    27.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.174528
+  },
+  {
+   "segment": [
+    21.0,
+    24.5
+   ],
+   "verb": "eat",
+   "noun": "pasta",
+   "score": 0.16407
+  },
+  {
+   "segment": [
+    21.0,
+    23.0
+   ],
+   "verb": "put",
+   "noun": "maker:coffee",
+   "score": 0.159984
+  },
+  {
+   "segment": [
+    21.0,
+    22.0
+   ],
+   "verb": "sprinkle",
+   "noun": "salt",
+   "score": 0.156712
+  },
+  {
+   "segment": [
+    21.0,
+    22.0
+   ],
+   "verb": "pour",
+   "noun": "salt",
+   "score": 0.148413
+  },
+  {
+   "segment": [
+    21.0,
+    24.5
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.138649
+  },
+  {
+   "segment": [
+    21.0,
+    23.0
+   ],
+   "verb": "pour",
+   "noun": "pasta",
+   "score": 0.124039
+  },
+  {
+   "segment": [
+    21.0,
+    23.0
+   ],
+   "verb": "take",
+   "noun": "maker:coffee",
+   "score": 0.122633
+  },
+  {
+   "segment": [
+    21.5,
+    22.5
+   ],
+   "verb": "put",
+   "noun": "maker:coffee",
+   "score": 0.178732
+  },
+  {
+   "segment": [
+    21.5,
+    22.5
+   ],
+   "verb": "take",
+   "noun": "maker:coffee",
+   "score": 0.136912
+  },
+  {
+   "segment": [
+    21.5,
+    22.5
+   ],
+   "verb": "move",
+   "noun": "maker:coffee",
+   "score": 0.12787
+  },
+  {
+   "segment": [
+    22.0,
+    24.0
+   ],
+   "verb": "take",
+   "noun": "pasta",
+   "score": 0.192363
+  },
+  {
+   "segment": [
+    22.0,
+    23.0
+   ],
+   "verb": "put",
+   "noun": "maker:coffee",
+   "score": 0.163461
+  },
+  {
+   "segment": [
+    22.0,
+    24.0
+   ],
+   "verb": "eat",
+   "noun": "pasta",
+   "score": 0.158572
+  },
+  {
+   "segment": [
+    22.0,
+    24.0
+   ],
+   "verb": "throw",
+   "noun": "pasta",
+   "score": 0.151966
+  },
+  {
+   "segment": [
+    22.0,
+    23.0
+   ],
+   "verb": "take",
+   "noun": "maker:coffee",
+   "score": 0.126308
+  },
+  {
+   "segment": [
+    22.0,
+    23.0
+   ],
+   "verb": "move",
+   "noun": "maker:coffee",
+   "score": 0.115762
+  },
+  {
+   "segment": [
+    22.5,
+    26.0
+   ],
+   "verb": "take",
+   "noun": "pasta",
+   "score": 0.250827
+  },
+  {
+   "segment": [
+    22.5,
+    26.0
+   ],
+   "verb": "eat",
+   "noun": "pasta",
+   "score": 0.200392
+  },
+  {
+   "segment": [
+    22.5,
+    26.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.194129
+  },
+  {
+   "segment": [
+    22.5,
+    23.5
+   ],
+   "verb": "take",
+   "noun": "pasta",
+   "score": 0.187647
+  },
+  {
+   "segment": [
+    22.5,
+    23.5
+   ],
+   "verb": "throw",
+   "noun": "pasta",
+   "score": 0.16333
+  },
+  {
+   "segment": [
+    22.5,
+    23.5
+   ],
+   "verb": "eat",
+   "noun": "pasta",
+   "score": 0.122138
+  },
+  {
+   "segment": [
+    23.0,
+    25.0
+   ],
+   "verb": "take",
+   "noun": "pasta",
+   "score": 0.276624
+  },
+  {
+   "segment": [
+    23.0,
+    24.0
+   ],
+   "verb": "take",
+   "noun": "pasta",
+   "score": 0.260838
+  },
+  {
+   "segment": [
+    23.0,
+    25.0
+   ],
+   "verb": "eat",
+   "noun": "pasta",
+   "score": 0.247968
+  },
+  {
+   "segment": [
+    23.0,
+    24.0
+   ],
+   "verb": "eat",
+   "noun": "pasta",
+   "score": 0.223347
+  },
+  {
+   "segment": [
+    23.0,
+    25.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.197467
+  },
+  {
+   "segment": [
+    23.0,
+    24.0
+   ],
+   "verb": "throw",
+   "noun": "pasta",
+   "score": 0.191543
+  },
+  {
+   "segment": [
+    23.5,
+    24.5
+   ],
+   "verb": "take",
+   "noun": "pasta",
+   "score": 0.299799
+  },
+  {
+   "segment": [
+    23.5,
+    24.5
+   ],
+   "verb": "eat",
+   "noun": "pasta",
+   "score": 0.285276
+  },
+  {
+   "segment": [
+    23.5,
+    24.5
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.20753
+  },
+  {
+   "segment": [
+    24.0,
+    25.0
+   ],
+   "verb": "take",
+   "noun": "pasta",
+   "score": 0.292401
+  },
+  {
+   "segment": [
+    24.0,
+    30.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.283961
+  },
+  {
+   "segment": [
+    24.0,
+    27.5
+   ],
+   "verb": "take",
+   "noun": "pasta",
+   "score": 0.274232
+  },
+  {
+   "segment": [
+    24.0,
+    26.0
+   ],
+   "verb": "take",
+   "noun": "pasta",
+   "score": 0.272101
+  },
+  {
+   "segment": [
+    24.0,
+    25.0
+   ],
+   "verb": "eat",
+   "noun": "pasta",
+   "score": 0.272046
+  },
+  {
+   "segment": [
+    24.0,
+    30.0
+   ],
+   "verb": "take",
+   "noun": "pasta",
+   "score": 0.268469
+  },
+  {
+   "segment": [
+    24.0,
+    30.0
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.267856
+  },
+  {
+   "segment": [
+    24.0,
+    27.5
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.265222
+  },
+  {
+   "segment": [
+    24.0,
+    27.5
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.242238
+  },
+  {
+   "segment": [
+    24.0,
+    26.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.229221
+  },
+  {
+   "segment": [
+    24.0,
+    25.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.226999
+  },
+  {
+   "segment": [
+    24.0,
+    26.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.226852
+  },
+  {
+   "segment": [
+    24.5,
+    25.5
+   ],
+   "verb": "take",
+   "noun": "pasta",
+   "score": 0.25586
+  },
+  {
+   "segment": [
+    24.5,
+    25.5
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.227108
+  },
+  {
+   "segment": [
+    24.5,
+    25.5
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.219179
+  },
+  {
+   "segment": [
+    25.0,
+    27.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.268117
+  },
+  {
+   "segment": [
+    25.0,
+    27.0
+   ],
+   "verb": "take",
+   "noun": "pasta",
+   "score": 0.263303
+  },
+  {
+   "segment": [
+    25.0,
+    26.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.255142
+  },
+  {
+   "segment": [
+    25.0,
+    27.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.254787
+  },
+  {
+   "segment": [
+    25.0,
+    26.0
+   ],
+   "verb": "take",
+   "noun": "pasta",
+   "score": 0.250734
+  },
+  {
+   "segment": [
+    25.0,
+    26.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.231317
+  },
+  {
+   "segment": [
+    25.5,
+    29.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.30349
+  },
+  {
+   "segment": [
+    25.5,
+    29.0
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.29634
+  },
+  {
+   "segment": [
+    25.5,
+    26.5
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.273233
+  },
+  {
+   "segment": [
+    25.5,
+    26.5
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.266995
+  },
+  {
+   "segment": [
+    25.5,
+    26.5
+   ],
+   "verb": "take",
+   "noun": "pasta",
+   "score": 0.266014
+  },
+  {
+   "segment": [
+    25.5,
+    29.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.263559
+  },
+  {
+   "segment": [
+    26.0,
+    28.0
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.312813
+  },
+  {
+   "segment": [
+    26.0,
+    28.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.312598
+  },
+  {
+   "segment": [
+    26.0,
+    27.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.304511
+  },
+  {
+   "segment": [
+    26.0,
+    27.0
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.294065
+  },
+  {
+   "segment": [
+    26.0,
+    27.0
+   ],
+   "verb": "take",
+   "noun": "pasta",
+   "score": 0.275171
+  },
+  {
+   "segment": [
+    26.0,
+    28.0
+   ],
+   "verb": "take",
+   "noun": "pasta",
+   "score": 0.268861
+  },
+  {
+   "segment": [
+    26.5,
+    27.5
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.323874
+  },
+  {
+   "segment": [
+    26.5,
+    27.5
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.319588
+  },
+  {
+   "segment": [
+    26.5,
+    27.5
+   ],
+   "verb": "take",
+   "noun": "pasta",
+   "score": 0.27569
+  },
+  {
+   "segment": [
+    27.0,
+    28.0
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.331435
+  },
+  {
+   "segment": [
+    27.0,
+    30.5
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.321798
+  },
+  {
+   "segment": [
+    27.0,
+    28.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.320624
+  },
+  {
+   "segment": [
+    27.0,
+    29.0
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.317717
+  },
+  {
+   "segment": [
+    27.0,
+    29.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.316367
+  },
+  {
+   "segment": [
+    27.0,
+    33.0
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.31185
+  },
+  {
+   "segment": [
+    27.0,
+    30.5
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.311691
+  },
+  {
+   "segment": [
+    27.0,
+    33.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.308813
+  },
+  {
+   "segment": [
+    27.0,
+    28.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.284871
+  },
+  {
+   "segment": [
+    27.0,
+    29.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.268426
+  },
+  {
+   "segment": [
+    27.0,
+    33.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.261668
+  },
+  {
+   "segment": [
+    27.0,
+    30.5
+   ],
+   "verb": "take",
+   "noun": "pasta",
+   "score": 0.25974
+  },
+  {
+   "segment": [
+    27.5,
+    28.5
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.31506
+  },
+  {
+   "segment": [
+    27.5,
+    28.5
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.310634
+  },
+  {
+   "segment": [
+    27.5,
+    28.5
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.275889
+  },
+  {
+   "segment": [
+    28.0,
+    30.0
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.313354
+  },
+  {
+   "segment": [
+    28.0,
+    29.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.312081
+  },
+  {
+   "segment": [
+    28.0,
+    30.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.309537
+  },
+  {
+   "segment": [
+    28.0,
+    29.0
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.303867
+  },
+  {
+   "segment": [
+    28.0,
+    30.0
+   ],
+   "verb": "take",
+   "noun": "pasta",
+   "score": 0.258149
+  },
+  {
+   "segment": [
+    28.0,
+    29.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.251574
+  },
+  {
+   "segment": [
+    28.5,
+    29.5
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.314397
+  },
+  {
+   "segment": [
+    28.5,
+    32.0
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.311431
+  },
+  {
+   "segment": [
+    28.5,
+    32.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.310376
+  },
+  {
+   "segment": [
+    28.5,
+    29.5
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.309632
+  },
+  {
+   "segment": [
+    28.5,
+    29.5
+   ],
+   "verb": "take",
+   "noun": "pasta",
+   "score": 0.263048
+  },
+  {
+   "segment": [
+    28.5,
+    32.0
+   ],
+   "verb": "take",
+   "noun": "pasta",
+   "score": 0.251313
+  },
+  {
+   "segment": [
+    29.0,
+    31.0
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.3243
+  },
+  {
+   "segment": [
+    29.0,
+    30.0
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.322803
+  },
+  {
+   "segment": [
+    29.0,
+    30.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.306755
+  },
+  {
+   "segment": [
+    29.0,
+    31.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.30662
+  },
+  {
+   "segment": [
+    29.0,
+    30.0
+   ],
+   "verb": "take",
+   "noun": "pasta",
+   "score": 0.265582
+  },
+  {
+   "segment": [
+    29.0,
+    31.0
+   ],
+   "verb": "take",
+   "noun": "pasta",
+   "score": 0.259765
+  },
+  {
+   "segment": [
+    29.5,
+    30.5
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.334112
+  },
+  {
+   "segment": [
+    29.5,
+    30.5
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.301509
+  },
+  {
+   "segment": [
+    29.5,
+    30.5
+   ],
+   "verb": "take",
+   "noun": "pasta",
+   "score": 0.262002
+  },
+  {
+   "segment": [
+    30.0,
+    31.0
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.325646
+  },
+  {
+   "segment": [
+    30.0,
+    32.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.310758
+  },
+  {
+   "segment": [
+    30.0,
+    32.0
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.306825
+  },
+  {
+   "segment": [
+    30.0,
+    31.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.306402
+  },
+  {
+   "segment": [
+    30.0,
+    33.5
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.303344
+  },
+  {
+   "segment": [
+    30.0,
+    33.5
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.301557
+  },
+  {
+   "segment": [
+    30.0,
+    36.0
+   ],
+   "verb": "put",
+   "noun": "plate",
+   "score": 0.289542
+  },
+  {
+   "segment": [
+    30.0,
+    36.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.288032
+  },
+  {
+   "segment": [
+    30.0,
+    32.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.27065
+  },
+  {
+   "segment": [
+    30.0,
+    33.5
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.267721
+  },
+  {
+   "segment": [
+    30.0,
+    36.0
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.262337
+  },
+  {
+   "segment": [
+    30.0,
+    31.0
+   ],
+   "verb": "take",
+   "noun": "pasta",
+   "score": 0.253941
+  },
+  {
+   "segment": [
+    30.5,
+    31.5
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.316066
+  },
+  {
+   "segment": [
+    30.5,
+    31.5
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.305179
+  },
+  {
+   "segment": [
+    30.5,
+    31.5
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.281335
+  },
+  {
+   "segment": [
+    31.0,
+    32.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.315103
+  },
+  {
+   "segment": [
+    31.0,
+    33.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.303324
+  },
+  {
+   "segment": [
+    31.0,
+    32.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.296798
+  },
+  {
+   "segment": [
+    31.0,
+    33.0
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.292669
+  },
+  {
+   "segment": [
+    31.0,
+    32.0
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.285785
+  },
+  {
+   "segment": [
+    31.0,
+    33.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.28381
+  },
+  {
+   "segment": [
+    31.5,
+    32.5
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.304078
+  },
+  {
+   "segment": [
+    31.5,
+    35.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.294594
+  },
+  {
+   "segment": [
+    31.5,
+    32.5
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.288856
+  },
+  {
+   "segment": [
+    31.5,
+    32.5
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.287091
+  },
+  {
+   "segment": [
+    31.5,
+    35.0
+   ],
+   "verb": "put",
+   "noun": "plate",
+   "score": 0.271393
+  },
+  {
+   "segment": [
+    31.5,
+    35.0
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.265546
+  },
+  {
+   "segment": [
+    32.0,
+    33.0
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.298918
+  },
+  {
+   "segment": [
+    32.0,
+    34.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.294011
+  },
+  {
+   "segment": [
+    32.0,
+    34.0
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.29341
+  },
+  {
+   "segment": [
+    32.0,
+    33.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.291478
+  },
+  {
+   "segment": [
+    32.0,
+    33.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.270685
+  },
+  {
+   "segment": [
+    32.0,
+    34.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.262631
+  },
+  {
+   "segment": [
+    32.5,
+    33.5
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.299954
+  },
+  {
+   "segment": [
+    32.5,
+    33.5
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.283991
+  },
+  {
+   "segment": [
+    32.5,
+    33.5
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.255072
+  },
+  {
+   "segment": [
+    33.0,
+    36.5
+   ],
+   "verb": "put",
+   "noun": "plate",
+   "score": 0.368271
+  },
+  {
+   "segment": [
+    33.0,
+    35.0
+   ],
+   "verb": "put",
+   "noun": "plate",
+   "score": 0.320315
+  },
+  {
+   "segment": [
+    33.0,
+    39.0
+   ],
+   "verb": "put",
+   "noun": "plate",
+   "score": 0.309827
+  },
+  {
+   "segment": [
+    33.0,
+    34.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.296535
+  },
+  {
+   "segment": [
+    33.0,
+    35.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.292634
+  },
+  {
+   "segment": [
+    33.0,
+    34.0
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.287757
+  },
+  {
+   "segment": [
+    33.0,
+    36.5
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.258934
+  },
+  {
+   "segment": [
+    33.0,
+    34.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.254266
+  },
+  {
+   "segment": [
+    33.0,
+    35.0
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.243265
+  },
+  {
+   "segment": [
+    33.0,
+    39.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.232641
+  },
+  {
+   "segment": [
+    33.0,
+    36.5
+   ],
+   "verb": "filter",
+   "noun": "plate",
+   "score": 0.206641
+  },
+  {
+   "segment": [
+    33.0,
+    39.0
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.202496
+  },
+  {
+   "segment": [
+    33.5,
+    34.5
+   ],
+   "verb": "put",
+   "noun": "plate",
+   "score": 0.312373
+  },
+  {
+   "segment": [
+    33.5,
+    34.5
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.306321
+  },
+  {
+   "segment": [
+    33.5,
+    34.5
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.247042
+  },
+  {
+   "segment": [
+    34.0,
+    36.0
+   ],
+   "verb": "put",
+   "noun": "plate",
+   "score": 0.408349
+  },
+  {
+   "segment": [
+    34.0,
+    35.0
+   ],
+   "verb": "put",
+   "noun": "plate",
+   "score": 0.38338
+  },
+  {
+   "segment": [
+    34.0,
+    35.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.288506
+  },
+  {
+   "segment": [
+    34.0,
+    36.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.256523
+  },
+  {
+   "segment": [
+    34.0,
+    35.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.217346
+  },
+  {
+   "segment": [
+    34.0,
+    36.0
+   ],
+   "verb": "filter",
+   "noun": "plate",
+   "score": 0.216362
+  },
+  {
+   "segment": [
+    34.5,
+    35.5
+   ],
+   "verb": "put",
+   "noun": "plate",
+   "score": 0.434809
+  },
+  {
+   "segment": [
+    34.5,
+    38.0
+   ],
+   "verb": "put",
+   "noun": "plate",
+   "score": 0.360387
+  },
+  {
+   "segment": [
+    34.5,
+    35.5
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.256102
+  },
+  {
+   "segment": [
+    34.5,
+    35.5
+   ],
+   "verb": "filter",
+   "noun": "plate",
+   "score": 0.218926
+  },
+  {
+   "segment": [
+    34.5,
+    38.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.213208
+  },
+  {
+   "segment": [
+    34.5,
+    38.0
+   ],
+   "verb": "filter",
+   "noun": "plate",
+   "score": 0.207195
+  },
+  {
+   "segment": [
+    35.0,
+    36.0
+   ],
+   "verb": "put",
+   "noun": "plate",
+   "score": 0.431434
+  },
+  {
+   "segment": [
+    35.0,
+    37.0
+   ],
+   "verb": "put",
+   "noun": "plate",
+   "score": 0.402267
+  },
+  {
+   "segment": [
+    35.0,
+    37.0
+   ],
+   "verb": "filter",
+   "noun": "plate",
+   "score": 0.228971
+  },
+  {
+   "segment": [
+    35.0,
+    36.0
+   ],
+   "verb": "filter",
+   "noun": "plate",
+   "score": 0.221608
+  },
+  {
+   "segment": [
+    35.0,
+    36.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.220623
+  },
+  {
+   "segment": [
+    35.0,
+    37.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.205161
+  },
+  {
+   "segment": [
+    35.5,
+    36.5
+   ],
+   "verb": "put",
+   "noun": "plate",
+   "score": 0.404276
+  },
+  {
+   "segment": [
+    35.5,
+    36.5
+   ],
+   "verb": "filter",
+   "noun": "plate",
+   "score": 0.233045
+  },
+  {
+   "segment": [
+    35.5,
+    36.5
+   ],
+   "verb": "take",
+   "noun": "plate",
+   "score": 0.197969
+  },
+  {
+   "segment": [
+    36.0,
+    37.0
+   ],
+   "verb": "put",
+   "noun": "plate",
+   "score": 0.372891
+  },
+  {
+   "segment": [
+    36.0,
+    38.0
+   ],
+   "verb": "put",
+   "noun": "plate",
+   "score": 0.307931
+  },
+  {
+   "segment": [
+    36.0,
+    39.5
+   ],
+   "verb": "put",
+   "noun": "plate",
+   "score": 0.236144
+  },
+  {
+   "segment": [
+    36.0,
+    37.0
+   ],
+   "verb": "filter",
+   "noun": "plate",
+   "score": 0.234903
+  },
+  {
+   "segment": [
+    36.0,
+    42.0
+   ],
+   "verb": "put",
+   "noun": "plate",
+   "score": 0.216732
+  },
+  {
+   "segment": [
+    36.0,
+    39.5
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.209186
+  },
+  {
+   "segment": [
+    36.0,
+    42.0
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.206363
+  },
+  {
+   "segment": [
+    36.0,
+    37.0
+   ],
+   "verb": "take",
+   "noun": "plate",
+   "score": 0.199583
+  },
+  {
+   "segment": [
+    36.0,
+    38.0
+   ],
+   "verb": "filter",
+   "noun": "plate",
+   "score": 0.196619
+  },
+  {
+   "segment": [
+    36.0,
+    38.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.193298
+  },
+  {
+   "segment": [
+    36.0,
+    39.5
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.192497
+  },
+  {
+   "segment": [
+    36.0,
+    42.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.174538
+  },
+  {
+   "segment": [
+    36.5,
+    37.5
+   ],
+   "verb": "put",
+   "noun": "plate",
+   "score": 0.31322
+  },
+  {
+   "segment": [
+    36.5,
+    37.5
+   ],
+   "verb": "filter",
+   "noun": "plate",
+   "score": 0.205721
+  },
+  {
+   "segment": [
+    36.5,
+    37.5
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.193241
+  },
+  {
+   "segment": [
+    37.0,
+    38.0
+   ],
+   "verb": "put",
+   "noun": "plate",
+   "score": 0.222899
+  },
+  {
+   "segment": [
+    37.0,
+    39.0
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.220356
+  },
+  {
+   "segment": [
+    37.0,
+    38.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.197016
+  },
+  {
+   "segment": [
+    37.0,
+    39.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.193306
+  },
+  {
+   "segment": [
+    37.0,
+    39.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.191454
+  },
+  {
+   "segment": [
+    37.0,
+    38.0
+   ],
+   "verb": "pour",
+   "noun": "pasta",
+   "score": 0.182259
+  },
+  {
+   "segment": [
+    37.5,
+    41.0
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.250913
+  },
+  {
+   "segment": [
+    37.5,
+    38.5
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.220987
+  },
+  {
+   "segment": [
+    37.5,
+    38.5
+   ],
+   "verb": "pour",
+   "noun": "pasta",
+   "score": 0.199723
+  },
+  {
+   "segment": [
+    37.5,
+    38.5
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.198288
+  },
+  {
+   "segment": [
+    37.5,
+    41.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.192746
+  },
+  {
+   "segment": [
+    37.5,
+    41.0
+   ],
+   "verb": "pour",
+   "noun": "pasta",
+   "score": 0.190836
+  },
+  {
+   "segment": [
+    38.0,
+    40.0
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.273971
+  },
+  {
+   "segment": [
+    38.0,
+    39.0
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.254581
+  },
+  {
+   "segment": [
+    38.0,
+    39.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.207545
+  },
+  {
+   "segment": [
+    38.0,
+    40.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.20286
+  },
+  {
+   "segment": [
+    38.0,
+    40.0
+   ],
+   "verb": "pour",
+   "noun": "pasta",
+   "score": 0.19512
+  },
+  {
+   "segment": [
+    38.0,
+    39.0
+   ],
+   "verb": "pour",
+   "noun": "pasta",
+   "score": 0.194537
+  },
+  {
+   "segment": [
+    38.5,
+    39.5
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.283785
+  },
+  {
+   "segment": [
+    38.5,
+    39.5
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.212978
+  },
+  {
+   "segment": [
+    38.5,
+    39.5
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.199042
+  },
+  {
+   "segment": [
+    39.0,
+    40.0
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.29278
+  },
+  {
+   "segment": [
+    39.0,
+    41.0
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.258967
+  },
+  {
+   "segment": [
+    39.0,
+    42.5
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.205253
+  },
+  {
+   "segment": [
+    39.0,
+    40.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.197709
+  },
+  {
+   "segment": [
+    39.0,
+    40.0
+   ],
+   "verb": "pour",
+   "noun": "pasta",
+   "score": 0.195617
+  },
+  {
+   "segment": [
+    39.0,
+    42.5
+   ],
+   "verb": "put",
+   "noun": "plate",
+   "score": 0.187443
+  },
+  {
+   "segment": [
+    39.0,
+    41.0
+   ],
+   "verb": "pour",
+   "noun": "pasta",
+   "score": 0.186035
+  },
+  {
+   "segment": [
+    39.0,
+    41.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.183345
+  },
+  {
+   "segment": [
+    39.0,
+    45.0
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.154781
+  },
+  {
+   "segment": [
+    39.0,
+    42.5
+   ],
+   "verb": "pour",
+   "noun": "pasta",
+   "score": 0.153077
+  },
+  {
+   "segment": [
+    39.0,
+    45.0
+   ],
+   "verb": "turn-off",
+   "noun": "kettle",
+   "score": 0.149198
+  },
+  {
+   "segment": [
+    39.0,
+    45.0
+   ],
+   "verb": "put",
+   "noun": "plate",
+   "score": 0.140519
+  },
+  {
+   "segment": [
+    39.5,
+    40.5
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.267079
+  },
+  {
+   "segment": [
+    39.5,
+    40.5
+   ],
+   "verb": "pour",
+   "noun": "pasta",
+   "score": 0.190233
+  },
+  {
+   "segment": [
+    39.5,
+    40.5
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.182431
+  },
+  {
+   "segment": [
+    40.0,
+    41.0
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.221952
+  },
+  {
+   "segment": [
+    40.0,
+    42.0
+   ],
+   "verb": "put",
+   "noun": "plate",
+   "score": 0.20566
+  },
+  {
+   "segment": [
+    40.0,
+    41.0
+   ],
+   "verb": "pour",
+   "noun": "pasta",
+   "score": 0.176327
+  },
+  {
+   "segment": [
+    40.0,
+    42.0
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.172548
+  },
+  {
+   "segment": [
+    40.0,
+    41.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.168446
+  },
+  {
+   "segment": [
+    40.0,
+    42.0
+   ],
+   "verb": "put",
+   "noun": "spoon",
+   "score": 0.162629
+  },
+  {
+   "segment": [
+    40.5,
+    41.5
+   ],
+   "verb": "put",
+   "noun": "plate",
+   "score": 0.210167
+  },
+  {
+   "segment": [
+    40.5,
+    44.0
+   ],
+   "verb": "put",
+   "noun": "plate",
+   "score": 0.180216
+  },
+  {
+   "segment": [
+    40.5,
+    41.5
+   ],
+   "verb": "put",
+   "noun": "spoon",
+   "score": 0.166142
+  },
+  {
+   "segment": [
+    40.5,
+    41.5
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.160364
+  },
+  {
+   "segment": [
+    40.5,
+    44.0
+   ],
+   "verb": "put",
+   "noun": "spoon",
+   "score": 0.145482
+  },
+  {
+   "segment": [
+    40.5,
+    44.0
+   ],
+   "verb": "turn-off",
+   "noun": "kettle",
+   "score": 0.131708
+  },
+  {
+   "segment": [
+    41.0,
+    42.0
+   ],
+   "verb": "put",
+   "noun": "plate",
+   "score": 0.282936
+  },
+  {
+   "segment": [
+    41.0,
+    43.0
+   ],
+   "verb": "put",
+   "noun": "plate",
+   "score": 0.238845
+  },
+  {
+   "segment": [
+    41.0,
+    42.0
+   ],
+   "verb": "put",
+   "noun": "spoon",
+   "score": 0.20213
+  },
+  {
+   "segment": [
+    41.0,
+    43.0
+   ],
+   "verb": "put",
+   "noun": "spoon",
+   "score": 0.179979
+  },
+  {
+   "segment": [
+    41.0,
+    42.0
+   ],
+   "verb": "take",
+   "noun": "plate",
+   "score": 0.161713
+  },
+  {
+   "segment": [
+    41.0,
+    43.0
+   ],
+   "verb": "take",
+   "noun": "plate",
+   "score": 0.138677
+  },
+  {
+   "segment": [
+    41.5,
+    42.5
+   ],
+   "verb": "put",
+   "noun": "plate",
+   "score": 0.271539
+  },
+  {
+   "segment": [
+    41.5,
+    42.5
+   ],
+   "verb": "put",
+   "noun": "spoon",
+   "score": 0.198955
+  },
+  {
+   "segment": [
+    41.5,
+    42.5
+   ],
+   "verb": "take",
+   "noun": "plate",
+   "score": 0.157513
+  },
+  {
+   "segment": [
+    42.0,
+    48.0
+   ],
+   "verb": "turn-off",
+   "noun": "oven",
+   "score": 0.234801
+  },
+  {
+   "segment": [
+    42.0,
+    45.5
+   ],
+   "verb": "turn-off",
+   "noun": "kettle",
+   "score": 0.210687
+  },
+  {
+   "segment": [
+    42.0,
+    45.5
+   ],
+   "verb": "turn-on",
+   "noun": "kettle",
+   "score": 0.194278
+  },
+  {
+   "segment": [
+    42.0,
+    43.0
+   ],
+   "verb": "put",
+   "noun": "plate",
+   "score": 0.190565
+  },
+  {
+   "segment": [
+    42.0,
+    48.0
+   ],
+   "verb": "turn-off",
+   "noun": "kettle",
+   "score": 0.182739
+  },
+  {
+   "segment": [
+    42.0,
+    45.5
+   ],
+   "verb": "put",
+   "noun": "kettle",
+   "score": 0.17228
+  },
+  {
+   "segment": [
+    42.0,
+    48.0
+   ],
+   "verb": "turn-on",
+   "noun": "kettle",
+   "score": 0.168734
+  },
+  {
+   "segment": [
+    42.0,
+    44.0
+   ],
+   "verb": "turn-off",
+   "noun": "kettle",
+   "score": 0.167786
+  },
+  {
+   "segment": [
+    42.0,
+    43.0
+   ],
+   "verb": "put",
+   "noun": "spoon",
+   "score": 0.157106
+  },
+  {
+   "segment": [
+    42.0,
+    44.0
+   ],
+   "verb": "turn-off",
+   "noun": "toaster",
+   "score": 0.14117
+  },
+  {
+   "segment": [
+    42.0,
+    44.0
+   ],
+   "verb": "put",
+   "noun": "kettle",
+   "score": 0.13919
+  },
+  {
+   "segment": [
+    42.0,
+    43.0
+   ],
+   "verb": "turn-off",
+   "noun": "kettle",
+   "score": 0.123698
+  },
+  {
+   "segment": [
+    42.5,
+    43.5
+   ],
+   "verb": "turn-off",
+   "noun": "kettle",
+   "score": 0.176292
+  },
+  {
+   "segment": [
+    42.5,
+    43.5
+   ],
+   "verb": "turn-off",
+   "noun": "toaster",
+   "score": 0.162178
+  },
+  {
+   "segment": [
+    42.5,
+    43.5
+   ],
+   "verb": "turn-off",
+   "noun": "oven",
+   "score": 0.147845
+  },
+  {
+   "segment": [
+    43.0,
+    45.0
+   ],
+   "verb": "turn-off",
+   "noun": "kettle",
+   "score": 0.229365
+  },
+  {
+   "segment": [
+    43.0,
+    45.0
+   ],
+   "verb": "turn-on",
+   "noun": "kettle",
+   "score": 0.215172
+  },
+  {
+   "segment": [
+    43.0,
+    44.0
+   ],
+   "verb": "turn-off",
+   "noun": "kettle",
+   "score": 0.198557
+  },
+  {
+   "segment": [
+    43.0,
+    45.0
+   ],
+   "verb": "put",
+   "noun": "kettle",
+   "score": 0.195239
+  },
+  {
+   "segment": [
+    43.0,
+    44.0
+   ],
+   "verb": "put",
+   "noun": "maker:coffee",
+   "score": 0.180647
+  },
+  {
+   "segment": [
+    43.0,
+    44.0
+   ],
+   "verb": "put",
+   "noun": "kettle",
+   "score": 0.178711
+  },
+  {
+   "segment": [
+    43.5,
+    47.0
+   ],
+   "verb": "turn-off",
+   "noun": "oven",
+   "score": 0.236762
+  },
+  {
+   "segment": [
+    43.5,
+    44.5
+   ],
+   "verb": "turn-off",
+   "noun": "kettle",
+   "score": 0.223686
+  },
+  {
+   "segment": [
+    43.5,
+    44.5
+   ],
+   "verb": "turn-on",
+   "noun": "kettle",
+   "score": 0.21459
+  },
+  {
+   "segment": [
+    43.5,
+    47.0
+   ],
+   "verb": "turn-off",
+   "noun": "kettle",
+   "score": 0.213005
+  },
+  {
+   "segment": [
+    43.5,
+    44.5
+   ],
+   "verb": "put",
+   "noun": "kettle",
+   "score": 0.209478
+  },
+  {
+   "segment": [
+    43.5,
+    47.0
+   ],
+   "verb": "turn-on",
+   "noun": "kettle",
+   "score": 0.201605
+  },
+  {
+   "segment": [
+    44.0,
+    45.0
+   ],
+   "verb": "turn-off",
+   "noun": "kettle",
+   "score": 0.257367
+  },
+  {
+   "segment": [
+    44.0,
+    45.0
+   ],
+   "verb": "turn-on",
+   "noun": "kettle",
+   "score": 0.253093
+  },
+  {
+   "segment": [
+    44.0,
+    46.0
+   ],
+   "verb": "turn-off",
+   "noun": "kettle",
+   "score": 0.246487
+  },
+  {
+   "segment": [
+    44.0,
+    46.0
+   ],
+   "verb": "turn-on",
+   "noun": "kettle",
+   "score": 0.23695
+  },
+  {
+   "segment": [
+    44.0,
+    45.0
+   ],
+   "verb": "put",
+   "noun": "kettle",
+   "score": 0.210948
+  },
+  {
+   "segment": [
+    44.0,
+    46.0
+   ],
+   "verb": "put",
+   "noun": "kettle",
+   "score": 0.201179
+  },
+  {
+   "segment": [
+    44.5,
+    45.5
+   ],
+   "verb": "turn-off",
+   "noun": "kettle",
+   "score": 0.263237
+  },
+  {
+   "segment": [
+    44.5,
+    45.5
+   ],
+   "verb": "turn-on",
+   "noun": "kettle",
+   "score": 0.251459
+  },
+  {
+   "segment": [
+    44.5,
+    45.5
+   ],
+   "verb": "put",
+   "noun": "kettle",
+   "score": 0.199768
+  },
+  {
+   "segment": [
+    45.0,
+    47.0
+   ],
+   "verb": "turn-off",
+   "noun": "oven",
+   "score": 0.283451
+  },
+  {
+   "segment": [
+    45.0,
+    48.5
+   ],
+   "verb": "turn-off",
+   "noun": "oven",
+   "score": 0.274752
+  },
+  {
+   "segment": [
+    45.0,
+    46.0
+   ],
+   "verb": "turn-off",
+   "noun": "kettle",
+   "score": 0.235467
+  },
+  {
+   "segment": [
+    45.0,
+    51.0
+   ],
+   "verb": "put",
+   "noun": "maker:coffee",
+   "score": 0.232179
+  },
+  {
+   "segment": [
+    45.0,
+    46.0
+   ],
+   "verb": "turn-on",
+   "noun": "kettle",
+   "score": 0.220242
+  },
+  {
+   "segment": [
+    45.0,
+    51.0
+   ],
+   "verb": "turn-off",
+   "noun": "oven",
+   "score": 0.211329
+  },
+  {
+   "segment": [
+    45.0,
+    46.0
+   ],
+   "verb": "turn-off",
+   "noun": "oven",
+   "score": 0.192752
+  },
+  {
+   "segment": [
+    45.0,
+    47.0
+   ],
+   "verb": "turn-off",
+   "noun": "toaster",
+   "score": 0.190908
+  },
+  {
+   "segment": [
+    45.0,
+    47.0
+   ],
+   "verb": "turn-off",
+   "noun": "kettle",
+   "score": 0.188245
+  },
+  {
+   "segment": [
+    45.0,
+    48.5
+   ],
+   "verb": "turn-off",
+   "noun": "toaster",
+   "score": 0.183675
+  },
+  {
+   "segment": [
+    45.0,
+    48.5
+   ],
+   "verb": "turn-on",
+   "noun": "oven",
+   "score": 0.169135
+  },
+  {
+   "segment": [
+    45.0,
+    51.0
+   ],
+   "verb": "take",
+   "noun": "maker:coffee",
+   "score": 0.161866
+  },
+  {
+   "segment": [
+    45.5,
+    46.5
+   ],
+   "verb": "turn-off",
+   "noun": "oven",
+   "score": 0.263951
+  },
+  {
+   "segment": [
+    45.5,
+    46.5
+   ],
+   "verb": "turn-off",
+   "noun": "toaster",
+   "score": 0.186552
+  },
+  {
+   "segment": [
+    45.5,
+    46.5
+   ],
+   "verb": "turn-off",
+   "noun": "kettle",
+   "score": 0.177352
+  },
+  {
+   "segment": [
+    46.0,
+    47.0
+   ],
+   "verb": "turn-off",
+   "noun": "oven",
+   "score": 0.34879
+  },
+  {
+   "segment": [
+    46.0,
+    48.0
+   ],
+   "verb": "turn-off",
+   "noun": "oven",
+   "score": 0.341653
+  },
+  {
+   "segment": [
+    46.0,
+    47.0
+   ],
+   "verb": "turn-off",
+   "noun": "toaster",
+   "score": 0.252714
+  },
+  {
+   "segment": [
+    46.0,
+    48.0
+   ],
+   "verb": "turn-off",
+   "noun": "toaster",
+   "score": 0.236302
+  },
+  {
+   "segment": [
+    46.0,
+    48.0
+   ],
+   "verb": "turn-on",
+   "noun": "oven",
+   "score": 0.207428
+  },
+  {
+   "segment": [
+    46.0,
+    47.0
+   ],
+   "verb": "turn-on",
+   "noun": "oven",
+   "score": 0.207401
+  },
+  {
+   "segment": [
+    46.5,
+    47.5
+   ],
+   "verb": "turn-off",
+   "noun": "oven",
+   "score": 0.392836
+  },
+  {
+   "segment": [
+    46.5,
+    47.5
+   ],
+   "verb": "turn-off",
+   "noun": "toaster",
+   "score": 0.272137
+  },
+  {
+   "segment": [
+    46.5,
+    47.5
+   ],
+   "verb": "turn-on",
+   "noun": "oven",
+   "score": 0.237445
+  },
+  {
+   "segment": [
+    46.5,
+    50.0
+   ],
+   "verb": "turn-off",
+   "noun": "oven",
+   "score": 0.233247
+  },
+  {
+   "segment": [
+    46.5,
+    50.0
+   ],
+   "verb": "put",
+   "noun": "maker:coffee",
+   "score": 0.230602
+  },
+  {
+   "segment": [
+    46.5,
+    50.0
+   ],
+   "verb": "take",
+   "noun": "maker:coffee",
+   "score": 0.165079
+  },
+  {
+   "segment": [
+    47.0,
+    48.0
+   ],
+   "verb": "turn-off",
+   "noun": "oven",
+   "score": 0.331823
+  },
+  {
+   "segment": [
+    47.0,
+    49.0
+   ],
+   "verb": "put",
+   "noun": "maker:coffee",
+   "score": 0.230415
+  },
+  {
+   "segment": [
+    47.0,
+    49.0
+   ],
+   "verb": "turn-off",
+   "noun": "oven",
+   "score": 0.22763
+  },
+  {
+   "segment": [
+    47.0,
+    48.0
+   ],
+   "verb": "turn-off",
+   "noun": "toaster",
+   "score": 0.215008
+  },
+  {
+   "segment": [
+    47.0,
+    48.0
+   ],
+   "verb": "turn-on",
+   "noun": "oven",
+   "score": 0.206552
+  },
+  {
+   "segment": [
+    47.0,
+    49.0
+   ],
+   "verb": "take",
+   "noun": "maker:coffee",
+   "score": 0.165455
+  },
+  {
+   "segment": [
+    47.5,
+    48.5
+   ],
+   "verb": "put",
+   "noun": "maker:coffee",
+   "score": 0.231278
+  },
+  {
+   "segment": [
+    47.5,
+    48.5
+   ],
+   "verb": "turn-off",
+   "noun": "oven",
+   "score": 0.192785
+  },
+  {
+   "segment": [
+    47.5,
+    48.5
+   ],
+   "verb": "take",
+   "noun": "maker:coffee",
+   "score": 0.167518
+  },
+  {
+   "segment": [
+    48.0,
+    51.5
+   ],
+   "verb": "put",
+   "noun": "maker:coffee",
+   "score": 0.308593
+  },
+  {
+   "segment": [
+    48.0,
+    50.0
+   ],
+   "verb": "put",
+   "noun": "maker:coffee",
+   "score": 0.282795
+  },
+  {
+   "segment": [
+    48.0,
+    49.0
+   ],
+   "verb": "put",
+   "noun": "maker:coffee",
+   "score": 0.281145
+  },
+  {
+   "segment": [
+    48.0,
+    54.0
+   ],
+   "verb": "put",
+   "noun": "maker:coffee",
+   "score": 0.249933
+  },
+  {
+   "segment": [
+    48.0,
+    54.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.220383
+  },
+  {
+   "segment": [
+    48.0,
+    51.5
+   ],
+   "verb": "take",
+   "noun": "maker:coffee",
+   "score": 0.211621
+  },
+  {
+   "segment": [
+    48.0,
+    50.0
+   ],
+   "verb": "take",
+   "noun": "maker:coffee",
+   "score": 0.199559
+  },
+  {
+   "segment": [
+    48.0,
+    49.0
+   ],
+   "verb": "take",
+   "noun": "maker:coffee",
+   "score": 0.197071
+  },
+  {
+   "segment": [
+    48.0,
+    54.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.176321
+  },
+  {
+   "segment": [
+    48.0,
+    51.5
+   ],
+   "verb": "move",
+   "noun": "maker:coffee",
+   "score": 0.173102
+  },
+  {
+   "segment": [
+    48.0,
+    50.0
+   ],
+   "verb": "move",
+   "noun": "maker:coffee",
+   "score": 0.169118
+  },
+  {
+   "segment": [
+    48.0,
+    49.0
+   ],
+   "verb": "move",
+   "noun": "maker:coffee",
+   "score": 0.155099
+  },
+  {
+   "segment": [
+    48.5,
+    49.5
+   ],
+   "verb": "put",
+   "noun": "maker:coffee",
+   "score": 0.296314
+  },
+  {
+   "segment": [
+    48.5,
+    49.5
+   ],
+   "verb": "take",
+   "noun": "maker:coffee",
+   "score": 0.211181
+  },
+  {
+   "segment": [
+    48.5,
+    49.5
+   ],
+   "verb": "move",
+   "noun": "maker:coffee",
+   "score": 0.181339
+  },
+  {
+   "segment": [
+    49.0,
+    51.0
+   ],
+   "verb": "put",
+   "noun": "maker:coffee",
+   "score": 0.314538
+  },
+  {
+   "segment": [
+    49.0,
+    50.0
+   ],
+   "verb": "put",
+   "noun": "maker:coffee",
+   "score": 0.28262
+  },
+  {
+   "segment": [
+    49.0,
+    51.0
+   ],
+   "verb": "take",
+   "noun": "maker:coffee",
+   "score": 0.21495
+  },
+  {
+   "segment": [
+    49.0,
+    50.0
+   ],
+   "verb": "take",
+   "noun": "maker:coffee",
+   "score": 0.200978
+  },
+  {
+   "segment": [
+    49.0,
+    51.0
+   ],
+   "verb": "open",
+   "noun": "maker:coffee",
+   "score": 0.184995
+  },
+  {
+   "segment": [
+    49.0,
+    50.0
+   ],
+   "verb": "move",
+   "noun": "maker:coffee",
+   "score": 0.183136
+  },
+  {
+   "segment": [
+    49.5,
+    50.5
+   ],
+   "verb": "put",
+   "noun": "maker:coffee",
+   "score": 0.307265
+  },
+  {
+   "segment": [
+    49.5,
+    53.0
+   ],
+   "verb": "put",
+   "noun": "maker:coffee",
+   "score": 0.269637
+  },
+  {
+   "segment": [
+    49.5,
+    50.5
+   ],
+   "verb": "take",
+   "noun": "maker:coffee",
+   "score": 0.219528
+  },
+  {
+   "segment": [
+    49.5,
+    50.5
+   ],
+   "verb": "open",
+   "noun": "maker:coffee",
+   "score": 0.202659
+  },
+  {
+   "segment": [
+    49.5,
+    53.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.190465
+  },
+  {
+   "segment": [
+    49.5,
+    53.0
+   ],
+   "verb": "take",
+   "noun": "maker:coffee",
+   "score": 0.179879
+  },
+  {
+   "segment": [
+    50.0,
+    51.0
+   ],
+   "verb": "put",
+   "noun": "maker:coffee",
+   "score": 0.3386
+  },
+  {
+   "segment": [
+    50.0,
+    52.0
+   ],
+   "verb": "put",
+   "noun": "maker:coffee",
+   "score": 0.326803
+  },
+  {
+   "segment": [
+    50.0,
+    51.0
+   ],
+   "verb": "take",
+   "noun": "maker:coffee",
+   "score": 0.225503
+  },
+  {
+   "segment": [
+    50.0,
+    52.0
+   ],
+   "verb": "take",
+   "noun": "maker:coffee",
+   "score": 0.215231
+  },
+  {
+   "segment": [
+    50.0,
+    51.0
+   ],
+   "verb": "open",
+   "noun": "maker:coffee",
+   "score": 0.19194
+  },
+  {
+   "segment": [
+    50.0,
+    52.0
+   ],
+   "verb": "move",
+   "noun": "maker:coffee",
+   "score": 0.175318
+  },
+  {
+   "segment": [
+    50.5,
+    51.5
+   ],
+   "verb": "put",
+   "noun": "maker:coffee",
+   "score": 0.331502
+  },
+  {
+   "segment": [
+    50.5,
+    51.5
+   ],
+   "verb": "take",
+   "noun": "maker:coffee",
+   "score": 0.21597
+  },
+  {
+   "segment": [
+    50.5,
+    51.5
+   ],
+   "verb": "move",
+   "noun": "maker:coffee",
+   "score": 0.172954
+  },
+  {
+   "segment": [
+    51.0,
+    52.0
+   ],
+   "verb": "put",
+   "noun": "maker:coffee",
+   "score": 0.315002
+  },
+  {
+   "segment": [
+    51.0,
+    54.5
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.302306
+  },
+  {
+   "segment": [
+    51.0,
+    54.5
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.244154
+  },
+  {
+   "segment": [
+    51.0,
+    53.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.239154
+  },
+  {
+   "segment": [
+    51.0,
+    57.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.23299
+  },
+  {
+   "segment": [
+    51.0,
+    53.0
+   ],
+   "verb": "put",
+   "noun": "maker:coffee",
+   "score": 0.22644
+  },
+  {
+   "segment": [
+    51.0,
+    52.0
+   ],
+   "verb": "take",
+   "noun": "maker:coffee",
+   "score": 0.204946
+  },
+  {
+   "segment": [
+    51.0,
+    57.0
+   ],
+   "verb": "put",
+   "noun": "maker:coffee",
+   "score": 0.20034
+  },
+  {
+   "segment": [
+    51.0,
+    54.5
+   ],
+   "verb": "put",
+   "noun": "maker:coffee",
+   "score": 0.196405
+  },
+  {
+   "segment": [
+    51.0,
+    57.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.18762
+  },
+  {
+   "segment": [
+    51.0,
+    53.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.183211
+  },
+  {
+   "segment": [
+    51.0,
+    52.0
+   ],
+   "verb": "move",
+   "noun": "maker:coffee",
+   "score": 0.179376
+  },
+  {
+   "segment": [
+    51.5,
+    52.5
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.219776
+  },
+  {
+   "segment": [
+    51.5,
+    52.5
+   ],
+   "verb": "put",
+   "noun": "maker:coffee",
+   "score": 0.218395
+  },
+  {
+   "segment": [
+    51.5,
+    52.5
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.165495
+  },
+  {
+   "segment": [
+    52.0,
+    54.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.359792
+  },
+  {
+   "segment": [
+    52.0,
+    53.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.319573
+  },
+  {
+   "segment": [
+    52.0,
+    54.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.287643
+  },
+  {
+   "segment": [
+    52.0,
+    53.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.243905
+  },
+  {
+   "segment": [
+    52.0,
+    54.0
+   ],
+   "verb": "put",
+   "noun": "cupboard",
+   "score": 0.208779
+  },
+  {
+   "segment": [
+    52.0,
+    53.0
+   ],
+   "verb": "put",
+   "noun": "cupboard",
+   "score": 0.179571
+  },
+  {
+   "segment": [
+    52.5,
+    53.5
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.38888
+  },
+  {
+   "segment": [
+    52.5,
+    53.5
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.309467
+  },
+  {
+   "segment": [
+    52.5,
+    56.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.283858
+  },
+  {
+   "segment": [
+    52.5,
+    56.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.230946
+  },
+  {
+   "segment": [
+    52.5,
+    53.5
+   ],
+   "verb": "put",
+   "noun": "cupboard",
+   "score": 0.229536
+  },
+  {
+   "segment": [
+    52.5,
+    56.0
+   ],
+   "verb": "put",
+   "noun": "maker:coffee",
+   "score": 0.188935
+  },
+  {
+   "segment": [
+    53.0,
+    54.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.399786
+  },
+  {
+   "segment": [
+    53.0,
+    55.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.338081
+  },
+  {
+   "segment": [
+    53.0,
+    54.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.330207
+  },
+  {
+   "segment": [
+    53.0,
+    55.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.279101
+  },
+  {
+   "segment": [
+    53.0,
+    54.0
+   ],
+   "verb": "put",
+   "noun": "cupboard",
+   "score": 0.237418
+  },
+  {
+   "segment": [
+    53.0,
+    55.0
+   ],
+   "verb": "put",
+   "noun": "cupboard",
+   "score": 0.19201
+  },
+  {
+   "segment": [
+    53.5,
+    54.5
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.354983
+  },
+  {
+   "segment": [
+    53.5,
+    54.5
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.300442
+  },
+  {
+   "segment": [
+    53.5,
+    54.5
+   ],
+   "verb": "put",
+   "noun": "cupboard",
+   "score": 0.20327
+  },
+  {
+   "segment": [
+    54.0,
+    55.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.26371
+  },
+  {
+   "segment": [
+    54.0,
+    56.0
+   ],
+   "verb": "put",
+   "noun": "maker:coffee",
+   "score": 0.241904
+  },
+  {
+   "segment": [
+    54.0,
+    55.0
+   ],
+   "verb": "put",
+   "noun": "maker:coffee",
+   "score": 0.239157
+  },
+  {
+   "segment": [
+    54.0,
+    55.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.217457
+  },
+  {
+   "segment": [
+    54.0,
+    56.0
+   ],
+   "verb": "take",
+   "noun": "maker:coffee",
+   "score": 0.198908
+  },
+  {
+   "segment": [
+    54.0,
+    57.5
+   ],
+   "verb": "put",
+   "noun": "maker:coffee",
+   "score": 0.195312
+  },
+  {
+   "segment": [
+    54.0,
+    56.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.178792
+  },
+  {
+   "segment": [
+    54.0,
+    57.5
+   ],
+   "verb": "take",
+   "noun": "maker:coffee",
+   "score": 0.162388
+  },
+  {
+   "segment": [
+    54.0,
+    60.0
+   ],
+   "verb": "put",
+   "noun": "maker:coffee",
+   "score": 0.152624
+  },
+  {
+   "segment": [
+    54.0,
+    57.5
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.13524
+  },
+  {
+   "segment": [
+    54.0,
+    60.0
+   ],
+   "verb": "take",
+   "noun": "maker:coffee",
+   "score": 0.127291
+  },
+  {
+   "segment": [
+    54.0,
+    60.0
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.122759
+  },
+  {
+   "segment": [
+    54.5,
+    55.5
+   ],
+   "verb": "put",
+   "noun": "maker:coffee",
+   "score": 0.253895
+  },
+  {
+   "segment": [
+    54.5,
+    55.5
+   ],
+   "verb": "take",
+   "noun": "maker:coffee",
+   "score": 0.208674
+  },
+  {
+   "segment": [
+    54.5,
+    55.5
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.148249
+  },
+  {
+   "segment": [
+    55.0,
+    56.0
+   ],
+   "verb": "put",
+   "noun": "maker:coffee",
+   "score": 0.241825
+  },
+  {
+   "segment": [
+    55.0,
+    56.0
+   ],
+   "verb": "take",
+   "noun": "maker:coffee",
+   "score": 0.218654
+  },
+  {
+   "segment": [
+    55.0,
+    57.0
+   ],
+   "verb": "put",
+   "noun": "maker:coffee",
+   "score": 0.193268
+  },
+  {
+   "segment": [
+    55.0,
+    57.0
+   ],
+   "verb": "take",
+   "noun": "maker:coffee",
+   "score": 0.17424
+  },
+  {
+   "segment": [
+    55.0,
+    56.0
+   ],
+   "verb": "move",
+   "noun": "maker:coffee",
+   "score": 0.144958
+  },
+  {
+   "segment": [
+    55.0,
+    57.0
+   ],
+   "verb": "move",
+   "noun": "maker:coffee",
+   "score": 0.112618
+  },
+  {
+   "segment": [
+    55.5,
+    56.5
+   ],
+   "verb": "put",
+   "noun": "maker:coffee",
+   "score": 0.186952
+  },
+  {
+   "segment": [
+    55.5,
+    56.5
+   ],
+   "verb": "take",
+   "noun": "maker:coffee",
+   "score": 0.179923
+  },
+  {
+   "segment": [
+    55.5,
+    59.0
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.135161
+  },
+  {
+   "segment": [
+    55.5,
+    59.0
+   ],
+   "verb": "take",
+   "noun": "pan",
+   "score": 0.121625
+  },
+  {
+   "segment": [
+    55.5,
+    56.5
+   ],
+   "verb": "turn-on",
+   "noun": "maker:coffee",
+   "score": 0.11774
+  },
+  {
+   "segment": [
+    55.5,
+    59.0
+   ],
+   "verb": "mix",
+   "noun": "pan",
+   "score": 0.115588
+  },
+  {
+   "segment": [
+    56.0,
+    58.0
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.139332
+  },
+  {
+   "segment": [
+    56.0,
+    57.0
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.129728
+  },
+  {
+   "segment": [
+    56.0,
+    58.0
+   ],
+   "verb": "take",
+   "noun": "pan",
+   "score": 0.128634
+  },
+  {
+   "segment": [
+    56.0,
+    58.0
+   ],
+   "verb": "mix",
+   "noun": "pan",
+   "score": 0.123137
+  },
+  {
+   "segment": [
+    56.0,
+    57.0
+   ],
+   "verb": "put",
+   "noun": "maker:coffee",
+   "score": 0.119754
+  },
+  {
+   "segment": [
+    56.0,
+    57.0
+   ],
+   "verb": "put",
+   "noun": "hob",
+   "score": 0.117274
+  },
+  {
+   "segment": [
+    56.5,
+    57.5
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.1483
+  },
+  {
+   "segment": [
+    56.5,
+    57.5
+   ],
+   "verb": "take",
+   "noun": "pan",
+   "score": 0.137556
+  },
+  {
+   "segment": [
+    56.5,
+    57.5
+   ],
+   "verb": "mix",
+   "noun": "pan",
+   "score": 0.130855
+  },
+  {
+   "segment": [
+    57.0,
+    63.0
+   ],
+   "verb": "turn-off",
+   "noun": "oven",
+   "score": 0.170239
+  },
+  {
+   "segment": [
+    57.0,
+    60.5
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.151935
+  },
+  {
+   "segment": [
+    57.0,
+    59.0
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.149701
+  },
+  {
+   "segment": [
+    57.0,
+    58.0
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.148823
+  },
+  {
+   "segment": [
+    57.0,
+    60.5
+   ],
+   "verb": "put",
+   "noun": "plate",
+   "score": 0.146447
+  },
+  {
+   "segment": [
+    57.0,
+    58.0
+   ],
+   "verb": "take",
+   "noun": "pan",
+   "score": 0.142061
+  },
+  {
+   "segment": [
+    57.0,
+    58.0
+   ],
+   "verb": "mix",
+   "noun": "pan",
+   "score": 0.141904
+  },
+  {
+   "segment": [
+    57.0,
+    59.0
+   ],
+   "verb": "take",
+   "noun": "pan",
+   "score": 0.136606
+  },
+  {
+   "segment": [
+    57.0,
+    60.5
+   ],
+   "verb": "put",
+   "noun": "pot",
+   "score": 0.135975
+  },
+  {
+   "segment": [
+    57.0,
+    59.0
+   ],
+   "verb": "mix",
+   "noun": "pan",
+   "score": 0.133759
+  },
+  {
+   "segment": [
+    57.0,
+    63.0
+   ],
+   "verb": "put",
+   "noun": "plate",
+   "score": 0.133617
+  },
+  {
+   "segment": [
+    57.0,
+    63.0
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.131783
+  },
+  {
+   "segment": [
+    57.5,
+    58.5
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.146344
+  },
+  {
+   "segment": [
+    57.5,
+    58.5
+   ],
+   "verb": "mix",
+   "noun": "pan",
+   "score": 0.139146
+  },
+  {
+   "segment": [
+    57.5,
+    58.5
+   ],
+   "verb": "take",
+   "noun": "pan",
+   "score": 0.137048
+  },
+  {
+   "segment": [
+    58.0,
+    60.0
+   ],
+   "verb": "put",
+   "noun": "plate",
+   "score": 0.15935
+  },
+  {
+   "segment": [
+    58.0,
+    60.0
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.155164
+  },
+  {
+   "segment": [
+    58.0,
+    59.0
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.150558
+  },
+  {
+   "segment": [
+    58.0,
+    60.0
+   ],
+   "verb": "put",
+   "noun": "pot",
+   "score": 0.143137
+  },
+  {
+   "segment": [
+    58.0,
+    59.0
+   ],
+   "verb": "put",
+   "noun": "pot",
+   "score": 0.132888
+  },
+  {
+   "segment": [
+    58.0,
+    59.0
+   ],
+   "verb": "take",
+   "noun": "pan",
+   "score": 0.13099
+  },
+  {
+   "segment": [
+    58.5,
+    62.0
+   ],
+   "verb": "put",
+   "noun": "plate",
+   "score": 0.170395
+  },
+  {
+   "segment": [
+    58.5,
+    59.5
+   ],
+   "verb": "put",
+   "noun": "plate",
+   "score": 0.159384
+  },
+  {
+   "segment": [
+    58.5,
+    59.5
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.157957
+  },
+  {
+   "segment": [
+    58.5,
+    59.5
+   ],
+   "verb": "put",
+   "noun": "pot",
+   "score": 0.142336
+  },
+  {
+   "segment": [
+    58.5,
+    62.0
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.138953
+  },
+  {
+   "segment": [
+    58.5,
+    62.0
+   ],
+   "verb": "put",
+   "noun": "pot",
+   "score": 0.129261
+  },
+  {
+   "segment": [
+    59.0,
+    60.0
+   ],
+   "verb": "put",
+   "noun": "plate",
+   "score": 0.201995
+  },
+  {
+   "segment": [
+    59.0,
+    61.0
+   ],
+   "verb": "put",
+   "noun": "plate",
+   "score": 0.200384
+  },
+  {
+   "segment": [
+    59.0,
+    60.0
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.15944
+  },
+  {
+   "segment": [
+    59.0,
+    60.0
+   ],
+   "verb": "put",
+   "noun": "pot",
+   "score": 0.15234
+  },
+  {
+   "segment": [
+    59.0,
+    61.0
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.151803
+  },
+  {
+   "segment": [
+    59.0,
+    61.0
+   ],
+   "verb": "put",
+   "noun": "pot",
+   "score": 0.147768
+  },
+  {
+   "segment": [
+    59.5,
+    60.5
+   ],
+   "verb": "put",
+   "noun": "plate",
+   "score": 0.212531
+  },
+  {
+   "segment": [
+    59.5,
+    60.5
+   ],
+   "verb": "put",
+   "noun": "pot",
+   "score": 0.151355
+  },
+  {
+   "segment": [
+    59.5,
+    60.5
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.150768
+  },
+  {
+   "segment": [
+    60.0,
+    63.5
+   ],
+   "verb": "turn-off",
+   "noun": "oven",
+   "score": 0.245081
+  },
+  {
+   "segment": [
+    60.0,
+    66.0
+   ],
+   "verb": "put",
+   "noun": "plate",
+   "score": 0.207134
+  },
+  {
+   "segment": [
+    60.0,
+    61.0
+   ],
+   "verb": "put",
+   "noun": "plate",
+   "score": 0.19864
+  },
+  {
+   "segment": [
+    60.0,
+    66.0
+   ],
+   "verb": "turn-off",
+   "noun": "oven",
+   "score": 0.181705
+  },
+  {
+   "segment": [
+    60.0,
+    62.0
+   ],
+   "verb": "turn-off",
+   "noun": "oven",
+   "score": 0.167705
+  },
+  {
+   "segment": [
+    60.0,
+    63.5
+   ],
+   "verb": "turn-on",
+   "noun": "oven",
+   "score": 0.164606
+  },
+  {
+   "segment": [
+    60.0,
+    62.0
+   ],
+   "verb": "put",
+   "noun": "plate",
+   "score": 0.162004
+  },
+  {
+   "segment": [
+    60.0,
+    63.5
+   ],
+   "verb": "adjust",
+   "noun": "heat",
+   "score": 0.143633
+  },
+  {
+   "segment": [
+    60.0,
+    61.0
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.143415
+  },
+  {
+   "segment": [
+    60.0,
+    61.0
+   ],
+   "verb": "put",
+   "noun": "pot",
+   "score": 0.142831
+  },
+  {
+   "segment": [
+    60.0,
+    62.0
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.122405
+  },
+  {
+   "segment": [
+    60.0,
+    66.0
+   ],
+   "verb": "turn-on",
+   "noun": "oven",
+   "score": 0.122079
+  },
+  {
+   "segment": [
+    60.5,
+    61.5
+   ],
+   "verb": "put",
+   "noun": "plate",
+   "score": 0.158147
+  },
+  {
+   "segment": [
+    60.5,
+    61.5
+   ],
+   "verb": "turn-off",
+   "noun": "oven",
+   "score": 0.125283
+  },
+  {
+   "segment": [
+    60.5,
+    61.5
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.124349
+  },
+  {
+   "segment": [
+    61.0,
+    63.0
+   ],
+   "verb": "turn-off",
+   "noun": "oven",
+   "score": 0.299359
+  },
+  {
+   "segment": [
+    61.0,
+    62.0
+   ],
+   "verb": "turn-off",
+   "noun": "oven",
+   "score": 0.237535
+  },
+  {
+   "segment": [
+    61.0,
+    63.0
+   ],
+   "verb": "turn-on",
+   "noun": "oven",
+   "score": 0.202643
+  },
+  {
+   "segment": [
+    61.0,
+    63.0
+   ],
+   "verb": "adjust",
+   "noun": "heat",
+   "score": 0.175611
+  },
+  {
+   "segment": [
+    61.0,
+    62.0
+   ],
+   "verb": "turn-on",
+   "noun": "oven",
+   "score": 0.167818
+  },
+  {
+   "segment": [
+    61.0,
+    62.0
+   ],
+   "verb": "turn-off",
+   "noun": "hob",
+   "score": 0.154121
+  },
+  {
+   "segment": [
+    61.5,
+    62.5
+   ],
+   "verb": "turn-off",
+   "noun": "oven",
+   "score": 0.340741
+  },
+  {
+   "segment": [
+    61.5,
+    65.0
+   ],
+   "verb": "turn-off",
+   "noun": "oven",
+   "score": 0.234988
+  },
+  {
+   "segment": [
+    61.5,
+    62.5
+   ],
+   "verb": "turn-on",
+   "noun": "oven",
+   "score": 0.231633
+  },
+  {
+   "segment": [
+    61.5,
+    62.5
+   ],
+   "verb": "adjust",
+   "noun": "heat",
+   "score": 0.199994
+  },
+  {
+   "segment": [
+    61.5,
+    65.0
+   ],
+   "verb": "put",
+   "noun": "plate",
+   "score": 0.195343
+  },
+  {
+   "segment": [
+    61.5,
+    65.0
+   ],
+   "verb": "turn-on",
+   "noun": "oven",
+   "score": 0.156736
+  },
+  {
+   "segment": [
+    62.0,
+    63.0
+   ],
+   "verb": "turn-off",
+   "noun": "oven",
+   "score": 0.353793
+  },
+  {
+   "segment": [
+    62.0,
+    64.0
+   ],
+   "verb": "turn-off",
+   "noun": "oven",
+   "score": 0.279561
+  },
+  {
+   "segment": [
+    62.0,
+    63.0
+   ],
+   "verb": "turn-on",
+   "noun": "oven",
+   "score": 0.234231
+  },
+  {
+   "segment": [
+    62.0,
+    63.0
+   ],
+   "verb": "adjust",
+   "noun": "heat",
+   "score": 0.197302
+  },
+  {
+   "segment": [
+    62.0,
+    64.0
+   ],
+   "verb": "turn-on",
+   "noun": "oven",
+   "score": 0.183743
+  },
+  {
+   "segment": [
+    62.0,
+    64.0
+   ],
+   "verb": "adjust",
+   "noun": "heat",
+   "score": 0.156393
+  },
+  {
+   "segment": [
+    62.5,
+    63.5
+   ],
+   "verb": "turn-off",
+   "noun": "oven",
+   "score": 0.3002
+  },
+  {
+   "segment": [
+    62.5,
+    63.5
+   ],
+   "verb": "turn-on",
+   "noun": "oven",
+   "score": 0.193772
+  },
+  {
+   "segment": [
+    62.5,
+    63.5
+   ],
+   "verb": "adjust",
+   "noun": "heat",
+   "score": 0.161739
+  },
+  {
+   "segment": [
+    63.0,
+    65.0
+   ],
+   "verb": "put",
+   "noun": "plate",
+   "score": 0.25171
+  },
+  {
+   "segment": [
+    63.0,
+    64.0
+   ],
+   "verb": "put",
+   "noun": "plate",
+   "score": 0.174523
+  },
+  {
+   "segment": [
+    63.0,
+    64.0
+   ],
+   "verb": "turn-off",
+   "noun": "oven",
+   "score": 0.171349
+  },
+  {
+   "segment": [
+    63.0,
+    64.0
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.128826
+  },
+  {
+   "segment": [
+    63.0,
+    65.0
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.124418
+  },
+  {
+   "segment": [
+    63.0,
+    65.0
+   ],
+   "verb": "put",
+   "noun": "pot",
+   "score": 0.118307
+  },
+  {
+   "segment": [
+    63.5,
+    64.5
+   ],
+   "verb": "put",
+   "noun": "plate",
+   "score": 0.246484
+  },
+  {
+   "segment": [
+    63.5,
+    64.5
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.133517
+  },
+  {
+   "segment": [
+    63.5,
+    64.5
+   ],
+   "verb": "put",
+   "noun": "pot",
+   "score": 0.127965
+  },
+  {
+   "segment": [
+    64.0,
+    65.0
+   ],
+   "verb": "put",
+   "noun": "plate",
+   "score": 0.300731
+  },
+  {
+   "segment": [
+    64.0,
+    66.0
+   ],
+   "verb": "put",
+   "noun": "plate",
+   "score": 0.280628
+  },
+  {
+   "segment": [
+    64.0,
+    66.0
+   ],
+   "verb": "take",
+   "noun": "plate",
+   "score": 0.147023
+  },
+  {
+   "segment": [
+    64.0,
+    65.0
+   ],
+   "verb": "take",
+   "noun": "plate",
+   "score": 0.134422
+  },
+  {
+   "segment": [
+    64.0,
+    65.0
+   ],
+   "verb": "remove",
+   "noun": "plate",
+   "score": 0.12937
+  },
+  {
+   "segment": [
+    64.0,
+    66.0
+   ],
+   "verb": "remove",
+   "noun": "plate",
+   "score": 0.125307
+  },
+  {
+   "segment": [
+    64.5,
+    65.5
+   ],
+   "verb": "put",
+   "noun": "plate",
+   "score": 0.292305
+  },
+  {
+   "segment": [
+    64.5,
+    65.5
+   ],
+   "verb": "take",
+   "noun": "plate",
+   "score": 0.149695
+  },
+  {
+   "segment": [
+    64.5,
+    65.5
+   ],
+   "verb": "remove",
+   "noun": "plate",
+   "score": 0.131317
+  },
+  {
+   "segment": [
+    65.0,
+    66.0
+   ],
+   "verb": "put",
+   "noun": "plate",
+   "score": 0.260485
+  },
+  {
+   "segment": [
+    65.0,
+    66.0
+   ],
+   "verb": "take",
+   "noun": "plate",
+   "score": 0.155999
+  },
+  {
+   "segment": [
+    65.0,
+    66.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.141846
+  }
+ ],
+ "highlights": [
+  {
+   "segment": [
+    15.5,
+    20.37
+   ]
+  },
+  {
+   "segment": [
+    33.5,
+    38.37
+   ]
+  }
+ ]
+}

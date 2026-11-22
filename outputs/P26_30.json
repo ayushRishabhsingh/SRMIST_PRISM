@@ -1,0 +1,1504 @@
+{
+ "team_id": "SRMIST_PRISM",
+ "video_id": "P26_30",
+ "duration_sec": 15.3,
+ "label": {
+  "name": "cooking",
+  "score": 0.9999
+ },
+ "actions": [
+  {
+   "segment": [
+    0.0,
+    1.0
+   ],
+   "verb": "put",
+   "noun": "hob",
+   "score": 0.205139
+  },
+  {
+   "segment": [
+    0.0,
+    1.0
+   ],
+   "verb": "take",
+   "noun": "hob",
+   "score": 0.190055
+  },
+  {
+   "segment": [
+    0.0,
+    1.0
+   ],
+   "verb": "move",
+   "noun": "hob",
+   "score": 0.179983
+  },
+  {
+   "segment": [
+    0.0,
+    6.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.176721
+  },
+  {
+   "segment": [
+    0.0,
+    3.5
+   ],
+   "verb": "throw",
+   "noun": "sink",
+   "score": 0.162499
+  },
+  {
+   "segment": [
+    0.0,
+    2.0
+   ],
+   "verb": "put",
+   "noun": "hob",
+   "score": 0.157374
+  },
+  {
+   "segment": [
+    0.0,
+    2.0
+   ],
+   "verb": "take",
+   "noun": "hob",
+   "score": 0.147044
+  },
+  {
+   "segment": [
+    0.0,
+    2.0
+   ],
+   "verb": "move",
+   "noun": "hob",
+   "score": 0.139365
+  },
+  {
+   "segment": [
+    0.0,
+    6.0
+   ],
+   "verb": "throw",
+   "noun": "sink",
+   "score": 0.139326
+  },
+  {
+   "segment": [
+    0.0,
+    6.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.133854
+  },
+  {
+   "segment": [
+    0.0,
+    3.5
+   ],
+   "verb": "put",
+   "noun": "hob",
+   "score": 0.124758
+  },
+  {
+   "segment": [
+    0.0,
+    3.5
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.122571
+  },
+  {
+   "segment": [
+    0.5,
+    1.5
+   ],
+   "verb": "put",
+   "noun": "hob",
+   "score": 0.155948
+  },
+  {
+   "segment": [
+    0.5,
+    1.5
+   ],
+   "verb": "take",
+   "noun": "hob",
+   "score": 0.145811
+  },
+  {
+   "segment": [
+    0.5,
+    1.5
+   ],
+   "verb": "move",
+   "noun": "hob",
+   "score": 0.139101
+  },
+  {
+   "segment": [
+    1.0,
+    3.0
+   ],
+   "verb": "throw",
+   "noun": "sink",
+   "score": 0.209797
+  },
+  {
+   "segment": [
+    1.0,
+    2.0
+   ],
+   "verb": "throw",
+   "noun": "sink",
+   "score": 0.173094
+  },
+  {
+   "segment": [
+    1.0,
+    3.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.133078
+  },
+  {
+   "segment": [
+    1.0,
+    3.0
+   ],
+   "verb": "turn-off",
+   "noun": "tap",
+   "score": 0.128708
+  },
+  {
+   "segment": [
+    1.0,
+    2.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.098728
+  },
+  {
+   "segment": [
+    1.0,
+    2.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.095098
+  },
+  {
+   "segment": [
+    1.5,
+    2.5
+   ],
+   "verb": "throw",
+   "noun": "sink",
+   "score": 0.233553
+  },
+  {
+   "segment": [
+    1.5,
+    5.0
+   ],
+   "verb": "throw",
+   "noun": "sink",
+   "score": 0.174158
+  },
+  {
+   "segment": [
+    1.5,
+    5.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.171547
+  },
+  {
+   "segment": [
+    1.5,
+    5.0
+   ],
+   "verb": "move",
+   "noun": "utensil",
+   "score": 0.144723
+  },
+  {
+   "segment": [
+    1.5,
+    2.5
+   ],
+   "verb": "turn-off",
+   "noun": "tap",
+   "score": 0.139181
+  },
+  {
+   "segment": [
+    1.5,
+    2.5
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.13138
+  },
+  {
+   "segment": [
+    2.0,
+    3.0
+   ],
+   "verb": "throw",
+   "noun": "sink",
+   "score": 0.246125
+  },
+  {
+   "segment": [
+    2.0,
+    4.0
+   ],
+   "verb": "throw",
+   "noun": "sink",
+   "score": 0.178499
+  },
+  {
+   "segment": [
+    2.0,
+    3.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.16824
+  },
+  {
+   "segment": [
+    2.0,
+    4.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.16404
+  },
+  {
+   "segment": [
+    2.0,
+    3.0
+   ],
+   "verb": "turn-off",
+   "noun": "tap",
+   "score": 0.161671
+  },
+  {
+   "segment": [
+    2.0,
+    4.0
+   ],
+   "verb": "move",
+   "noun": "utensil",
+   "score": 0.137925
+  },
+  {
+   "segment": [
+    2.5,
+    3.5
+   ],
+   "verb": "throw",
+   "noun": "sink",
+   "score": 0.179751
+  },
+  {
+   "segment": [
+    2.5,
+    3.5
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.171153
+  },
+  {
+   "segment": [
+    2.5,
+    3.5
+   ],
+   "verb": "move",
+   "noun": "utensil",
+   "score": 0.136564
+  },
+  {
+   "segment": [
+    3.0,
+    6.5
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.241048
+  },
+  {
+   "segment": [
+    3.0,
+    9.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.198233
+  },
+  {
+   "segment": [
+    3.0,
+    5.0
+   ],
+   "verb": "move",
+   "noun": "utensil",
+   "score": 0.191858
+  },
+  {
+   "segment": [
+    3.0,
+    5.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.191093
+  },
+  {
+   "segment": [
+    3.0,
+    4.0
+   ],
+   "verb": "move",
+   "noun": "utensil",
+   "score": 0.179491
+  },
+  {
+   "segment": [
+    3.0,
+    6.5
+   ],
+   "verb": "move",
+   "noun": "utensil",
+   "score": 0.17732
+  },
+  {
+   "segment": [
+    3.0,
+    6.5
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.177312
+  },
+  {
+   "segment": [
+    3.0,
+    9.0
+   ],
+   "verb": "move",
+   "noun": "utensil",
+   "score": 0.166715
+  },
+  {
+   "segment": [
+    3.0,
+    4.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.15984
+  },
+  {
+   "segment": [
+    3.0,
+    9.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.148839
+  },
+  {
+   "segment": [
+    3.0,
+    5.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.143244
+  },
+  {
+   "segment": [
+    3.0,
+    4.0
+   ],
+   "verb": "take",
+   "noun": "ladle",
+   "score": 0.128859
+  },
+  {
+   "segment": [
+    3.5,
+    4.5
+   ],
+   "verb": "move",
+   "noun": "utensil",
+   "score": 0.218105
+  },
+  {
+   "segment": [
+    3.5,
+    4.5
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.178711
+  },
+  {
+   "segment": [
+    3.5,
+    4.5
+   ],
+   "verb": "put",
+   "noun": "ladle",
+   "score": 0.149327
+  },
+  {
+   "segment": [
+    4.0,
+    6.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.271016
+  },
+  {
+   "segment": [
+    4.0,
+    5.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.222292
+  },
+  {
+   "segment": [
+    4.0,
+    6.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.201739
+  },
+  {
+   "segment": [
+    4.0,
+    5.0
+   ],
+   "verb": "move",
+   "noun": "utensil",
+   "score": 0.201282
+  },
+  {
+   "segment": [
+    4.0,
+    6.0
+   ],
+   "verb": "open",
+   "noun": "drawer",
+   "score": 0.184419
+  },
+  {
+   "segment": [
+    4.0,
+    5.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.169914
+  },
+  {
+   "segment": [
+    4.5,
+    5.5
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.280203
+  },
+  {
+   "segment": [
+    4.5,
+    8.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.228317
+  },
+  {
+   "segment": [
+    4.5,
+    5.5
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.211182
+  },
+  {
+   "segment": [
+    4.5,
+    5.5
+   ],
+   "verb": "open",
+   "noun": "drawer",
+   "score": 0.198606
+  },
+  {
+   "segment": [
+    4.5,
+    8.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.171475
+  },
+  {
+   "segment": [
+    4.5,
+    8.0
+   ],
+   "verb": "open",
+   "noun": "drawer",
+   "score": 0.159938
+  },
+  {
+   "segment": [
+    5.0,
+    6.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.312226
+  },
+  {
+   "segment": [
+    5.0,
+    7.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.273706
+  },
+  {
+   "segment": [
+    5.0,
+    6.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.229187
+  },
+  {
+   "segment": [
+    5.0,
+    6.0
+   ],
+   "verb": "open",
+   "noun": "drawer",
+   "score": 0.205131
+  },
+  {
+   "segment": [
+    5.0,
+    7.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.200209
+  },
+  {
+   "segment": [
+    5.0,
+    7.0
+   ],
+   "verb": "open",
+   "noun": "drawer",
+   "score": 0.177335
+  },
+  {
+   "segment": [
+    5.5,
+    6.5
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.290031
+  },
+  {
+   "segment": [
+    5.5,
+    6.5
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.207818
+  },
+  {
+   "segment": [
+    5.5,
+    6.5
+   ],
+   "verb": "open",
+   "noun": "drawer",
+   "score": 0.178295
+  },
+  {
+   "segment": [
+    6.0,
+    7.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.228312
+  },
+  {
+   "segment": [
+    6.0,
+    8.0
+   ],
+   "verb": "transition",
+   "noun": "sink",
+   "score": 0.200049
+  },
+  {
+   "segment": [
+    6.0,
+    7.0
+   ],
+   "verb": "transition",
+   "noun": "sink",
+   "score": 0.180343
+  },
+  {
+   "segment": [
+    6.0,
+    8.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.175321
+  },
+  {
+   "segment": [
+    6.0,
+    9.5
+   ],
+   "verb": "transition",
+   "noun": "sink",
+   "score": 0.166885
+  },
+  {
+   "segment": [
+    6.0,
+    7.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.165892
+  },
+  {
+   "segment": [
+    6.0,
+    9.5
+   ],
+   "verb": "move",
+   "noun": "utensil",
+   "score": 0.155521
+  },
+  {
+   "segment": [
+    6.0,
+    9.5
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.15098
+  },
+  {
+   "segment": [
+    6.0,
+    12.0
+   ],
+   "verb": "transition",
+   "noun": "sink",
+   "score": 0.138363
+  },
+  {
+   "segment": [
+    6.0,
+    8.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.1344
+  },
+  {
+   "segment": [
+    6.0,
+    12.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.132456
+  },
+  {
+   "segment": [
+    6.0,
+    12.0
+   ],
+   "verb": "move",
+   "noun": "utensil",
+   "score": 0.131003
+  },
+  {
+   "segment": [
+    6.5,
+    7.5
+   ],
+   "verb": "transition",
+   "noun": "sink",
+   "score": 0.220483
+  },
+  {
+   "segment": [
+    6.5,
+    7.5
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.142699
+  },
+  {
+   "segment": [
+    6.5,
+    7.5
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.141334
+  },
+  {
+   "segment": [
+    7.0,
+    8.0
+   ],
+   "verb": "transition",
+   "noun": "sink",
+   "score": 0.213226
+  },
+  {
+   "segment": [
+    7.0,
+    9.0
+   ],
+   "verb": "transition",
+   "noun": "sink",
+   "score": 0.173511
+  },
+  {
+   "segment": [
+    7.0,
+    9.0
+   ],
+   "verb": "move",
+   "noun": "utensil",
+   "score": 0.157594
+  },
+  {
+   "segment": [
+    7.0,
+    8.0
+   ],
+   "verb": "move",
+   "noun": "tap",
+   "score": 0.135895
+  },
+  {
+   "segment": [
+    7.0,
+    9.0
+   ],
+   "verb": "move",
+   "noun": "colander",
+   "score": 0.135736
+  },
+  {
+   "segment": [
+    7.0,
+    8.0
+   ],
+   "verb": "turn-on",
+   "noun": "tap",
+   "score": 0.130087
+  },
+  {
+   "segment": [
+    7.5,
+    8.5
+   ],
+   "verb": "transition",
+   "noun": "sink",
+   "score": 0.175775
+  },
+  {
+   "segment": [
+    7.5,
+    8.5
+   ],
+   "verb": "move",
+   "noun": "utensil",
+   "score": 0.153305
+  },
+  {
+   "segment": [
+    7.5,
+    11.0
+   ],
+   "verb": "move",
+   "noun": "utensil",
+   "score": 0.149394
+  },
+  {
+   "segment": [
+    7.5,
+    8.5
+   ],
+   "verb": "move",
+   "noun": "colander",
+   "score": 0.138361
+  },
+  {
+   "segment": [
+    7.5,
+    11.0
+   ],
+   "verb": "move",
+   "noun": "colander",
+   "score": 0.124156
+  },
+  {
+   "segment": [
+    7.5,
+    11.0
+   ],
+   "verb": "transition",
+   "noun": "sink",
+   "score": 0.115232
+  },
+  {
+   "segment": [
+    8.0,
+    9.0
+   ],
+   "verb": "move",
+   "noun": "utensil",
+   "score": 0.195694
+  },
+  {
+   "segment": [
+    8.0,
+    10.0
+   ],
+   "verb": "move",
+   "noun": "utensil",
+   "score": 0.180427
+  },
+  {
+   "segment": [
+    8.0,
+    9.0
+   ],
+   "verb": "move",
+   "noun": "colander",
+   "score": 0.177385
+  },
+  {
+   "segment": [
+    8.0,
+    10.0
+   ],
+   "verb": "move",
+   "noun": "colander",
+   "score": 0.154625
+  },
+  {
+   "segment": [
+    8.0,
+    9.0
+   ],
+   "verb": "filter",
+   "noun": "cup",
+   "score": 0.145157
+  },
+  {
+   "segment": [
+    8.0,
+    10.0
+   ],
+   "verb": "put",
+   "noun": "colander",
+   "score": 0.125861
+  },
+  {
+   "segment": [
+    8.5,
+    9.5
+   ],
+   "verb": "move",
+   "noun": "utensil",
+   "score": 0.204275
+  },
+  {
+   "segment": [
+    8.5,
+    9.5
+   ],
+   "verb": "move",
+   "noun": "colander",
+   "score": 0.177488
+  },
+  {
+   "segment": [
+    8.5,
+    9.5
+   ],
+   "verb": "put",
+   "noun": "colander",
+   "score": 0.145148
+  },
+  {
+   "segment": [
+    9.0,
+    15.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.181948
+  },
+  {
+   "segment": [
+    9.0,
+    10.0
+   ],
+   "verb": "move",
+   "noun": "utensil",
+   "score": 0.164916
+  },
+  {
+   "segment": [
+    9.0,
+    15.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.160133
+  },
+  {
+   "segment": [
+    9.0,
+    10.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.144985
+  },
+  {
+   "segment": [
+    9.0,
+    10.0
+   ],
+   "verb": "take",
+   "noun": "sponge",
+   "score": 0.132866
+  },
+  {
+   "segment": [
+    9.0,
+    11.0
+   ],
+   "verb": "move",
+   "noun": "utensil",
+   "score": 0.129095
+  },
+  {
+   "segment": [
+    9.0,
+    11.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.128012
+  },
+  {
+   "segment": [
+    9.0,
+    11.0
+   ],
+   "verb": "take",
+   "noun": "sponge",
+   "score": 0.121431
+  },
+  {
+   "segment": [
+    9.0,
+    12.5
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.116469
+  },
+  {
+   "segment": [
+    9.0,
+    12.5
+   ],
+   "verb": "take",
+   "noun": "sponge",
+   "score": 0.114719
+  },
+  {
+   "segment": [
+    9.0,
+    12.5
+   ],
+   "verb": "throw",
+   "noun": "sink",
+   "score": 0.113635
+  },
+  {
+   "segment": [
+    9.0,
+    15.0
+   ],
+   "verb": "throw",
+   "noun": "sink",
+   "score": 0.104872
+  },
+  {
+   "segment": [
+    9.5,
+    10.5
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.139429
+  },
+  {
+   "segment": [
+    9.5,
+    10.5
+   ],
+   "verb": "take",
+   "noun": "sponge",
+   "score": 0.12802
+  },
+  {
+   "segment": [
+    9.5,
+    10.5
+   ],
+   "verb": "move",
+   "noun": "utensil",
+   "score": 0.116692
+  },
+  {
+   "segment": [
+    10.0,
+    11.0
+   ],
+   "verb": "throw",
+   "noun": "sink",
+   "score": 0.129644
+  },
+  {
+   "segment": [
+    10.0,
+    12.0
+   ],
+   "verb": "throw",
+   "noun": "sink",
+   "score": 0.126823
+  },
+  {
+   "segment": [
+    10.0,
+    12.0
+   ],
+   "verb": "empty",
+   "noun": "sink",
+   "score": 0.118843
+  },
+  {
+   "segment": [
+    10.0,
+    12.0
+   ],
+   "verb": "filter",
+   "noun": "sink",
+   "score": 0.118698
+  },
+  {
+   "segment": [
+    10.0,
+    11.0
+   ],
+   "verb": "filter",
+   "noun": "sink",
+   "score": 0.111153
+  },
+  {
+   "segment": [
+    10.0,
+    11.0
+   ],
+   "verb": "empty",
+   "noun": "sink",
+   "score": 0.110564
+  },
+  {
+   "segment": [
+    10.5,
+    14.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.170198
+  },
+  {
+   "segment": [
+    10.5,
+    14.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.149948
+  },
+  {
+   "segment": [
+    10.5,
+    11.5
+   ],
+   "verb": "throw",
+   "noun": "sink",
+   "score": 0.130314
+  },
+  {
+   "segment": [
+    10.5,
+    11.5
+   ],
+   "verb": "empty",
+   "noun": "sink",
+   "score": 0.124164
+  },
+  {
+   "segment": [
+    10.5,
+    11.5
+   ],
+   "verb": "filter",
+   "noun": "sink",
+   "score": 0.122781
+  },
+  {
+   "segment": [
+    10.5,
+    14.0
+   ],
+   "verb": "throw",
+   "noun": "sink",
+   "score": 0.105935
+  },
+  {
+   "segment": [
+    11.0,
+    12.0
+   ],
+   "verb": "empty",
+   "noun": "sink",
+   "score": 0.127002
+  },
+  {
+   "segment": [
+    11.0,
+    12.0
+   ],
+   "verb": "filter",
+   "noun": "sink",
+   "score": 0.126164
+  },
+  {
+   "segment": [
+    11.0,
+    12.0
+   ],
+   "verb": "throw",
+   "noun": "sink",
+   "score": 0.123521
+  },
+  {
+   "segment": [
+    11.0,
+    13.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.120507
+  },
+  {
+   "segment": [
+    11.0,
+    13.0
+   ],
+   "verb": "empty",
+   "noun": "sink",
+   "score": 0.114478
+  },
+  {
+   "segment": [
+    11.0,
+    13.0
+   ],
+   "verb": "put",
+   "noun": "sponge",
+   "score": 0.112488
+  },
+  {
+   "segment": [
+    11.5,
+    12.5
+   ],
+   "verb": "put",
+   "noun": "sponge",
+   "score": 0.117966
+  },
+  {
+   "segment": [
+    11.5,
+    12.5
+   ],
+   "verb": "empty",
+   "noun": "sink",
+   "score": 0.115029
+  },
+  {
+   "segment": [
+    11.5,
+    12.5
+   ],
+   "verb": "filter",
+   "noun": "sink",
+   "score": 0.113481
+  },
+  {
+   "segment": [
+    12.0,
+    14.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.212692
+  },
+  {
+   "segment": [
+    12.0,
+    14.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.19002
+  },
+  {
+   "segment": [
+    12.0,
+    13.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.152778
+  },
+  {
+   "segment": [
+    12.0,
+    14.0
+   ],
+   "verb": "open",
+   "noun": "drawer",
+   "score": 0.120074
+  },
+  {
+   "segment": [
+    12.0,
+    13.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.118336
+  },
+  {
+   "segment": [
+    12.0,
+    13.0
+   ],
+   "verb": "put",
+   "noun": "sponge",
+   "score": 0.102519
+  },
+  {
+   "segment": [
+    12.5,
+    13.5
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.223352
+  },
+  {
+   "segment": [
+    12.5,
+    13.5
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.198622
+  },
+  {
+   "segment": [
+    12.5,
+    13.5
+   ],
+   "verb": "open",
+   "noun": "drawer",
+   "score": 0.127717
+  },
+  {
+   "segment": [
+    13.0,
+    14.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.248356
+  },
+  {
+   "segment": [
+    13.0,
+    15.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.240898
+  },
+  {
+   "segment": [
+    13.0,
+    14.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.230051
+  },
+  {
+   "segment": [
+    13.0,
+    15.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.22259
+  },
+  {
+   "segment": [
+    13.0,
+    14.0
+   ],
+   "verb": "open",
+   "noun": "drawer",
+   "score": 0.136318
+  },
+  {
+   "segment": [
+    13.0,
+    15.0
+   ],
+   "verb": "move",
+   "noun": "cupboard",
+   "score": 0.130501
+  },
+  {
+   "segment": [
+    13.5,
+    14.5
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.257288
+  },
+  {
+   "segment": [
+    13.5,
+    14.5
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.240259
+  },
+  {
+   "segment": [
+    13.5,
+    14.5
+   ],
+   "verb": "move",
+   "noun": "cupboard",
+   "score": 0.135744
+  },
+  {
+   "segment": [
+    14.0,
+    15.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.233288
+  },
+  {
+   "segment": [
+    14.0,
+    15.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.215015
+  },
+  {
+   "segment": [
+    14.0,
+    15.0
+   ],
+   "verb": "move",
+   "noun": "cupboard",
+   "score": 0.131898
+  }
+ ],
+ "highlights": [
+  {
+   "segment": [
+    6.5,
+    10.6
+   ]
+  }
+ ]
+}

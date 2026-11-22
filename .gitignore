@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+weights/hf/
+weights/text_cache/
+*.mp4
+*.MP4
+*.part
+*.tmp
+.ipynb_checkpoints/

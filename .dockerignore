@@ -1,0 +1,4 @@
+.git
+weights/hf
+weights/text_cache
+**/__pycache__

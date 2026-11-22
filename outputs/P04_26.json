@@ -1,0 +1,3826 @@
+{
+ "team_id": "SRMIST_PRISM",
+ "video_id": "P04_26",
+ "duration_sec": 36.91,
+ "label": {
+  "name": "cooking",
+  "score": 0.999
+ },
+ "actions": [
+  {
+   "segment": [
+    0.0,
+    1.0
+   ],
+   "verb": "open",
+   "noun": "dishwasher",
+   "score": 0.209395
+  },
+  {
+   "segment": [
+    0.0,
+    2.0
+   ],
+   "verb": "open",
+   "noun": "dishwasher",
+   "score": 0.198291
+  },
+  {
+   "segment": [
+    0.0,
+    1.0
+   ],
+   "verb": "move",
+   "noun": "chair",
+   "score": 0.182394
+  },
+  {
+   "segment": [
+    0.0,
+    1.0
+   ],
+   "verb": "pull",
+   "noun": "dishwasher",
+   "score": 0.170932
+  },
+  {
+   "segment": [
+    0.0,
+    2.0
+   ],
+   "verb": "pull",
+   "noun": "dishwasher",
+   "score": 0.15959
+  },
+  {
+   "segment": [
+    0.0,
+    3.5
+   ],
+   "verb": "open",
+   "noun": "dishwasher",
+   "score": 0.154342
+  },
+  {
+   "segment": [
+    0.0,
+    6.0
+   ],
+   "verb": "put",
+   "noun": "chilli",
+   "score": 0.144759
+  },
+  {
+   "segment": [
+    0.0,
+    6.0
+   ],
+   "verb": "put",
+   "noun": "potato",
+   "score": 0.137127
+  },
+  {
+   "segment": [
+    0.0,
+    2.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.136557
+  },
+  {
+   "segment": [
+    0.0,
+    3.5
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.12541
+  },
+  {
+   "segment": [
+    0.0,
+    3.5
+   ],
+   "verb": "pull",
+   "noun": "dishwasher",
+   "score": 0.124242
+  },
+  {
+   "segment": [
+    0.0,
+    6.0
+   ],
+   "verb": "open",
+   "noun": "dishwasher",
+   "score": 0.120757
+  },
+  {
+   "segment": [
+    0.5,
+    1.5
+   ],
+   "verb": "open",
+   "noun": "dishwasher",
+   "score": 0.218269
+  },
+  {
+   "segment": [
+    0.5,
+    1.5
+   ],
+   "verb": "pull",
+   "noun": "dishwasher",
+   "score": 0.175047
+  },
+  {
+   "segment": [
+    0.5,
+    1.5
+   ],
+   "verb": "close",
+   "noun": "dishwasher",
+   "score": 0.15026
+  },
+  {
+   "segment": [
+    1.0,
+    2.0
+   ],
+   "verb": "open",
+   "noun": "dishwasher",
+   "score": 0.186047
+  },
+  {
+   "segment": [
+    1.0,
+    2.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.149247
+  },
+  {
+   "segment": [
+    1.0,
+    2.0
+   ],
+   "verb": "pull",
+   "noun": "dishwasher",
+   "score": 0.146889
+  },
+  {
+   "segment": [
+    1.0,
+    3.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.138434
+  },
+  {
+   "segment": [
+    1.0,
+    3.0
+   ],
+   "verb": "open",
+   "noun": "dishwasher",
+   "score": 0.134042
+  },
+  {
+   "segment": [
+    1.0,
+    3.0
+   ],
+   "verb": "take",
+   "noun": "hob",
+   "score": 0.123154
+  },
+  {
+   "segment": [
+    1.5,
+    5.0
+   ],
+   "verb": "put",
+   "noun": "potato",
+   "score": 0.173376
+  },
+  {
+   "segment": [
+    1.5,
+    2.5
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.150768
+  },
+  {
+   "segment": [
+    1.5,
+    5.0
+   ],
+   "verb": "put",
+   "noun": "chilli",
+   "score": 0.145598
+  },
+  {
+   "segment": [
+    1.5,
+    2.5
+   ],
+   "verb": "take",
+   "noun": "hob",
+   "score": 0.13821
+  },
+  {
+   "segment": [
+    1.5,
+    2.5
+   ],
+   "verb": "put",
+   "noun": "hob",
+   "score": 0.136551
+  },
+  {
+   "segment": [
+    1.5,
+    5.0
+   ],
+   "verb": "mix",
+   "noun": "curry",
+   "score": 0.132361
+  },
+  {
+   "segment": [
+    2.0,
+    4.0
+   ],
+   "verb": "put",
+   "noun": "potato",
+   "score": 0.177145
+  },
+  {
+   "segment": [
+    2.0,
+    4.0
+   ],
+   "verb": "put",
+   "noun": "chilli",
+   "score": 0.127959
+  },
+  {
+   "segment": [
+    2.0,
+    4.0
+   ],
+   "verb": "mix",
+   "noun": "curry",
+   "score": 0.126731
+  },
+  {
+   "segment": [
+    2.0,
+    3.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.1256
+  },
+  {
+   "segment": [
+    2.0,
+    3.0
+   ],
+   "verb": "take",
+   "noun": "hob",
+   "score": 0.120179
+  },
+  {
+   "segment": [
+    2.0,
+    3.0
+   ],
+   "verb": "put",
+   "noun": "hob",
+   "score": 0.119315
+  },
+  {
+   "segment": [
+    2.5,
+    3.5
+   ],
+   "verb": "put",
+   "noun": "potato",
+   "score": 0.18317
+  },
+  {
+   "segment": [
+    2.5,
+    3.5
+   ],
+   "verb": "mix",
+   "noun": "curry",
+   "score": 0.134933
+  },
+  {
+   "segment": [
+    2.5,
+    3.5
+   ],
+   "verb": "put",
+   "noun": "chilli",
+   "score": 0.129269
+  },
+  {
+   "segment": [
+    3.0,
+    9.0
+   ],
+   "verb": "cut",
+   "noun": "chilli",
+   "score": 0.458715
+  },
+  {
+   "segment": [
+    3.0,
+    4.0
+   ],
+   "verb": "put",
+   "noun": "potato",
+   "score": 0.22983
+  },
+  {
+   "segment": [
+    3.0,
+    5.0
+   ],
+   "verb": "put",
+   "noun": "potato",
+   "score": 0.219581
+  },
+  {
+   "segment": [
+    3.0,
+    9.0
+   ],
+   "verb": "put",
+   "noun": "chilli",
+   "score": 0.217993
+  },
+  {
+   "segment": [
+    3.0,
+    6.5
+   ],
+   "verb": "cut",
+   "noun": "chilli",
+   "score": 0.211396
+  },
+  {
+   "segment": [
+    3.0,
+    6.5
+   ],
+   "verb": "put",
+   "noun": "chilli",
+   "score": 0.201815
+  },
+  {
+   "segment": [
+    3.0,
+    5.0
+   ],
+   "verb": "put",
+   "noun": "chilli",
+   "score": 0.187182
+  },
+  {
+   "segment": [
+    3.0,
+    9.0
+   ],
+   "verb": "take",
+   "noun": "chilli",
+   "score": 0.17732
+  },
+  {
+   "segment": [
+    3.0,
+    6.5
+   ],
+   "verb": "put",
+   "noun": "potato",
+   "score": 0.175155
+  },
+  {
+   "segment": [
+    3.0,
+    4.0
+   ],
+   "verb": "put",
+   "noun": "chilli",
+   "score": 0.166051
+  },
+  {
+   "segment": [
+    3.0,
+    5.0
+   ],
+   "verb": "put",
+   "noun": "curry",
+   "score": 0.159859
+  },
+  {
+   "segment": [
+    3.0,
+    4.0
+   ],
+   "verb": "put",
+   "noun": "curry",
+   "score": 0.144878
+  },
+  {
+   "segment": [
+    3.5,
+    4.5
+   ],
+   "verb": "put",
+   "noun": "potato",
+   "score": 0.238226
+  },
+  {
+   "segment": [
+    3.5,
+    4.5
+   ],
+   "verb": "put",
+   "noun": "chilli",
+   "score": 0.176318
+  },
+  {
+   "segment": [
+    3.5,
+    4.5
+   ],
+   "verb": "put",
+   "noun": "curry",
+   "score": 0.173322
+  },
+  {
+   "segment": [
+    4.0,
+    6.0
+   ],
+   "verb": "put",
+   "noun": "chilli",
+   "score": 0.222006
+  },
+  {
+   "segment": [
+    4.0,
+    5.0
+   ],
+   "verb": "put",
+   "noun": "potato",
+   "score": 0.209131
+  },
+  {
+   "segment": [
+    4.0,
+    5.0
+   ],
+   "verb": "put",
+   "noun": "chilli",
+   "score": 0.205506
+  },
+  {
+   "segment": [
+    4.0,
+    5.0
+   ],
+   "verb": "mix",
+   "noun": "curry",
+   "score": 0.173606
+  },
+  {
+   "segment": [
+    4.0,
+    6.0
+   ],
+   "verb": "cut",
+   "noun": "chilli",
+   "score": 0.171184
+  },
+  {
+   "segment": [
+    4.0,
+    6.0
+   ],
+   "verb": "take",
+   "noun": "chilli",
+   "score": 0.165847
+  },
+  {
+   "segment": [
+    4.5,
+    8.0
+   ],
+   "verb": "cut",
+   "noun": "chilli",
+   "score": 0.484416
+  },
+  {
+   "segment": [
+    4.5,
+    8.0
+   ],
+   "verb": "put",
+   "noun": "chilli",
+   "score": 0.230672
+  },
+  {
+   "segment": [
+    4.5,
+    5.5
+   ],
+   "verb": "put",
+   "noun": "chilli",
+   "score": 0.228193
+  },
+  {
+   "segment": [
+    4.5,
+    8.0
+   ],
+   "verb": "take",
+   "noun": "chilli",
+   "score": 0.195824
+  },
+  {
+   "segment": [
+    4.5,
+    5.5
+   ],
+   "verb": "take",
+   "noun": "chilli",
+   "score": 0.17283
+  },
+  {
+   "segment": [
+    4.5,
+    5.5
+   ],
+   "verb": "put",
+   "noun": "potato",
+   "score": 0.156793
+  },
+  {
+   "segment": [
+    5.0,
+    7.0
+   ],
+   "verb": "cut",
+   "noun": "chilli",
+   "score": 0.416543
+  },
+  {
+   "segment": [
+    5.0,
+    6.0
+   ],
+   "verb": "cut",
+   "noun": "chilli",
+   "score": 0.239364
+  },
+  {
+   "segment": [
+    5.0,
+    6.0
+   ],
+   "verb": "put",
+   "noun": "chilli",
+   "score": 0.237362
+  },
+  {
+   "segment": [
+    5.0,
+    7.0
+   ],
+   "verb": "put",
+   "noun": "chilli",
+   "score": 0.225863
+  },
+  {
+   "segment": [
+    5.0,
+    7.0
+   ],
+   "verb": "take",
+   "noun": "chilli",
+   "score": 0.189017
+  },
+  {
+   "segment": [
+    5.0,
+    6.0
+   ],
+   "verb": "take",
+   "noun": "chilli",
+   "score": 0.188954
+  },
+  {
+   "segment": [
+    5.5,
+    6.5
+   ],
+   "verb": "cut",
+   "noun": "chilli",
+   "score": 0.386192
+  },
+  {
+   "segment": [
+    5.5,
+    6.5
+   ],
+   "verb": "put",
+   "noun": "chilli",
+   "score": 0.215923
+  },
+  {
+   "segment": [
+    5.5,
+    6.5
+   ],
+   "verb": "take",
+   "noun": "chilli",
+   "score": 0.180697
+  },
+  {
+   "segment": [
+    6.0,
+    9.5
+   ],
+   "verb": "cut",
+   "noun": "chilli",
+   "score": 0.688927
+  },
+  {
+   "segment": [
+    6.0,
+    12.0
+   ],
+   "verb": "cut",
+   "noun": "chilli",
+   "score": 0.685175
+  },
+  {
+   "segment": [
+    6.0,
+    8.0
+   ],
+   "verb": "cut",
+   "noun": "chilli",
+   "score": 0.659279
+  },
+  {
+   "segment": [
+    6.0,
+    7.0
+   ],
+   "verb": "cut",
+   "noun": "chilli",
+   "score": 0.566214
+  },
+  {
+   "segment": [
+    6.0,
+    9.5
+   ],
+   "verb": "put",
+   "noun": "chilli",
+   "score": 0.228411
+  },
+  {
+   "segment": [
+    6.0,
+    12.0
+   ],
+   "verb": "put",
+   "noun": "chilli",
+   "score": 0.222162
+  },
+  {
+   "segment": [
+    6.0,
+    8.0
+   ],
+   "verb": "put",
+   "noun": "chilli",
+   "score": 0.215944
+  },
+  {
+   "segment": [
+    6.0,
+    9.5
+   ],
+   "verb": "take",
+   "noun": "chilli",
+   "score": 0.211169
+  },
+  {
+   "segment": [
+    6.0,
+    12.0
+   ],
+   "verb": "take",
+   "noun": "chilli",
+   "score": 0.204428
+  },
+  {
+   "segment": [
+    6.0,
+    7.0
+   ],
+   "verb": "put",
+   "noun": "chilli",
+   "score": 0.203406
+  },
+  {
+   "segment": [
+    6.0,
+    7.0
+   ],
+   "verb": "cut",
+   "noun": "pepper",
+   "score": 0.202225
+  },
+  {
+   "segment": [
+    6.0,
+    8.0
+   ],
+   "verb": "cut",
+   "noun": "pepper",
+   "score": 0.20202
+  },
+  {
+   "segment": [
+    6.5,
+    7.5
+   ],
+   "verb": "cut",
+   "noun": "chilli",
+   "score": 0.708815
+  },
+  {
+   "segment": [
+    6.5,
+    7.5
+   ],
+   "verb": "put",
+   "noun": "chilli",
+   "score": 0.22242
+  },
+  {
+   "segment": [
+    6.5,
+    7.5
+   ],
+   "verb": "cut",
+   "noun": "pepper",
+   "score": 0.216779
+  },
+  {
+   "segment": [
+    7.0,
+    8.0
+   ],
+   "verb": "cut",
+   "noun": "chilli",
+   "score": 0.751089
+  },
+  {
+   "segment": [
+    7.0,
+    9.0
+   ],
+   "verb": "cut",
+   "noun": "chilli",
+   "score": 0.747902
+  },
+  {
+   "segment": [
+    7.0,
+    9.0
+   ],
+   "verb": "put",
+   "noun": "chilli",
+   "score": 0.236606
+  },
+  {
+   "segment": [
+    7.0,
+    8.0
+   ],
+   "verb": "put",
+   "noun": "chilli",
+   "score": 0.228141
+  },
+  {
+   "segment": [
+    7.0,
+    9.0
+   ],
+   "verb": "take",
+   "noun": "chilli",
+   "score": 0.222395
+  },
+  {
+   "segment": [
+    7.0,
+    8.0
+   ],
+   "verb": "take",
+   "noun": "chilli",
+   "score": 0.219089
+  },
+  {
+   "segment": [
+    7.5,
+    8.5
+   ],
+   "verb": "cut",
+   "noun": "chilli",
+   "score": 0.774211
+  },
+  {
+   "segment": [
+    7.5,
+    11.0
+   ],
+   "verb": "cut",
+   "noun": "chilli",
+   "score": 0.725456
+  },
+  {
+   "segment": [
+    7.5,
+    8.5
+   ],
+   "verb": "put",
+   "noun": "chilli",
+   "score": 0.237405
+  },
+  {
+   "segment": [
+    7.5,
+    11.0
+   ],
+   "verb": "put",
+   "noun": "chilli",
+   "score": 0.232945
+  },
+  {
+   "segment": [
+    7.5,
+    8.5
+   ],
+   "verb": "take",
+   "noun": "chilli",
+   "score": 0.224584
+  },
+  {
+   "segment": [
+    7.5,
+    11.0
+   ],
+   "verb": "take",
+   "noun": "chilli",
+   "score": 0.213179
+  },
+  {
+   "segment": [
+    8.0,
+    9.0
+   ],
+   "verb": "cut",
+   "noun": "chilli",
+   "score": 0.744388
+  },
+  {
+   "segment": [
+    8.0,
+    10.0
+   ],
+   "verb": "cut",
+   "noun": "chilli",
+   "score": 0.71161
+  },
+  {
+   "segment": [
+    8.0,
+    9.0
+   ],
+   "verb": "put",
+   "noun": "chilli",
+   "score": 0.244237
+  },
+  {
+   "segment": [
+    8.0,
+    10.0
+   ],
+   "verb": "put",
+   "noun": "chilli",
+   "score": 0.24275
+  },
+  {
+   "segment": [
+    8.0,
+    9.0
+   ],
+   "verb": "take",
+   "noun": "chilli",
+   "score": 0.225354
+  },
+  {
+   "segment": [
+    8.0,
+    10.0
+   ],
+   "verb": "take",
+   "noun": "chilli",
+   "score": 0.220269
+  },
+  {
+   "segment": [
+    8.5,
+    9.5
+   ],
+   "verb": "cut",
+   "noun": "chilli",
+   "score": 0.70359
+  },
+  {
+   "segment": [
+    8.5,
+    9.5
+   ],
+   "verb": "put",
+   "noun": "chilli",
+   "score": 0.247023
+  },
+  {
+   "segment": [
+    8.5,
+    9.5
+   ],
+   "verb": "take",
+   "noun": "chilli",
+   "score": 0.223086
+  },
+  {
+   "segment": [
+    9.0,
+    11.0
+   ],
+   "verb": "cut",
+   "noun": "chilli",
+   "score": 0.703396
+  },
+  {
+   "segment": [
+    9.0,
+    10.0
+   ],
+   "verb": "cut",
+   "noun": "chilli",
+   "score": 0.678713
+  },
+  {
+   "segment": [
+    9.0,
+    12.5
+   ],
+   "verb": "cut",
+   "noun": "chilli",
+   "score": 0.67007
+  },
+  {
+   "segment": [
+    9.0,
+    15.0
+   ],
+   "verb": "cut",
+   "noun": "chilli",
+   "score": 0.612128
+  },
+  {
+   "segment": [
+    9.0,
+    10.0
+   ],
+   "verb": "put",
+   "noun": "chilli",
+   "score": 0.240615
+  },
+  {
+   "segment": [
+    9.0,
+    15.0
+   ],
+   "verb": "put",
+   "noun": "chilli",
+   "score": 0.231984
+  },
+  {
+   "segment": [
+    9.0,
+    11.0
+   ],
+   "verb": "put",
+   "noun": "chilli",
+   "score": 0.225766
+  },
+  {
+   "segment": [
+    9.0,
+    15.0
+   ],
+   "verb": "cut",
+   "noun": "pepper",
+   "score": 0.225545
+  },
+  {
+   "segment": [
+    9.0,
+    12.5
+   ],
+   "verb": "put",
+   "noun": "chilli",
+   "score": 0.220963
+  },
+  {
+   "segment": [
+    9.0,
+    10.0
+   ],
+   "verb": "take",
+   "noun": "chilli",
+   "score": 0.214907
+  },
+  {
+   "segment": [
+    9.0,
+    12.5
+   ],
+   "verb": "cut",
+   "noun": "pepper",
+   "score": 0.209187
+  },
+  {
+   "segment": [
+    9.0,
+    11.0
+   ],
+   "verb": "take",
+   "noun": "chilli",
+   "score": 0.203657
+  },
+  {
+   "segment": [
+    9.5,
+    10.5
+   ],
+   "verb": "cut",
+   "noun": "chilli",
+   "score": 0.698557
+  },
+  {
+   "segment": [
+    9.5,
+    10.5
+   ],
+   "verb": "put",
+   "noun": "chilli",
+   "score": 0.226287
+  },
+  {
+   "segment": [
+    9.5,
+    10.5
+   ],
+   "verb": "take",
+   "noun": "chilli",
+   "score": 0.202854
+  },
+  {
+   "segment": [
+    10.0,
+    11.0
+   ],
+   "verb": "cut",
+   "noun": "chilli",
+   "score": 0.728074
+  },
+  {
+   "segment": [
+    10.0,
+    12.0
+   ],
+   "verb": "cut",
+   "noun": "chilli",
+   "score": 0.683065
+  },
+  {
+   "segment": [
+    10.0,
+    12.0
+   ],
+   "verb": "cut",
+   "noun": "pepper",
+   "score": 0.22036
+  },
+  {
+   "segment": [
+    10.0,
+    11.0
+   ],
+   "verb": "put",
+   "noun": "chilli",
+   "score": 0.208496
+  },
+  {
+   "segment": [
+    10.0,
+    11.0
+   ],
+   "verb": "cut",
+   "noun": "pepper",
+   "score": 0.207323
+  },
+  {
+   "segment": [
+    10.0,
+    12.0
+   ],
+   "verb": "put",
+   "noun": "chilli",
+   "score": 0.206329
+  },
+  {
+   "segment": [
+    10.5,
+    11.5
+   ],
+   "verb": "cut",
+   "noun": "chilli",
+   "score": 0.716463
+  },
+  {
+   "segment": [
+    10.5,
+    14.0
+   ],
+   "verb": "cut",
+   "noun": "chilli",
+   "score": 0.593025
+  },
+  {
+   "segment": [
+    10.5,
+    14.0
+   ],
+   "verb": "cut",
+   "noun": "pepper",
+   "score": 0.232151
+  },
+  {
+   "segment": [
+    10.5,
+    14.0
+   ],
+   "verb": "put",
+   "noun": "chilli",
+   "score": 0.229339
+  },
+  {
+   "segment": [
+    10.5,
+    11.5
+   ],
+   "verb": "cut",
+   "noun": "pepper",
+   "score": 0.228627
+  },
+  {
+   "segment": [
+    10.5,
+    11.5
+   ],
+   "verb": "put",
+   "noun": "chilli",
+   "score": 0.210305
+  },
+  {
+   "segment": [
+    11.0,
+    12.0
+   ],
+   "verb": "cut",
+   "noun": "chilli",
+   "score": 0.636808
+  },
+  {
+   "segment": [
+    11.0,
+    13.0
+   ],
+   "verb": "cut",
+   "noun": "chilli",
+   "score": 0.605813
+  },
+  {
+   "segment": [
+    11.0,
+    13.0
+   ],
+   "verb": "cut",
+   "noun": "pepper",
+   "score": 0.235073
+  },
+  {
+   "segment": [
+    11.0,
+    12.0
+   ],
+   "verb": "cut",
+   "noun": "pepper",
+   "score": 0.231984
+  },
+  {
+   "segment": [
+    11.0,
+    13.0
+   ],
+   "verb": "put",
+   "noun": "chilli",
+   "score": 0.222043
+  },
+  {
+   "segment": [
+    11.0,
+    12.0
+   ],
+   "verb": "put",
+   "noun": "chilli",
+   "score": 0.204124
+  },
+  {
+   "segment": [
+    11.5,
+    12.5
+   ],
+   "verb": "cut",
+   "noun": "chilli",
+   "score": 0.578041
+  },
+  {
+   "segment": [
+    11.5,
+    12.5
+   ],
+   "verb": "cut",
+   "noun": "pepper",
+   "score": 0.234787
+  },
+  {
+   "segment": [
+    11.5,
+    12.5
+   ],
+   "verb": "put",
+   "noun": "chilli",
+   "score": 0.212387
+  },
+  {
+   "segment": [
+    12.0,
+    13.0
+   ],
+   "verb": "cut",
+   "noun": "chilli",
+   "score": 0.568577
+  },
+  {
+   "segment": [
+    12.0,
+    18.0
+   ],
+   "verb": "cut",
+   "noun": "chilli",
+   "score": 0.537762
+  },
+  {
+   "segment": [
+    12.0,
+    14.0
+   ],
+   "verb": "cut",
+   "noun": "chilli",
+   "score": 0.532873
+  },
+  {
+   "segment": [
+    12.0,
+    15.5
+   ],
+   "verb": "cut",
+   "noun": "chilli",
+   "score": 0.532401
+  },
+  {
+   "segment": [
+    12.0,
+    14.0
+   ],
+   "verb": "put",
+   "noun": "chilli",
+   "score": 0.246311
+  },
+  {
+   "segment": [
+    12.0,
+    18.0
+   ],
+   "verb": "cut",
+   "noun": "pepper",
+   "score": 0.24615
+  },
+  {
+   "segment": [
+    12.0,
+    15.5
+   ],
+   "verb": "cut",
+   "noun": "pepper",
+   "score": 0.241944
+  },
+  {
+   "segment": [
+    12.0,
+    15.5
+   ],
+   "verb": "put",
+   "noun": "chilli",
+   "score": 0.240693
+  },
+  {
+   "segment": [
+    12.0,
+    13.0
+   ],
+   "verb": "put",
+   "noun": "chilli",
+   "score": 0.239691
+  },
+  {
+   "segment": [
+    12.0,
+    13.0
+   ],
+   "verb": "cut",
+   "noun": "pepper",
+   "score": 0.237912
+  },
+  {
+   "segment": [
+    12.0,
+    14.0
+   ],
+   "verb": "cut",
+   "noun": "pepper",
+   "score": 0.233172
+  },
+  {
+   "segment": [
+    12.0,
+    18.0
+   ],
+   "verb": "put",
+   "noun": "chilli",
+   "score": 0.224801
+  },
+  {
+   "segment": [
+    12.5,
+    13.5
+   ],
+   "verb": "cut",
+   "noun": "chilli",
+   "score": 0.521558
+  },
+  {
+   "segment": [
+    12.5,
+    13.5
+   ],
+   "verb": "put",
+   "noun": "chilli",
+   "score": 0.249308
+  },
+  {
+   "segment": [
+    12.5,
+    13.5
+   ],
+   "verb": "cut",
+   "noun": "pepper",
+   "score": 0.221801
+  },
+  {
+   "segment": [
+    13.0,
+    15.0
+   ],
+   "verb": "cut",
+   "noun": "chilli",
+   "score": 0.51315
+  },
+  {
+   "segment": [
+    13.0,
+    14.0
+   ],
+   "verb": "cut",
+   "noun": "chilli",
+   "score": 0.496939
+  },
+  {
+   "segment": [
+    13.0,
+    14.0
+   ],
+   "verb": "put",
+   "noun": "chilli",
+   "score": 0.250007
+  },
+  {
+   "segment": [
+    13.0,
+    15.0
+   ],
+   "verb": "cut",
+   "noun": "pepper",
+   "score": 0.247979
+  },
+  {
+   "segment": [
+    13.0,
+    15.0
+   ],
+   "verb": "put",
+   "noun": "chilli",
+   "score": 0.246753
+  },
+  {
+   "segment": [
+    13.0,
+    14.0
+   ],
+   "verb": "cut",
+   "noun": "pepper",
+   "score": 0.22743
+  },
+  {
+   "segment": [
+    13.5,
+    17.0
+   ],
+   "verb": "cut",
+   "noun": "chilli",
+   "score": 0.527463
+  },
+  {
+   "segment": [
+    13.5,
+    14.5
+   ],
+   "verb": "cut",
+   "noun": "chilli",
+   "score": 0.511683
+  },
+  {
+   "segment": [
+    13.5,
+    14.5
+   ],
+   "verb": "cut",
+   "noun": "pepper",
+   "score": 0.256375
+  },
+  {
+   "segment": [
+    13.5,
+    17.0
+   ],
+   "verb": "cut",
+   "noun": "pepper",
+   "score": 0.252333
+  },
+  {
+   "segment": [
+    13.5,
+    14.5
+   ],
+   "verb": "put",
+   "noun": "chilli",
+   "score": 0.249568
+  },
+  {
+   "segment": [
+    13.5,
+    17.0
+   ],
+   "verb": "put",
+   "noun": "chilli",
+   "score": 0.216086
+  },
+  {
+   "segment": [
+    14.0,
+    15.0
+   ],
+   "verb": "cut",
+   "noun": "chilli",
+   "score": 0.527856
+  },
+  {
+   "segment": [
+    14.0,
+    16.0
+   ],
+   "verb": "cut",
+   "noun": "chilli",
+   "score": 0.524583
+  },
+  {
+   "segment": [
+    14.0,
+    15.0
+   ],
+   "verb": "cut",
+   "noun": "pepper",
+   "score": 0.268529
+  },
+  {
+   "segment": [
+    14.0,
+    16.0
+   ],
+   "verb": "cut",
+   "noun": "pepper",
+   "score": 0.249833
+  },
+  {
+   "segment": [
+    14.0,
+    15.0
+   ],
+   "verb": "put",
+   "noun": "chilli",
+   "score": 0.240895
+  },
+  {
+   "segment": [
+    14.0,
+    16.0
+   ],
+   "verb": "put",
+   "noun": "chilli",
+   "score": 0.218741
+  },
+  {
+   "segment": [
+    14.5,
+    15.5
+   ],
+   "verb": "cut",
+   "noun": "chilli",
+   "score": 0.536552
+  },
+  {
+   "segment": [
+    14.5,
+    15.5
+   ],
+   "verb": "cut",
+   "noun": "pepper",
+   "score": 0.248287
+  },
+  {
+   "segment": [
+    14.5,
+    15.5
+   ],
+   "verb": "put",
+   "noun": "chilli",
+   "score": 0.222329
+  },
+  {
+   "segment": [
+    15.0,
+    18.5
+   ],
+   "verb": "cut",
+   "noun": "chilli",
+   "score": 0.546808
+  },
+  {
+   "segment": [
+    15.0,
+    21.0
+   ],
+   "verb": "cut",
+   "noun": "chilli",
+   "score": 0.535421
+  },
+  {
+   "segment": [
+    15.0,
+    17.0
+   ],
+   "verb": "cut",
+   "noun": "chilli",
+   "score": 0.532546
+  },
+  {
+   "segment": [
+    15.0,
+    16.0
+   ],
+   "verb": "cut",
+   "noun": "chilli",
+   "score": 0.520447
+  },
+  {
+   "segment": [
+    15.0,
+    21.0
+   ],
+   "verb": "cut",
+   "noun": "pepper",
+   "score": 0.253792
+  },
+  {
+   "segment": [
+    15.0,
+    18.5
+   ],
+   "verb": "cut",
+   "noun": "pepper",
+   "score": 0.248365
+  },
+  {
+   "segment": [
+    15.0,
+    17.0
+   ],
+   "verb": "cut",
+   "noun": "pepper",
+   "score": 0.244825
+  },
+  {
+   "segment": [
+    15.0,
+    16.0
+   ],
+   "verb": "cut",
+   "noun": "pepper",
+   "score": 0.230946
+  },
+  {
+   "segment": [
+    15.0,
+    18.5
+   ],
+   "verb": "put",
+   "noun": "chilli",
+   "score": 0.202051
+  },
+  {
+   "segment": [
+    15.0,
+    16.0
+   ],
+   "verb": "put",
+   "noun": "chilli",
+   "score": 0.195917
+  },
+  {
+   "segment": [
+    15.0,
+    21.0
+   ],
+   "verb": "put",
+   "noun": "chilli",
+   "score": 0.195801
+  },
+  {
+   "segment": [
+    15.0,
+    17.0
+   ],
+   "verb": "put",
+   "noun": "chilli",
+   "score": 0.193055
+  },
+  {
+   "segment": [
+    15.5,
+    16.5
+   ],
+   "verb": "cut",
+   "noun": "chilli",
+   "score": 0.509878
+  },
+  {
+   "segment": [
+    15.5,
+    16.5
+   ],
+   "verb": "cut",
+   "noun": "pepper",
+   "score": 0.238535
+  },
+  {
+   "segment": [
+    15.5,
+    16.5
+   ],
+   "verb": "put",
+   "noun": "chilli",
+   "score": 0.174487
+  },
+  {
+   "segment": [
+    16.0,
+    18.0
+   ],
+   "verb": "cut",
+   "noun": "chilli",
+   "score": 0.55549
+  },
+  {
+   "segment": [
+    16.0,
+    17.0
+   ],
+   "verb": "cut",
+   "noun": "chilli",
+   "score": 0.544502
+  },
+  {
+   "segment": [
+    16.0,
+    17.0
+   ],
+   "verb": "cut",
+   "noun": "pepper",
+   "score": 0.258109
+  },
+  {
+   "segment": [
+    16.0,
+    18.0
+   ],
+   "verb": "cut",
+   "noun": "pepper",
+   "score": 0.255305
+  },
+  {
+   "segment": [
+    16.0,
+    18.0
+   ],
+   "verb": "put",
+   "noun": "chilli",
+   "score": 0.206398
+  },
+  {
+   "segment": [
+    16.0,
+    17.0
+   ],
+   "verb": "put",
+   "noun": "chilli",
+   "score": 0.190106
+  },
+  {
+   "segment": [
+    16.5,
+    17.5
+   ],
+   "verb": "cut",
+   "noun": "chilli",
+   "score": 0.583207
+  },
+  {
+   "segment": [
+    16.5,
+    20.0
+   ],
+   "verb": "cut",
+   "noun": "chilli",
+   "score": 0.558644
+  },
+  {
+   "segment": [
+    16.5,
+    20.0
+   ],
+   "verb": "cut",
+   "noun": "pepper",
+   "score": 0.271998
+  },
+  {
+   "segment": [
+    16.5,
+    17.5
+   ],
+   "verb": "cut",
+   "noun": "pepper",
+   "score": 0.264057
+  },
+  {
+   "segment": [
+    16.5,
+    17.5
+   ],
+   "verb": "put",
+   "noun": "chilli",
+   "score": 0.218854
+  },
+  {
+   "segment": [
+    16.5,
+    20.0
+   ],
+   "verb": "put",
+   "noun": "chilli",
+   "score": 0.202241
+  },
+  {
+   "segment": [
+    17.0,
+    19.0
+   ],
+   "verb": "cut",
+   "noun": "chilli",
+   "score": 0.569318
+  },
+  {
+   "segment": [
+    17.0,
+    18.0
+   ],
+   "verb": "cut",
+   "noun": "chilli",
+   "score": 0.565926
+  },
+  {
+   "segment": [
+    17.0,
+    19.0
+   ],
+   "verb": "cut",
+   "noun": "pepper",
+   "score": 0.269975
+  },
+  {
+   "segment": [
+    17.0,
+    18.0
+   ],
+   "verb": "cut",
+   "noun": "pepper",
+   "score": 0.251462
+  },
+  {
+   "segment": [
+    17.0,
+    18.0
+   ],
+   "verb": "put",
+   "noun": "chilli",
+   "score": 0.22253
+  },
+  {
+   "segment": [
+    17.0,
+    19.0
+   ],
+   "verb": "put",
+   "noun": "chilli",
+   "score": 0.206573
+  },
+  {
+   "segment": [
+    17.5,
+    18.5
+   ],
+   "verb": "cut",
+   "noun": "chilli",
+   "score": 0.550488
+  },
+  {
+   "segment": [
+    17.5,
+    18.5
+   ],
+   "verb": "cut",
+   "noun": "pepper",
+   "score": 0.253523
+  },
+  {
+   "segment": [
+    17.5,
+    18.5
+   ],
+   "verb": "put",
+   "noun": "chilli",
+   "score": 0.206526
+  },
+  {
+   "segment": [
+    18.0,
+    19.0
+   ],
+   "verb": "cut",
+   "noun": "chilli",
+   "score": 0.572709
+  },
+  {
+   "segment": [
+    18.0,
+    24.0
+   ],
+   "verb": "cut",
+   "noun": "chilli",
+   "score": 0.572536
+  },
+  {
+   "segment": [
+    18.0,
+    20.0
+   ],
+   "verb": "cut",
+   "noun": "chilli",
+   "score": 0.55182
+  },
+  {
+   "segment": [
+    18.0,
+    21.5
+   ],
+   "verb": "cut",
+   "noun": "chilli",
+   "score": 0.538618
+  },
+  {
+   "segment": [
+    18.0,
+    19.0
+   ],
+   "verb": "cut",
+   "noun": "pepper",
+   "score": 0.287477
+  },
+  {
+   "segment": [
+    18.0,
+    20.0
+   ],
+   "verb": "cut",
+   "noun": "pepper",
+   "score": 0.279816
+  },
+  {
+   "segment": [
+    18.0,
+    21.5
+   ],
+   "verb": "cut",
+   "noun": "pepper",
+   "score": 0.261224
+  },
+  {
+   "segment": [
+    18.0,
+    24.0
+   ],
+   "verb": "cut",
+   "noun": "pepper",
+   "score": 0.246928
+  },
+  {
+   "segment": [
+    18.0,
+    21.5
+   ],
+   "verb": "put",
+   "noun": "chilli",
+   "score": 0.190523
+  },
+  {
+   "segment": [
+    18.0,
+    20.0
+   ],
+   "verb": "put",
+   "noun": "chilli",
+   "score": 0.190232
+  },
+  {
+   "segment": [
+    18.0,
+    19.0
+   ],
+   "verb": "put",
+   "noun": "chilli",
+   "score": 0.189066
+  },
+  {
+   "segment": [
+    18.0,
+    24.0
+   ],
+   "verb": "put",
+   "noun": "chilli",
+   "score": 0.183272
+  },
+  {
+   "segment": [
+    18.5,
+    19.5
+   ],
+   "verb": "cut",
+   "noun": "chilli",
+   "score": 0.545661
+  },
+  {
+   "segment": [
+    18.5,
+    19.5
+   ],
+   "verb": "cut",
+   "noun": "pepper",
+   "score": 0.287583
+  },
+  {
+   "segment": [
+    18.5,
+    19.5
+   ],
+   "verb": "put",
+   "noun": "chilli",
+   "score": 0.178043
+  },
+  {
+   "segment": [
+    19.0,
+    20.0
+   ],
+   "verb": "cut",
+   "noun": "chilli",
+   "score": 0.530105
+  },
+  {
+   "segment": [
+    19.0,
+    21.0
+   ],
+   "verb": "cut",
+   "noun": "chilli",
+   "score": 0.502846
+  },
+  {
+   "segment": [
+    19.0,
+    20.0
+   ],
+   "verb": "cut",
+   "noun": "pepper",
+   "score": 0.271491
+  },
+  {
+   "segment": [
+    19.0,
+    21.0
+   ],
+   "verb": "cut",
+   "noun": "pepper",
+   "score": 0.245195
+  },
+  {
+   "segment": [
+    19.0,
+    20.0
+   ],
+   "verb": "put",
+   "noun": "chilli",
+   "score": 0.190175
+  },
+  {
+   "segment": [
+    19.0,
+    21.0
+   ],
+   "verb": "put",
+   "noun": "chilli",
+   "score": 0.186903
+  },
+  {
+   "segment": [
+    19.5,
+    23.0
+   ],
+   "verb": "cut",
+   "noun": "chilli",
+   "score": 0.559269
+  },
+  {
+   "segment": [
+    19.5,
+    20.5
+   ],
+   "verb": "cut",
+   "noun": "chilli",
+   "score": 0.510613
+  },
+  {
+   "segment": [
+    19.5,
+    20.5
+   ],
+   "verb": "cut",
+   "noun": "pepper",
+   "score": 0.257257
+  },
+  {
+   "segment": [
+    19.5,
+    23.0
+   ],
+   "verb": "cut",
+   "noun": "pepper",
+   "score": 0.242095
+  },
+  {
+   "segment": [
+    19.5,
+    20.5
+   ],
+   "verb": "put",
+   "noun": "chilli",
+   "score": 0.200578
+  },
+  {
+   "segment": [
+    19.5,
+    23.0
+   ],
+   "verb": "put",
+   "noun": "chilli",
+   "score": 0.187077
+  },
+  {
+   "segment": [
+    20.0,
+    22.0
+   ],
+   "verb": "cut",
+   "noun": "chilli",
+   "score": 0.538519
+  },
+  {
+   "segment": [
+    20.0,
+    21.0
+   ],
+   "verb": "cut",
+   "noun": "chilli",
+   "score": 0.475084
+  },
+  {
+   "segment": [
+    20.0,
+    22.0
+   ],
+   "verb": "cut",
+   "noun": "pepper",
+   "score": 0.238691
+  },
+  {
+   "segment": [
+    20.0,
+    21.0
+   ],
+   "verb": "cut",
+   "noun": "pepper",
+   "score": 0.218787
+  },
+  {
+   "segment": [
+    20.0,
+    22.0
+   ],
+   "verb": "put",
+   "noun": "chilli",
+   "score": 0.189368
+  },
+  {
+   "segment": [
+    20.0,
+    21.0
+   ],
+   "verb": "put",
+   "noun": "chilli",
+   "score": 0.182801
+  },
+  {
+   "segment": [
+    20.5,
+    21.5
+   ],
+   "verb": "cut",
+   "noun": "chilli",
+   "score": 0.542664
+  },
+  {
+   "segment": [
+    20.5,
+    21.5
+   ],
+   "verb": "cut",
+   "noun": "pepper",
+   "score": 0.239927
+  },
+  {
+   "segment": [
+    20.5,
+    21.5
+   ],
+   "verb": "put",
+   "noun": "chilli",
+   "score": 0.18836
+  },
+  {
+   "segment": [
+    21.0,
+    24.5
+   ],
+   "verb": "cut",
+   "noun": "chilli",
+   "score": 0.613782
+  },
+  {
+   "segment": [
+    21.0,
+    27.0
+   ],
+   "verb": "cut",
+   "noun": "chilli",
+   "score": 0.60465
+  },
+  {
+   "segment": [
+    21.0,
+    22.0
+   ],
+   "verb": "cut",
+   "noun": "chilli",
+   "score": 0.600924
+  },
+  {
+   "segment": [
+    21.0,
+    23.0
+   ],
+   "verb": "cut",
+   "noun": "chilli",
+   "score": 0.596728
+  },
+  {
+   "segment": [
+    21.0,
+    22.0
+   ],
+   "verb": "cut",
+   "noun": "pepper",
+   "score": 0.258572
+  },
+  {
+   "segment": [
+    21.0,
+    23.0
+   ],
+   "verb": "cut",
+   "noun": "pepper",
+   "score": 0.242799
+  },
+  {
+   "segment": [
+    21.0,
+    27.0
+   ],
+   "verb": "cut",
+   "noun": "pepper",
+   "score": 0.235127
+  },
+  {
+   "segment": [
+    21.0,
+    24.5
+   ],
+   "verb": "cut",
+   "noun": "pepper",
+   "score": 0.234937
+  },
+  {
+   "segment": [
+    21.0,
+    22.0
+   ],
+   "verb": "put",
+   "noun": "chilli",
+   "score": 0.19564
+  },
+  {
+   "segment": [
+    21.0,
+    27.0
+   ],
+   "verb": "put",
+   "noun": "chilli",
+   "score": 0.191192
+  },
+  {
+   "segment": [
+    21.0,
+    23.0
+   ],
+   "verb": "put",
+   "noun": "chilli",
+   "score": 0.183325
+  },
+  {
+   "segment": [
+    21.0,
+    24.5
+   ],
+   "verb": "put",
+   "noun": "chilli",
+   "score": 0.177583
+  },
+  {
+   "segment": [
+    21.5,
+    22.5
+   ],
+   "verb": "cut",
+   "noun": "chilli",
+   "score": 0.586118
+  },
+  {
+   "segment": [
+    21.5,
+    22.5
+   ],
+   "verb": "cut",
+   "noun": "pepper",
+   "score": 0.23679
+  },
+  {
+   "segment": [
+    21.5,
+    22.5
+   ],
+   "verb": "put",
+   "noun": "chilli",
+   "score": 0.180207
+  },
+  {
+   "segment": [
+    22.0,
+    24.0
+   ],
+   "verb": "cut",
+   "noun": "chilli",
+   "score": 0.608149
+  },
+  {
+   "segment": [
+    22.0,
+    23.0
+   ],
+   "verb": "cut",
+   "noun": "chilli",
+   "score": 0.589276
+  },
+  {
+   "segment": [
+    22.0,
+    23.0
+   ],
+   "verb": "cut",
+   "noun": "pepper",
+   "score": 0.226943
+  },
+  {
+   "segment": [
+    22.0,
+    24.0
+   ],
+   "verb": "cut",
+   "noun": "pepper",
+   "score": 0.222207
+  },
+  {
+   "segment": [
+    22.0,
+    23.0
+   ],
+   "verb": "put",
+   "noun": "chilli",
+   "score": 0.170961
+  },
+  {
+   "segment": [
+    22.0,
+    24.0
+   ],
+   "verb": "put",
+   "noun": "chilli",
+   "score": 0.168611
+  },
+  {
+   "segment": [
+    22.5,
+    26.0
+   ],
+   "verb": "cut",
+   "noun": "chilli",
+   "score": 0.623074
+  },
+  {
+   "segment": [
+    22.5,
+    23.5
+   ],
+   "verb": "cut",
+   "noun": "chilli",
+   "score": 0.620225
+  },
+  {
+   "segment": [
+    22.5,
+    26.0
+   ],
+   "verb": "cut",
+   "noun": "pepper",
+   "score": 0.234221
+  },
+  {
+   "segment": [
+    22.5,
+    23.5
+   ],
+   "verb": "cut",
+   "noun": "pepper",
+   "score": 0.212304
+  },
+  {
+   "segment": [
+    22.5,
+    26.0
+   ],
+   "verb": "put",
+   "noun": "chilli",
+   "score": 0.185827
+  },
+  {
+   "segment": [
+    22.5,
+    23.5
+   ],
+   "verb": "put",
+   "noun": "chilli",
+   "score": 0.172305
+  },
+  {
+   "segment": [
+    23.0,
+    25.0
+   ],
+   "verb": "cut",
+   "noun": "chilli",
+   "score": 0.633124
+  },
+  {
+   "segment": [
+    23.0,
+    24.0
+   ],
+   "verb": "cut",
+   "noun": "chilli",
+   "score": 0.626765
+  },
+  {
+   "segment": [
+    23.0,
+    25.0
+   ],
+   "verb": "cut",
+   "noun": "pepper",
+   "score": 0.231041
+  },
+  {
+   "segment": [
+    23.0,
+    24.0
+   ],
+   "verb": "cut",
+   "noun": "pepper",
+   "score": 0.217241
+  },
+  {
+   "segment": [
+    23.0,
+    25.0
+   ],
+   "verb": "put",
+   "noun": "chilli",
+   "score": 0.176202
+  },
+  {
+   "segment": [
+    23.0,
+    24.0
+   ],
+   "verb": "put",
+   "noun": "chilli",
+   "score": 0.16616
+  },
+  {
+   "segment": [
+    23.5,
+    24.5
+   ],
+   "verb": "cut",
+   "noun": "chilli",
+   "score": 0.631679
+  },
+  {
+   "segment": [
+    23.5,
+    24.5
+   ],
+   "verb": "cut",
+   "noun": "pepper",
+   "score": 0.236711
+  },
+  {
+   "segment": [
+    23.5,
+    24.5
+   ],
+   "verb": "put",
+   "noun": "chilli",
+   "score": 0.167652
+  },
+  {
+   "segment": [
+    24.0,
+    25.0
+   ],
+   "verb": "cut",
+   "noun": "chilli",
+   "score": 0.637661
+  },
+  {
+   "segment": [
+    24.0,
+    26.0
+   ],
+   "verb": "cut",
+   "noun": "chilli",
+   "score": 0.624544
+  },
+  {
+   "segment": [
+    24.0,
+    27.5
+   ],
+   "verb": "cut",
+   "noun": "chilli",
+   "score": 0.599386
+  },
+  {
+   "segment": [
+    24.0,
+    30.0
+   ],
+   "verb": "cut",
+   "noun": "chilli",
+   "score": 0.489696
+  },
+  {
+   "segment": [
+    24.0,
+    25.0
+   ],
+   "verb": "cut",
+   "noun": "pepper",
+   "score": 0.244841
+  },
+  {
+   "segment": [
+    24.0,
+    26.0
+   ],
+   "verb": "cut",
+   "noun": "pepper",
+   "score": 0.244758
+  },
+  {
+   "segment": [
+    24.0,
+    27.5
+   ],
+   "verb": "cut",
+   "noun": "pepper",
+   "score": 0.23861
+  },
+  {
+   "segment": [
+    24.0,
+    27.5
+   ],
+   "verb": "put",
+   "noun": "chilli",
+   "score": 0.204857
+  },
+  {
+   "segment": [
+    24.0,
+    26.0
+   ],
+   "verb": "put",
+   "noun": "chilli",
+   "score": 0.199397
+  },
+  {
+   "segment": [
+    24.0,
+    30.0
+   ],
+   "verb": "cut",
+   "noun": "pepper",
+   "score": 0.196753
+  },
+  {
+   "segment": [
+    24.0,
+    25.0
+   ],
+   "verb": "put",
+   "noun": "chilli",
+   "score": 0.186238
+  },
+  {
+   "segment": [
+    24.0,
+    30.0
+   ],
+   "verb": "put",
+   "noun": "chilli",
+   "score": 0.178592
+  },
+  {
+   "segment": [
+    24.5,
+    25.5
+   ],
+   "verb": "cut",
+   "noun": "chilli",
+   "score": 0.62761
+  },
+  {
+   "segment": [
+    24.5,
+    25.5
+   ],
+   "verb": "cut",
+   "noun": "pepper",
+   "score": 0.244179
+  },
+  {
+   "segment": [
+    24.5,
+    25.5
+   ],
+   "verb": "put",
+   "noun": "chilli",
+   "score": 0.202118
+  },
+  {
+   "segment": [
+    25.0,
+    26.0
+   ],
+   "verb": "cut",
+   "noun": "chilli",
+   "score": 0.609958
+  },
+  {
+   "segment": [
+    25.0,
+    27.0
+   ],
+   "verb": "cut",
+   "noun": "chilli",
+   "score": 0.580481
+  },
+  {
+   "segment": [
+    25.0,
+    26.0
+   ],
+   "verb": "cut",
+   "noun": "pepper",
+   "score": 0.244496
+  },
+  {
+   "segment": [
+    25.0,
+    27.0
+   ],
+   "verb": "cut",
+   "noun": "pepper",
+   "score": 0.230743
+  },
+  {
+   "segment": [
+    25.0,
+    27.0
+   ],
+   "verb": "put",
+   "noun": "chilli",
+   "score": 0.213253
+  },
+  {
+   "segment": [
+    25.0,
+    26.0
+   ],
+   "verb": "put",
+   "noun": "chilli",
+   "score": 0.212252
+  },
+  {
+   "segment": [
+    25.5,
+    26.5
+   ],
+   "verb": "cut",
+   "noun": "chilli",
+   "score": 0.564775
+  },
+  {
+   "segment": [
+    25.5,
+    29.0
+   ],
+   "verb": "cut",
+   "noun": "chilli",
+   "score": 0.498728
+  },
+  {
+   "segment": [
+    25.5,
+    26.5
+   ],
+   "verb": "cut",
+   "noun": "pepper",
+   "score": 0.236503
+  },
+  {
+   "segment": [
+    25.5,
+    26.5
+   ],
+   "verb": "put",
+   "noun": "chilli",
+   "score": 0.213946
+  },
+  {
+   "segment": [
+    25.5,
+    29.0
+   ],
+   "verb": "cut",
+   "noun": "pepper",
+   "score": 0.209083
+  },
+  {
+   "segment": [
+    25.5,
+    29.0
+   ],
+   "verb": "take",
+   "noun": "chilli",
+   "score": 0.196231
+  },
+  {
+   "segment": [
+    26.0,
+    27.0
+   ],
+   "verb": "cut",
+   "noun": "chilli",
+   "score": 0.550996
+  },
+  {
+   "segment": [
+    26.0,
+    28.0
+   ],
+   "verb": "cut",
+   "noun": "chilli",
+   "score": 0.54637
+  },
+  {
+   "segment": [
+    26.0,
+    28.0
+   ],
+   "verb": "cut",
+   "noun": "pepper",
+   "score": 0.229405
+  },
+  {
+   "segment": [
+    26.0,
+    27.0
+   ],
+   "verb": "take",
+   "noun": "chilli",
+   "score": 0.217444
+  },
+  {
+   "segment": [
+    26.0,
+    27.0
+   ],
+   "verb": "cut",
+   "noun": "pepper",
+   "score": 0.216954
+  },
+  {
+   "segment": [
+    26.0,
+    28.0
+   ],
+   "verb": "take",
+   "noun": "chilli",
+   "score": 0.206301
+  },
+  {
+   "segment": [
+    26.5,
+    27.5
+   ],
+   "verb": "cut",
+   "noun": "chilli",
+   "score": 0.576597
+  },
+  {
+   "segment": [
+    26.5,
+    27.5
+   ],
+   "verb": "cut",
+   "noun": "pepper",
+   "score": 0.235181
+  },
+  {
+   "segment": [
+    26.5,
+    27.5
+   ],
+   "verb": "take",
+   "noun": "chilli",
+   "score": 0.218926
+  },
+  {
+   "segment": [
+    27.0,
+    28.0
+   ],
+   "verb": "cut",
+   "noun": "chilli",
+   "score": 0.541338
+  },
+  {
+   "segment": [
+    27.0,
+    29.0
+   ],
+   "verb": "cut",
+   "noun": "chilli",
+   "score": 0.448698
+  },
+  {
+   "segment": [
+    27.0,
+    33.0
+   ],
+   "verb": "cut",
+   "noun": "chilli",
+   "score": 0.441172
+  },
+  {
+   "segment": [
+    27.0,
+    30.5
+   ],
+   "verb": "cut",
+   "noun": "chilli",
+   "score": 0.348992
+  },
+  {
+   "segment": [
+    27.0,
+    28.0
+   ],
+   "verb": "cut",
+   "noun": "pepper",
+   "score": 0.241572
+  },
+  {
+   "segment": [
+    27.0,
+    29.0
+   ],
+   "verb": "cut",
+   "noun": "pepper",
+   "score": 0.194137
+  },
+  {
+   "segment": [
+    27.0,
+    28.0
+   ],
+   "verb": "take",
+   "noun": "chilli",
+   "score": 0.193988
+  },
+  {
+   "segment": [
+    27.0,
+    29.0
+   ],
+   "verb": "take",
+   "noun": "chilli",
+   "score": 0.184013
+  },
+  {
+   "segment": [
+    27.0,
+    33.0
+   ],
+   "verb": "put",
+   "noun": "chilli",
+   "score": 0.159897
+  },
+  {
+   "segment": [
+    27.0,
+    33.0
+   ],
+   "verb": "take",
+   "noun": "chilli",
+   "score": 0.15978
+  },
+  {
+   "segment": [
+    27.0,
+    30.5
+   ],
+   "verb": "cut",
+   "noun": "pepper",
+   "score": 0.149408
+  },
+  {
+   "segment": [
+    27.0,
+    30.5
+   ],
+   "verb": "take",
+   "noun": "chilli",
+   "score": 0.149307
+  },
+  {
+   "segment": [
+    27.5,
+    28.5
+   ],
+   "verb": "cut",
+   "noun": "chilli",
+   "score": 0.43586
+  },
+  {
+   "segment": [
+    27.5,
+    28.5
+   ],
+   "verb": "cut",
+   "noun": "pepper",
+   "score": 0.202366
+  },
+  {
+   "segment": [
+    27.5,
+    28.5
+   ],
+   "verb": "take",
+   "noun": "chilli",
+   "score": 0.173835
+  },
+  {
+   "segment": [
+    28.0,
+    29.0
+   ],
+   "verb": "cut",
+   "noun": "chilli",
+   "score": 0.351902
+  },
+  {
+   "segment": [
+    28.0,
+    30.0
+   ],
+   "verb": "cut",
+   "noun": "chilli",
+   "score": 0.272046
+  },
+  {
+   "segment": [
+    28.0,
+    29.0
+   ],
+   "verb": "take",
+   "noun": "chilli",
+   "score": 0.173368
+  },
+  {
+   "segment": [
+    28.0,
+    29.0
+   ],
+   "verb": "put",
+   "noun": "chilli",
+   "score": 0.167016
+  },
+  {
+   "segment": [
+    28.0,
+    30.0
+   ],
+   "verb": "open",
+   "noun": "drawer",
+   "score": 0.143013
+  },
+  {
+   "segment": [
+    28.0,
+    30.0
+   ],
+   "verb": "take",
+   "noun": "chilli",
+   "score": 0.139139
+  },
+  {
+   "segment": [
+    28.5,
+    32.0
+   ],
+   "verb": "cut",
+   "noun": "chilli",
+   "score": 0.355913
+  },
+  {
+   "segment": [
+    28.5,
+    29.5
+   ],
+   "verb": "cut",
+   "noun": "chilli",
+   "score": 0.271501
+  },
+  {
+   "segment": [
+    28.5,
+    29.5
+   ],
+   "verb": "open",
+   "noun": "drawer",
+   "score": 0.160316
+  },
+  {
+   "segment": [
+    28.5,
+    29.5
+   ],
+   "verb": "take",
+   "noun": "chilli",
+   "score": 0.146519
+  },
+  {
+   "segment": [
+    28.5,
+    32.0
+   ],
+   "verb": "take",
+   "noun": "chilli",
+   "score": 0.143394
+  },
+  {
+   "segment": [
+    28.5,
+    32.0
+   ],
+   "verb": "put",
+   "noun": "chilli",
+   "score": 0.134666
+  },
+  {
+   "segment": [
+    29.0,
+    31.0
+   ],
+   "verb": "cut",
+   "noun": "chilli",
+   "score": 0.249129
+  },
+  {
+   "segment": [
+    29.0,
+    30.0
+   ],
+   "verb": "open",
+   "noun": "drawer",
+   "score": 0.174235
+  },
+  {
+   "segment": [
+    29.0,
+    30.0
+   ],
+   "verb": "cut",
+   "noun": "chilli",
+   "score": 0.169986
+  },
+  {
+   "segment": [
+    29.0,
+    31.0
+   ],
+   "verb": "open",
+   "noun": "drawer",
+   "score": 0.138477
+  },
+  {
+   "segment": [
+    29.0,
+    30.0
+   ],
+   "verb": "open",
+   "noun": "dishwasher",
+   "score": 0.137702
+  },
+  {
+   "segment": [
+    29.0,
+    31.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.121771
+  },
+  {
+   "segment": [
+    29.5,
+    30.5
+   ],
+   "verb": "cut",
+   "noun": "chilli",
+   "score": 0.15627
+  },
+  {
+   "segment": [
+    29.5,
+    30.5
+   ],
+   "verb": "open",
+   "noun": "drawer",
+   "score": 0.149773
+  },
+  {
+   "segment": [
+    29.5,
+    30.5
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.135889
+  },
+  {
+   "segment": [
+    30.0,
+    36.0
+   ],
+   "verb": "cut",
+   "noun": "chilli",
+   "score": 0.553529
+  },
+  {
+   "segment": [
+    30.0,
+    33.5
+   ],
+   "verb": "cut",
+   "noun": "chilli",
+   "score": 0.530728
+  },
+  {
+   "segment": [
+    30.0,
+    32.0
+   ],
+   "verb": "cut",
+   "noun": "chilli",
+   "score": 0.43282
+  },
+  {
+   "segment": [
+    30.0,
+    31.0
+   ],
+   "verb": "cut",
+   "noun": "chilli",
+   "score": 0.311202
+  },
+  {
+   "segment": [
+    30.0,
+    36.0
+   ],
+   "verb": "put",
+   "noun": "chilli",
+   "score": 0.182017
+  },
+  {
+   "segment": [
+    30.0,
+    36.0
+   ],
+   "verb": "cut",
+   "noun": "pepper",
+   "score": 0.177417
+  },
+  {
+   "segment": [
+    30.0,
+    33.5
+   ],
+   "verb": "put",
+   "noun": "chilli",
+   "score": 0.174207
+  },
+  {
+   "segment": [
+    30.0,
+    33.5
+   ],
+   "verb": "cut",
+   "noun": "pepper",
+   "score": 0.171679
+  },
+  {
+   "segment": [
+    30.0,
+    32.0
+   ],
+   "verb": "take",
+   "noun": "chilli",
+   "score": 0.156128
+  },
+  {
+   "segment": [
+    30.0,
+    32.0
+   ],
+   "verb": "put",
+   "noun": "chilli",
+   "score": 0.14655
+  },
+  {
+   "segment": [
+    30.0,
+    31.0
+   ],
+   "verb": "throw",
+   "noun": "chilli",
+   "score": 0.135938
+  },
+  {
+   "segment": [
+    30.0,
+    31.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.129928
+  },
+  {
+   "segment": [
+    30.5,
+    31.5
+   ],
+   "verb": "cut",
+   "noun": "chilli",
+   "score": 0.442332
+  },
+  {
+   "segment": [
+    30.5,
+    31.5
+   ],
+   "verb": "take",
+   "noun": "chilli",
+   "score": 0.16278
+  },
+  {
+   "segment": [
+    30.5,
+    31.5
+   ],
+   "verb": "cut",
+   "noun": "pepper",
+   "score": 0.146112
+  },
+  {
+   "segment": [
+    31.0,
+    33.0
+   ],
+   "verb": "cut",
+   "noun": "chilli",
+   "score": 0.591433
+  },
+  {
+   "segment": [
+    31.0,
+    32.0
+   ],
+   "verb": "cut",
+   "noun": "chilli",
+   "score": 0.536573
+  },
+  {
+   "segment": [
+    31.0,
+    33.0
+   ],
+   "verb": "put",
+   "noun": "chilli",
+   "score": 0.196001
+  },
+  {
+   "segment": [
+    31.0,
+    32.0
+   ],
+   "verb": "take",
+   "noun": "chilli",
+   "score": 0.183519
+  },
+  {
+   "segment": [
+    31.0,
+    33.0
+   ],
+   "verb": "cut",
+   "noun": "pepper",
+   "score": 0.183178
+  },
+  {
+   "segment": [
+    31.0,
+    32.0
+   ],
+   "verb": "put",
+   "noun": "chilli",
+   "score": 0.182794
+  },
+  {
+   "segment": [
+    31.5,
+    35.0
+   ],
+   "verb": "cut",
+   "noun": "chilli",
+   "score": 0.656332
+  },
+  {
+   "segment": [
+    31.5,
+    32.5
+   ],
+   "verb": "cut",
+   "noun": "chilli",
+   "score": 0.608939
+  },
+  {
+   "segment": [
+    31.5,
+    35.0
+   ],
+   "verb": "put",
+   "noun": "chilli",
+   "score": 0.217434
+  },
+  {
+   "segment": [
+    31.5,
+    32.5
+   ],
+   "verb": "put",
+   "noun": "chilli",
+   "score": 0.205977
+  },
+  {
+   "segment": [
+    31.5,
+    35.0
+   ],
+   "verb": "cut",
+   "noun": "pepper",
+   "score": 0.203928
+  },
+  {
+   "segment": [
+    31.5,
+    32.5
+   ],
+   "verb": "take",
+   "noun": "chilli",
+   "score": 0.185434
+  },
+  {
+   "segment": [
+    32.0,
+    34.0
+   ],
+   "verb": "cut",
+   "noun": "chilli",
+   "score": 0.654642
+  },
+  {
+   "segment": [
+    32.0,
+    33.0
+   ],
+   "verb": "cut",
+   "noun": "chilli",
+   "score": 0.646283
+  },
+  {
+   "segment": [
+    32.0,
+    34.0
+   ],
+   "verb": "put",
+   "noun": "chilli",
+   "score": 0.216013
+  },
+  {
+   "segment": [
+    32.0,
+    34.0
+   ],
+   "verb": "cut",
+   "noun": "pepper",
+   "score": 0.209892
+  },
+  {
+   "segment": [
+    32.0,
+    33.0
+   ],
+   "verb": "put",
+   "noun": "chilli",
+   "score": 0.209029
+  },
+  {
+   "segment": [
+    32.0,
+    33.0
+   ],
+   "verb": "cut",
+   "noun": "pepper",
+   "score": 0.205366
+  },
+  {
+   "segment": [
+    32.5,
+    33.5
+   ],
+   "verb": "cut",
+   "noun": "chilli",
+   "score": 0.670391
+  },
+  {
+   "segment": [
+    32.5,
+    33.5
+   ],
+   "verb": "cut",
+   "noun": "pepper",
+   "score": 0.215495
+  },
+  {
+   "segment": [
+    32.5,
+    33.5
+   ],
+   "verb": "put",
+   "noun": "chilli",
+   "score": 0.212146
+  },
+  {
+   "segment": [
+    33.0,
+    35.0
+   ],
+   "verb": "cut",
+   "noun": "chilli",
+   "score": 0.679237
+  },
+  {
+   "segment": [
+    33.0,
+    34.0
+   ],
+   "verb": "cut",
+   "noun": "chilli",
+   "score": 0.662563
+  },
+  {
+   "segment": [
+    33.0,
+    36.5
+   ],
+   "verb": "cut",
+   "noun": "chilli",
+   "score": 0.546345
+  },
+  {
+   "segment": [
+    33.0,
+    35.0
+   ],
+   "verb": "put",
+   "noun": "chilli",
+   "score": 0.224729
+  },
+  {
+   "segment": [
+    33.0,
+    34.0
+   ],
+   "verb": "put",
+   "noun": "chilli",
+   "score": 0.222989
+  },
+  {
+   "segment": [
+    33.0,
+    34.0
+   ],
+   "verb": "cut",
+   "noun": "pepper",
+   "score": 0.214359
+  },
+  {
+   "segment": [
+    33.0,
+    35.0
+   ],
+   "verb": "cut",
+   "noun": "pepper",
+   "score": 0.213436
+  },
+  {
+   "segment": [
+    33.0,
+    36.5
+   ],
+   "verb": "put",
+   "noun": "chilli",
+   "score": 0.179147
+  },
+  {
+   "segment": [
+    33.0,
+    36.5
+   ],
+   "verb": "cut",
+   "noun": "pepper",
+   "score": 0.176489
+  },
+  {
+   "segment": [
+    33.5,
+    34.5
+   ],
+   "verb": "cut",
+   "noun": "chilli",
+   "score": 0.674174
+  },
+  {
+   "segment": [
+    33.5,
+    34.5
+   ],
+   "verb": "put",
+   "noun": "chilli",
+   "score": 0.232726
+  },
+  {
+   "segment": [
+    33.5,
+    34.5
+   ],
+   "verb": "cut",
+   "noun": "pepper",
+   "score": 0.21175
+  },
+  {
+   "segment": [
+    34.0,
+    35.0
+   ],
+   "verb": "cut",
+   "noun": "chilli",
+   "score": 0.695897
+  },
+  {
+   "segment": [
+    34.0,
+    36.0
+   ],
+   "verb": "cut",
+   "noun": "chilli",
+   "score": 0.571118
+  },
+  {
+   "segment": [
+    34.0,
+    35.0
+   ],
+   "verb": "put",
+   "noun": "chilli",
+   "score": 0.226434
+  },
+  {
+   "segment": [
+    34.0,
+    35.0
+   ],
+   "verb": "cut",
+   "noun": "pepper",
+   "score": 0.212382
+  },
+  {
+   "segment": [
+    34.0,
+    36.0
+   ],
+   "verb": "put",
+   "noun": "chilli",
+   "score": 0.18287
+  },
+  {
+   "segment": [
+    34.0,
+    36.0
+   ],
+   "verb": "cut",
+   "noun": "pepper",
+   "score": 0.180171
+  },
+  {
+   "segment": [
+    34.5,
+    35.5
+   ],
+   "verb": "cut",
+   "noun": "chilli",
+   "score": 0.612335
+  },
+  {
+   "segment": [
+    34.5,
+    35.5
+   ],
+   "verb": "put",
+   "noun": "chilli",
+   "score": 0.191859
+  },
+  {
+   "segment": [
+    34.5,
+    35.5
+   ],
+   "verb": "cut",
+   "noun": "pepper",
+   "score": 0.189635
+  },
+  {
+   "segment": [
+    35.0,
+    36.0
+   ],
+   "verb": "cut",
+   "noun": "chilli",
+   "score": 0.443959
+  },
+  {
+   "segment": [
+    35.0,
+    36.0
+   ],
+   "verb": "cut",
+   "noun": "pepper",
+   "score": 0.147872
+  },
+  {
+   "segment": [
+    35.0,
+    36.0
+   ],
+   "verb": "put",
+   "noun": "chilli",
+   "score": 0.137937
+  },
+  {
+   "segment": [
+    35.5,
+    36.5
+   ],
+   "verb": "cut",
+   "noun": "chilli",
+   "score": 0.253485
+  },
+  {
+   "segment": [
+    35.5,
+    36.5
+   ],
+   "verb": "turn-on",
+   "noun": "hob",
+   "score": 0.145176
+  },
+  {
+   "segment": [
+    35.5,
+    36.5
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.131573
+  }
+ ],
+ "highlights": [
+  {
+   "segment": [
+    8.0,
+    13.29
+   ]
+  }
+ ]
+}

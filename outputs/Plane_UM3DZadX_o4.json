@@ -1,0 +1,30 @@
+{
+ "team_id": "SRMIST_PRISM",
+ "video_id": "Plane_UM3DZadX_o4",
+ "duration_sec": 96.23,
+ "label": {
+  "name": "plane",
+  "score": 0.4435
+ },
+ "actions": [],
+ "highlights": [
+  {
+   "segment": [
+    60.0,
+    64.1
+   ]
+  },
+  {
+   "segment": [
+    74.0,
+    78.1
+   ]
+  },
+  {
+   "segment": [
+    84.0,
+    88.1
+   ]
+  }
+ ]
+}

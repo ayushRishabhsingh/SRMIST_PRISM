@@ -1,0 +1,42 @@
+{
+ "team_id": "SRMIST_PRISM",
+ "video_id": "Jumping_IPRT9MZh3_s",
+ "duration_sec": 175.74,
+ "label": {
+  "name": "jumping",
+  "score": 0.878
+ },
+ "actions": [],
+ "highlights": [
+  {
+   "segment": [
+    3.0,
+    7.1
+   ]
+  },
+  {
+   "segment": [
+    21.0,
+    30.1
+   ]
+  },
+  {
+   "segment": [
+    44.0,
+    48.1
+   ]
+  },
+  {
+   "segment": [
+    86.0,
+    90.1
+   ]
+  },
+  {
+   "segment": [
+    118.0,
+    122.1
+   ]
+  }
+ ]
+}

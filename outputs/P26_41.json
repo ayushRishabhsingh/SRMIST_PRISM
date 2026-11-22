@@ -1,0 +1,12457 @@
+{
+ "team_id": "SRMIST_PRISM",
+ "video_id": "P26_41",
+ "duration_sec": 116.76,
+ "label": {
+  "name": "cooking",
+  "score": 0.9988
+ },
+ "actions": [
+  {
+   "segment": [
+    0.0,
+    3.5
+   ],
+   "verb": "put",
+   "noun": "spoon",
+   "score": 0.154741
+  },
+  {
+   "segment": [
+    0.0,
+    6.0
+   ],
+   "verb": "put",
+   "noun": "spoon",
+   "score": 0.153629
+  },
+  {
+   "segment": [
+    0.0,
+    2.0
+   ],
+   "verb": "put",
+   "noun": "spoon",
+   "score": 0.151078
+  },
+  {
+   "segment": [
+    0.0,
+    2.0
+   ],
+   "verb": "cook",
+   "noun": "rice",
+   "score": 0.146661
+  },
+  {
+   "segment": [
+    0.0,
+    1.0
+   ],
+   "verb": "cook",
+   "noun": "rice",
+   "score": 0.141422
+  },
+  {
+   "segment": [
+    0.0,
+    6.0
+   ],
+   "verb": "mix",
+   "noun": "pan",
+   "score": 0.132898
+  },
+  {
+   "segment": [
+    0.0,
+    6.0
+   ],
+   "verb": "move",
+   "noun": "pan",
+   "score": 0.127936
+  },
+  {
+   "segment": [
+    0.0,
+    1.0
+   ],
+   "verb": "put",
+   "noun": "spoon",
+   "score": 0.126312
+  },
+  {
+   "segment": [
+    0.0,
+    3.5
+   ],
+   "verb": "mix",
+   "noun": "pan",
+   "score": 0.124457
+  },
+  {
+   "segment": [
+    0.0,
+    3.5
+   ],
+   "verb": "move",
+   "noun": "pan",
+   "score": 0.122952
+  },
+  {
+   "segment": [
+    0.0,
+    2.0
+   ],
+   "verb": "mix",
+   "noun": "rice",
+   "score": 0.121491
+  },
+  {
+   "segment": [
+    0.0,
+    1.0
+   ],
+   "verb": "move",
+   "noun": "pan",
+   "score": 0.118257
+  },
+  {
+   "segment": [
+    0.5,
+    1.5
+   ],
+   "verb": "put",
+   "noun": "spoon",
+   "score": 0.144612
+  },
+  {
+   "segment": [
+    0.5,
+    1.5
+   ],
+   "verb": "cook",
+   "noun": "rice",
+   "score": 0.14409
+  },
+  {
+   "segment": [
+    0.5,
+    1.5
+   ],
+   "verb": "mix",
+   "noun": "rice",
+   "score": 0.121018
+  },
+  {
+   "segment": [
+    1.0,
+    2.0
+   ],
+   "verb": "put",
+   "noun": "spoon",
+   "score": 0.174527
+  },
+  {
+   "segment": [
+    1.0,
+    3.0
+   ],
+   "verb": "put",
+   "noun": "spoon",
+   "score": 0.167854
+  },
+  {
+   "segment": [
+    1.0,
+    2.0
+   ],
+   "verb": "cook",
+   "noun": "rice",
+   "score": 0.151755
+  },
+  {
+   "segment": [
+    1.0,
+    3.0
+   ],
+   "verb": "mix",
+   "noun": "pan",
+   "score": 0.144839
+  },
+  {
+   "segment": [
+    1.0,
+    2.0
+   ],
+   "verb": "mix",
+   "noun": "rice",
+   "score": 0.141311
+  },
+  {
+   "segment": [
+    1.0,
+    3.0
+   ],
+   "verb": "move",
+   "noun": "pan",
+   "score": 0.123448
+  },
+  {
+   "segment": [
+    1.5,
+    2.5
+   ],
+   "verb": "put",
+   "noun": "spoon",
+   "score": 0.182726
+  },
+  {
+   "segment": [
+    1.5,
+    5.0
+   ],
+   "verb": "put",
+   "noun": "spoon",
+   "score": 0.163298
+  },
+  {
+   "segment": [
+    1.5,
+    2.5
+   ],
+   "verb": "mix",
+   "noun": "pan",
+   "score": 0.158985
+  },
+  {
+   "segment": [
+    1.5,
+    5.0
+   ],
+   "verb": "mix",
+   "noun": "pan",
+   "score": 0.150042
+  },
+  {
+   "segment": [
+    1.5,
+    2.5
+   ],
+   "verb": "mix",
+   "noun": "spoon",
+   "score": 0.135275
+  },
+  {
+   "segment": [
+    1.5,
+    5.0
+   ],
+   "verb": "move",
+   "noun": "pan",
+   "score": 0.131757
+  },
+  {
+   "segment": [
+    2.0,
+    3.0
+   ],
+   "verb": "mix",
+   "noun": "pan",
+   "score": 0.162608
+  },
+  {
+   "segment": [
+    2.0,
+    3.0
+   ],
+   "verb": "put",
+   "noun": "spoon",
+   "score": 0.160571
+  },
+  {
+   "segment": [
+    2.0,
+    4.0
+   ],
+   "verb": "put",
+   "noun": "spoon",
+   "score": 0.159842
+  },
+  {
+   "segment": [
+    2.0,
+    4.0
+   ],
+   "verb": "mix",
+   "noun": "pan",
+   "score": 0.152193
+  },
+  {
+   "segment": [
+    2.0,
+    3.0
+   ],
+   "verb": "move",
+   "noun": "pan",
+   "score": 0.135195
+  },
+  {
+   "segment": [
+    2.0,
+    4.0
+   ],
+   "verb": "move",
+   "noun": "pan",
+   "score": 0.130631
+  },
+  {
+   "segment": [
+    2.5,
+    3.5
+   ],
+   "verb": "put",
+   "noun": "spoon",
+   "score": 0.154285
+  },
+  {
+   "segment": [
+    2.5,
+    3.5
+   ],
+   "verb": "mix",
+   "noun": "pan",
+   "score": 0.151717
+  },
+  {
+   "segment": [
+    2.5,
+    3.5
+   ],
+   "verb": "move",
+   "noun": "pan",
+   "score": 0.130741
+  },
+  {
+   "segment": [
+    3.0,
+    4.0
+   ],
+   "verb": "put",
+   "noun": "spoon",
+   "score": 0.158827
+  },
+  {
+   "segment": [
+    3.0,
+    5.0
+   ],
+   "verb": "put",
+   "noun": "spoon",
+   "score": 0.156625
+  },
+  {
+   "segment": [
+    3.0,
+    9.0
+   ],
+   "verb": "put",
+   "noun": "spoon",
+   "score": 0.155772
+  },
+  {
+   "segment": [
+    3.0,
+    6.5
+   ],
+   "verb": "put",
+   "noun": "spoon",
+   "score": 0.151688
+  },
+  {
+   "segment": [
+    3.0,
+    5.0
+   ],
+   "verb": "mix",
+   "noun": "pan",
+   "score": 0.143087
+  },
+  {
+   "segment": [
+    3.0,
+    4.0
+   ],
+   "verb": "mix",
+   "noun": "pan",
+   "score": 0.141711
+  },
+  {
+   "segment": [
+    3.0,
+    6.5
+   ],
+   "verb": "mix",
+   "noun": "pan",
+   "score": 0.137214
+  },
+  {
+   "segment": [
+    3.0,
+    5.0
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.134615
+  },
+  {
+   "segment": [
+    3.0,
+    9.0
+   ],
+   "verb": "move",
+   "noun": "pan",
+   "score": 0.133939
+  },
+  {
+   "segment": [
+    3.0,
+    6.5
+   ],
+   "verb": "move",
+   "noun": "pan",
+   "score": 0.131215
+  },
+  {
+   "segment": [
+    3.0,
+    9.0
+   ],
+   "verb": "turn-on",
+   "noun": "hob",
+   "score": 0.12638
+  },
+  {
+   "segment": [
+    3.0,
+    4.0
+   ],
+   "verb": "move",
+   "noun": "pan",
+   "score": 0.126047
+  },
+  {
+   "segment": [
+    3.5,
+    4.5
+   ],
+   "verb": "put",
+   "noun": "spoon",
+   "score": 0.157302
+  },
+  {
+   "segment": [
+    3.5,
+    4.5
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.137699
+  },
+  {
+   "segment": [
+    3.5,
+    4.5
+   ],
+   "verb": "mix",
+   "noun": "pan",
+   "score": 0.131921
+  },
+  {
+   "segment": [
+    4.0,
+    5.0
+   ],
+   "verb": "put",
+   "noun": "spoon",
+   "score": 0.153376
+  },
+  {
+   "segment": [
+    4.0,
+    6.0
+   ],
+   "verb": "put",
+   "noun": "spoon",
+   "score": 0.149141
+  },
+  {
+   "segment": [
+    4.0,
+    5.0
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.148332
+  },
+  {
+   "segment": [
+    4.0,
+    6.0
+   ],
+   "verb": "mix",
+   "noun": "pan",
+   "score": 0.146135
+  },
+  {
+   "segment": [
+    4.0,
+    5.0
+   ],
+   "verb": "mix",
+   "noun": "pan",
+   "score": 0.144008
+  },
+  {
+   "segment": [
+    4.0,
+    6.0
+   ],
+   "verb": "move",
+   "noun": "pan",
+   "score": 0.137843
+  },
+  {
+   "segment": [
+    4.5,
+    5.5
+   ],
+   "verb": "mix",
+   "noun": "pan",
+   "score": 0.156335
+  },
+  {
+   "segment": [
+    4.5,
+    5.5
+   ],
+   "verb": "put",
+   "noun": "spoon",
+   "score": 0.148043
+  },
+  {
+   "segment": [
+    4.5,
+    8.0
+   ],
+   "verb": "put",
+   "noun": "spoon",
+   "score": 0.146137
+  },
+  {
+   "segment": [
+    4.5,
+    5.5
+   ],
+   "verb": "move",
+   "noun": "pan",
+   "score": 0.141823
+  },
+  {
+   "segment": [
+    4.5,
+    8.0
+   ],
+   "verb": "turn-on",
+   "noun": "hob",
+   "score": 0.141151
+  },
+  {
+   "segment": [
+    4.5,
+    8.0
+   ],
+   "verb": "move",
+   "noun": "pan",
+   "score": 0.135209
+  },
+  {
+   "segment": [
+    5.0,
+    6.0
+   ],
+   "verb": "mix",
+   "noun": "pan",
+   "score": 0.148082
+  },
+  {
+   "segment": [
+    5.0,
+    6.0
+   ],
+   "verb": "put",
+   "noun": "spoon",
+   "score": 0.144897
+  },
+  {
+   "segment": [
+    5.0,
+    7.0
+   ],
+   "verb": "put",
+   "noun": "spoon",
+   "score": 0.142116
+  },
+  {
+   "segment": [
+    5.0,
+    6.0
+   ],
+   "verb": "move",
+   "noun": "pan",
+   "score": 0.138355
+  },
+  {
+   "segment": [
+    5.0,
+    7.0
+   ],
+   "verb": "move",
+   "noun": "pan",
+   "score": 0.129721
+  },
+  {
+   "segment": [
+    5.0,
+    7.0
+   ],
+   "verb": "turn-on",
+   "noun": "hob",
+   "score": 0.128141
+  },
+  {
+   "segment": [
+    5.5,
+    6.5
+   ],
+   "verb": "put",
+   "noun": "spoon",
+   "score": 0.145696
+  },
+  {
+   "segment": [
+    5.5,
+    6.5
+   ],
+   "verb": "move",
+   "noun": "pan",
+   "score": 0.128214
+  },
+  {
+   "segment": [
+    5.5,
+    6.5
+   ],
+   "verb": "turn-on",
+   "noun": "hob",
+   "score": 0.122704
+  },
+  {
+   "segment": [
+    6.0,
+    12.0
+   ],
+   "verb": "put",
+   "noun": "spoon",
+   "score": 0.238925
+  },
+  {
+   "segment": [
+    6.0,
+    12.0
+   ],
+   "verb": "take",
+   "noun": "spoon",
+   "score": 0.183711
+  },
+  {
+   "segment": [
+    6.0,
+    9.5
+   ],
+   "verb": "put",
+   "noun": "spoon",
+   "score": 0.173798
+  },
+  {
+   "segment": [
+    6.0,
+    8.0
+   ],
+   "verb": "turn-on",
+   "noun": "hob",
+   "score": 0.165129
+  },
+  {
+   "segment": [
+    6.0,
+    12.0
+   ],
+   "verb": "move",
+   "noun": "spoon",
+   "score": 0.154565
+  },
+  {
+   "segment": [
+    6.0,
+    9.5
+   ],
+   "verb": "take",
+   "noun": "spoon",
+   "score": 0.147578
+  },
+  {
+   "segment": [
+    6.0,
+    7.0
+   ],
+   "verb": "turn-on",
+   "noun": "hob",
+   "score": 0.147405
+  },
+  {
+   "segment": [
+    6.0,
+    9.5
+   ],
+   "verb": "turn-on",
+   "noun": "hob",
+   "score": 0.147117
+  },
+  {
+   "segment": [
+    6.0,
+    8.0
+   ],
+   "verb": "put",
+   "noun": "spoon",
+   "score": 0.144647
+  },
+  {
+   "segment": [
+    6.0,
+    8.0
+   ],
+   "verb": "adjust",
+   "noun": "hob",
+   "score": 0.1397
+  },
+  {
+   "segment": [
+    6.0,
+    7.0
+   ],
+   "verb": "put",
+   "noun": "spoon",
+   "score": 0.138612
+  },
+  {
+   "segment": [
+    6.0,
+    7.0
+   ],
+   "verb": "increase",
+   "noun": "hob",
+   "score": 0.125864
+  },
+  {
+   "segment": [
+    6.5,
+    7.5
+   ],
+   "verb": "turn-on",
+   "noun": "hob",
+   "score": 0.174638
+  },
+  {
+   "segment": [
+    6.5,
+    7.5
+   ],
+   "verb": "adjust",
+   "noun": "hob",
+   "score": 0.149239
+  },
+  {
+   "segment": [
+    6.5,
+    7.5
+   ],
+   "verb": "increase",
+   "noun": "hob",
+   "score": 0.147934
+  },
+  {
+   "segment": [
+    7.0,
+    8.0
+   ],
+   "verb": "turn-on",
+   "noun": "hob",
+   "score": 0.182571
+  },
+  {
+   "segment": [
+    7.0,
+    9.0
+   ],
+   "verb": "put",
+   "noun": "spoon",
+   "score": 0.167071
+  },
+  {
+   "segment": [
+    7.0,
+    9.0
+   ],
+   "verb": "turn-on",
+   "noun": "hob",
+   "score": 0.162325
+  },
+  {
+   "segment": [
+    7.0,
+    8.0
+   ],
+   "verb": "adjust",
+   "noun": "hob",
+   "score": 0.156701
+  },
+  {
+   "segment": [
+    7.0,
+    9.0
+   ],
+   "verb": "move",
+   "noun": "spoon",
+   "score": 0.15313
+  },
+  {
+   "segment": [
+    7.0,
+    8.0
+   ],
+   "verb": "put",
+   "noun": "spoon",
+   "score": 0.150599
+  },
+  {
+   "segment": [
+    7.5,
+    11.0
+   ],
+   "verb": "put",
+   "noun": "spoon",
+   "score": 0.240418
+  },
+  {
+   "segment": [
+    7.5,
+    11.0
+   ],
+   "verb": "take",
+   "noun": "spoon",
+   "score": 0.191284
+  },
+  {
+   "segment": [
+    7.5,
+    8.5
+   ],
+   "verb": "turn-on",
+   "noun": "hob",
+   "score": 0.169415
+  },
+  {
+   "segment": [
+    7.5,
+    11.0
+   ],
+   "verb": "move",
+   "noun": "spoon",
+   "score": 0.163068
+  },
+  {
+   "segment": [
+    7.5,
+    8.5
+   ],
+   "verb": "put",
+   "noun": "spoon",
+   "score": 0.151116
+  },
+  {
+   "segment": [
+    7.5,
+    8.5
+   ],
+   "verb": "move",
+   "noun": "spoon",
+   "score": 0.147738
+  },
+  {
+   "segment": [
+    8.0,
+    10.0
+   ],
+   "verb": "put",
+   "noun": "spoon",
+   "score": 0.219716
+  },
+  {
+   "segment": [
+    8.0,
+    9.0
+   ],
+   "verb": "put",
+   "noun": "spoon",
+   "score": 0.180197
+  },
+  {
+   "segment": [
+    8.0,
+    10.0
+   ],
+   "verb": "take",
+   "noun": "spoon",
+   "score": 0.178776
+  },
+  {
+   "segment": [
+    8.0,
+    10.0
+   ],
+   "verb": "move",
+   "noun": "spoon",
+   "score": 0.165602
+  },
+  {
+   "segment": [
+    8.0,
+    9.0
+   ],
+   "verb": "move",
+   "noun": "spoon",
+   "score": 0.162797
+  },
+  {
+   "segment": [
+    8.0,
+    9.0
+   ],
+   "verb": "take",
+   "noun": "spatula",
+   "score": 0.160844
+  },
+  {
+   "segment": [
+    8.5,
+    9.5
+   ],
+   "verb": "put",
+   "noun": "spoon",
+   "score": 0.221189
+  },
+  {
+   "segment": [
+    8.5,
+    9.5
+   ],
+   "verb": "take",
+   "noun": "spoon",
+   "score": 0.178936
+  },
+  {
+   "segment": [
+    8.5,
+    9.5
+   ],
+   "verb": "move",
+   "noun": "spoon",
+   "score": 0.170923
+  },
+  {
+   "segment": [
+    9.0,
+    12.5
+   ],
+   "verb": "put",
+   "noun": "spoon",
+   "score": 0.297102
+  },
+  {
+   "segment": [
+    9.0,
+    11.0
+   ],
+   "verb": "put",
+   "noun": "spoon",
+   "score": 0.278878
+  },
+  {
+   "segment": [
+    9.0,
+    15.0
+   ],
+   "verb": "put",
+   "noun": "spoon",
+   "score": 0.253453
+  },
+  {
+   "segment": [
+    9.0,
+    10.0
+   ],
+   "verb": "put",
+   "noun": "spoon",
+   "score": 0.248604
+  },
+  {
+   "segment": [
+    9.0,
+    11.0
+   ],
+   "verb": "take",
+   "noun": "spoon",
+   "score": 0.217128
+  },
+  {
+   "segment": [
+    9.0,
+    12.5
+   ],
+   "verb": "take",
+   "noun": "spoon",
+   "score": 0.217028
+  },
+  {
+   "segment": [
+    9.0,
+    10.0
+   ],
+   "verb": "take",
+   "noun": "spoon",
+   "score": 0.199279
+  },
+  {
+   "segment": [
+    9.0,
+    15.0
+   ],
+   "verb": "take",
+   "noun": "spoon",
+   "score": 0.183632
+  },
+  {
+   "segment": [
+    9.0,
+    10.0
+   ],
+   "verb": "move",
+   "noun": "spoon",
+   "score": 0.1674
+  },
+  {
+   "segment": [
+    9.0,
+    12.5
+   ],
+   "verb": "move",
+   "noun": "spoon",
+   "score": 0.167095
+  },
+  {
+   "segment": [
+    9.0,
+    11.0
+   ],
+   "verb": "move",
+   "noun": "spoon",
+   "score": 0.166538
+  },
+  {
+   "segment": [
+    9.0,
+    15.0
+   ],
+   "verb": "move",
+   "noun": "spoon",
+   "score": 0.142065
+  },
+  {
+   "segment": [
+    9.5,
+    10.5
+   ],
+   "verb": "put",
+   "noun": "spoon",
+   "score": 0.284077
+  },
+  {
+   "segment": [
+    9.5,
+    10.5
+   ],
+   "verb": "take",
+   "noun": "spoon",
+   "score": 0.225488
+  },
+  {
+   "segment": [
+    9.5,
+    10.5
+   ],
+   "verb": "move",
+   "noun": "spoon",
+   "score": 0.17068
+  },
+  {
+   "segment": [
+    10.0,
+    12.0
+   ],
+   "verb": "put",
+   "noun": "spoon",
+   "score": 0.32074
+  },
+  {
+   "segment": [
+    10.0,
+    11.0
+   ],
+   "verb": "put",
+   "noun": "spoon",
+   "score": 0.308491
+  },
+  {
+   "segment": [
+    10.0,
+    11.0
+   ],
+   "verb": "take",
+   "noun": "spoon",
+   "score": 0.23486
+  },
+  {
+   "segment": [
+    10.0,
+    12.0
+   ],
+   "verb": "take",
+   "noun": "spoon",
+   "score": 0.229732
+  },
+  {
+   "segment": [
+    10.0,
+    12.0
+   ],
+   "verb": "move",
+   "noun": "spoon",
+   "score": 0.167144
+  },
+  {
+   "segment": [
+    10.0,
+    11.0
+   ],
+   "verb": "take",
+   "noun": "ladle",
+   "score": 0.16661
+  },
+  {
+   "segment": [
+    10.5,
+    11.5
+   ],
+   "verb": "put",
+   "noun": "spoon",
+   "score": 0.321497
+  },
+  {
+   "segment": [
+    10.5,
+    14.0
+   ],
+   "verb": "put",
+   "noun": "spoon",
+   "score": 0.263228
+  },
+  {
+   "segment": [
+    10.5,
+    11.5
+   ],
+   "verb": "take",
+   "noun": "spoon",
+   "score": 0.228644
+  },
+  {
+   "segment": [
+    10.5,
+    14.0
+   ],
+   "verb": "take",
+   "noun": "spoon",
+   "score": 0.177787
+  },
+  {
+   "segment": [
+    10.5,
+    11.5
+   ],
+   "verb": "move",
+   "noun": "spoon",
+   "score": 0.164228
+  },
+  {
+   "segment": [
+    10.5,
+    14.0
+   ],
+   "verb": "put",
+   "noun": "cloth",
+   "score": 0.134875
+  },
+  {
+   "segment": [
+    11.0,
+    12.0
+   ],
+   "verb": "put",
+   "noun": "spoon",
+   "score": 0.332859
+  },
+  {
+   "segment": [
+    11.0,
+    13.0
+   ],
+   "verb": "put",
+   "noun": "spoon",
+   "score": 0.288821
+  },
+  {
+   "segment": [
+    11.0,
+    12.0
+   ],
+   "verb": "take",
+   "noun": "spoon",
+   "score": 0.222983
+  },
+  {
+   "segment": [
+    11.0,
+    13.0
+   ],
+   "verb": "take",
+   "noun": "spoon",
+   "score": 0.188913
+  },
+  {
+   "segment": [
+    11.0,
+    12.0
+   ],
+   "verb": "move",
+   "noun": "spoon",
+   "score": 0.168988
+  },
+  {
+   "segment": [
+    11.0,
+    13.0
+   ],
+   "verb": "move",
+   "noun": "spoon",
+   "score": 0.147104
+  },
+  {
+   "segment": [
+    11.5,
+    12.5
+   ],
+   "verb": "put",
+   "noun": "spoon",
+   "score": 0.295587
+  },
+  {
+   "segment": [
+    11.5,
+    12.5
+   ],
+   "verb": "take",
+   "noun": "spoon",
+   "score": 0.184639
+  },
+  {
+   "segment": [
+    11.5,
+    12.5
+   ],
+   "verb": "move",
+   "noun": "spoon",
+   "score": 0.151262
+  },
+  {
+   "segment": [
+    12.0,
+    18.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.242584
+  },
+  {
+   "segment": [
+    12.0,
+    15.5
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.203984
+  },
+  {
+   "segment": [
+    12.0,
+    13.0
+   ],
+   "verb": "put",
+   "noun": "spoon",
+   "score": 0.194492
+  },
+  {
+   "segment": [
+    12.0,
+    13.0
+   ],
+   "verb": "put",
+   "noun": "cloth",
+   "score": 0.194283
+  },
+  {
+   "segment": [
+    12.0,
+    14.0
+   ],
+   "verb": "put",
+   "noun": "cloth",
+   "score": 0.191684
+  },
+  {
+   "segment": [
+    12.0,
+    18.0
+   ],
+   "verb": "filter",
+   "noun": "potato",
+   "score": 0.190799
+  },
+  {
+   "segment": [
+    12.0,
+    13.0
+   ],
+   "verb": "squeeze",
+   "noun": "cloth",
+   "score": 0.170005
+  },
+  {
+   "segment": [
+    12.0,
+    15.5
+   ],
+   "verb": "put",
+   "noun": "cloth",
+   "score": 0.163854
+  },
+  {
+   "segment": [
+    12.0,
+    14.0
+   ],
+   "verb": "squeeze",
+   "noun": "cloth",
+   "score": 0.1618
+  },
+  {
+   "segment": [
+    12.0,
+    15.5
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.160766
+  },
+  {
+   "segment": [
+    12.0,
+    14.0
+   ],
+   "verb": "put",
+   "noun": "spoon",
+   "score": 0.149923
+  },
+  {
+   "segment": [
+    12.0,
+    18.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.148876
+  },
+  {
+   "segment": [
+    12.5,
+    13.5
+   ],
+   "verb": "put",
+   "noun": "cloth",
+   "score": 0.211059
+  },
+  {
+   "segment": [
+    12.5,
+    13.5
+   ],
+   "verb": "squeeze",
+   "noun": "cloth",
+   "score": 0.178891
+  },
+  {
+   "segment": [
+    12.5,
+    13.5
+   ],
+   "verb": "put",
+   "noun": "towel:kitchen",
+   "score": 0.158197
+  },
+  {
+   "segment": [
+    13.0,
+    15.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.24003
+  },
+  {
+   "segment": [
+    13.0,
+    14.0
+   ],
+   "verb": "put",
+   "noun": "cloth",
+   "score": 0.189052
+  },
+  {
+   "segment": [
+    13.0,
+    15.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.188049
+  },
+  {
+   "segment": [
+    13.0,
+    14.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.18536
+  },
+  {
+   "segment": [
+    13.0,
+    15.0
+   ],
+   "verb": "put",
+   "noun": "cloth",
+   "score": 0.163541
+  },
+  {
+   "segment": [
+    13.0,
+    14.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.161459
+  },
+  {
+   "segment": [
+    13.5,
+    17.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.264898
+  },
+  {
+   "segment": [
+    13.5,
+    14.5
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.258337
+  },
+  {
+   "segment": [
+    13.5,
+    14.5
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.200667
+  },
+  {
+   "segment": [
+    13.5,
+    17.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.171681
+  },
+  {
+   "segment": [
+    13.5,
+    17.0
+   ],
+   "verb": "filter",
+   "noun": "potato",
+   "score": 0.171476
+  },
+  {
+   "segment": [
+    13.5,
+    14.5
+   ],
+   "verb": "pour",
+   "noun": "pasta",
+   "score": 0.154511
+  },
+  {
+   "segment": [
+    14.0,
+    15.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.284906
+  },
+  {
+   "segment": [
+    14.0,
+    16.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.25599
+  },
+  {
+   "segment": [
+    14.0,
+    15.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.211602
+  },
+  {
+   "segment": [
+    14.0,
+    16.0
+   ],
+   "verb": "put",
+   "noun": "potato",
+   "score": 0.191273
+  },
+  {
+   "segment": [
+    14.0,
+    16.0
+   ],
+   "verb": "filter",
+   "noun": "potato",
+   "score": 0.187121
+  },
+  {
+   "segment": [
+    14.0,
+    15.0
+   ],
+   "verb": "put",
+   "noun": "potato",
+   "score": 0.180684
+  },
+  {
+   "segment": [
+    14.5,
+    15.5
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.254161
+  },
+  {
+   "segment": [
+    14.5,
+    15.5
+   ],
+   "verb": "put",
+   "noun": "potato",
+   "score": 0.214703
+  },
+  {
+   "segment": [
+    14.5,
+    15.5
+   ],
+   "verb": "filter",
+   "noun": "potato",
+   "score": 0.203903
+  },
+  {
+   "segment": [
+    15.0,
+    21.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.341209
+  },
+  {
+   "segment": [
+    15.0,
+    17.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.260143
+  },
+  {
+   "segment": [
+    15.0,
+    18.5
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.259972
+  },
+  {
+   "segment": [
+    15.0,
+    21.0
+   ],
+   "verb": "put",
+   "noun": "colander",
+   "score": 0.244081
+  },
+  {
+   "segment": [
+    15.0,
+    18.5
+   ],
+   "verb": "filter",
+   "noun": "potato",
+   "score": 0.240027
+  },
+  {
+   "segment": [
+    15.0,
+    16.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.226608
+  },
+  {
+   "segment": [
+    15.0,
+    21.0
+   ],
+   "verb": "filter",
+   "noun": "potato",
+   "score": 0.209498
+  },
+  {
+   "segment": [
+    15.0,
+    16.0
+   ],
+   "verb": "filter",
+   "noun": "potato",
+   "score": 0.200282
+  },
+  {
+   "segment": [
+    15.0,
+    16.0
+   ],
+   "verb": "put",
+   "noun": "potato",
+   "score": 0.199126
+  },
+  {
+   "segment": [
+    15.0,
+    17.0
+   ],
+   "verb": "filter",
+   "noun": "potato",
+   "score": 0.181802
+  },
+  {
+   "segment": [
+    15.0,
+    17.0
+   ],
+   "verb": "put",
+   "noun": "potato",
+   "score": 0.152557
+  },
+  {
+   "segment": [
+    15.0,
+    18.5
+   ],
+   "verb": "put",
+   "noun": "colander",
+   "score": 0.144402
+  },
+  {
+   "segment": [
+    15.5,
+    16.5
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.251068
+  },
+  {
+   "segment": [
+    15.5,
+    16.5
+   ],
+   "verb": "filter",
+   "noun": "potato",
+   "score": 0.180474
+  },
+  {
+   "segment": [
+    15.5,
+    16.5
+   ],
+   "verb": "put",
+   "noun": "potato",
+   "score": 0.15225
+  },
+  {
+   "segment": [
+    16.0,
+    17.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.280822
+  },
+  {
+   "segment": [
+    16.0,
+    18.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.279753
+  },
+  {
+   "segment": [
+    16.0,
+    18.0
+   ],
+   "verb": "filter",
+   "noun": "potato",
+   "score": 0.239816
+  },
+  {
+   "segment": [
+    16.0,
+    17.0
+   ],
+   "verb": "filter",
+   "noun": "potato",
+   "score": 0.163273
+  },
+  {
+   "segment": [
+    16.0,
+    17.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.144542
+  },
+  {
+   "segment": [
+    16.0,
+    18.0
+   ],
+   "verb": "put",
+   "noun": "colander",
+   "score": 0.12974
+  },
+  {
+   "segment": [
+    16.5,
+    20.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.33096
+  },
+  {
+   "segment": [
+    16.5,
+    17.5
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.290337
+  },
+  {
+   "segment": [
+    16.5,
+    20.0
+   ],
+   "verb": "put",
+   "noun": "colander",
+   "score": 0.253193
+  },
+  {
+   "segment": [
+    16.5,
+    20.0
+   ],
+   "verb": "filter",
+   "noun": "potato",
+   "score": 0.229595
+  },
+  {
+   "segment": [
+    16.5,
+    17.5
+   ],
+   "verb": "filter",
+   "noun": "potato",
+   "score": 0.228134
+  },
+  {
+   "segment": [
+    16.5,
+    17.5
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.132884
+  },
+  {
+   "segment": [
+    17.0,
+    18.0
+   ],
+   "verb": "filter",
+   "noun": "potato",
+   "score": 0.300131
+  },
+  {
+   "segment": [
+    17.0,
+    19.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.280754
+  },
+  {
+   "segment": [
+    17.0,
+    19.0
+   ],
+   "verb": "filter",
+   "noun": "potato",
+   "score": 0.280011
+  },
+  {
+   "segment": [
+    17.0,
+    18.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.278383
+  },
+  {
+   "segment": [
+    17.0,
+    19.0
+   ],
+   "verb": "put",
+   "noun": "colander",
+   "score": 0.234444
+  },
+  {
+   "segment": [
+    17.0,
+    18.0
+   ],
+   "verb": "put",
+   "noun": "colander",
+   "score": 0.174786
+  },
+  {
+   "segment": [
+    17.5,
+    18.5
+   ],
+   "verb": "filter",
+   "noun": "potato",
+   "score": 0.302877
+  },
+  {
+   "segment": [
+    17.5,
+    18.5
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.239827
+  },
+  {
+   "segment": [
+    17.5,
+    18.5
+   ],
+   "verb": "put",
+   "noun": "colander",
+   "score": 0.235724
+  },
+  {
+   "segment": [
+    18.0,
+    21.5
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.433693
+  },
+  {
+   "segment": [
+    18.0,
+    24.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.399958
+  },
+  {
+   "segment": [
+    18.0,
+    20.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.366694
+  },
+  {
+   "segment": [
+    18.0,
+    21.5
+   ],
+   "verb": "put",
+   "noun": "colander",
+   "score": 0.33264
+  },
+  {
+   "segment": [
+    18.0,
+    20.0
+   ],
+   "verb": "put",
+   "noun": "colander",
+   "score": 0.323226
+  },
+  {
+   "segment": [
+    18.0,
+    24.0
+   ],
+   "verb": "put",
+   "noun": "colander",
+   "score": 0.294671
+  },
+  {
+   "segment": [
+    18.0,
+    21.5
+   ],
+   "verb": "filter",
+   "noun": "colander",
+   "score": 0.289964
+  },
+  {
+   "segment": [
+    18.0,
+    19.0
+   ],
+   "verb": "put",
+   "noun": "colander",
+   "score": 0.288603
+  },
+  {
+   "segment": [
+    18.0,
+    19.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.280988
+  },
+  {
+   "segment": [
+    18.0,
+    20.0
+   ],
+   "verb": "filter",
+   "noun": "colander",
+   "score": 0.278874
+  },
+  {
+   "segment": [
+    18.0,
+    24.0
+   ],
+   "verb": "filter",
+   "noun": "colander",
+   "score": 0.264273
+  },
+  {
+   "segment": [
+    18.0,
+    19.0
+   ],
+   "verb": "filter",
+   "noun": "colander",
+   "score": 0.258828
+  },
+  {
+   "segment": [
+    18.5,
+    19.5
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.386445
+  },
+  {
+   "segment": [
+    18.5,
+    19.5
+   ],
+   "verb": "put",
+   "noun": "colander",
+   "score": 0.329184
+  },
+  {
+   "segment": [
+    18.5,
+    19.5
+   ],
+   "verb": "filter",
+   "noun": "colander",
+   "score": 0.287004
+  },
+  {
+   "segment": [
+    19.0,
+    21.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.467349
+  },
+  {
+   "segment": [
+    19.0,
+    20.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.441379
+  },
+  {
+   "segment": [
+    19.0,
+    21.0
+   ],
+   "verb": "put",
+   "noun": "colander",
+   "score": 0.363496
+  },
+  {
+   "segment": [
+    19.0,
+    20.0
+   ],
+   "verb": "put",
+   "noun": "colander",
+   "score": 0.356735
+  },
+  {
+   "segment": [
+    19.0,
+    21.0
+   ],
+   "verb": "filter",
+   "noun": "colander",
+   "score": 0.304569
+  },
+  {
+   "segment": [
+    19.0,
+    20.0
+   ],
+   "verb": "filter",
+   "noun": "colander",
+   "score": 0.298749
+  },
+  {
+   "segment": [
+    19.5,
+    20.5
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.464636
+  },
+  {
+   "segment": [
+    19.5,
+    23.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.45904
+  },
+  {
+   "segment": [
+    19.5,
+    20.5
+   ],
+   "verb": "put",
+   "noun": "colander",
+   "score": 0.381176
+  },
+  {
+   "segment": [
+    19.5,
+    20.5
+   ],
+   "verb": "filter",
+   "noun": "colander",
+   "score": 0.310102
+  },
+  {
+   "segment": [
+    19.5,
+    23.0
+   ],
+   "verb": "put",
+   "noun": "colander",
+   "score": 0.294691
+  },
+  {
+   "segment": [
+    19.5,
+    23.0
+   ],
+   "verb": "filter",
+   "noun": "colander",
+   "score": 0.278779
+  },
+  {
+   "segment": [
+    20.0,
+    22.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.519612
+  },
+  {
+   "segment": [
+    20.0,
+    21.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.492108
+  },
+  {
+   "segment": [
+    20.0,
+    21.0
+   ],
+   "verb": "put",
+   "noun": "colander",
+   "score": 0.370173
+  },
+  {
+   "segment": [
+    20.0,
+    22.0
+   ],
+   "verb": "put",
+   "noun": "colander",
+   "score": 0.325191
+  },
+  {
+   "segment": [
+    20.0,
+    21.0
+   ],
+   "verb": "filter",
+   "noun": "colander",
+   "score": 0.310315
+  },
+  {
+   "segment": [
+    20.0,
+    22.0
+   ],
+   "verb": "filter",
+   "noun": "colander",
+   "score": 0.306616
+  },
+  {
+   "segment": [
+    20.5,
+    21.5
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.529495
+  },
+  {
+   "segment": [
+    20.5,
+    21.5
+   ],
+   "verb": "put",
+   "noun": "colander",
+   "score": 0.323504
+  },
+  {
+   "segment": [
+    20.5,
+    21.5
+   ],
+   "verb": "filter",
+   "noun": "colander",
+   "score": 0.303048
+  },
+  {
+   "segment": [
+    21.0,
+    22.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.543121
+  },
+  {
+   "segment": [
+    21.0,
+    23.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.441348
+  },
+  {
+   "segment": [
+    21.0,
+    27.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.395113
+  },
+  {
+   "segment": [
+    21.0,
+    24.5
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.375424
+  },
+  {
+   "segment": [
+    21.0,
+    22.0
+   ],
+   "verb": "filter",
+   "noun": "colander",
+   "score": 0.302707
+  },
+  {
+   "segment": [
+    21.0,
+    27.0
+   ],
+   "verb": "put",
+   "noun": "colander",
+   "score": 0.278441
+  },
+  {
+   "segment": [
+    21.0,
+    22.0
+   ],
+   "verb": "put",
+   "noun": "colander",
+   "score": 0.276572
+  },
+  {
+   "segment": [
+    21.0,
+    24.5
+   ],
+   "verb": "put",
+   "noun": "colander",
+   "score": 0.255843
+  },
+  {
+   "segment": [
+    21.0,
+    23.0
+   ],
+   "verb": "filter",
+   "noun": "colander",
+   "score": 0.254436
+  },
+  {
+   "segment": [
+    21.0,
+    24.5
+   ],
+   "verb": "filter",
+   "noun": "colander",
+   "score": 0.233879
+  },
+  {
+   "segment": [
+    21.0,
+    23.0
+   ],
+   "verb": "put",
+   "noun": "colander",
+   "score": 0.231363
+  },
+  {
+   "segment": [
+    21.0,
+    27.0
+   ],
+   "verb": "filter",
+   "noun": "colander",
+   "score": 0.224215
+  },
+  {
+   "segment": [
+    21.5,
+    22.5
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.467315
+  },
+  {
+   "segment": [
+    21.5,
+    22.5
+   ],
+   "verb": "filter",
+   "noun": "colander",
+   "score": 0.273535
+  },
+  {
+   "segment": [
+    21.5,
+    22.5
+   ],
+   "verb": "put",
+   "noun": "colander",
+   "score": 0.228507
+  },
+  {
+   "segment": [
+    22.0,
+    23.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.333146
+  },
+  {
+   "segment": [
+    22.0,
+    24.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.289791
+  },
+  {
+   "segment": [
+    22.0,
+    24.0
+   ],
+   "verb": "dry",
+   "noun": "colander",
+   "score": 0.240407
+  },
+  {
+   "segment": [
+    22.0,
+    24.0
+   ],
+   "verb": "put",
+   "noun": "colander",
+   "score": 0.231188
+  },
+  {
+   "segment": [
+    22.0,
+    23.0
+   ],
+   "verb": "filter",
+   "noun": "colander",
+   "score": 0.204762
+  },
+  {
+   "segment": [
+    22.0,
+    23.0
+   ],
+   "verb": "put",
+   "noun": "colander",
+   "score": 0.184653
+  },
+  {
+   "segment": [
+    22.5,
+    26.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.320565
+  },
+  {
+   "segment": [
+    22.5,
+    26.0
+   ],
+   "verb": "put",
+   "noun": "colander",
+   "score": 0.269847
+  },
+  {
+   "segment": [
+    22.5,
+    23.5
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.236235
+  },
+  {
+   "segment": [
+    22.5,
+    23.5
+   ],
+   "verb": "dry",
+   "noun": "colander",
+   "score": 0.235761
+  },
+  {
+   "segment": [
+    22.5,
+    26.0
+   ],
+   "verb": "dry",
+   "noun": "colander",
+   "score": 0.229508
+  },
+  {
+   "segment": [
+    22.5,
+    23.5
+   ],
+   "verb": "put",
+   "noun": "colander",
+   "score": 0.210267
+  },
+  {
+   "segment": [
+    23.0,
+    24.0
+   ],
+   "verb": "dry",
+   "noun": "colander",
+   "score": 0.314652
+  },
+  {
+   "segment": [
+    23.0,
+    25.0
+   ],
+   "verb": "put",
+   "noun": "colander",
+   "score": 0.292862
+  },
+  {
+   "segment": [
+    23.0,
+    25.0
+   ],
+   "verb": "dry",
+   "noun": "colander",
+   "score": 0.287873
+  },
+  {
+   "segment": [
+    23.0,
+    25.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.278457
+  },
+  {
+   "segment": [
+    23.0,
+    24.0
+   ],
+   "verb": "put",
+   "noun": "colander",
+   "score": 0.277084
+  },
+  {
+   "segment": [
+    23.0,
+    24.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.207976
+  },
+  {
+   "segment": [
+    23.5,
+    24.5
+   ],
+   "verb": "dry",
+   "noun": "colander",
+   "score": 0.312246
+  },
+  {
+   "segment": [
+    23.5,
+    24.5
+   ],
+   "verb": "put",
+   "noun": "colander",
+   "score": 0.305839
+  },
+  {
+   "segment": [
+    23.5,
+    24.5
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.263082
+  },
+  {
+   "segment": [
+    24.0,
+    27.5
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.413791
+  },
+  {
+   "segment": [
+    24.0,
+    30.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.374897
+  },
+  {
+   "segment": [
+    24.0,
+    26.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.361844
+  },
+  {
+   "segment": [
+    24.0,
+    25.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.328924
+  },
+  {
+   "segment": [
+    24.0,
+    30.0
+   ],
+   "verb": "put",
+   "noun": "colander",
+   "score": 0.324498
+  },
+  {
+   "segment": [
+    24.0,
+    27.5
+   ],
+   "verb": "put",
+   "noun": "colander",
+   "score": 0.309546
+  },
+  {
+   "segment": [
+    24.0,
+    25.0
+   ],
+   "verb": "put",
+   "noun": "colander",
+   "score": 0.305772
+  },
+  {
+   "segment": [
+    24.0,
+    26.0
+   ],
+   "verb": "put",
+   "noun": "colander",
+   "score": 0.284015
+  },
+  {
+   "segment": [
+    24.0,
+    25.0
+   ],
+   "verb": "dry",
+   "noun": "colander",
+   "score": 0.260534
+  },
+  {
+   "segment": [
+    24.0,
+    30.0
+   ],
+   "verb": "filter",
+   "noun": "colander",
+   "score": 0.25453
+  },
+  {
+   "segment": [
+    24.0,
+    27.5
+   ],
+   "verb": "take",
+   "noun": "colander",
+   "score": 0.239209
+  },
+  {
+   "segment": [
+    24.0,
+    26.0
+   ],
+   "verb": "take",
+   "noun": "colander",
+   "score": 0.216485
+  },
+  {
+   "segment": [
+    24.5,
+    25.5
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.371588
+  },
+  {
+   "segment": [
+    24.5,
+    25.5
+   ],
+   "verb": "put",
+   "noun": "colander",
+   "score": 0.272638
+  },
+  {
+   "segment": [
+    24.5,
+    25.5
+   ],
+   "verb": "take",
+   "noun": "colander",
+   "score": 0.209141
+  },
+  {
+   "segment": [
+    25.0,
+    27.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.427471
+  },
+  {
+   "segment": [
+    25.0,
+    26.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.372103
+  },
+  {
+   "segment": [
+    25.0,
+    27.0
+   ],
+   "verb": "put",
+   "noun": "colander",
+   "score": 0.303443
+  },
+  {
+   "segment": [
+    25.0,
+    26.0
+   ],
+   "verb": "put",
+   "noun": "colander",
+   "score": 0.25891
+  },
+  {
+   "segment": [
+    25.0,
+    27.0
+   ],
+   "verb": "take",
+   "noun": "colander",
+   "score": 0.240837
+  },
+  {
+   "segment": [
+    25.0,
+    26.0
+   ],
+   "verb": "take",
+   "noun": "colander",
+   "score": 0.204285
+  },
+  {
+   "segment": [
+    25.5,
+    26.5
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.42957
+  },
+  {
+   "segment": [
+    25.5,
+    29.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.416462
+  },
+  {
+   "segment": [
+    25.5,
+    29.0
+   ],
+   "verb": "put",
+   "noun": "colander",
+   "score": 0.343443
+  },
+  {
+   "segment": [
+    25.5,
+    26.5
+   ],
+   "verb": "put",
+   "noun": "colander",
+   "score": 0.307112
+  },
+  {
+   "segment": [
+    25.5,
+    29.0
+   ],
+   "verb": "filter",
+   "noun": "colander",
+   "score": 0.268194
+  },
+  {
+   "segment": [
+    25.5,
+    26.5
+   ],
+   "verb": "take",
+   "noun": "colander",
+   "score": 0.24587
+  },
+  {
+   "segment": [
+    26.0,
+    27.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.478356
+  },
+  {
+   "segment": [
+    26.0,
+    28.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.466226
+  },
+  {
+   "segment": [
+    26.0,
+    28.0
+   ],
+   "verb": "put",
+   "noun": "colander",
+   "score": 0.350051
+  },
+  {
+   "segment": [
+    26.0,
+    27.0
+   ],
+   "verb": "put",
+   "noun": "colander",
+   "score": 0.345875
+  },
+  {
+   "segment": [
+    26.0,
+    27.0
+   ],
+   "verb": "take",
+   "noun": "colander",
+   "score": 0.275934
+  },
+  {
+   "segment": [
+    26.0,
+    28.0
+   ],
+   "verb": "filter",
+   "noun": "colander",
+   "score": 0.271686
+  },
+  {
+   "segment": [
+    26.5,
+    27.5
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.488225
+  },
+  {
+   "segment": [
+    26.5,
+    27.5
+   ],
+   "verb": "put",
+   "noun": "colander",
+   "score": 0.349569
+  },
+  {
+   "segment": [
+    26.5,
+    27.5
+   ],
+   "verb": "filter",
+   "noun": "colander",
+   "score": 0.274947
+  },
+  {
+   "segment": [
+    27.0,
+    28.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.454095
+  },
+  {
+   "segment": [
+    27.0,
+    29.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.391369
+  },
+  {
+   "segment": [
+    27.0,
+    29.0
+   ],
+   "verb": "put",
+   "noun": "colander",
+   "score": 0.355747
+  },
+  {
+   "segment": [
+    27.0,
+    28.0
+   ],
+   "verb": "put",
+   "noun": "colander",
+   "score": 0.35371
+  },
+  {
+   "segment": [
+    27.0,
+    30.5
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.336067
+  },
+  {
+   "segment": [
+    27.0,
+    30.5
+   ],
+   "verb": "put",
+   "noun": "colander",
+   "score": 0.333073
+  },
+  {
+   "segment": [
+    27.0,
+    33.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.331919
+  },
+  {
+   "segment": [
+    27.0,
+    33.0
+   ],
+   "verb": "put",
+   "noun": "colander",
+   "score": 0.312678
+  },
+  {
+   "segment": [
+    27.0,
+    29.0
+   ],
+   "verb": "filter",
+   "noun": "colander",
+   "score": 0.291089
+  },
+  {
+   "segment": [
+    27.0,
+    28.0
+   ],
+   "verb": "filter",
+   "noun": "colander",
+   "score": 0.288155
+  },
+  {
+   "segment": [
+    27.0,
+    30.5
+   ],
+   "verb": "filter",
+   "noun": "colander",
+   "score": 0.285937
+  },
+  {
+   "segment": [
+    27.0,
+    33.0
+   ],
+   "verb": "filter",
+   "noun": "colander",
+   "score": 0.276133
+  },
+  {
+   "segment": [
+    27.5,
+    28.5
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.397193
+  },
+  {
+   "segment": [
+    27.5,
+    28.5
+   ],
+   "verb": "put",
+   "noun": "colander",
+   "score": 0.370474
+  },
+  {
+   "segment": [
+    27.5,
+    28.5
+   ],
+   "verb": "filter",
+   "noun": "colander",
+   "score": 0.302382
+  },
+  {
+   "segment": [
+    28.0,
+    29.0
+   ],
+   "verb": "put",
+   "noun": "colander",
+   "score": 0.352891
+  },
+  {
+   "segment": [
+    28.0,
+    30.0
+   ],
+   "verb": "put",
+   "noun": "colander",
+   "score": 0.331684
+  },
+  {
+   "segment": [
+    28.0,
+    29.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.327906
+  },
+  {
+   "segment": [
+    28.0,
+    30.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.294995
+  },
+  {
+   "segment": [
+    28.0,
+    29.0
+   ],
+   "verb": "filter",
+   "noun": "colander",
+   "score": 0.289751
+  },
+  {
+   "segment": [
+    28.0,
+    30.0
+   ],
+   "verb": "filter",
+   "noun": "colander",
+   "score": 0.285704
+  },
+  {
+   "segment": [
+    28.5,
+    29.5
+   ],
+   "verb": "put",
+   "noun": "colander",
+   "score": 0.330076
+  },
+  {
+   "segment": [
+    28.5,
+    32.0
+   ],
+   "verb": "put",
+   "noun": "colander",
+   "score": 0.297592
+  },
+  {
+   "segment": [
+    28.5,
+    29.5
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.292827
+  },
+  {
+   "segment": [
+    28.5,
+    32.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.285093
+  },
+  {
+   "segment": [
+    28.5,
+    29.5
+   ],
+   "verb": "filter",
+   "noun": "colander",
+   "score": 0.28505
+  },
+  {
+   "segment": [
+    28.5,
+    32.0
+   ],
+   "verb": "filter",
+   "noun": "colander",
+   "score": 0.267561
+  },
+  {
+   "segment": [
+    29.0,
+    30.0
+   ],
+   "verb": "put",
+   "noun": "colander",
+   "score": 0.310475
+  },
+  {
+   "segment": [
+    29.0,
+    31.0
+   ],
+   "verb": "put",
+   "noun": "colander",
+   "score": 0.296861
+  },
+  {
+   "segment": [
+    29.0,
+    30.0
+   ],
+   "verb": "filter",
+   "noun": "colander",
+   "score": 0.281033
+  },
+  {
+   "segment": [
+    29.0,
+    31.0
+   ],
+   "verb": "filter",
+   "noun": "colander",
+   "score": 0.269792
+  },
+  {
+   "segment": [
+    29.0,
+    31.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.264522
+  },
+  {
+   "segment": [
+    29.0,
+    30.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.261314
+  },
+  {
+   "segment": [
+    29.5,
+    30.5
+   ],
+   "verb": "put",
+   "noun": "colander",
+   "score": 0.28827
+  },
+  {
+   "segment": [
+    29.5,
+    30.5
+   ],
+   "verb": "filter",
+   "noun": "colander",
+   "score": 0.262812
+  },
+  {
+   "segment": [
+    29.5,
+    30.5
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.236148
+  },
+  {
+   "segment": [
+    30.0,
+    36.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.375207
+  },
+  {
+   "segment": [
+    30.0,
+    33.5
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.327717
+  },
+  {
+   "segment": [
+    30.0,
+    32.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.297585
+  },
+  {
+   "segment": [
+    30.0,
+    33.5
+   ],
+   "verb": "put",
+   "noun": "colander",
+   "score": 0.283427
+  },
+  {
+   "segment": [
+    30.0,
+    31.0
+   ],
+   "verb": "put",
+   "noun": "colander",
+   "score": 0.283073
+  },
+  {
+   "segment": [
+    30.0,
+    32.0
+   ],
+   "verb": "put",
+   "noun": "colander",
+   "score": 0.282317
+  },
+  {
+   "segment": [
+    30.0,
+    36.0
+   ],
+   "verb": "put",
+   "noun": "colander",
+   "score": 0.281499
+  },
+  {
+   "segment": [
+    30.0,
+    31.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.267434
+  },
+  {
+   "segment": [
+    30.0,
+    33.5
+   ],
+   "verb": "filter",
+   "noun": "colander",
+   "score": 0.2643
+  },
+  {
+   "segment": [
+    30.0,
+    36.0
+   ],
+   "verb": "filter",
+   "noun": "colander",
+   "score": 0.26186
+  },
+  {
+   "segment": [
+    30.0,
+    32.0
+   ],
+   "verb": "filter",
+   "noun": "colander",
+   "score": 0.260307
+  },
+  {
+   "segment": [
+    30.0,
+    31.0
+   ],
+   "verb": "filter",
+   "noun": "colander",
+   "score": 0.258444
+  },
+  {
+   "segment": [
+    30.5,
+    31.5
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.312109
+  },
+  {
+   "segment": [
+    30.5,
+    31.5
+   ],
+   "verb": "put",
+   "noun": "colander",
+   "score": 0.283908
+  },
+  {
+   "segment": [
+    30.5,
+    31.5
+   ],
+   "verb": "filter",
+   "noun": "colander",
+   "score": 0.260737
+  },
+  {
+   "segment": [
+    31.0,
+    33.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.334044
+  },
+  {
+   "segment": [
+    31.0,
+    32.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.325047
+  },
+  {
+   "segment": [
+    31.0,
+    33.0
+   ],
+   "verb": "put",
+   "noun": "colander",
+   "score": 0.284504
+  },
+  {
+   "segment": [
+    31.0,
+    32.0
+   ],
+   "verb": "put",
+   "noun": "colander",
+   "score": 0.281555
+  },
+  {
+   "segment": [
+    31.0,
+    33.0
+   ],
+   "verb": "filter",
+   "noun": "colander",
+   "score": 0.263504
+  },
+  {
+   "segment": [
+    31.0,
+    32.0
+   ],
+   "verb": "filter",
+   "noun": "colander",
+   "score": 0.262164
+  },
+  {
+   "segment": [
+    31.5,
+    35.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.382438
+  },
+  {
+   "segment": [
+    31.5,
+    32.5
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.325143
+  },
+  {
+   "segment": [
+    31.5,
+    32.5
+   ],
+   "verb": "put",
+   "noun": "colander",
+   "score": 0.281578
+  },
+  {
+   "segment": [
+    31.5,
+    35.0
+   ],
+   "verb": "put",
+   "noun": "colander",
+   "score": 0.272465
+  },
+  {
+   "segment": [
+    31.5,
+    35.0
+   ],
+   "verb": "filter",
+   "noun": "colander",
+   "score": 0.257633
+  },
+  {
+   "segment": [
+    31.5,
+    32.5
+   ],
+   "verb": "filter",
+   "noun": "colander",
+   "score": 0.257286
+  },
+  {
+   "segment": [
+    32.0,
+    34.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.378065
+  },
+  {
+   "segment": [
+    32.0,
+    33.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.34216
+  },
+  {
+   "segment": [
+    32.0,
+    33.0
+   ],
+   "verb": "put",
+   "noun": "colander",
+   "score": 0.287096
+  },
+  {
+   "segment": [
+    32.0,
+    34.0
+   ],
+   "verb": "put",
+   "noun": "colander",
+   "score": 0.279209
+  },
+  {
+   "segment": [
+    32.0,
+    34.0
+   ],
+   "verb": "filter",
+   "noun": "colander",
+   "score": 0.26622
+  },
+  {
+   "segment": [
+    32.0,
+    33.0
+   ],
+   "verb": "filter",
+   "noun": "colander",
+   "score": 0.264601
+  },
+  {
+   "segment": [
+    32.5,
+    33.5
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.371496
+  },
+  {
+   "segment": [
+    32.5,
+    33.5
+   ],
+   "verb": "put",
+   "noun": "colander",
+   "score": 0.283882
+  },
+  {
+   "segment": [
+    32.5,
+    33.5
+   ],
+   "verb": "filter",
+   "noun": "colander",
+   "score": 0.274101
+  },
+  {
+   "segment": [
+    33.0,
+    39.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.465273
+  },
+  {
+   "segment": [
+    33.0,
+    36.5
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.440659
+  },
+  {
+   "segment": [
+    33.0,
+    35.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.418278
+  },
+  {
+   "segment": [
+    33.0,
+    34.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.412224
+  },
+  {
+   "segment": [
+    33.0,
+    39.0
+   ],
+   "verb": "put",
+   "noun": "colander",
+   "score": 0.291968
+  },
+  {
+   "segment": [
+    33.0,
+    36.5
+   ],
+   "verb": "put",
+   "noun": "colander",
+   "score": 0.284557
+  },
+  {
+   "segment": [
+    33.0,
+    39.0
+   ],
+   "verb": "filter",
+   "noun": "colander",
+   "score": 0.277481
+  },
+  {
+   "segment": [
+    33.0,
+    34.0
+   ],
+   "verb": "put",
+   "noun": "colander",
+   "score": 0.270491
+  },
+  {
+   "segment": [
+    33.0,
+    34.0
+   ],
+   "verb": "filter",
+   "noun": "colander",
+   "score": 0.267744
+  },
+  {
+   "segment": [
+    33.0,
+    35.0
+   ],
+   "verb": "put",
+   "noun": "colander",
+   "score": 0.263576
+  },
+  {
+   "segment": [
+    33.0,
+    36.5
+   ],
+   "verb": "filter",
+   "noun": "colander",
+   "score": 0.262993
+  },
+  {
+   "segment": [
+    33.0,
+    35.0
+   ],
+   "verb": "filter",
+   "noun": "colander",
+   "score": 0.254658
+  },
+  {
+   "segment": [
+    33.5,
+    34.5
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.422212
+  },
+  {
+   "segment": [
+    33.5,
+    34.5
+   ],
+   "verb": "put",
+   "noun": "colander",
+   "score": 0.253486
+  },
+  {
+   "segment": [
+    33.5,
+    34.5
+   ],
+   "verb": "filter",
+   "noun": "colander",
+   "score": 0.246803
+  },
+  {
+   "segment": [
+    34.0,
+    36.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.437902
+  },
+  {
+   "segment": [
+    34.0,
+    35.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.423549
+  },
+  {
+   "segment": [
+    34.0,
+    36.0
+   ],
+   "verb": "put",
+   "noun": "colander",
+   "score": 0.282891
+  },
+  {
+   "segment": [
+    34.0,
+    36.0
+   ],
+   "verb": "filter",
+   "noun": "colander",
+   "score": 0.258671
+  },
+  {
+   "segment": [
+    34.0,
+    35.0
+   ],
+   "verb": "put",
+   "noun": "colander",
+   "score": 0.256657
+  },
+  {
+   "segment": [
+    34.0,
+    35.0
+   ],
+   "verb": "filter",
+   "noun": "colander",
+   "score": 0.24145
+  },
+  {
+   "segment": [
+    34.5,
+    38.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.479964
+  },
+  {
+   "segment": [
+    34.5,
+    35.5
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.429401
+  },
+  {
+   "segment": [
+    34.5,
+    38.0
+   ],
+   "verb": "put",
+   "noun": "colander",
+   "score": 0.299466
+  },
+  {
+   "segment": [
+    34.5,
+    35.5
+   ],
+   "verb": "put",
+   "noun": "colander",
+   "score": 0.286026
+  },
+  {
+   "segment": [
+    34.5,
+    38.0
+   ],
+   "verb": "filter",
+   "noun": "colander",
+   "score": 0.26643
+  },
+  {
+   "segment": [
+    34.5,
+    35.5
+   ],
+   "verb": "filter",
+   "noun": "colander",
+   "score": 0.26231
+  },
+  {
+   "segment": [
+    35.0,
+    37.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.479918
+  },
+  {
+   "segment": [
+    35.0,
+    36.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.4513
+  },
+  {
+   "segment": [
+    35.0,
+    36.0
+   ],
+   "verb": "put",
+   "noun": "colander",
+   "score": 0.309067
+  },
+  {
+   "segment": [
+    35.0,
+    37.0
+   ],
+   "verb": "put",
+   "noun": "colander",
+   "score": 0.308072
+  },
+  {
+   "segment": [
+    35.0,
+    36.0
+   ],
+   "verb": "filter",
+   "noun": "colander",
+   "score": 0.275856
+  },
+  {
+   "segment": [
+    35.0,
+    37.0
+   ],
+   "verb": "filter",
+   "noun": "colander",
+   "score": 0.267609
+  },
+  {
+   "segment": [
+    35.5,
+    36.5
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.487967
+  },
+  {
+   "segment": [
+    35.5,
+    36.5
+   ],
+   "verb": "put",
+   "noun": "colander",
+   "score": 0.316457
+  },
+  {
+   "segment": [
+    35.5,
+    36.5
+   ],
+   "verb": "filter",
+   "noun": "colander",
+   "score": 0.270053
+  },
+  {
+   "segment": [
+    36.0,
+    42.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.543785
+  },
+  {
+   "segment": [
+    36.0,
+    37.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.508319
+  },
+  {
+   "segment": [
+    36.0,
+    38.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.508176
+  },
+  {
+   "segment": [
+    36.0,
+    39.5
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.50624
+  },
+  {
+   "segment": [
+    36.0,
+    42.0
+   ],
+   "verb": "filter",
+   "noun": "colander",
+   "score": 0.334203
+  },
+  {
+   "segment": [
+    36.0,
+    42.0
+   ],
+   "verb": "put",
+   "noun": "colander",
+   "score": 0.319563
+  },
+  {
+   "segment": [
+    36.0,
+    39.5
+   ],
+   "verb": "put",
+   "noun": "colander",
+   "score": 0.309115
+  },
+  {
+   "segment": [
+    36.0,
+    37.0
+   ],
+   "verb": "put",
+   "noun": "colander",
+   "score": 0.306525
+  },
+  {
+   "segment": [
+    36.0,
+    39.5
+   ],
+   "verb": "filter",
+   "noun": "colander",
+   "score": 0.305453
+  },
+  {
+   "segment": [
+    36.0,
+    38.0
+   ],
+   "verb": "put",
+   "noun": "colander",
+   "score": 0.302092
+  },
+  {
+   "segment": [
+    36.0,
+    38.0
+   ],
+   "verb": "filter",
+   "noun": "colander",
+   "score": 0.266128
+  },
+  {
+   "segment": [
+    36.0,
+    37.0
+   ],
+   "verb": "filter",
+   "noun": "colander",
+   "score": 0.257992
+  },
+  {
+   "segment": [
+    36.5,
+    37.5
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.501106
+  },
+  {
+   "segment": [
+    36.5,
+    37.5
+   ],
+   "verb": "put",
+   "noun": "colander",
+   "score": 0.291103
+  },
+  {
+   "segment": [
+    36.5,
+    37.5
+   ],
+   "verb": "filter",
+   "noun": "colander",
+   "score": 0.250486
+  },
+  {
+   "segment": [
+    37.0,
+    38.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.508003
+  },
+  {
+   "segment": [
+    37.0,
+    39.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.497474
+  },
+  {
+   "segment": [
+    37.0,
+    39.0
+   ],
+   "verb": "filter",
+   "noun": "colander",
+   "score": 0.309094
+  },
+  {
+   "segment": [
+    37.0,
+    39.0
+   ],
+   "verb": "put",
+   "noun": "colander",
+   "score": 0.303889
+  },
+  {
+   "segment": [
+    37.0,
+    38.0
+   ],
+   "verb": "put",
+   "noun": "colander",
+   "score": 0.297645
+  },
+  {
+   "segment": [
+    37.0,
+    38.0
+   ],
+   "verb": "filter",
+   "noun": "colander",
+   "score": 0.273884
+  },
+  {
+   "segment": [
+    37.5,
+    41.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.533112
+  },
+  {
+   "segment": [
+    37.5,
+    38.5
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.499225
+  },
+  {
+   "segment": [
+    37.5,
+    41.0
+   ],
+   "verb": "filter",
+   "noun": "colander",
+   "score": 0.355269
+  },
+  {
+   "segment": [
+    37.5,
+    41.0
+   ],
+   "verb": "put",
+   "noun": "colander",
+   "score": 0.327898
+  },
+  {
+   "segment": [
+    37.5,
+    38.5
+   ],
+   "verb": "filter",
+   "noun": "colander",
+   "score": 0.307972
+  },
+  {
+   "segment": [
+    37.5,
+    38.5
+   ],
+   "verb": "put",
+   "noun": "colander",
+   "score": 0.301632
+  },
+  {
+   "segment": [
+    38.0,
+    40.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.510806
+  },
+  {
+   "segment": [
+    38.0,
+    39.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.486054
+  },
+  {
+   "segment": [
+    38.0,
+    40.0
+   ],
+   "verb": "filter",
+   "noun": "colander",
+   "score": 0.35955
+  },
+  {
+   "segment": [
+    38.0,
+    39.0
+   ],
+   "verb": "filter",
+   "noun": "colander",
+   "score": 0.341811
+  },
+  {
+   "segment": [
+    38.0,
+    40.0
+   ],
+   "verb": "put",
+   "noun": "colander",
+   "score": 0.326052
+  },
+  {
+   "segment": [
+    38.0,
+    39.0
+   ],
+   "verb": "put",
+   "noun": "colander",
+   "score": 0.310133
+  },
+  {
+   "segment": [
+    38.5,
+    39.5
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.513746
+  },
+  {
+   "segment": [
+    38.5,
+    39.5
+   ],
+   "verb": "filter",
+   "noun": "colander",
+   "score": 0.372669
+  },
+  {
+   "segment": [
+    38.5,
+    39.5
+   ],
+   "verb": "put",
+   "noun": "colander",
+   "score": 0.329308
+  },
+  {
+   "segment": [
+    39.0,
+    42.5
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.58151
+  },
+  {
+   "segment": [
+    39.0,
+    41.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.558743
+  },
+  {
+   "segment": [
+    39.0,
+    40.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.534889
+  },
+  {
+   "segment": [
+    39.0,
+    45.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.519652
+  },
+  {
+   "segment": [
+    39.0,
+    42.5
+   ],
+   "verb": "filter",
+   "noun": "colander",
+   "score": 0.38015
+  },
+  {
+   "segment": [
+    39.0,
+    40.0
+   ],
+   "verb": "filter",
+   "noun": "colander",
+   "score": 0.376841
+  },
+  {
+   "segment": [
+    39.0,
+    41.0
+   ],
+   "verb": "filter",
+   "noun": "colander",
+   "score": 0.375689
+  },
+  {
+   "segment": [
+    39.0,
+    45.0
+   ],
+   "verb": "filter",
+   "noun": "colander",
+   "score": 0.354938
+  },
+  {
+   "segment": [
+    39.0,
+    40.0
+   ],
+   "verb": "put",
+   "noun": "colander",
+   "score": 0.341552
+  },
+  {
+   "segment": [
+    39.0,
+    41.0
+   ],
+   "verb": "put",
+   "noun": "colander",
+   "score": 0.341212
+  },
+  {
+   "segment": [
+    39.0,
+    42.5
+   ],
+   "verb": "put",
+   "noun": "colander",
+   "score": 0.331872
+  },
+  {
+   "segment": [
+    39.0,
+    45.0
+   ],
+   "verb": "put",
+   "noun": "colander",
+   "score": 0.331562
+  },
+  {
+   "segment": [
+    39.5,
+    40.5
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.553235
+  },
+  {
+   "segment": [
+    39.5,
+    40.5
+   ],
+   "verb": "filter",
+   "noun": "colander",
+   "score": 0.371726
+  },
+  {
+   "segment": [
+    39.5,
+    40.5
+   ],
+   "verb": "put",
+   "noun": "colander",
+   "score": 0.345417
+  },
+  {
+   "segment": [
+    40.0,
+    42.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.610014
+  },
+  {
+   "segment": [
+    40.0,
+    41.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.582598
+  },
+  {
+   "segment": [
+    40.0,
+    42.0
+   ],
+   "verb": "filter",
+   "noun": "colander",
+   "score": 0.373966
+  },
+  {
+   "segment": [
+    40.0,
+    41.0
+   ],
+   "verb": "filter",
+   "noun": "colander",
+   "score": 0.373714
+  },
+  {
+   "segment": [
+    40.0,
+    41.0
+   ],
+   "verb": "put",
+   "noun": "colander",
+   "score": 0.340193
+  },
+  {
+   "segment": [
+    40.0,
+    42.0
+   ],
+   "verb": "put",
+   "noun": "colander",
+   "score": 0.326075
+  },
+  {
+   "segment": [
+    40.5,
+    41.5
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.611446
+  },
+  {
+   "segment": [
+    40.5,
+    44.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.518619
+  },
+  {
+   "segment": [
+    40.5,
+    44.0
+   ],
+   "verb": "filter",
+   "noun": "colander",
+   "score": 0.376289
+  },
+  {
+   "segment": [
+    40.5,
+    41.5
+   ],
+   "verb": "filter",
+   "noun": "colander",
+   "score": 0.366857
+  },
+  {
+   "segment": [
+    40.5,
+    44.0
+   ],
+   "verb": "put",
+   "noun": "colander",
+   "score": 0.331426
+  },
+  {
+   "segment": [
+    40.5,
+    41.5
+   ],
+   "verb": "put",
+   "noun": "colander",
+   "score": 0.319524
+  },
+  {
+   "segment": [
+    41.0,
+    42.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.636844
+  },
+  {
+   "segment": [
+    41.0,
+    43.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.564084
+  },
+  {
+   "segment": [
+    41.0,
+    43.0
+   ],
+   "verb": "filter",
+   "noun": "colander",
+   "score": 0.392176
+  },
+  {
+   "segment": [
+    41.0,
+    42.0
+   ],
+   "verb": "filter",
+   "noun": "colander",
+   "score": 0.374155
+  },
+  {
+   "segment": [
+    41.0,
+    43.0
+   ],
+   "verb": "put",
+   "noun": "colander",
+   "score": 0.325615
+  },
+  {
+   "segment": [
+    41.0,
+    42.0
+   ],
+   "verb": "put",
+   "noun": "colander",
+   "score": 0.310844
+  },
+  {
+   "segment": [
+    41.5,
+    42.5
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.60297
+  },
+  {
+   "segment": [
+    41.5,
+    42.5
+   ],
+   "verb": "filter",
+   "noun": "colander",
+   "score": 0.401278
+  },
+  {
+   "segment": [
+    41.5,
+    42.5
+   ],
+   "verb": "put",
+   "noun": "colander",
+   "score": 0.326828
+  },
+  {
+   "segment": [
+    42.0,
+    48.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.491983
+  },
+  {
+   "segment": [
+    42.0,
+    43.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.48924
+  },
+  {
+   "segment": [
+    42.0,
+    45.5
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.46833
+  },
+  {
+   "segment": [
+    42.0,
+    44.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.43946
+  },
+  {
+   "segment": [
+    42.0,
+    43.0
+   ],
+   "verb": "filter",
+   "noun": "colander",
+   "score": 0.405429
+  },
+  {
+   "segment": [
+    42.0,
+    44.0
+   ],
+   "verb": "filter",
+   "noun": "colander",
+   "score": 0.371817
+  },
+  {
+   "segment": [
+    42.0,
+    43.0
+   ],
+   "verb": "put",
+   "noun": "colander",
+   "score": 0.336466
+  },
+  {
+   "segment": [
+    42.0,
+    44.0
+   ],
+   "verb": "put",
+   "noun": "colander",
+   "score": 0.333503
+  },
+  {
+   "segment": [
+    42.0,
+    45.5
+   ],
+   "verb": "put",
+   "noun": "colander",
+   "score": 0.322858
+  },
+  {
+   "segment": [
+    42.0,
+    45.5
+   ],
+   "verb": "filter",
+   "noun": "colander",
+   "score": 0.320034
+  },
+  {
+   "segment": [
+    42.0,
+    48.0
+   ],
+   "verb": "put",
+   "noun": "colander",
+   "score": 0.278608
+  },
+  {
+   "segment": [
+    42.0,
+    48.0
+   ],
+   "verb": "filter",
+   "noun": "colander",
+   "score": 0.258467
+  },
+  {
+   "segment": [
+    42.5,
+    43.5
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.393142
+  },
+  {
+   "segment": [
+    42.5,
+    43.5
+   ],
+   "verb": "filter",
+   "noun": "colander",
+   "score": 0.374448
+  },
+  {
+   "segment": [
+    42.5,
+    43.5
+   ],
+   "verb": "put",
+   "noun": "colander",
+   "score": 0.32609
+  },
+  {
+   "segment": [
+    43.0,
+    45.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.435921
+  },
+  {
+   "segment": [
+    43.0,
+    44.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.389613
+  },
+  {
+   "segment": [
+    43.0,
+    44.0
+   ],
+   "verb": "filter",
+   "noun": "colander",
+   "score": 0.337755
+  },
+  {
+   "segment": [
+    43.0,
+    44.0
+   ],
+   "verb": "put",
+   "noun": "colander",
+   "score": 0.326445
+  },
+  {
+   "segment": [
+    43.0,
+    45.0
+   ],
+   "verb": "put",
+   "noun": "colander",
+   "score": 0.323816
+  },
+  {
+   "segment": [
+    43.0,
+    45.0
+   ],
+   "verb": "filter",
+   "noun": "colander",
+   "score": 0.296599
+  },
+  {
+   "segment": [
+    43.5,
+    47.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.505199
+  },
+  {
+   "segment": [
+    43.5,
+    44.5
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.423723
+  },
+  {
+   "segment": [
+    43.5,
+    44.5
+   ],
+   "verb": "put",
+   "noun": "colander",
+   "score": 0.313714
+  },
+  {
+   "segment": [
+    43.5,
+    44.5
+   ],
+   "verb": "filter",
+   "noun": "colander",
+   "score": 0.277641
+  },
+  {
+   "segment": [
+    43.5,
+    47.0
+   ],
+   "verb": "put",
+   "noun": "colander",
+   "score": 0.277547
+  },
+  {
+   "segment": [
+    43.5,
+    47.0
+   ],
+   "verb": "filter",
+   "noun": "colander",
+   "score": 0.20928
+  },
+  {
+   "segment": [
+    44.0,
+    46.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.511501
+  },
+  {
+   "segment": [
+    44.0,
+    45.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.482221
+  },
+  {
+   "segment": [
+    44.0,
+    45.0
+   ],
+   "verb": "put",
+   "noun": "colander",
+   "score": 0.316742
+  },
+  {
+   "segment": [
+    44.0,
+    46.0
+   ],
+   "verb": "put",
+   "noun": "colander",
+   "score": 0.288278
+  },
+  {
+   "segment": [
+    44.0,
+    45.0
+   ],
+   "verb": "filter",
+   "noun": "colander",
+   "score": 0.232135
+  },
+  {
+   "segment": [
+    44.0,
+    46.0
+   ],
+   "verb": "take",
+   "noun": "colander",
+   "score": 0.208176
+  },
+  {
+   "segment": [
+    44.5,
+    45.5
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.540049
+  },
+  {
+   "segment": [
+    44.5,
+    45.5
+   ],
+   "verb": "put",
+   "noun": "colander",
+   "score": 0.305957
+  },
+  {
+   "segment": [
+    44.5,
+    45.5
+   ],
+   "verb": "take",
+   "noun": "colander",
+   "score": 0.226429
+  },
+  {
+   "segment": [
+    45.0,
+    46.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.540662
+  },
+  {
+   "segment": [
+    45.0,
+    47.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.540142
+  },
+  {
+   "segment": [
+    45.0,
+    48.5
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.508174
+  },
+  {
+   "segment": [
+    45.0,
+    51.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.468797
+  },
+  {
+   "segment": [
+    45.0,
+    46.0
+   ],
+   "verb": "put",
+   "noun": "colander",
+   "score": 0.249515
+  },
+  {
+   "segment": [
+    45.0,
+    51.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.24886
+  },
+  {
+   "segment": [
+    45.0,
+    47.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.238113
+  },
+  {
+   "segment": [
+    45.0,
+    47.0
+   ],
+   "verb": "put",
+   "noun": "colander",
+   "score": 0.223374
+  },
+  {
+   "segment": [
+    45.0,
+    48.5
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.21626
+  },
+  {
+   "segment": [
+    45.0,
+    46.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.21405
+  },
+  {
+   "segment": [
+    45.0,
+    48.5
+   ],
+   "verb": "put",
+   "noun": "colander",
+   "score": 0.190546
+  },
+  {
+   "segment": [
+    45.0,
+    51.0
+   ],
+   "verb": "take",
+   "noun": "pasta",
+   "score": 0.180085
+  },
+  {
+   "segment": [
+    45.5,
+    46.5
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.528325
+  },
+  {
+   "segment": [
+    45.5,
+    46.5
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.23911
+  },
+  {
+   "segment": [
+    45.5,
+    46.5
+   ],
+   "verb": "put",
+   "noun": "colander",
+   "score": 0.204583
+  },
+  {
+   "segment": [
+    46.0,
+    47.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.539448
+  },
+  {
+   "segment": [
+    46.0,
+    48.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.524325
+  },
+  {
+   "segment": [
+    46.0,
+    47.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.259099
+  },
+  {
+   "segment": [
+    46.0,
+    48.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.23014
+  },
+  {
+   "segment": [
+    46.0,
+    47.0
+   ],
+   "verb": "put",
+   "noun": "colander",
+   "score": 0.194834
+  },
+  {
+   "segment": [
+    46.0,
+    48.0
+   ],
+   "verb": "take",
+   "noun": "pasta",
+   "score": 0.185626
+  },
+  {
+   "segment": [
+    46.5,
+    47.5
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.574685
+  },
+  {
+   "segment": [
+    46.5,
+    50.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.460407
+  },
+  {
+   "segment": [
+    46.5,
+    47.5
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.250681
+  },
+  {
+   "segment": [
+    46.5,
+    50.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.244002
+  },
+  {
+   "segment": [
+    46.5,
+    47.5
+   ],
+   "verb": "put",
+   "noun": "colander",
+   "score": 0.214533
+  },
+  {
+   "segment": [
+    46.5,
+    50.0
+   ],
+   "verb": "take",
+   "noun": "pasta",
+   "score": 0.184299
+  },
+  {
+   "segment": [
+    47.0,
+    48.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.508392
+  },
+  {
+   "segment": [
+    47.0,
+    49.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.452353
+  },
+  {
+   "segment": [
+    47.0,
+    49.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.201072
+  },
+  {
+   "segment": [
+    47.0,
+    48.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.200382
+  },
+  {
+   "segment": [
+    47.0,
+    49.0
+   ],
+   "verb": "throw",
+   "noun": "pasta",
+   "score": 0.183718
+  },
+  {
+   "segment": [
+    47.0,
+    48.0
+   ],
+   "verb": "take",
+   "noun": "pasta",
+   "score": 0.180203
+  },
+  {
+   "segment": [
+    47.5,
+    48.5
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.393018
+  },
+  {
+   "segment": [
+    47.5,
+    48.5
+   ],
+   "verb": "throw",
+   "noun": "pasta",
+   "score": 0.173677
+  },
+  {
+   "segment": [
+    47.5,
+    48.5
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.163983
+  },
+  {
+   "segment": [
+    48.0,
+    50.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.41266
+  },
+  {
+   "segment": [
+    48.0,
+    49.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.395425
+  },
+  {
+   "segment": [
+    48.0,
+    51.5
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.374294
+  },
+  {
+   "segment": [
+    48.0,
+    54.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.278196
+  },
+  {
+   "segment": [
+    48.0,
+    50.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.255936
+  },
+  {
+   "segment": [
+    48.0,
+    51.5
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.251063
+  },
+  {
+   "segment": [
+    48.0,
+    54.0
+   ],
+   "verb": "move",
+   "noun": "colander",
+   "score": 0.214459
+  },
+  {
+   "segment": [
+    48.0,
+    54.0
+   ],
+   "verb": "put",
+   "noun": "colander",
+   "score": 0.209228
+  },
+  {
+   "segment": [
+    48.0,
+    49.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.200444
+  },
+  {
+   "segment": [
+    48.0,
+    49.0
+   ],
+   "verb": "throw",
+   "noun": "pasta",
+   "score": 0.19197
+  },
+  {
+   "segment": [
+    48.0,
+    50.0
+   ],
+   "verb": "take",
+   "noun": "pasta",
+   "score": 0.181436
+  },
+  {
+   "segment": [
+    48.0,
+    51.5
+   ],
+   "verb": "take",
+   "noun": "pasta",
+   "score": 0.171551
+  },
+  {
+   "segment": [
+    48.5,
+    49.5
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.408536
+  },
+  {
+   "segment": [
+    48.5,
+    49.5
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.25719
+  },
+  {
+   "segment": [
+    48.5,
+    49.5
+   ],
+   "verb": "filter",
+   "noun": "potato",
+   "score": 0.201612
+  },
+  {
+   "segment": [
+    49.0,
+    50.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.428039
+  },
+  {
+   "segment": [
+    49.0,
+    51.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.397018
+  },
+  {
+   "segment": [
+    49.0,
+    50.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.308546
+  },
+  {
+   "segment": [
+    49.0,
+    51.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.303352
+  },
+  {
+   "segment": [
+    49.0,
+    50.0
+   ],
+   "verb": "take",
+   "noun": "pasta",
+   "score": 0.190837
+  },
+  {
+   "segment": [
+    49.0,
+    51.0
+   ],
+   "verb": "take",
+   "noun": "pasta",
+   "score": 0.185467
+  },
+  {
+   "segment": [
+    49.5,
+    50.5
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.420997
+  },
+  {
+   "segment": [
+    49.5,
+    50.5
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.338186
+  },
+  {
+   "segment": [
+    49.5,
+    53.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.235291
+  },
+  {
+   "segment": [
+    49.5,
+    50.5
+   ],
+   "verb": "take",
+   "noun": "pasta",
+   "score": 0.203488
+  },
+  {
+   "segment": [
+    49.5,
+    53.0
+   ],
+   "verb": "move",
+   "noun": "colander",
+   "score": 0.190269
+  },
+  {
+   "segment": [
+    49.5,
+    53.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.187529
+  },
+  {
+   "segment": [
+    50.0,
+    51.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.349374
+  },
+  {
+   "segment": [
+    50.0,
+    51.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.292918
+  },
+  {
+   "segment": [
+    50.0,
+    52.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.236995
+  },
+  {
+   "segment": [
+    50.0,
+    52.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.194441
+  },
+  {
+   "segment": [
+    50.0,
+    51.0
+   ],
+   "verb": "take",
+   "noun": "pasta",
+   "score": 0.176192
+  },
+  {
+   "segment": [
+    50.0,
+    52.0
+   ],
+   "verb": "take",
+   "noun": "pasta",
+   "score": 0.122725
+  },
+  {
+   "segment": [
+    50.5,
+    51.5
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.231997
+  },
+  {
+   "segment": [
+    50.5,
+    51.5
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.182191
+  },
+  {
+   "segment": [
+    50.5,
+    51.5
+   ],
+   "verb": "take",
+   "noun": "pasta",
+   "score": 0.12263
+  },
+  {
+   "segment": [
+    51.0,
+    54.5
+   ],
+   "verb": "move",
+   "noun": "colander",
+   "score": 0.28713
+  },
+  {
+   "segment": [
+    51.0,
+    54.5
+   ],
+   "verb": "put",
+   "noun": "colander",
+   "score": 0.28316
+  },
+  {
+   "segment": [
+    51.0,
+    57.0
+   ],
+   "verb": "move",
+   "noun": "colander",
+   "score": 0.232606
+  },
+  {
+   "segment": [
+    51.0,
+    57.0
+   ],
+   "verb": "put",
+   "noun": "colander",
+   "score": 0.229458
+  },
+  {
+   "segment": [
+    51.0,
+    53.0
+   ],
+   "verb": "move",
+   "noun": "colander",
+   "score": 0.225423
+  },
+  {
+   "segment": [
+    51.0,
+    54.5
+   ],
+   "verb": "take",
+   "noun": "colander",
+   "score": 0.223195
+  },
+  {
+   "segment": [
+    51.0,
+    53.0
+   ],
+   "verb": "put",
+   "noun": "colander",
+   "score": 0.210898
+  },
+  {
+   "segment": [
+    51.0,
+    57.0
+   ],
+   "verb": "take",
+   "noun": "colander",
+   "score": 0.180896
+  },
+  {
+   "segment": [
+    51.0,
+    53.0
+   ],
+   "verb": "take",
+   "noun": "colander",
+   "score": 0.176539
+  },
+  {
+   "segment": [
+    51.0,
+    52.0
+   ],
+   "verb": "throw",
+   "noun": "sink",
+   "score": 0.117655
+  },
+  {
+   "segment": [
+    51.0,
+    52.0
+   ],
+   "verb": "filter",
+   "noun": "sink",
+   "score": 0.111865
+  },
+  {
+   "segment": [
+    51.0,
+    52.0
+   ],
+   "verb": "put",
+   "noun": "colander",
+   "score": 0.110507
+  },
+  {
+   "segment": [
+    51.5,
+    52.5
+   ],
+   "verb": "move",
+   "noun": "colander",
+   "score": 0.190807
+  },
+  {
+   "segment": [
+    51.5,
+    52.5
+   ],
+   "verb": "put",
+   "noun": "colander",
+   "score": 0.18191
+  },
+  {
+   "segment": [
+    51.5,
+    52.5
+   ],
+   "verb": "take",
+   "noun": "colander",
+   "score": 0.154297
+  },
+  {
+   "segment": [
+    52.0,
+    54.0
+   ],
+   "verb": "move",
+   "noun": "colander",
+   "score": 0.353007
+  },
+  {
+   "segment": [
+    52.0,
+    54.0
+   ],
+   "verb": "put",
+   "noun": "colander",
+   "score": 0.337502
+  },
+  {
+   "segment": [
+    52.0,
+    53.0
+   ],
+   "verb": "move",
+   "noun": "colander",
+   "score": 0.304018
+  },
+  {
+   "segment": [
+    52.0,
+    53.0
+   ],
+   "verb": "put",
+   "noun": "colander",
+   "score": 0.274161
+  },
+  {
+   "segment": [
+    52.0,
+    54.0
+   ],
+   "verb": "take",
+   "noun": "colander",
+   "score": 0.269265
+  },
+  {
+   "segment": [
+    52.0,
+    53.0
+   ],
+   "verb": "take",
+   "noun": "colander",
+   "score": 0.231017
+  },
+  {
+   "segment": [
+    52.5,
+    53.5
+   ],
+   "verb": "move",
+   "noun": "colander",
+   "score": 0.377211
+  },
+  {
+   "segment": [
+    52.5,
+    53.5
+   ],
+   "verb": "put",
+   "noun": "colander",
+   "score": 0.350855
+  },
+  {
+   "segment": [
+    52.5,
+    56.0
+   ],
+   "verb": "move",
+   "noun": "colander",
+   "score": 0.285415
+  },
+  {
+   "segment": [
+    52.5,
+    56.0
+   ],
+   "verb": "put",
+   "noun": "colander",
+   "score": 0.283024
+  },
+  {
+   "segment": [
+    52.5,
+    53.5
+   ],
+   "verb": "take",
+   "noun": "colander",
+   "score": 0.282687
+  },
+  {
+   "segment": [
+    52.5,
+    56.0
+   ],
+   "verb": "take",
+   "noun": "colander",
+   "score": 0.220381
+  },
+  {
+   "segment": [
+    53.0,
+    54.0
+   ],
+   "verb": "move",
+   "noun": "colander",
+   "score": 0.401695
+  },
+  {
+   "segment": [
+    53.0,
+    54.0
+   ],
+   "verb": "put",
+   "noun": "colander",
+   "score": 0.4007
+  },
+  {
+   "segment": [
+    53.0,
+    55.0
+   ],
+   "verb": "put",
+   "noun": "colander",
+   "score": 0.341835
+  },
+  {
+   "segment": [
+    53.0,
+    55.0
+   ],
+   "verb": "move",
+   "noun": "colander",
+   "score": 0.336835
+  },
+  {
+   "segment": [
+    53.0,
+    54.0
+   ],
+   "verb": "take",
+   "noun": "colander",
+   "score": 0.307335
+  },
+  {
+   "segment": [
+    53.0,
+    55.0
+   ],
+   "verb": "take",
+   "noun": "colander",
+   "score": 0.261522
+  },
+  {
+   "segment": [
+    53.5,
+    54.5
+   ],
+   "verb": "put",
+   "noun": "colander",
+   "score": 0.36577
+  },
+  {
+   "segment": [
+    53.5,
+    54.5
+   ],
+   "verb": "move",
+   "noun": "colander",
+   "score": 0.34213
+  },
+  {
+   "segment": [
+    53.5,
+    54.5
+   ],
+   "verb": "take",
+   "noun": "colander",
+   "score": 0.272915
+  },
+  {
+   "segment": [
+    54.0,
+    55.0
+   ],
+   "verb": "put",
+   "noun": "colander",
+   "score": 0.282954
+  },
+  {
+   "segment": [
+    54.0,
+    55.0
+   ],
+   "verb": "move",
+   "noun": "colander",
+   "score": 0.271712
+  },
+  {
+   "segment": [
+    54.0,
+    55.0
+   ],
+   "verb": "take",
+   "noun": "colander",
+   "score": 0.215684
+  },
+  {
+   "segment": [
+    54.0,
+    56.0
+   ],
+   "verb": "put",
+   "noun": "colander",
+   "score": 0.2095
+  },
+  {
+   "segment": [
+    54.0,
+    56.0
+   ],
+   "verb": "move",
+   "noun": "colander",
+   "score": 0.204327
+  },
+  {
+   "segment": [
+    54.0,
+    60.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.173049
+  },
+  {
+   "segment": [
+    54.0,
+    57.5
+   ],
+   "verb": "put",
+   "noun": "colander",
+   "score": 0.166289
+  },
+  {
+   "segment": [
+    54.0,
+    57.5
+   ],
+   "verb": "move",
+   "noun": "colander",
+   "score": 0.162237
+  },
+  {
+   "segment": [
+    54.0,
+    56.0
+   ],
+   "verb": "take",
+   "noun": "colander",
+   "score": 0.160857
+  },
+  {
+   "segment": [
+    54.0,
+    60.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.144501
+  },
+  {
+   "segment": [
+    54.0,
+    60.0
+   ],
+   "verb": "pour",
+   "noun": "pasta",
+   "score": 0.13888
+  },
+  {
+   "segment": [
+    54.0,
+    57.5
+   ],
+   "verb": "take",
+   "noun": "colander",
+   "score": 0.127523
+  },
+  {
+   "segment": [
+    54.5,
+    55.5
+   ],
+   "verb": "move",
+   "noun": "colander",
+   "score": 0.210297
+  },
+  {
+   "segment": [
+    54.5,
+    55.5
+   ],
+   "verb": "put",
+   "noun": "colander",
+   "score": 0.207649
+  },
+  {
+   "segment": [
+    54.5,
+    55.5
+   ],
+   "verb": "take",
+   "noun": "colander",
+   "score": 0.163678
+  },
+  {
+   "segment": [
+    55.0,
+    56.0
+   ],
+   "verb": "move",
+   "noun": "colander",
+   "score": 0.119731
+  },
+  {
+   "segment": [
+    55.0,
+    56.0
+   ],
+   "verb": "put",
+   "noun": "colander",
+   "score": 0.114119
+  },
+  {
+   "segment": [
+    55.0,
+    57.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.107317
+  },
+  {
+   "segment": [
+    55.0,
+    56.0
+   ],
+   "verb": "throw",
+   "noun": "bag",
+   "score": 0.107221
+  },
+  {
+   "segment": [
+    55.0,
+    57.0
+   ],
+   "verb": "move",
+   "noun": "pan",
+   "score": 0.099339
+  },
+  {
+   "segment": [
+    55.0,
+    57.0
+   ],
+   "verb": "move",
+   "noun": "colander",
+   "score": 0.093351
+  },
+  {
+   "segment": [
+    55.5,
+    59.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.194964
+  },
+  {
+   "segment": [
+    55.5,
+    59.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.161289
+  },
+  {
+   "segment": [
+    55.5,
+    59.0
+   ],
+   "verb": "pour",
+   "noun": "pasta",
+   "score": 0.158532
+  },
+  {
+   "segment": [
+    55.5,
+    56.5
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.094965
+  },
+  {
+   "segment": [
+    55.5,
+    56.5
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.090401
+  },
+  {
+   "segment": [
+    55.5,
+    56.5
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.089686
+  },
+  {
+   "segment": [
+    56.0,
+    58.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.184673
+  },
+  {
+   "segment": [
+    56.0,
+    58.0
+   ],
+   "verb": "pour",
+   "noun": "pasta",
+   "score": 0.159261
+  },
+  {
+   "segment": [
+    56.0,
+    58.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.158205
+  },
+  {
+   "segment": [
+    56.0,
+    57.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.151161
+  },
+  {
+   "segment": [
+    56.0,
+    57.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.13246
+  },
+  {
+   "segment": [
+    56.0,
+    57.0
+   ],
+   "verb": "put",
+   "noun": "potato",
+   "score": 0.120745
+  },
+  {
+   "segment": [
+    56.5,
+    57.5
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.199029
+  },
+  {
+   "segment": [
+    56.5,
+    57.5
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.169468
+  },
+  {
+   "segment": [
+    56.5,
+    57.5
+   ],
+   "verb": "pour",
+   "noun": "pasta",
+   "score": 0.166415
+  },
+  {
+   "segment": [
+    57.0,
+    59.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.236365
+  },
+  {
+   "segment": [
+    57.0,
+    60.5
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.227269
+  },
+  {
+   "segment": [
+    57.0,
+    58.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.212932
+  },
+  {
+   "segment": [
+    57.0,
+    63.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.205367
+  },
+  {
+   "segment": [
+    57.0,
+    58.0
+   ],
+   "verb": "pour",
+   "noun": "pasta",
+   "score": 0.199657
+  },
+  {
+   "segment": [
+    57.0,
+    59.0
+   ],
+   "verb": "pour",
+   "noun": "pasta",
+   "score": 0.196412
+  },
+  {
+   "segment": [
+    57.0,
+    59.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.193419
+  },
+  {
+   "segment": [
+    57.0,
+    60.5
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.18805
+  },
+  {
+   "segment": [
+    57.0,
+    60.5
+   ],
+   "verb": "pour",
+   "noun": "pasta",
+   "score": 0.186038
+  },
+  {
+   "segment": [
+    57.0,
+    58.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.180277
+  },
+  {
+   "segment": [
+    57.0,
+    63.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.168571
+  },
+  {
+   "segment": [
+    57.0,
+    63.0
+   ],
+   "verb": "pour",
+   "noun": "pasta",
+   "score": 0.167653
+  },
+  {
+   "segment": [
+    57.5,
+    58.5
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.23769
+  },
+  {
+   "segment": [
+    57.5,
+    58.5
+   ],
+   "verb": "pour",
+   "noun": "pasta",
+   "score": 0.208861
+  },
+  {
+   "segment": [
+    57.5,
+    58.5
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.191712
+  },
+  {
+   "segment": [
+    58.0,
+    59.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.25771
+  },
+  {
+   "segment": [
+    58.0,
+    60.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.249134
+  },
+  {
+   "segment": [
+    58.0,
+    59.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.205743
+  },
+  {
+   "segment": [
+    58.0,
+    60.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.203748
+  },
+  {
+   "segment": [
+    58.0,
+    59.0
+   ],
+   "verb": "pour",
+   "noun": "pasta",
+   "score": 0.193106
+  },
+  {
+   "segment": [
+    58.0,
+    60.0
+   ],
+   "verb": "pour",
+   "noun": "pasta",
+   "score": 0.18794
+  },
+  {
+   "segment": [
+    58.5,
+    59.5
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.25224
+  },
+  {
+   "segment": [
+    58.5,
+    59.5
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.205085
+  },
+  {
+   "segment": [
+    58.5,
+    62.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.197401
+  },
+  {
+   "segment": [
+    58.5,
+    62.0
+   ],
+   "verb": "put",
+   "noun": "spoon",
+   "score": 0.18743
+  },
+  {
+   "segment": [
+    58.5,
+    59.5
+   ],
+   "verb": "take",
+   "noun": "pasta",
+   "score": 0.174665
+  },
+  {
+   "segment": [
+    58.5,
+    62.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.161528
+  },
+  {
+   "segment": [
+    59.0,
+    60.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.231832
+  },
+  {
+   "segment": [
+    59.0,
+    60.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.196698
+  },
+  {
+   "segment": [
+    59.0,
+    61.0
+   ],
+   "verb": "put",
+   "noun": "spoon",
+   "score": 0.193231
+  },
+  {
+   "segment": [
+    59.0,
+    61.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.191418
+  },
+  {
+   "segment": [
+    59.0,
+    60.0
+   ],
+   "verb": "put",
+   "noun": "spoon",
+   "score": 0.179563
+  },
+  {
+   "segment": [
+    59.0,
+    61.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.160315
+  },
+  {
+   "segment": [
+    59.5,
+    60.5
+   ],
+   "verb": "put",
+   "noun": "spoon",
+   "score": 0.215373
+  },
+  {
+   "segment": [
+    59.5,
+    60.5
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.178006
+  },
+  {
+   "segment": [
+    59.5,
+    60.5
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.159349
+  },
+  {
+   "segment": [
+    60.0,
+    62.0
+   ],
+   "verb": "put",
+   "noun": "spoon",
+   "score": 0.215232
+  },
+  {
+   "segment": [
+    60.0,
+    66.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.213857
+  },
+  {
+   "segment": [
+    60.0,
+    61.0
+   ],
+   "verb": "put",
+   "noun": "spoon",
+   "score": 0.204548
+  },
+  {
+   "segment": [
+    60.0,
+    63.5
+   ],
+   "verb": "put",
+   "noun": "spoon",
+   "score": 0.202961
+  },
+  {
+   "segment": [
+    60.0,
+    63.5
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.179605
+  },
+  {
+   "segment": [
+    60.0,
+    66.0
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.177795
+  },
+  {
+   "segment": [
+    60.0,
+    66.0
+   ],
+   "verb": "put",
+   "noun": "spoon",
+   "score": 0.176763
+  },
+  {
+   "segment": [
+    60.0,
+    62.0
+   ],
+   "verb": "put",
+   "noun": "ladle",
+   "score": 0.169333
+  },
+  {
+   "segment": [
+    60.0,
+    63.5
+   ],
+   "verb": "put",
+   "noun": "ladle",
+   "score": 0.167427
+  },
+  {
+   "segment": [
+    60.0,
+    62.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.151824
+  },
+  {
+   "segment": [
+    60.0,
+    61.0
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.144654
+  },
+  {
+   "segment": [
+    60.0,
+    61.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.144511
+  },
+  {
+   "segment": [
+    60.5,
+    61.5
+   ],
+   "verb": "put",
+   "noun": "spoon",
+   "score": 0.201274
+  },
+  {
+   "segment": [
+    60.5,
+    61.5
+   ],
+   "verb": "put",
+   "noun": "ladle",
+   "score": 0.150139
+  },
+  {
+   "segment": [
+    60.5,
+    61.5
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.150032
+  },
+  {
+   "segment": [
+    61.0,
+    62.0
+   ],
+   "verb": "put",
+   "noun": "spoon",
+   "score": 0.225574
+  },
+  {
+   "segment": [
+    61.0,
+    63.0
+   ],
+   "verb": "put",
+   "noun": "spoon",
+   "score": 0.213143
+  },
+  {
+   "segment": [
+    61.0,
+    62.0
+   ],
+   "verb": "put",
+   "noun": "ladle",
+   "score": 0.196262
+  },
+  {
+   "segment": [
+    61.0,
+    63.0
+   ],
+   "verb": "put",
+   "noun": "ladle",
+   "score": 0.19258
+  },
+  {
+   "segment": [
+    61.0,
+    63.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.174103
+  },
+  {
+   "segment": [
+    61.0,
+    62.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.158911
+  },
+  {
+   "segment": [
+    61.5,
+    62.5
+   ],
+   "verb": "put",
+   "noun": "spoon",
+   "score": 0.230982
+  },
+  {
+   "segment": [
+    61.5,
+    65.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.219114
+  },
+  {
+   "segment": [
+    61.5,
+    62.5
+   ],
+   "verb": "put",
+   "noun": "ladle",
+   "score": 0.216412
+  },
+  {
+   "segment": [
+    61.5,
+    62.5
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.175114
+  },
+  {
+   "segment": [
+    61.5,
+    65.0
+   ],
+   "verb": "put",
+   "noun": "spoon",
+   "score": 0.173704
+  },
+  {
+   "segment": [
+    61.5,
+    65.0
+   ],
+   "verb": "pour",
+   "noun": "pasta",
+   "score": 0.157331
+  },
+  {
+   "segment": [
+    62.0,
+    64.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.22039
+  },
+  {
+   "segment": [
+    62.0,
+    63.0
+   ],
+   "verb": "put",
+   "noun": "spoon",
+   "score": 0.200711
+  },
+  {
+   "segment": [
+    62.0,
+    63.0
+   ],
+   "verb": "put",
+   "noun": "ladle",
+   "score": 0.188632
+  },
+  {
+   "segment": [
+    62.0,
+    63.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.186121
+  },
+  {
+   "segment": [
+    62.0,
+    64.0
+   ],
+   "verb": "put",
+   "noun": "spoon",
+   "score": 0.179129
+  },
+  {
+   "segment": [
+    62.0,
+    64.0
+   ],
+   "verb": "pour",
+   "noun": "pasta",
+   "score": 0.173294
+  },
+  {
+   "segment": [
+    62.5,
+    63.5
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.213494
+  },
+  {
+   "segment": [
+    62.5,
+    63.5
+   ],
+   "verb": "pour",
+   "noun": "pasta",
+   "score": 0.177776
+  },
+  {
+   "segment": [
+    62.5,
+    63.5
+   ],
+   "verb": "put",
+   "noun": "spoon",
+   "score": 0.167162
+  },
+  {
+   "segment": [
+    63.0,
+    69.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.251824
+  },
+  {
+   "segment": [
+    63.0,
+    66.5
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.249518
+  },
+  {
+   "segment": [
+    63.0,
+    64.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.248266
+  },
+  {
+   "segment": [
+    63.0,
+    65.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.241013
+  },
+  {
+   "segment": [
+    63.0,
+    69.0
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.225886
+  },
+  {
+   "segment": [
+    63.0,
+    66.5
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.221098
+  },
+  {
+   "segment": [
+    63.0,
+    69.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.213023
+  },
+  {
+   "segment": [
+    63.0,
+    64.0
+   ],
+   "verb": "pour",
+   "noun": "pasta",
+   "score": 0.181796
+  },
+  {
+   "segment": [
+    63.0,
+    66.5
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.180507
+  },
+  {
+   "segment": [
+    63.0,
+    65.0
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.17954
+  },
+  {
+   "segment": [
+    63.0,
+    64.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.170155
+  },
+  {
+   "segment": [
+    63.0,
+    65.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.162943
+  },
+  {
+   "segment": [
+    63.5,
+    64.5
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.243701
+  },
+  {
+   "segment": [
+    63.5,
+    64.5
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.170476
+  },
+  {
+   "segment": [
+    63.5,
+    64.5
+   ],
+   "verb": "pour",
+   "noun": "pasta",
+   "score": 0.156295
+  },
+  {
+   "segment": [
+    64.0,
+    66.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.252376
+  },
+  {
+   "segment": [
+    64.0,
+    66.0
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.243311
+  },
+  {
+   "segment": [
+    64.0,
+    65.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.233725
+  },
+  {
+   "segment": [
+    64.0,
+    65.0
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.206528
+  },
+  {
+   "segment": [
+    64.0,
+    66.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.181779
+  },
+  {
+   "segment": [
+    64.0,
+    65.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.155729
+  },
+  {
+   "segment": [
+    64.5,
+    68.0
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.256769
+  },
+  {
+   "segment": [
+    64.5,
+    68.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.253997
+  },
+  {
+   "segment": [
+    64.5,
+    65.5
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.248519
+  },
+  {
+   "segment": [
+    64.5,
+    65.5
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.246714
+  },
+  {
+   "segment": [
+    64.5,
+    68.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.208643
+  },
+  {
+   "segment": [
+    64.5,
+    65.5
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.180264
+  },
+  {
+   "segment": [
+    65.0,
+    66.0
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.279964
+  },
+  {
+   "segment": [
+    65.0,
+    67.0
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.268989
+  },
+  {
+   "segment": [
+    65.0,
+    66.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.268173
+  },
+  {
+   "segment": [
+    65.0,
+    67.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.249203
+  },
+  {
+   "segment": [
+    65.0,
+    66.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.20765
+  },
+  {
+   "segment": [
+    65.0,
+    67.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.203287
+  },
+  {
+   "segment": [
+    65.5,
+    66.5
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.27612
+  },
+  {
+   "segment": [
+    65.5,
+    66.5
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.254389
+  },
+  {
+   "segment": [
+    65.5,
+    66.5
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.205759
+  },
+  {
+   "segment": [
+    66.0,
+    72.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.280978
+  },
+  {
+   "segment": [
+    66.0,
+    69.5
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.262402
+  },
+  {
+   "segment": [
+    66.0,
+    67.0
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.257516
+  },
+  {
+   "segment": [
+    66.0,
+    68.0
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.25395
+  },
+  {
+   "segment": [
+    66.0,
+    68.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.25231
+  },
+  {
+   "segment": [
+    66.0,
+    69.5
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.24787
+  },
+  {
+   "segment": [
+    66.0,
+    72.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.244429
+  },
+  {
+   "segment": [
+    66.0,
+    67.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.230216
+  },
+  {
+   "segment": [
+    66.0,
+    69.5
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.229242
+  },
+  {
+   "segment": [
+    66.0,
+    72.0
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.222011
+  },
+  {
+   "segment": [
+    66.0,
+    68.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.22025
+  },
+  {
+   "segment": [
+    66.0,
+    67.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.198158
+  },
+  {
+   "segment": [
+    66.5,
+    67.5
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.263003
+  },
+  {
+   "segment": [
+    66.5,
+    67.5
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.254936
+  },
+  {
+   "segment": [
+    66.5,
+    67.5
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.222688
+  },
+  {
+   "segment": [
+    67.0,
+    68.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.274319
+  },
+  {
+   "segment": [
+    67.0,
+    69.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.269739
+  },
+  {
+   "segment": [
+    67.0,
+    69.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.261576
+  },
+  {
+   "segment": [
+    67.0,
+    68.0
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.248468
+  },
+  {
+   "segment": [
+    67.0,
+    68.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.242131
+  },
+  {
+   "segment": [
+    67.0,
+    69.0
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.224744
+  },
+  {
+   "segment": [
+    67.5,
+    71.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.30808
+  },
+  {
+   "segment": [
+    67.5,
+    68.5
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.258447
+  },
+  {
+   "segment": [
+    67.5,
+    68.5
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.256134
+  },
+  {
+   "segment": [
+    67.5,
+    71.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.239577
+  },
+  {
+   "segment": [
+    67.5,
+    68.5
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.221227
+  },
+  {
+   "segment": [
+    67.5,
+    71.0
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.203246
+  },
+  {
+   "segment": [
+    68.0,
+    70.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.319876
+  },
+  {
+   "segment": [
+    68.0,
+    69.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.296037
+  },
+  {
+   "segment": [
+    68.0,
+    69.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.247052
+  },
+  {
+   "segment": [
+    68.0,
+    70.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.236165
+  },
+  {
+   "segment": [
+    68.0,
+    70.0
+   ],
+   "verb": "pour",
+   "noun": "pasta",
+   "score": 0.215837
+  },
+  {
+   "segment": [
+    68.0,
+    69.0
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.196172
+  },
+  {
+   "segment": [
+    68.5,
+    69.5
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.334845
+  },
+  {
+   "segment": [
+    68.5,
+    69.5
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.22927
+  },
+  {
+   "segment": [
+    68.5,
+    69.5
+   ],
+   "verb": "pour",
+   "noun": "pasta",
+   "score": 0.220855
+  },
+  {
+   "segment": [
+    69.0,
+    70.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.342594
+  },
+  {
+   "segment": [
+    69.0,
+    71.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.331121
+  },
+  {
+   "segment": [
+    69.0,
+    72.5
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.309753
+  },
+  {
+   "segment": [
+    69.0,
+    75.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.288677
+  },
+  {
+   "segment": [
+    69.0,
+    70.0
+   ],
+   "verb": "pour",
+   "noun": "pasta",
+   "score": 0.245751
+  },
+  {
+   "segment": [
+    69.0,
+    75.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.244445
+  },
+  {
+   "segment": [
+    69.0,
+    72.5
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.239553
+  },
+  {
+   "segment": [
+    69.0,
+    71.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.227752
+  },
+  {
+   "segment": [
+    69.0,
+    71.0
+   ],
+   "verb": "pour",
+   "noun": "pasta",
+   "score": 0.225551
+  },
+  {
+   "segment": [
+    69.0,
+    70.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.22438
+  },
+  {
+   "segment": [
+    69.0,
+    75.0
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.21193
+  },
+  {
+   "segment": [
+    69.0,
+    72.5
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.208707
+  },
+  {
+   "segment": [
+    69.5,
+    70.5
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.343764
+  },
+  {
+   "segment": [
+    69.5,
+    70.5
+   ],
+   "verb": "pour",
+   "noun": "pasta",
+   "score": 0.242906
+  },
+  {
+   "segment": [
+    69.5,
+    70.5
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.23429
+  },
+  {
+   "segment": [
+    70.0,
+    71.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.319066
+  },
+  {
+   "segment": [
+    70.0,
+    72.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.299295
+  },
+  {
+   "segment": [
+    70.0,
+    72.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.241194
+  },
+  {
+   "segment": [
+    70.0,
+    71.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.231109
+  },
+  {
+   "segment": [
+    70.0,
+    71.0
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.221642
+  },
+  {
+   "segment": [
+    70.0,
+    72.0
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.213766
+  },
+  {
+   "segment": [
+    70.5,
+    71.5
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.28358
+  },
+  {
+   "segment": [
+    70.5,
+    74.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.270604
+  },
+  {
+   "segment": [
+    70.5,
+    74.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.247927
+  },
+  {
+   "segment": [
+    70.5,
+    71.5
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.230999
+  },
+  {
+   "segment": [
+    70.5,
+    74.0
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.222797
+  },
+  {
+   "segment": [
+    70.5,
+    71.5
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.200418
+  },
+  {
+   "segment": [
+    71.0,
+    73.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.278413
+  },
+  {
+   "segment": [
+    71.0,
+    72.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.278197
+  },
+  {
+   "segment": [
+    71.0,
+    73.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.254585
+  },
+  {
+   "segment": [
+    71.0,
+    72.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.250841
+  },
+  {
+   "segment": [
+    71.0,
+    73.0
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.227844
+  },
+  {
+   "segment": [
+    71.0,
+    72.0
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.205615
+  },
+  {
+   "segment": [
+    71.5,
+    72.5
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.27728
+  },
+  {
+   "segment": [
+    71.5,
+    72.5
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.259809
+  },
+  {
+   "segment": [
+    71.5,
+    72.5
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.234924
+  },
+  {
+   "segment": [
+    72.0,
+    73.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.277412
+  },
+  {
+   "segment": [
+    72.0,
+    74.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.263776
+  },
+  {
+   "segment": [
+    72.0,
+    75.5
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.262378
+  },
+  {
+   "segment": [
+    72.0,
+    73.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.256736
+  },
+  {
+   "segment": [
+    72.0,
+    78.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.255576
+  },
+  {
+   "segment": [
+    72.0,
+    75.5
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.255398
+  },
+  {
+   "segment": [
+    72.0,
+    74.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.251726
+  },
+  {
+   "segment": [
+    72.0,
+    78.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.246461
+  },
+  {
+   "segment": [
+    72.0,
+    73.0
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.244717
+  },
+  {
+   "segment": [
+    72.0,
+    74.0
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.231354
+  },
+  {
+   "segment": [
+    72.0,
+    78.0
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.228083
+  },
+  {
+   "segment": [
+    72.0,
+    75.5
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.222482
+  },
+  {
+   "segment": [
+    72.5,
+    73.5
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.272059
+  },
+  {
+   "segment": [
+    72.5,
+    73.5
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.258796
+  },
+  {
+   "segment": [
+    72.5,
+    73.5
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.24514
+  },
+  {
+   "segment": [
+    73.0,
+    75.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.254131
+  },
+  {
+   "segment": [
+    73.0,
+    74.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.249164
+  },
+  {
+   "segment": [
+    73.0,
+    75.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.24861
+  },
+  {
+   "segment": [
+    73.0,
+    74.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.246525
+  },
+  {
+   "segment": [
+    73.0,
+    74.0
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.216944
+  },
+  {
+   "segment": [
+    73.0,
+    75.0
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.206697
+  },
+  {
+   "segment": [
+    73.5,
+    77.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.250311
+  },
+  {
+   "segment": [
+    73.5,
+    77.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.248454
+  },
+  {
+   "segment": [
+    73.5,
+    74.5
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.245005
+  },
+  {
+   "segment": [
+    73.5,
+    74.5
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.239104
+  },
+  {
+   "segment": [
+    73.5,
+    77.0
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.219755
+  },
+  {
+   "segment": [
+    73.5,
+    74.5
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.198338
+  },
+  {
+   "segment": [
+    74.0,
+    76.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.265128
+  },
+  {
+   "segment": [
+    74.0,
+    76.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.259326
+  },
+  {
+   "segment": [
+    74.0,
+    75.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.259071
+  },
+  {
+   "segment": [
+    74.0,
+    75.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.250577
+  },
+  {
+   "segment": [
+    74.0,
+    76.0
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.216858
+  },
+  {
+   "segment": [
+    74.0,
+    75.0
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.19503
+  },
+  {
+   "segment": [
+    74.5,
+    75.5
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.266612
+  },
+  {
+   "segment": [
+    74.5,
+    75.5
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.259023
+  },
+  {
+   "segment": [
+    74.5,
+    75.5
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.210841
+  },
+  {
+   "segment": [
+    75.0,
+    76.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.277761
+  },
+  {
+   "segment": [
+    75.0,
+    76.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.259278
+  },
+  {
+   "segment": [
+    75.0,
+    78.5
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.254032
+  },
+  {
+   "segment": [
+    75.0,
+    77.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.253962
+  },
+  {
+   "segment": [
+    75.0,
+    81.0
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.248096
+  },
+  {
+   "segment": [
+    75.0,
+    77.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.248068
+  },
+  {
+   "segment": [
+    75.0,
+    81.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.242661
+  },
+  {
+   "segment": [
+    75.0,
+    78.5
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.240843
+  },
+  {
+   "segment": [
+    75.0,
+    78.5
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.238475
+  },
+  {
+   "segment": [
+    75.0,
+    77.0
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.235892
+  },
+  {
+   "segment": [
+    75.0,
+    76.0
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.235216
+  },
+  {
+   "segment": [
+    75.0,
+    81.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.23512
+  },
+  {
+   "segment": [
+    75.5,
+    76.5
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.260959
+  },
+  {
+   "segment": [
+    75.5,
+    76.5
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.254238
+  },
+  {
+   "segment": [
+    75.5,
+    76.5
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.242006
+  },
+  {
+   "segment": [
+    76.0,
+    78.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.243289
+  },
+  {
+   "segment": [
+    76.0,
+    77.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.236858
+  },
+  {
+   "segment": [
+    76.0,
+    77.0
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.23604
+  },
+  {
+   "segment": [
+    76.0,
+    78.0
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.235069
+  },
+  {
+   "segment": [
+    76.0,
+    77.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.229538
+  },
+  {
+   "segment": [
+    76.0,
+    78.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.221243
+  },
+  {
+   "segment": [
+    76.5,
+    80.0
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.248888
+  },
+  {
+   "segment": [
+    76.5,
+    80.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.244467
+  },
+  {
+   "segment": [
+    76.5,
+    77.5
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.237789
+  },
+  {
+   "segment": [
+    76.5,
+    77.5
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.236771
+  },
+  {
+   "segment": [
+    76.5,
+    80.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.22728
+  },
+  {
+   "segment": [
+    76.5,
+    77.5
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.219703
+  },
+  {
+   "segment": [
+    77.0,
+    79.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.256383
+  },
+  {
+   "segment": [
+    77.0,
+    79.0
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.250555
+  },
+  {
+   "segment": [
+    77.0,
+    78.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.249037
+  },
+  {
+   "segment": [
+    77.0,
+    78.0
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.232366
+  },
+  {
+   "segment": [
+    77.0,
+    79.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.216791
+  },
+  {
+   "segment": [
+    77.0,
+    78.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.2096
+  },
+  {
+   "segment": [
+    77.5,
+    78.5
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.266561
+  },
+  {
+   "segment": [
+    77.5,
+    78.5
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.246099
+  },
+  {
+   "segment": [
+    77.5,
+    78.5
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.206993
+  },
+  {
+   "segment": [
+    78.0,
+    79.0
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.266844
+  },
+  {
+   "segment": [
+    78.0,
+    81.5
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.264256
+  },
+  {
+   "segment": [
+    78.0,
+    79.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.263189
+  },
+  {
+   "segment": [
+    78.0,
+    80.0
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.262288
+  },
+  {
+   "segment": [
+    78.0,
+    84.0
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.261664
+  },
+  {
+   "segment": [
+    78.0,
+    80.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.247426
+  },
+  {
+   "segment": [
+    78.0,
+    80.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.237731
+  },
+  {
+   "segment": [
+    78.0,
+    81.5
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.233925
+  },
+  {
+   "segment": [
+    78.0,
+    84.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.23204
+  },
+  {
+   "segment": [
+    78.0,
+    81.5
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.225578
+  },
+  {
+   "segment": [
+    78.0,
+    79.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.223436
+  },
+  {
+   "segment": [
+    78.0,
+    84.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.217057
+  },
+  {
+   "segment": [
+    78.5,
+    79.5
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.267898
+  },
+  {
+   "segment": [
+    78.5,
+    79.5
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.239212
+  },
+  {
+   "segment": [
+    78.5,
+    79.5
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.235608
+  },
+  {
+   "segment": [
+    79.0,
+    81.0
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.257779
+  },
+  {
+   "segment": [
+    79.0,
+    80.0
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.255772
+  },
+  {
+   "segment": [
+    79.0,
+    80.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.25202
+  },
+  {
+   "segment": [
+    79.0,
+    81.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.230433
+  },
+  {
+   "segment": [
+    79.0,
+    80.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.226908
+  },
+  {
+   "segment": [
+    79.0,
+    81.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.220626
+  },
+  {
+   "segment": [
+    79.5,
+    83.0
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.267502
+  },
+  {
+   "segment": [
+    79.5,
+    80.5
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.23624
+  },
+  {
+   "segment": [
+    79.5,
+    83.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.235907
+  },
+  {
+   "segment": [
+    79.5,
+    80.5
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.224707
+  },
+  {
+   "segment": [
+    79.5,
+    80.5
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.215488
+  },
+  {
+   "segment": [
+    79.5,
+    83.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.212073
+  },
+  {
+   "segment": [
+    80.0,
+    82.0
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.270087
+  },
+  {
+   "segment": [
+    80.0,
+    81.0
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.256577
+  },
+  {
+   "segment": [
+    80.0,
+    82.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.21496
+  },
+  {
+   "segment": [
+    80.0,
+    82.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.214006
+  },
+  {
+   "segment": [
+    80.0,
+    81.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.212985
+  },
+  {
+   "segment": [
+    80.0,
+    81.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.208787
+  },
+  {
+   "segment": [
+    80.5,
+    81.5
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.281133
+  },
+  {
+   "segment": [
+    80.5,
+    81.5
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.222752
+  },
+  {
+   "segment": [
+    80.5,
+    81.5
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.216639
+  },
+  {
+   "segment": [
+    81.0,
+    82.0
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.28342
+  },
+  {
+   "segment": [
+    81.0,
+    83.0
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.279338
+  },
+  {
+   "segment": [
+    81.0,
+    84.5
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.258755
+  },
+  {
+   "segment": [
+    81.0,
+    83.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.244555
+  },
+  {
+   "segment": [
+    81.0,
+    84.5
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.23042
+  },
+  {
+   "segment": [
+    81.0,
+    87.0
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.219669
+  },
+  {
+   "segment": [
+    81.0,
+    82.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.21864
+  },
+  {
+   "segment": [
+    81.0,
+    82.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.215929
+  },
+  {
+   "segment": [
+    81.0,
+    83.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.206778
+  },
+  {
+   "segment": [
+    81.0,
+    84.5
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.19756
+  },
+  {
+   "segment": [
+    81.0,
+    87.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.192874
+  },
+  {
+   "segment": [
+    81.0,
+    87.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.178391
+  },
+  {
+   "segment": [
+    81.5,
+    82.5
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.278494
+  },
+  {
+   "segment": [
+    81.5,
+    82.5
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.249245
+  },
+  {
+   "segment": [
+    81.5,
+    82.5
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.209841
+  },
+  {
+   "segment": [
+    82.0,
+    83.0
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.275135
+  },
+  {
+   "segment": [
+    82.0,
+    83.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.266156
+  },
+  {
+   "segment": [
+    82.0,
+    84.0
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.251688
+  },
+  {
+   "segment": [
+    82.0,
+    84.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.243679
+  },
+  {
+   "segment": [
+    82.0,
+    83.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.197611
+  },
+  {
+   "segment": [
+    82.0,
+    84.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.185837
+  },
+  {
+   "segment": [
+    82.5,
+    83.5
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.24942
+  },
+  {
+   "segment": [
+    82.5,
+    83.5
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.242845
+  },
+  {
+   "segment": [
+    82.5,
+    86.0
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.218068
+  },
+  {
+   "segment": [
+    82.5,
+    86.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.189055
+  },
+  {
+   "segment": [
+    82.5,
+    86.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.180306
+  },
+  {
+   "segment": [
+    82.5,
+    83.5
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.178317
+  },
+  {
+   "segment": [
+    83.0,
+    85.0
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.237652
+  },
+  {
+   "segment": [
+    83.0,
+    84.0
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.22439
+  },
+  {
+   "segment": [
+    83.0,
+    84.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.217536
+  },
+  {
+   "segment": [
+    83.0,
+    85.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.205658
+  },
+  {
+   "segment": [
+    83.0,
+    84.0
+   ],
+   "verb": "put",
+   "noun": "spoon",
+   "score": 0.19966
+  },
+  {
+   "segment": [
+    83.0,
+    85.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.194775
+  },
+  {
+   "segment": [
+    83.5,
+    84.5
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.240903
+  },
+  {
+   "segment": [
+    83.5,
+    84.5
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.198408
+  },
+  {
+   "segment": [
+    83.5,
+    84.5
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.192319
+  },
+  {
+   "segment": [
+    84.0,
+    85.0
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.247867
+  },
+  {
+   "segment": [
+    84.0,
+    90.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.224386
+  },
+  {
+   "segment": [
+    84.0,
+    90.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.218142
+  },
+  {
+   "segment": [
+    84.0,
+    85.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.211732
+  },
+  {
+   "segment": [
+    84.0,
+    86.0
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.199178
+  },
+  {
+   "segment": [
+    84.0,
+    85.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.193772
+  },
+  {
+   "segment": [
+    84.0,
+    87.5
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.187927
+  },
+  {
+   "segment": [
+    84.0,
+    90.0
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.187818
+  },
+  {
+   "segment": [
+    84.0,
+    86.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.181
+  },
+  {
+   "segment": [
+    84.0,
+    86.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.173983
+  },
+  {
+   "segment": [
+    84.0,
+    87.5
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.168037
+  },
+  {
+   "segment": [
+    84.0,
+    87.5
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.166722
+  },
+  {
+   "segment": [
+    84.5,
+    85.5
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.231298
+  },
+  {
+   "segment": [
+    84.5,
+    85.5
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.211287
+  },
+  {
+   "segment": [
+    84.5,
+    85.5
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.181872
+  },
+  {
+   "segment": [
+    85.0,
+    86.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.237295
+  },
+  {
+   "segment": [
+    85.0,
+    87.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.199924
+  },
+  {
+   "segment": [
+    85.0,
+    86.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.147554
+  },
+  {
+   "segment": [
+    85.0,
+    86.0
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.14131
+  },
+  {
+   "segment": [
+    85.0,
+    87.0
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.135169
+  },
+  {
+   "segment": [
+    85.0,
+    87.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.133147
+  },
+  {
+   "segment": [
+    85.5,
+    89.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.218285
+  },
+  {
+   "segment": [
+    85.5,
+    86.5
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.207926
+  },
+  {
+   "segment": [
+    85.5,
+    89.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.201239
+  },
+  {
+   "segment": [
+    85.5,
+    89.0
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.18678
+  },
+  {
+   "segment": [
+    85.5,
+    86.5
+   ],
+   "verb": "transition",
+   "noun": "ladder",
+   "score": 0.128696
+  },
+  {
+   "segment": [
+    85.5,
+    86.5
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.092856
+  },
+  {
+   "segment": [
+    86.0,
+    88.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.217863
+  },
+  {
+   "segment": [
+    86.0,
+    88.0
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.200327
+  },
+  {
+   "segment": [
+    86.0,
+    88.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.178486
+  },
+  {
+   "segment": [
+    86.0,
+    87.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.161434
+  },
+  {
+   "segment": [
+    86.0,
+    87.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.13811
+  },
+  {
+   "segment": [
+    86.0,
+    87.0
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.128399
+  },
+  {
+   "segment": [
+    86.5,
+    87.5
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.221601
+  },
+  {
+   "segment": [
+    86.5,
+    87.5
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.202861
+  },
+  {
+   "segment": [
+    86.5,
+    87.5
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.178678
+  },
+  {
+   "segment": [
+    87.0,
+    93.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.305483
+  },
+  {
+   "segment": [
+    87.0,
+    90.5
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.286931
+  },
+  {
+   "segment": [
+    87.0,
+    88.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.286466
+  },
+  {
+   "segment": [
+    87.0,
+    93.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.285299
+  },
+  {
+   "segment": [
+    87.0,
+    89.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.281932
+  },
+  {
+   "segment": [
+    87.0,
+    88.0
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.262538
+  },
+  {
+   "segment": [
+    87.0,
+    90.5
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.260537
+  },
+  {
+   "segment": [
+    87.0,
+    89.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.258206
+  },
+  {
+   "segment": [
+    87.0,
+    93.0
+   ],
+   "verb": "take",
+   "noun": "pasta",
+   "score": 0.244518
+  },
+  {
+   "segment": [
+    87.0,
+    89.0
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.234161
+  },
+  {
+   "segment": [
+    87.0,
+    88.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.231148
+  },
+  {
+   "segment": [
+    87.0,
+    90.5
+   ],
+   "verb": "take",
+   "noun": "pasta",
+   "score": 0.230026
+  },
+  {
+   "segment": [
+    87.5,
+    88.5
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.308224
+  },
+  {
+   "segment": [
+    87.5,
+    88.5
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.272626
+  },
+  {
+   "segment": [
+    87.5,
+    88.5
+   ],
+   "verb": "mix",
+   "noun": "pasta",
+   "score": 0.265242
+  },
+  {
+   "segment": [
+    88.0,
+    89.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.282267
+  },
+  {
+   "segment": [
+    88.0,
+    90.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.281936
+  },
+  {
+   "segment": [
+    88.0,
+    90.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.281702
+  },
+  {
+   "segment": [
+    88.0,
+    89.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.277383
+  },
+  {
+   "segment": [
+    88.0,
+    90.0
+   ],
+   "verb": "take",
+   "noun": "pasta",
+   "score": 0.231687
+  },
+  {
+   "segment": [
+    88.0,
+    89.0
+   ],
+   "verb": "take",
+   "noun": "pasta",
+   "score": 0.223385
+  },
+  {
+   "segment": [
+    88.5,
+    92.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.307994
+  },
+  {
+   "segment": [
+    88.5,
+    89.5
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.290617
+  },
+  {
+   "segment": [
+    88.5,
+    92.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.276699
+  },
+  {
+   "segment": [
+    88.5,
+    89.5
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.271243
+  },
+  {
+   "segment": [
+    88.5,
+    92.0
+   ],
+   "verb": "take",
+   "noun": "pasta",
+   "score": 0.249601
+  },
+  {
+   "segment": [
+    88.5,
+    89.5
+   ],
+   "verb": "take",
+   "noun": "pasta",
+   "score": 0.227239
+  },
+  {
+   "segment": [
+    89.0,
+    91.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.306011
+  },
+  {
+   "segment": [
+    89.0,
+    90.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.286321
+  },
+  {
+   "segment": [
+    89.0,
+    90.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.28061
+  },
+  {
+   "segment": [
+    89.0,
+    91.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.261561
+  },
+  {
+   "segment": [
+    89.0,
+    91.0
+   ],
+   "verb": "take",
+   "noun": "pasta",
+   "score": 0.246174
+  },
+  {
+   "segment": [
+    89.0,
+    90.0
+   ],
+   "verb": "take",
+   "noun": "pasta",
+   "score": 0.239984
+  },
+  {
+   "segment": [
+    89.5,
+    90.5
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.295838
+  },
+  {
+   "segment": [
+    89.5,
+    90.5
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.247338
+  },
+  {
+   "segment": [
+    89.5,
+    90.5
+   ],
+   "verb": "take",
+   "noun": "pasta",
+   "score": 0.238249
+  },
+  {
+   "segment": [
+    90.0,
+    92.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.327644
+  },
+  {
+   "segment": [
+    90.0,
+    93.5
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.325271
+  },
+  {
+   "segment": [
+    90.0,
+    91.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.320126
+  },
+  {
+   "segment": [
+    90.0,
+    96.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.316907
+  },
+  {
+   "segment": [
+    90.0,
+    93.5
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.309363
+  },
+  {
+   "segment": [
+    90.0,
+    96.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.307212
+  },
+  {
+   "segment": [
+    90.0,
+    92.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.272411
+  },
+  {
+   "segment": [
+    90.0,
+    92.0
+   ],
+   "verb": "take",
+   "noun": "pasta",
+   "score": 0.262094
+  },
+  {
+   "segment": [
+    90.0,
+    93.5
+   ],
+   "verb": "take",
+   "noun": "pasta",
+   "score": 0.256684
+  },
+  {
+   "segment": [
+    90.0,
+    91.0
+   ],
+   "verb": "take",
+   "noun": "pasta",
+   "score": 0.249908
+  },
+  {
+   "segment": [
+    90.0,
+    96.0
+   ],
+   "verb": "take",
+   "noun": "pasta",
+   "score": 0.249564
+  },
+  {
+   "segment": [
+    90.0,
+    91.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.242499
+  },
+  {
+   "segment": [
+    90.5,
+    91.5
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.350454
+  },
+  {
+   "segment": [
+    90.5,
+    91.5
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.278525
+  },
+  {
+   "segment": [
+    90.5,
+    91.5
+   ],
+   "verb": "take",
+   "noun": "pasta",
+   "score": 0.277688
+  },
+  {
+   "segment": [
+    91.0,
+    92.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.334875
+  },
+  {
+   "segment": [
+    91.0,
+    93.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.332762
+  },
+  {
+   "segment": [
+    91.0,
+    93.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.327764
+  },
+  {
+   "segment": [
+    91.0,
+    92.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.301458
+  },
+  {
+   "segment": [
+    91.0,
+    92.0
+   ],
+   "verb": "take",
+   "noun": "pasta",
+   "score": 0.274273
+  },
+  {
+   "segment": [
+    91.0,
+    93.0
+   ],
+   "verb": "take",
+   "noun": "pasta",
+   "score": 0.264856
+  },
+  {
+   "segment": [
+    91.5,
+    92.5
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.328799
+  },
+  {
+   "segment": [
+    91.5,
+    95.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.318433
+  },
+  {
+   "segment": [
+    91.5,
+    95.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.309973
+  },
+  {
+   "segment": [
+    91.5,
+    92.5
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.308174
+  },
+  {
+   "segment": [
+    91.5,
+    92.5
+   ],
+   "verb": "take",
+   "noun": "pasta",
+   "score": 0.251251
+  },
+  {
+   "segment": [
+    91.5,
+    95.0
+   ],
+   "verb": "take",
+   "noun": "pasta",
+   "score": 0.246245
+  },
+  {
+   "segment": [
+    92.0,
+    93.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.36332
+  },
+  {
+   "segment": [
+    92.0,
+    94.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.340065
+  },
+  {
+   "segment": [
+    92.0,
+    93.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.319054
+  },
+  {
+   "segment": [
+    92.0,
+    94.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.314341
+  },
+  {
+   "segment": [
+    92.0,
+    93.0
+   ],
+   "verb": "take",
+   "noun": "pasta",
+   "score": 0.253531
+  },
+  {
+   "segment": [
+    92.0,
+    94.0
+   ],
+   "verb": "take",
+   "noun": "pasta",
+   "score": 0.241385
+  },
+  {
+   "segment": [
+    92.5,
+    93.5
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.353539
+  },
+  {
+   "segment": [
+    92.5,
+    93.5
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.325021
+  },
+  {
+   "segment": [
+    92.5,
+    93.5
+   ],
+   "verb": "take",
+   "noun": "pasta",
+   "score": 0.243627
+  },
+  {
+   "segment": [
+    93.0,
+    96.5
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.320714
+  },
+  {
+   "segment": [
+    93.0,
+    94.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.316238
+  },
+  {
+   "segment": [
+    93.0,
+    96.5
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.311227
+  },
+  {
+   "segment": [
+    93.0,
+    94.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.309574
+  },
+  {
+   "segment": [
+    93.0,
+    95.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.304388
+  },
+  {
+   "segment": [
+    93.0,
+    95.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.300978
+  },
+  {
+   "segment": [
+    93.0,
+    99.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.292868
+  },
+  {
+   "segment": [
+    93.0,
+    99.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.290023
+  },
+  {
+   "segment": [
+    93.0,
+    95.0
+   ],
+   "verb": "take",
+   "noun": "pasta",
+   "score": 0.239506
+  },
+  {
+   "segment": [
+    93.0,
+    96.5
+   ],
+   "verb": "take",
+   "noun": "pasta",
+   "score": 0.237196
+  },
+  {
+   "segment": [
+    93.0,
+    94.0
+   ],
+   "verb": "take",
+   "noun": "pasta",
+   "score": 0.22912
+  },
+  {
+   "segment": [
+    93.0,
+    99.0
+   ],
+   "verb": "take",
+   "noun": "pasta",
+   "score": 0.223943
+  },
+  {
+   "segment": [
+    93.5,
+    94.5
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.297443
+  },
+  {
+   "segment": [
+    93.5,
+    94.5
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.289077
+  },
+  {
+   "segment": [
+    93.5,
+    94.5
+   ],
+   "verb": "take",
+   "noun": "pasta",
+   "score": 0.232563
+  },
+  {
+   "segment": [
+    94.0,
+    96.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.307347
+  },
+  {
+   "segment": [
+    94.0,
+    96.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.306581
+  },
+  {
+   "segment": [
+    94.0,
+    95.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.297813
+  },
+  {
+   "segment": [
+    94.0,
+    95.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.285338
+  },
+  {
+   "segment": [
+    94.0,
+    95.0
+   ],
+   "verb": "take",
+   "noun": "pasta",
+   "score": 0.246289
+  },
+  {
+   "segment": [
+    94.0,
+    96.0
+   ],
+   "verb": "take",
+   "noun": "pasta",
+   "score": 0.242563
+  },
+  {
+   "segment": [
+    94.5,
+    98.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.296362
+  },
+  {
+   "segment": [
+    94.5,
+    95.5
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.295761
+  },
+  {
+   "segment": [
+    94.5,
+    98.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.295655
+  },
+  {
+   "segment": [
+    94.5,
+    95.5
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.288002
+  },
+  {
+   "segment": [
+    94.5,
+    95.5
+   ],
+   "verb": "take",
+   "noun": "pasta",
+   "score": 0.245621
+  },
+  {
+   "segment": [
+    94.5,
+    98.0
+   ],
+   "verb": "take",
+   "noun": "pasta",
+   "score": 0.227867
+  },
+  {
+   "segment": [
+    95.0,
+    97.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.329652
+  },
+  {
+   "segment": [
+    95.0,
+    96.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.329241
+  },
+  {
+   "segment": [
+    95.0,
+    96.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.315174
+  },
+  {
+   "segment": [
+    95.0,
+    97.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.308668
+  },
+  {
+   "segment": [
+    95.0,
+    96.0
+   ],
+   "verb": "take",
+   "noun": "pasta",
+   "score": 0.237648
+  },
+  {
+   "segment": [
+    95.0,
+    97.0
+   ],
+   "verb": "take",
+   "noun": "pasta",
+   "score": 0.224509
+  },
+  {
+   "segment": [
+    95.5,
+    96.5
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.372148
+  },
+  {
+   "segment": [
+    95.5,
+    96.5
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.334456
+  },
+  {
+   "segment": [
+    95.5,
+    96.5
+   ],
+   "verb": "take",
+   "noun": "pasta",
+   "score": 0.230197
+  },
+  {
+   "segment": [
+    96.0,
+    97.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.330011
+  },
+  {
+   "segment": [
+    96.0,
+    97.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.302133
+  },
+  {
+   "segment": [
+    96.0,
+    98.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.285158
+  },
+  {
+   "segment": [
+    96.0,
+    98.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.28124
+  },
+  {
+   "segment": [
+    96.0,
+    99.5
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.275759
+  },
+  {
+   "segment": [
+    96.0,
+    102.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.272933
+  },
+  {
+   "segment": [
+    96.0,
+    99.5
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.268117
+  },
+  {
+   "segment": [
+    96.0,
+    102.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.267274
+  },
+  {
+   "segment": [
+    96.0,
+    98.0
+   ],
+   "verb": "take",
+   "noun": "pasta",
+   "score": 0.214373
+  },
+  {
+   "segment": [
+    96.0,
+    97.0
+   ],
+   "verb": "take",
+   "noun": "pasta",
+   "score": 0.210844
+  },
+  {
+   "segment": [
+    96.0,
+    99.5
+   ],
+   "verb": "take",
+   "noun": "pasta",
+   "score": 0.203915
+  },
+  {
+   "segment": [
+    96.0,
+    102.0
+   ],
+   "verb": "take",
+   "noun": "pasta",
+   "score": 0.190833
+  },
+  {
+   "segment": [
+    96.5,
+    97.5
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.275165
+  },
+  {
+   "segment": [
+    96.5,
+    97.5
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.265422
+  },
+  {
+   "segment": [
+    96.5,
+    97.5
+   ],
+   "verb": "take",
+   "noun": "pasta",
+   "score": 0.20909
+  },
+  {
+   "segment": [
+    97.0,
+    98.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.266134
+  },
+  {
+   "segment": [
+    97.0,
+    99.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.262642
+  },
+  {
+   "segment": [
+    97.0,
+    99.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.228819
+  },
+  {
+   "segment": [
+    97.0,
+    98.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.218842
+  },
+  {
+   "segment": [
+    97.0,
+    98.0
+   ],
+   "verb": "take",
+   "noun": "pasta",
+   "score": 0.217895
+  },
+  {
+   "segment": [
+    97.0,
+    99.0
+   ],
+   "verb": "take",
+   "noun": "pasta",
+   "score": 0.20612
+  },
+  {
+   "segment": [
+    97.5,
+    98.5
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.26402
+  },
+  {
+   "segment": [
+    97.5,
+    101.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.258843
+  },
+  {
+   "segment": [
+    97.5,
+    101.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.234651
+  },
+  {
+   "segment": [
+    97.5,
+    98.5
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.218701
+  },
+  {
+   "segment": [
+    97.5,
+    98.5
+   ],
+   "verb": "take",
+   "noun": "pasta",
+   "score": 0.213766
+  },
+  {
+   "segment": [
+    97.5,
+    101.0
+   ],
+   "verb": "pour",
+   "noun": "pasta",
+   "score": 0.188475
+  },
+  {
+   "segment": [
+    98.0,
+    100.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.259804
+  },
+  {
+   "segment": [
+    98.0,
+    99.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.259147
+  },
+  {
+   "segment": [
+    98.0,
+    100.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.244016
+  },
+  {
+   "segment": [
+    98.0,
+    99.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.238165
+  },
+  {
+   "segment": [
+    98.0,
+    100.0
+   ],
+   "verb": "pour",
+   "noun": "pasta",
+   "score": 0.200015
+  },
+  {
+   "segment": [
+    98.0,
+    99.0
+   ],
+   "verb": "pour",
+   "noun": "pasta",
+   "score": 0.195762
+  },
+  {
+   "segment": [
+    98.5,
+    99.5
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.256438
+  },
+  {
+   "segment": [
+    98.5,
+    99.5
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.250022
+  },
+  {
+   "segment": [
+    98.5,
+    99.5
+   ],
+   "verb": "pour",
+   "noun": "pasta",
+   "score": 0.211656
+  },
+  {
+   "segment": [
+    99.0,
+    105.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.271112
+  },
+  {
+   "segment": [
+    99.0,
+    102.5
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.270671
+  },
+  {
+   "segment": [
+    99.0,
+    102.5
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.265503
+  },
+  {
+   "segment": [
+    99.0,
+    101.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.257274
+  },
+  {
+   "segment": [
+    99.0,
+    100.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.257223
+  },
+  {
+   "segment": [
+    99.0,
+    105.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.25134
+  },
+  {
+   "segment": [
+    99.0,
+    100.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.247985
+  },
+  {
+   "segment": [
+    99.0,
+    101.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.242185
+  },
+  {
+   "segment": [
+    99.0,
+    105.0
+   ],
+   "verb": "pour",
+   "noun": "pasta",
+   "score": 0.223301
+  },
+  {
+   "segment": [
+    99.0,
+    102.5
+   ],
+   "verb": "pour",
+   "noun": "pasta",
+   "score": 0.212092
+  },
+  {
+   "segment": [
+    99.0,
+    100.0
+   ],
+   "verb": "put",
+   "noun": "sauce",
+   "score": 0.20455
+  },
+  {
+   "segment": [
+    99.0,
+    101.0
+   ],
+   "verb": "pour",
+   "noun": "pasta",
+   "score": 0.189711
+  },
+  {
+   "segment": [
+    99.5,
+    100.5
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.251931
+  },
+  {
+   "segment": [
+    99.5,
+    100.5
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.241166
+  },
+  {
+   "segment": [
+    99.5,
+    100.5
+   ],
+   "verb": "put",
+   "noun": "sauce",
+   "score": 0.18348
+  },
+  {
+   "segment": [
+    100.0,
+    102.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.271956
+  },
+  {
+   "segment": [
+    100.0,
+    102.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.270018
+  },
+  {
+   "segment": [
+    100.0,
+    101.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.256617
+  },
+  {
+   "segment": [
+    100.0,
+    101.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.236178
+  },
+  {
+   "segment": [
+    100.0,
+    102.0
+   ],
+   "verb": "pour",
+   "noun": "pasta",
+   "score": 0.194557
+  },
+  {
+   "segment": [
+    100.0,
+    101.0
+   ],
+   "verb": "pour",
+   "noun": "pasta",
+   "score": 0.176764
+  },
+  {
+   "segment": [
+    100.5,
+    104.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.267057
+  },
+  {
+   "segment": [
+    100.5,
+    104.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.257191
+  },
+  {
+   "segment": [
+    100.5,
+    101.5
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.255149
+  },
+  {
+   "segment": [
+    100.5,
+    101.5
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.249088
+  },
+  {
+   "segment": [
+    100.5,
+    104.0
+   ],
+   "verb": "pour",
+   "noun": "pasta",
+   "score": 0.228798
+  },
+  {
+   "segment": [
+    100.5,
+    101.5
+   ],
+   "verb": "pour",
+   "noun": "pasta",
+   "score": 0.180422
+  },
+  {
+   "segment": [
+    101.0,
+    102.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.305292
+  },
+  {
+   "segment": [
+    101.0,
+    102.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.283342
+  },
+  {
+   "segment": [
+    101.0,
+    103.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.281191
+  },
+  {
+   "segment": [
+    101.0,
+    103.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.265933
+  },
+  {
+   "segment": [
+    101.0,
+    103.0
+   ],
+   "verb": "pour",
+   "noun": "pasta",
+   "score": 0.244157
+  },
+  {
+   "segment": [
+    101.0,
+    102.0
+   ],
+   "verb": "pour",
+   "noun": "pasta",
+   "score": 0.211711
+  },
+  {
+   "segment": [
+    101.5,
+    102.5
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.319164
+  },
+  {
+   "segment": [
+    101.5,
+    102.5
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.285501
+  },
+  {
+   "segment": [
+    101.5,
+    102.5
+   ],
+   "verb": "pour",
+   "noun": "pasta",
+   "score": 0.266041
+  },
+  {
+   "segment": [
+    102.0,
+    105.5
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.283898
+  },
+  {
+   "segment": [
+    102.0,
+    108.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.283174
+  },
+  {
+   "segment": [
+    102.0,
+    103.0
+   ],
+   "verb": "pour",
+   "noun": "pasta",
+   "score": 0.273125
+  },
+  {
+   "segment": [
+    102.0,
+    108.0
+   ],
+   "verb": "pour",
+   "noun": "pasta",
+   "score": 0.270574
+  },
+  {
+   "segment": [
+    102.0,
+    104.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.259221
+  },
+  {
+   "segment": [
+    102.0,
+    105.5
+   ],
+   "verb": "pour",
+   "noun": "pasta",
+   "score": 0.2563
+  },
+  {
+   "segment": [
+    102.0,
+    103.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.254434
+  },
+  {
+   "segment": [
+    102.0,
+    104.0
+   ],
+   "verb": "pour",
+   "noun": "pasta",
+   "score": 0.250755
+  },
+  {
+   "segment": [
+    102.0,
+    103.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.247028
+  },
+  {
+   "segment": [
+    102.0,
+    108.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.245792
+  },
+  {
+   "segment": [
+    102.0,
+    105.5
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.239494
+  },
+  {
+   "segment": [
+    102.0,
+    104.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.238158
+  },
+  {
+   "segment": [
+    102.5,
+    103.5
+   ],
+   "verb": "pour",
+   "noun": "pasta",
+   "score": 0.259775
+  },
+  {
+   "segment": [
+    102.5,
+    103.5
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.246994
+  },
+  {
+   "segment": [
+    102.5,
+    103.5
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.202446
+  },
+  {
+   "segment": [
+    103.0,
+    105.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.290092
+  },
+  {
+   "segment": [
+    103.0,
+    104.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.271414
+  },
+  {
+   "segment": [
+    103.0,
+    105.0
+   ],
+   "verb": "pour",
+   "noun": "pasta",
+   "score": 0.233027
+  },
+  {
+   "segment": [
+    103.0,
+    105.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.224873
+  },
+  {
+   "segment": [
+    103.0,
+    104.0
+   ],
+   "verb": "pour",
+   "noun": "pasta",
+   "score": 0.223032
+  },
+  {
+   "segment": [
+    103.0,
+    104.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.218339
+  },
+  {
+   "segment": [
+    103.5,
+    107.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.303357
+  },
+  {
+   "segment": [
+    103.5,
+    104.5
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.284817
+  },
+  {
+   "segment": [
+    103.5,
+    107.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.250126
+  },
+  {
+   "segment": [
+    103.5,
+    107.0
+   ],
+   "verb": "pour",
+   "noun": "pasta",
+   "score": 0.24564
+  },
+  {
+   "segment": [
+    103.5,
+    104.5
+   ],
+   "verb": "take",
+   "noun": "pasta",
+   "score": 0.230717
+  },
+  {
+   "segment": [
+    103.5,
+    104.5
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.228721
+  },
+  {
+   "segment": [
+    104.0,
+    106.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.314586
+  },
+  {
+   "segment": [
+    104.0,
+    105.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.3069
+  },
+  {
+   "segment": [
+    104.0,
+    106.0
+   ],
+   "verb": "pour",
+   "noun": "pasta",
+   "score": 0.260288
+  },
+  {
+   "segment": [
+    104.0,
+    106.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.244206
+  },
+  {
+   "segment": [
+    104.0,
+    105.0
+   ],
+   "verb": "pour",
+   "noun": "pasta",
+   "score": 0.242179
+  },
+  {
+   "segment": [
+    104.0,
+    105.0
+   ],
+   "verb": "take",
+   "noun": "pasta",
+   "score": 0.23449
+  },
+  {
+   "segment": [
+    104.5,
+    105.5
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.329068
+  },
+  {
+   "segment": [
+    104.5,
+    105.5
+   ],
+   "verb": "pour",
+   "noun": "pasta",
+   "score": 0.282307
+  },
+  {
+   "segment": [
+    104.5,
+    105.5
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.249955
+  },
+  {
+   "segment": [
+    105.0,
+    106.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.322264
+  },
+  {
+   "segment": [
+    105.0,
+    107.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.305947
+  },
+  {
+   "segment": [
+    105.0,
+    108.5
+   ],
+   "verb": "pour",
+   "noun": "pasta",
+   "score": 0.286601
+  },
+  {
+   "segment": [
+    105.0,
+    106.0
+   ],
+   "verb": "pour",
+   "noun": "pasta",
+   "score": 0.277764
+  },
+  {
+   "segment": [
+    105.0,
+    108.5
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.277738
+  },
+  {
+   "segment": [
+    105.0,
+    107.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.263072
+  },
+  {
+   "segment": [
+    105.0,
+    107.0
+   ],
+   "verb": "pour",
+   "noun": "pasta",
+   "score": 0.26268
+  },
+  {
+   "segment": [
+    105.0,
+    106.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.257208
+  },
+  {
+   "segment": [
+    105.0,
+    108.5
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.247113
+  },
+  {
+   "segment": [
+    105.0,
+    111.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.238293
+  },
+  {
+   "segment": [
+    105.0,
+    111.0
+   ],
+   "verb": "pour",
+   "noun": "pasta",
+   "score": 0.230664
+  },
+  {
+   "segment": [
+    105.0,
+    111.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.22151
+  },
+  {
+   "segment": [
+    105.5,
+    106.5
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.30585
+  },
+  {
+   "segment": [
+    105.5,
+    106.5
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.264691
+  },
+  {
+   "segment": [
+    105.5,
+    106.5
+   ],
+   "verb": "pour",
+   "noun": "pasta",
+   "score": 0.24482
+  },
+  {
+   "segment": [
+    106.0,
+    108.0
+   ],
+   "verb": "pour",
+   "noun": "pasta",
+   "score": 0.297168
+  },
+  {
+   "segment": [
+    106.0,
+    107.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.289073
+  },
+  {
+   "segment": [
+    106.0,
+    108.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.273717
+  },
+  {
+   "segment": [
+    106.0,
+    107.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.268644
+  },
+  {
+   "segment": [
+    106.0,
+    108.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.254261
+  },
+  {
+   "segment": [
+    106.0,
+    107.0
+   ],
+   "verb": "pour",
+   "noun": "pasta",
+   "score": 0.247018
+  },
+  {
+   "segment": [
+    106.5,
+    107.5
+   ],
+   "verb": "pour",
+   "noun": "pasta",
+   "score": 0.298748
+  },
+  {
+   "segment": [
+    106.5,
+    107.5
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.278887
+  },
+  {
+   "segment": [
+    106.5,
+    107.5
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.255605
+  },
+  {
+   "segment": [
+    106.5,
+    110.0
+   ],
+   "verb": "pour",
+   "noun": "pasta",
+   "score": 0.237423
+  },
+  {
+   "segment": [
+    106.5,
+    110.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.224395
+  },
+  {
+   "segment": [
+    106.5,
+    110.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.218563
+  },
+  {
+   "segment": [
+    107.0,
+    108.0
+   ],
+   "verb": "pour",
+   "noun": "pasta",
+   "score": 0.335325
+  },
+  {
+   "segment": [
+    107.0,
+    109.0
+   ],
+   "verb": "pour",
+   "noun": "pasta",
+   "score": 0.279809
+  },
+  {
+   "segment": [
+    107.0,
+    108.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.258356
+  },
+  {
+   "segment": [
+    107.0,
+    108.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.239872
+  },
+  {
+   "segment": [
+    107.0,
+    109.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.230214
+  },
+  {
+   "segment": [
+    107.0,
+    109.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.224133
+  },
+  {
+   "segment": [
+    107.5,
+    108.5
+   ],
+   "verb": "pour",
+   "noun": "pasta",
+   "score": 0.294069
+  },
+  {
+   "segment": [
+    107.5,
+    108.5
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.222007
+  },
+  {
+   "segment": [
+    107.5,
+    108.5
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.213513
+  },
+  {
+   "segment": [
+    108.0,
+    109.0
+   ],
+   "verb": "pour",
+   "noun": "pasta",
+   "score": 0.220955
+  },
+  {
+   "segment": [
+    108.0,
+    109.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.208244
+  },
+  {
+   "segment": [
+    108.0,
+    109.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.201911
+  },
+  {
+   "segment": [
+    108.0,
+    110.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.19698
+  },
+  {
+   "segment": [
+    108.0,
+    110.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.193125
+  },
+  {
+   "segment": [
+    108.0,
+    114.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.187482
+  },
+  {
+   "segment": [
+    108.0,
+    114.0
+   ],
+   "verb": "take",
+   "noun": "pasta",
+   "score": 0.18667
+  },
+  {
+   "segment": [
+    108.0,
+    111.5
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.18017
+  },
+  {
+   "segment": [
+    108.0,
+    110.0
+   ],
+   "verb": "pour",
+   "noun": "pasta",
+   "score": 0.177093
+  },
+  {
+   "segment": [
+    108.0,
+    111.5
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.17691
+  },
+  {
+   "segment": [
+    108.0,
+    111.5
+   ],
+   "verb": "pour",
+   "noun": "pasta",
+   "score": 0.15773
+  },
+  {
+   "segment": [
+    108.0,
+    114.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.151851
+  },
+  {
+   "segment": [
+    108.5,
+    109.5
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.207589
+  },
+  {
+   "segment": [
+    108.5,
+    109.5
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.195215
+  },
+  {
+   "segment": [
+    108.5,
+    109.5
+   ],
+   "verb": "take",
+   "noun": "pasta",
+   "score": 0.169168
+  },
+  {
+   "segment": [
+    109.0,
+    110.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.185695
+  },
+  {
+   "segment": [
+    109.0,
+    110.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.184246
+  },
+  {
+   "segment": [
+    109.0,
+    111.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.175559
+  },
+  {
+   "segment": [
+    109.0,
+    111.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.173693
+  },
+  {
+   "segment": [
+    109.0,
+    110.0
+   ],
+   "verb": "take",
+   "noun": "pasta",
+   "score": 0.163039
+  },
+  {
+   "segment": [
+    109.0,
+    111.0
+   ],
+   "verb": "take",
+   "noun": "pasta",
+   "score": 0.155183
+  },
+  {
+   "segment": [
+    109.5,
+    110.5
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.170226
+  },
+  {
+   "segment": [
+    109.5,
+    110.5
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.168763
+  },
+  {
+   "segment": [
+    109.5,
+    113.0
+   ],
+   "verb": "move",
+   "noun": "pan",
+   "score": 0.159466
+  },
+  {
+   "segment": [
+    109.5,
+    110.5
+   ],
+   "verb": "take",
+   "noun": "pasta",
+   "score": 0.153811
+  },
+  {
+   "segment": [
+    109.5,
+    113.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.146785
+  },
+  {
+   "segment": [
+    109.5,
+    113.0
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.140461
+  },
+  {
+   "segment": [
+    110.0,
+    112.0
+   ],
+   "verb": "move",
+   "noun": "pan",
+   "score": 0.178267
+  },
+  {
+   "segment": [
+    110.0,
+    112.0
+   ],
+   "verb": "move",
+   "noun": "pot",
+   "score": 0.156444
+  },
+  {
+   "segment": [
+    110.0,
+    111.0
+   ],
+   "verb": "filter",
+   "noun": "pasta",
+   "score": 0.154282
+  },
+  {
+   "segment": [
+    110.0,
+    111.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.151763
+  },
+  {
+   "segment": [
+    110.0,
+    112.0
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.149412
+  },
+  {
+   "segment": [
+    110.0,
+    111.0
+   ],
+   "verb": "move",
+   "noun": "pan",
+   "score": 0.145817
+  },
+  {
+   "segment": [
+    110.5,
+    111.5
+   ],
+   "verb": "move",
+   "noun": "pan",
+   "score": 0.190855
+  },
+  {
+   "segment": [
+    110.5,
+    111.5
+   ],
+   "verb": "move",
+   "noun": "pot",
+   "score": 0.170383
+  },
+  {
+   "segment": [
+    110.5,
+    111.5
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.14953
+  },
+  {
+   "segment": [
+    111.0,
+    114.5
+   ],
+   "verb": "take",
+   "noun": "pasta",
+   "score": 0.238329
+  },
+  {
+   "segment": [
+    111.0,
+    112.0
+   ],
+   "verb": "move",
+   "noun": "pan",
+   "score": 0.209877
+  },
+  {
+   "segment": [
+    111.0,
+    114.5
+   ],
+   "verb": "eat",
+   "noun": "pasta",
+   "score": 0.196341
+  },
+  {
+   "segment": [
+    111.0,
+    114.5
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.193644
+  },
+  {
+   "segment": [
+    111.0,
+    112.0
+   ],
+   "verb": "move",
+   "noun": "pot",
+   "score": 0.190686
+  },
+  {
+   "segment": [
+    111.0,
+    113.0
+   ],
+   "verb": "move",
+   "noun": "pan",
+   "score": 0.182519
+  },
+  {
+   "segment": [
+    111.0,
+    113.0
+   ],
+   "verb": "move",
+   "noun": "hob",
+   "score": 0.17867
+  },
+  {
+   "segment": [
+    111.0,
+    112.0
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.176462
+  },
+  {
+   "segment": [
+    111.0,
+    113.0
+   ],
+   "verb": "turn-on",
+   "noun": "hob",
+   "score": 0.175119
+  },
+  {
+   "segment": [
+    111.5,
+    112.5
+   ],
+   "verb": "move",
+   "noun": "pan",
+   "score": 0.204625
+  },
+  {
+   "segment": [
+    111.5,
+    112.5
+   ],
+   "verb": "move",
+   "noun": "hob",
+   "score": 0.197502
+  },
+  {
+   "segment": [
+    111.5,
+    112.5
+   ],
+   "verb": "turn-on",
+   "noun": "hob",
+   "score": 0.192514
+  },
+  {
+   "segment": [
+    112.0,
+    114.0
+   ],
+   "verb": "take",
+   "noun": "pasta",
+   "score": 0.241967
+  },
+  {
+   "segment": [
+    112.0,
+    114.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.213627
+  },
+  {
+   "segment": [
+    112.0,
+    113.0
+   ],
+   "verb": "move",
+   "noun": "hob",
+   "score": 0.21105
+  },
+  {
+   "segment": [
+    112.0,
+    113.0
+   ],
+   "verb": "turn-on",
+   "noun": "hob",
+   "score": 0.20969
+  },
+  {
+   "segment": [
+    112.0,
+    114.0
+   ],
+   "verb": "eat",
+   "noun": "pasta",
+   "score": 0.174491
+  },
+  {
+   "segment": [
+    112.0,
+    113.0
+   ],
+   "verb": "put",
+   "noun": "hob",
+   "score": 0.167509
+  },
+  {
+   "segment": [
+    112.5,
+    116.0
+   ],
+   "verb": "eat",
+   "noun": "pasta",
+   "score": 0.277532
+  },
+  {
+   "segment": [
+    112.5,
+    116.0
+   ],
+   "verb": "take",
+   "noun": "pasta",
+   "score": 0.267985
+  },
+  {
+   "segment": [
+    112.5,
+    113.5
+   ],
+   "verb": "take",
+   "noun": "pasta",
+   "score": 0.218134
+  },
+  {
+   "segment": [
+    112.5,
+    113.5
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.209227
+  },
+  {
+   "segment": [
+    112.5,
+    116.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.197043
+  },
+  {
+   "segment": [
+    112.5,
+    113.5
+   ],
+   "verb": "turn-on",
+   "noun": "hob",
+   "score": 0.166175
+  },
+  {
+   "segment": [
+    113.0,
+    115.0
+   ],
+   "verb": "take",
+   "noun": "pasta",
+   "score": 0.29506
+  },
+  {
+   "segment": [
+    113.0,
+    114.0
+   ],
+   "verb": "take",
+   "noun": "pasta",
+   "score": 0.282146
+  },
+  {
+   "segment": [
+    113.0,
+    115.0
+   ],
+   "verb": "eat",
+   "noun": "pasta",
+   "score": 0.282035
+  },
+  {
+   "segment": [
+    113.0,
+    114.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.238325
+  },
+  {
+   "segment": [
+    113.0,
+    115.0
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.212396
+  },
+  {
+   "segment": [
+    113.0,
+    114.0
+   ],
+   "verb": "eat",
+   "noun": "pasta",
+   "score": 0.210417
+  },
+  {
+   "segment": [
+    113.5,
+    114.5
+   ],
+   "verb": "take",
+   "noun": "pasta",
+   "score": 0.309701
+  },
+  {
+   "segment": [
+    113.5,
+    114.5
+   ],
+   "verb": "eat",
+   "noun": "pasta",
+   "score": 0.279894
+  },
+  {
+   "segment": [
+    113.5,
+    114.5
+   ],
+   "verb": "put",
+   "noun": "pasta",
+   "score": 0.223167
+  },
+  {
+   "segment": [
+    114.0,
+    115.0
+   ],
+   "verb": "eat",
+   "noun": "pasta",
+   "score": 0.337749
+  },
+  {
+   "segment": [
+    114.0,
+    116.0
+   ],
+   "verb": "eat",
+   "noun": "pasta",
+   "score": 0.328453
+  },
+  {
+   "segment": [
+    114.0,
+    115.0
+   ],
+   "verb": "take",
+   "noun": "pasta",
+   "score": 0.307153
+  },
+  {
+   "segment": [
+    114.0,
+    116.0
+   ],
+   "verb": "take",
+   "noun": "pasta",
+   "score": 0.277552
+  },
+  {
+   "segment": [
+    114.0,
+    115.0
+   ],
+   "verb": "throw",
+   "noun": "pasta",
+   "score": 0.207813
+  },
+  {
+   "segment": [
+    114.0,
+    116.0
+   ],
+   "verb": "throw",
+   "noun": "pasta",
+   "score": 0.195773
+  },
+  {
+   "segment": [
+    114.5,
+    115.5
+   ],
+   "verb": "eat",
+   "noun": "pasta",
+   "score": 0.355779
+  },
+  {
+   "segment": [
+    114.5,
+    115.5
+   ],
+   "verb": "take",
+   "noun": "pasta",
+   "score": 0.285909
+  },
+  {
+   "segment": [
+    114.5,
+    115.5
+   ],
+   "verb": "throw",
+   "noun": "pasta",
+   "score": 0.197391
+  },
+  {
+   "segment": [
+    115.0,
+    116.0
+   ],
+   "verb": "eat",
+   "noun": "pasta",
+   "score": 0.318925
+  },
+  {
+   "segment": [
+    115.0,
+    116.0
+   ],
+   "verb": "take",
+   "noun": "pasta",
+   "score": 0.244538
+  },
+  {
+   "segment": [
+    115.0,
+    116.0
+   ],
+   "verb": "throw",
+   "noun": "pasta",
+   "score": 0.182998
+  },
+  {
+   "segment": [
+    115.5,
+    116.5
+   ],
+   "verb": "eat",
+   "noun": "pasta",
+   "score": 0.254127
+  },
+  {
+   "segment": [
+    115.5,
+    116.5
+   ],
+   "verb": "take",
+   "noun": "pasta",
+   "score": 0.198225
+  },
+  {
+   "segment": [
+    115.5,
+    116.5
+   ],
+   "verb": "throw",
+   "noun": "pasta",
+   "score": 0.175108
+  }
+ ],
+ "highlights": [
+  {
+   "segment": [
+    11.0,
+    15.32
+   ]
+  },
+  {
+   "segment": [
+    24.0,
+    28.32
+   ]
+  },
+  {
+   "segment": [
+    66.5,
+    70.82
+   ]
+  },
+  {
+   "segment": [
+    100.5,
+    104.82
+   ]
+  }
+ ]
+}

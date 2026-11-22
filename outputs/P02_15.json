@@ -1,0 +1,9994 @@
+{
+ "team_id": "SRMIST_PRISM",
+ "video_id": "P02_15",
+ "duration_sec": 94.04,
+ "label": {
+  "name": "cooking",
+  "score": 0.9998
+ },
+ "actions": [
+  {
+   "segment": [
+    0.0,
+    1.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.243979
+  },
+  {
+   "segment": [
+    0.0,
+    2.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.23803
+  },
+  {
+   "segment": [
+    0.0,
+    3.5
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.210911
+  },
+  {
+   "segment": [
+    0.0,
+    1.0
+   ],
+   "verb": "look",
+   "noun": "kitchen",
+   "score": 0.176692
+  },
+  {
+   "segment": [
+    0.0,
+    6.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.173986
+  },
+  {
+   "segment": [
+    0.0,
+    2.0
+   ],
+   "verb": "look",
+   "noun": "kitchen",
+   "score": 0.161766
+  },
+  {
+   "segment": [
+    0.0,
+    3.5
+   ],
+   "verb": "look",
+   "noun": "kitchen",
+   "score": 0.136279
+  },
+  {
+   "segment": [
+    0.0,
+    2.0
+   ],
+   "verb": "take",
+   "noun": "hob",
+   "score": 0.126955
+  },
+  {
+   "segment": [
+    0.0,
+    3.5
+   ],
+   "verb": "take",
+   "noun": "hob",
+   "score": 0.126282
+  },
+  {
+   "segment": [
+    0.0,
+    1.0
+   ],
+   "verb": "take",
+   "noun": "hob",
+   "score": 0.12054
+  },
+  {
+   "segment": [
+    0.0,
+    6.0
+   ],
+   "verb": "put",
+   "noun": "fishcakes",
+   "score": 0.118856
+  },
+  {
+   "segment": [
+    0.0,
+    6.0
+   ],
+   "verb": "put",
+   "noun": "bread",
+   "score": 0.118255
+  },
+  {
+   "segment": [
+    0.5,
+    1.5
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.23439
+  },
+  {
+   "segment": [
+    0.5,
+    1.5
+   ],
+   "verb": "look",
+   "noun": "kitchen",
+   "score": 0.163516
+  },
+  {
+   "segment": [
+    0.5,
+    1.5
+   ],
+   "verb": "take",
+   "noun": "hob",
+   "score": 0.123796
+  },
+  {
+   "segment": [
+    1.0,
+    2.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.231877
+  },
+  {
+   "segment": [
+    1.0,
+    3.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.211199
+  },
+  {
+   "segment": [
+    1.0,
+    2.0
+   ],
+   "verb": "look",
+   "noun": "kitchen",
+   "score": 0.145179
+  },
+  {
+   "segment": [
+    1.0,
+    3.0
+   ],
+   "verb": "take",
+   "noun": "hob",
+   "score": 0.134914
+  },
+  {
+   "segment": [
+    1.0,
+    2.0
+   ],
+   "verb": "take",
+   "noun": "hob",
+   "score": 0.133105
+  },
+  {
+   "segment": [
+    1.0,
+    3.0
+   ],
+   "verb": "look",
+   "noun": "kitchen",
+   "score": 0.124059
+  },
+  {
+   "segment": [
+    1.5,
+    2.5
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.219177
+  },
+  {
+   "segment": [
+    1.5,
+    5.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.145159
+  },
+  {
+   "segment": [
+    1.5,
+    2.5
+   ],
+   "verb": "take",
+   "noun": "hob",
+   "score": 0.140507
+  },
+  {
+   "segment": [
+    1.5,
+    5.0
+   ],
+   "verb": "put",
+   "noun": "bread",
+   "score": 0.13456
+  },
+  {
+   "segment": [
+    1.5,
+    5.0
+   ],
+   "verb": "put",
+   "noun": "fishcakes",
+   "score": 0.127292
+  },
+  {
+   "segment": [
+    1.5,
+    2.5
+   ],
+   "verb": "turn-on",
+   "noun": "hob",
+   "score": 0.121998
+  },
+  {
+   "segment": [
+    2.0,
+    3.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.185635
+  },
+  {
+   "segment": [
+    2.0,
+    4.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.141362
+  },
+  {
+   "segment": [
+    2.0,
+    3.0
+   ],
+   "verb": "take",
+   "noun": "hob",
+   "score": 0.136605
+  },
+  {
+   "segment": [
+    2.0,
+    4.0
+   ],
+   "verb": "put",
+   "noun": "food",
+   "score": 0.13504
+  },
+  {
+   "segment": [
+    2.0,
+    3.0
+   ],
+   "verb": "turn-on",
+   "noun": "hob",
+   "score": 0.132147
+  },
+  {
+   "segment": [
+    2.0,
+    4.0
+   ],
+   "verb": "put",
+   "noun": "fishcakes",
+   "score": 0.126272
+  },
+  {
+   "segment": [
+    2.5,
+    3.5
+   ],
+   "verb": "put",
+   "noun": "food",
+   "score": 0.145796
+  },
+  {
+   "segment": [
+    2.5,
+    3.5
+   ],
+   "verb": "put",
+   "noun": "fishcakes",
+   "score": 0.129309
+  },
+  {
+   "segment": [
+    2.5,
+    3.5
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.12468
+  },
+  {
+   "segment": [
+    3.0,
+    9.0
+   ],
+   "verb": "put",
+   "noun": "bread",
+   "score": 0.184046
+  },
+  {
+   "segment": [
+    3.0,
+    5.0
+   ],
+   "verb": "put",
+   "noun": "bread",
+   "score": 0.174606
+  },
+  {
+   "segment": [
+    3.0,
+    6.5
+   ],
+   "verb": "put",
+   "noun": "bread",
+   "score": 0.171999
+  },
+  {
+   "segment": [
+    3.0,
+    4.0
+   ],
+   "verb": "put",
+   "noun": "food",
+   "score": 0.170173
+  },
+  {
+   "segment": [
+    3.0,
+    6.5
+   ],
+   "verb": "put",
+   "noun": "fishcakes",
+   "score": 0.169407
+  },
+  {
+   "segment": [
+    3.0,
+    9.0
+   ],
+   "verb": "put",
+   "noun": "food",
+   "score": 0.169003
+  },
+  {
+   "segment": [
+    3.0,
+    5.0
+   ],
+   "verb": "put",
+   "noun": "fishcakes",
+   "score": 0.158942
+  },
+  {
+   "segment": [
+    3.0,
+    5.0
+   ],
+   "verb": "put",
+   "noun": "food",
+   "score": 0.158652
+  },
+  {
+   "segment": [
+    3.0,
+    6.5
+   ],
+   "verb": "put",
+   "noun": "food",
+   "score": 0.157209
+  },
+  {
+   "segment": [
+    3.0,
+    4.0
+   ],
+   "verb": "put",
+   "noun": "fishcakes",
+   "score": 0.156416
+  },
+  {
+   "segment": [
+    3.0,
+    4.0
+   ],
+   "verb": "put",
+   "noun": "bread",
+   "score": 0.155392
+  },
+  {
+   "segment": [
+    3.0,
+    9.0
+   ],
+   "verb": "put",
+   "noun": "fishcakes",
+   "score": 0.153843
+  },
+  {
+   "segment": [
+    3.5,
+    4.5
+   ],
+   "verb": "put",
+   "noun": "bread",
+   "score": 0.187284
+  },
+  {
+   "segment": [
+    3.5,
+    4.5
+   ],
+   "verb": "put",
+   "noun": "fishcakes",
+   "score": 0.165273
+  },
+  {
+   "segment": [
+    3.5,
+    4.5
+   ],
+   "verb": "put",
+   "noun": "food",
+   "score": 0.163891
+  },
+  {
+   "segment": [
+    4.0,
+    5.0
+   ],
+   "verb": "put",
+   "noun": "bread",
+   "score": 0.192542
+  },
+  {
+   "segment": [
+    4.0,
+    6.0
+   ],
+   "verb": "put",
+   "noun": "bread",
+   "score": 0.179618
+  },
+  {
+   "segment": [
+    4.0,
+    6.0
+   ],
+   "verb": "put",
+   "noun": "fishcakes",
+   "score": 0.175441
+  },
+  {
+   "segment": [
+    4.0,
+    5.0
+   ],
+   "verb": "put",
+   "noun": "fishcakes",
+   "score": 0.161463
+  },
+  {
+   "segment": [
+    4.0,
+    6.0
+   ],
+   "verb": "put",
+   "noun": "food",
+   "score": 0.150313
+  },
+  {
+   "segment": [
+    4.0,
+    5.0
+   ],
+   "verb": "put",
+   "noun": "food",
+   "score": 0.145592
+  },
+  {
+   "segment": [
+    4.5,
+    8.0
+   ],
+   "verb": "put",
+   "noun": "bread",
+   "score": 0.183486
+  },
+  {
+   "segment": [
+    4.5,
+    5.5
+   ],
+   "verb": "put",
+   "noun": "bread",
+   "score": 0.176029
+  },
+  {
+   "segment": [
+    4.5,
+    5.5
+   ],
+   "verb": "put",
+   "noun": "fishcakes",
+   "score": 0.172343
+  },
+  {
+   "segment": [
+    4.5,
+    8.0
+   ],
+   "verb": "put",
+   "noun": "food",
+   "score": 0.160166
+  },
+  {
+   "segment": [
+    4.5,
+    8.0
+   ],
+   "verb": "put",
+   "noun": "fishcakes",
+   "score": 0.152227
+  },
+  {
+   "segment": [
+    4.5,
+    5.5
+   ],
+   "verb": "put",
+   "noun": "food",
+   "score": 0.143987
+  },
+  {
+   "segment": [
+    5.0,
+    6.0
+   ],
+   "verb": "put",
+   "noun": "fishcakes",
+   "score": 0.189411
+  },
+  {
+   "segment": [
+    5.0,
+    7.0
+   ],
+   "verb": "put",
+   "noun": "bread",
+   "score": 0.172449
+  },
+  {
+   "segment": [
+    5.0,
+    7.0
+   ],
+   "verb": "put",
+   "noun": "fishcakes",
+   "score": 0.169111
+  },
+  {
+   "segment": [
+    5.0,
+    6.0
+   ],
+   "verb": "put",
+   "noun": "bread",
+   "score": 0.161306
+  },
+  {
+   "segment": [
+    5.0,
+    7.0
+   ],
+   "verb": "put",
+   "noun": "food",
+   "score": 0.156671
+  },
+  {
+   "segment": [
+    5.0,
+    6.0
+   ],
+   "verb": "put",
+   "noun": "food",
+   "score": 0.154553
+  },
+  {
+   "segment": [
+    5.5,
+    6.5
+   ],
+   "verb": "put",
+   "noun": "fishcakes",
+   "score": 0.181045
+  },
+  {
+   "segment": [
+    5.5,
+    6.5
+   ],
+   "verb": "put",
+   "noun": "bread",
+   "score": 0.170326
+  },
+  {
+   "segment": [
+    5.5,
+    6.5
+   ],
+   "verb": "put",
+   "noun": "food",
+   "score": 0.154818
+  },
+  {
+   "segment": [
+    6.0,
+    12.0
+   ],
+   "verb": "put",
+   "noun": "bread",
+   "score": 0.198904
+  },
+  {
+   "segment": [
+    6.0,
+    9.5
+   ],
+   "verb": "put",
+   "noun": "bread",
+   "score": 0.196136
+  },
+  {
+   "segment": [
+    6.0,
+    8.0
+   ],
+   "verb": "put",
+   "noun": "bread",
+   "score": 0.19074
+  },
+  {
+   "segment": [
+    6.0,
+    12.0
+   ],
+   "verb": "put",
+   "noun": "food",
+   "score": 0.183923
+  },
+  {
+   "segment": [
+    6.0,
+    7.0
+   ],
+   "verb": "put",
+   "noun": "bread",
+   "score": 0.181452
+  },
+  {
+   "segment": [
+    6.0,
+    9.5
+   ],
+   "verb": "put",
+   "noun": "food",
+   "score": 0.180269
+  },
+  {
+   "segment": [
+    6.0,
+    8.0
+   ],
+   "verb": "put",
+   "noun": "food",
+   "score": 0.167887
+  },
+  {
+   "segment": [
+    6.0,
+    7.0
+   ],
+   "verb": "put",
+   "noun": "food",
+   "score": 0.158139
+  },
+  {
+   "segment": [
+    6.0,
+    9.5
+   ],
+   "verb": "remove",
+   "noun": "food",
+   "score": 0.157661
+  },
+  {
+   "segment": [
+    6.0,
+    12.0
+   ],
+   "verb": "put",
+   "noun": "fishcakes",
+   "score": 0.155483
+  },
+  {
+   "segment": [
+    6.0,
+    8.0
+   ],
+   "verb": "remove",
+   "noun": "food",
+   "score": 0.148656
+  },
+  {
+   "segment": [
+    6.0,
+    7.0
+   ],
+   "verb": "put",
+   "noun": "fishcakes",
+   "score": 0.147987
+  },
+  {
+   "segment": [
+    6.5,
+    7.5
+   ],
+   "verb": "put",
+   "noun": "bread",
+   "score": 0.195596
+  },
+  {
+   "segment": [
+    6.5,
+    7.5
+   ],
+   "verb": "put",
+   "noun": "food",
+   "score": 0.169163
+  },
+  {
+   "segment": [
+    6.5,
+    7.5
+   ],
+   "verb": "remove",
+   "noun": "food",
+   "score": 0.152584
+  },
+  {
+   "segment": [
+    7.0,
+    9.0
+   ],
+   "verb": "put",
+   "noun": "bread",
+   "score": 0.203334
+  },
+  {
+   "segment": [
+    7.0,
+    8.0
+   ],
+   "verb": "put",
+   "noun": "bread",
+   "score": 0.199863
+  },
+  {
+   "segment": [
+    7.0,
+    9.0
+   ],
+   "verb": "put",
+   "noun": "food",
+   "score": 0.189709
+  },
+  {
+   "segment": [
+    7.0,
+    8.0
+   ],
+   "verb": "put",
+   "noun": "food",
+   "score": 0.177386
+  },
+  {
+   "segment": [
+    7.0,
+    9.0
+   ],
+   "verb": "remove",
+   "noun": "food",
+   "score": 0.170657
+  },
+  {
+   "segment": [
+    7.0,
+    8.0
+   ],
+   "verb": "remove",
+   "noun": "food",
+   "score": 0.163208
+  },
+  {
+   "segment": [
+    7.5,
+    8.5
+   ],
+   "verb": "put",
+   "noun": "bread",
+   "score": 0.202515
+  },
+  {
+   "segment": [
+    7.5,
+    11.0
+   ],
+   "verb": "put",
+   "noun": "bread",
+   "score": 0.200644
+  },
+  {
+   "segment": [
+    7.5,
+    11.0
+   ],
+   "verb": "put",
+   "noun": "food",
+   "score": 0.188281
+  },
+  {
+   "segment": [
+    7.5,
+    8.5
+   ],
+   "verb": "put",
+   "noun": "food",
+   "score": 0.1864
+  },
+  {
+   "segment": [
+    7.5,
+    8.5
+   ],
+   "verb": "remove",
+   "noun": "food",
+   "score": 0.168534
+  },
+  {
+   "segment": [
+    7.5,
+    11.0
+   ],
+   "verb": "put",
+   "noun": "fishcakes",
+   "score": 0.160389
+  },
+  {
+   "segment": [
+    8.0,
+    9.0
+   ],
+   "verb": "put",
+   "noun": "bread",
+   "score": 0.206734
+  },
+  {
+   "segment": [
+    8.0,
+    9.0
+   ],
+   "verb": "put",
+   "noun": "food",
+   "score": 0.201241
+  },
+  {
+   "segment": [
+    8.0,
+    10.0
+   ],
+   "verb": "put",
+   "noun": "bread",
+   "score": 0.199564
+  },
+  {
+   "segment": [
+    8.0,
+    10.0
+   ],
+   "verb": "put",
+   "noun": "food",
+   "score": 0.18914
+  },
+  {
+   "segment": [
+    8.0,
+    9.0
+   ],
+   "verb": "remove",
+   "noun": "food",
+   "score": 0.177771
+  },
+  {
+   "segment": [
+    8.0,
+    10.0
+   ],
+   "verb": "put",
+   "noun": "fishcakes",
+   "score": 0.171302
+  },
+  {
+   "segment": [
+    8.5,
+    9.5
+   ],
+   "verb": "put",
+   "noun": "bread",
+   "score": 0.199519
+  },
+  {
+   "segment": [
+    8.5,
+    9.5
+   ],
+   "verb": "put",
+   "noun": "food",
+   "score": 0.196325
+  },
+  {
+   "segment": [
+    8.5,
+    9.5
+   ],
+   "verb": "put",
+   "noun": "fishcakes",
+   "score": 0.176027
+  },
+  {
+   "segment": [
+    9.0,
+    15.0
+   ],
+   "verb": "put",
+   "noun": "bread",
+   "score": 0.217632
+  },
+  {
+   "segment": [
+    9.0,
+    12.5
+   ],
+   "verb": "put",
+   "noun": "bread",
+   "score": 0.202557
+  },
+  {
+   "segment": [
+    9.0,
+    11.0
+   ],
+   "verb": "put",
+   "noun": "bread",
+   "score": 0.19882
+  },
+  {
+   "segment": [
+    9.0,
+    10.0
+   ],
+   "verb": "put",
+   "noun": "bread",
+   "score": 0.192208
+  },
+  {
+   "segment": [
+    9.0,
+    10.0
+   ],
+   "verb": "put",
+   "noun": "fishcakes",
+   "score": 0.192187
+  },
+  {
+   "segment": [
+    9.0,
+    12.5
+   ],
+   "verb": "put",
+   "noun": "food",
+   "score": 0.1857
+  },
+  {
+   "segment": [
+    9.0,
+    15.0
+   ],
+   "verb": "put",
+   "noun": "food",
+   "score": 0.185432
+  },
+  {
+   "segment": [
+    9.0,
+    11.0
+   ],
+   "verb": "put",
+   "noun": "food",
+   "score": 0.183951
+  },
+  {
+   "segment": [
+    9.0,
+    11.0
+   ],
+   "verb": "put",
+   "noun": "fishcakes",
+   "score": 0.178201
+  },
+  {
+   "segment": [
+    9.0,
+    10.0
+   ],
+   "verb": "put",
+   "noun": "food",
+   "score": 0.176361
+  },
+  {
+   "segment": [
+    9.0,
+    12.5
+   ],
+   "verb": "put",
+   "noun": "fishcakes",
+   "score": 0.175217
+  },
+  {
+   "segment": [
+    9.0,
+    15.0
+   ],
+   "verb": "put",
+   "noun": "fishcakes",
+   "score": 0.174909
+  },
+  {
+   "segment": [
+    9.5,
+    10.5
+   ],
+   "verb": "put",
+   "noun": "bread",
+   "score": 0.192919
+  },
+  {
+   "segment": [
+    9.5,
+    10.5
+   ],
+   "verb": "put",
+   "noun": "fishcakes",
+   "score": 0.187441
+  },
+  {
+   "segment": [
+    9.5,
+    10.5
+   ],
+   "verb": "put",
+   "noun": "food",
+   "score": 0.175826
+  },
+  {
+   "segment": [
+    10.0,
+    12.0
+   ],
+   "verb": "put",
+   "noun": "bread",
+   "score": 0.206334
+  },
+  {
+   "segment": [
+    10.0,
+    11.0
+   ],
+   "verb": "put",
+   "noun": "bread",
+   "score": 0.205362
+  },
+  {
+   "segment": [
+    10.0,
+    12.0
+   ],
+   "verb": "put",
+   "noun": "food",
+   "score": 0.194107
+  },
+  {
+   "segment": [
+    10.0,
+    11.0
+   ],
+   "verb": "put",
+   "noun": "food",
+   "score": 0.191412
+  },
+  {
+   "segment": [
+    10.0,
+    11.0
+   ],
+   "verb": "put",
+   "noun": "fishcakes",
+   "score": 0.162516
+  },
+  {
+   "segment": [
+    10.0,
+    12.0
+   ],
+   "verb": "put",
+   "noun": "fishcakes",
+   "score": 0.162351
+  },
+  {
+   "segment": [
+    10.5,
+    14.0
+   ],
+   "verb": "put",
+   "noun": "bread",
+   "score": 0.227055
+  },
+  {
+   "segment": [
+    10.5,
+    11.5
+   ],
+   "verb": "put",
+   "noun": "bread",
+   "score": 0.211514
+  },
+  {
+   "segment": [
+    10.5,
+    11.5
+   ],
+   "verb": "put",
+   "noun": "food",
+   "score": 0.20392
+  },
+  {
+   "segment": [
+    10.5,
+    14.0
+   ],
+   "verb": "put",
+   "noun": "food",
+   "score": 0.190207
+  },
+  {
+   "segment": [
+    10.5,
+    14.0
+   ],
+   "verb": "put",
+   "noun": "fishcakes",
+   "score": 0.157703
+  },
+  {
+   "segment": [
+    10.5,
+    11.5
+   ],
+   "verb": "move",
+   "noun": "food",
+   "score": 0.156218
+  },
+  {
+   "segment": [
+    11.0,
+    13.0
+   ],
+   "verb": "put",
+   "noun": "bread",
+   "score": 0.21906
+  },
+  {
+   "segment": [
+    11.0,
+    12.0
+   ],
+   "verb": "put",
+   "noun": "bread",
+   "score": 0.207285
+  },
+  {
+   "segment": [
+    11.0,
+    12.0
+   ],
+   "verb": "put",
+   "noun": "food",
+   "score": 0.196802
+  },
+  {
+   "segment": [
+    11.0,
+    13.0
+   ],
+   "verb": "put",
+   "noun": "food",
+   "score": 0.187474
+  },
+  {
+   "segment": [
+    11.0,
+    13.0
+   ],
+   "verb": "put",
+   "noun": "fishcakes",
+   "score": 0.170596
+  },
+  {
+   "segment": [
+    11.0,
+    12.0
+   ],
+   "verb": "put",
+   "noun": "fishcakes",
+   "score": 0.162146
+  },
+  {
+   "segment": [
+    11.5,
+    12.5
+   ],
+   "verb": "put",
+   "noun": "bread",
+   "score": 0.206241
+  },
+  {
+   "segment": [
+    11.5,
+    12.5
+   ],
+   "verb": "put",
+   "noun": "food",
+   "score": 0.177847
+  },
+  {
+   "segment": [
+    11.5,
+    12.5
+   ],
+   "verb": "put",
+   "noun": "fishcakes",
+   "score": 0.176998
+  },
+  {
+   "segment": [
+    12.0,
+    14.0
+   ],
+   "verb": "put",
+   "noun": "bread",
+   "score": 0.23936
+  },
+  {
+   "segment": [
+    12.0,
+    13.0
+   ],
+   "verb": "put",
+   "noun": "bread",
+   "score": 0.229827
+  },
+  {
+   "segment": [
+    12.0,
+    15.5
+   ],
+   "verb": "put",
+   "noun": "bread",
+   "score": 0.227258
+  },
+  {
+   "segment": [
+    12.0,
+    18.0
+   ],
+   "verb": "put",
+   "noun": "bread",
+   "score": 0.217007
+  },
+  {
+   "segment": [
+    12.0,
+    18.0
+   ],
+   "verb": "put",
+   "noun": "fishcakes",
+   "score": 0.197832
+  },
+  {
+   "segment": [
+    12.0,
+    15.5
+   ],
+   "verb": "put",
+   "noun": "fishcakes",
+   "score": 0.196114
+  },
+  {
+   "segment": [
+    12.0,
+    14.0
+   ],
+   "verb": "put",
+   "noun": "food",
+   "score": 0.184411
+  },
+  {
+   "segment": [
+    12.0,
+    15.5
+   ],
+   "verb": "put",
+   "noun": "food",
+   "score": 0.181818
+  },
+  {
+   "segment": [
+    12.0,
+    13.0
+   ],
+   "verb": "put",
+   "noun": "fishcakes",
+   "score": 0.17835
+  },
+  {
+   "segment": [
+    12.0,
+    13.0
+   ],
+   "verb": "put",
+   "noun": "food",
+   "score": 0.17793
+  },
+  {
+   "segment": [
+    12.0,
+    18.0
+   ],
+   "verb": "put",
+   "noun": "food",
+   "score": 0.17501
+  },
+  {
+   "segment": [
+    12.0,
+    14.0
+   ],
+   "verb": "put",
+   "noun": "fishcakes",
+   "score": 0.159634
+  },
+  {
+   "segment": [
+    12.5,
+    13.5
+   ],
+   "verb": "put",
+   "noun": "bread",
+   "score": 0.252712
+  },
+  {
+   "segment": [
+    12.5,
+    13.5
+   ],
+   "verb": "put",
+   "noun": "food",
+   "score": 0.185795
+  },
+  {
+   "segment": [
+    12.5,
+    13.5
+   ],
+   "verb": "put",
+   "noun": "fishcakes",
+   "score": 0.160377
+  },
+  {
+   "segment": [
+    13.0,
+    14.0
+   ],
+   "verb": "put",
+   "noun": "bread",
+   "score": 0.248847
+  },
+  {
+   "segment": [
+    13.0,
+    15.0
+   ],
+   "verb": "put",
+   "noun": "bread",
+   "score": 0.234255
+  },
+  {
+   "segment": [
+    13.0,
+    14.0
+   ],
+   "verb": "put",
+   "noun": "food",
+   "score": 0.190878
+  },
+  {
+   "segment": [
+    13.0,
+    15.0
+   ],
+   "verb": "put",
+   "noun": "food",
+   "score": 0.184785
+  },
+  {
+   "segment": [
+    13.0,
+    15.0
+   ],
+   "verb": "put",
+   "noun": "fishcakes",
+   "score": 0.175674
+  },
+  {
+   "segment": [
+    13.0,
+    14.0
+   ],
+   "verb": "move",
+   "noun": "bread",
+   "score": 0.155366
+  },
+  {
+   "segment": [
+    13.5,
+    14.5
+   ],
+   "verb": "put",
+   "noun": "bread",
+   "score": 0.23564
+  },
+  {
+   "segment": [
+    13.5,
+    17.0
+   ],
+   "verb": "put",
+   "noun": "fishcakes",
+   "score": 0.20877
+  },
+  {
+   "segment": [
+    13.5,
+    17.0
+   ],
+   "verb": "put",
+   "noun": "bread",
+   "score": 0.205873
+  },
+  {
+   "segment": [
+    13.5,
+    14.5
+   ],
+   "verb": "put",
+   "noun": "food",
+   "score": 0.189472
+  },
+  {
+   "segment": [
+    13.5,
+    17.0
+   ],
+   "verb": "put",
+   "noun": "oregano",
+   "score": 0.175956
+  },
+  {
+   "segment": [
+    13.5,
+    14.5
+   ],
+   "verb": "move",
+   "noun": "food",
+   "score": 0.155928
+  },
+  {
+   "segment": [
+    14.0,
+    16.0
+   ],
+   "verb": "put",
+   "noun": "fishcakes",
+   "score": 0.250662
+  },
+  {
+   "segment": [
+    14.0,
+    15.0
+   ],
+   "verb": "put",
+   "noun": "bread",
+   "score": 0.219175
+  },
+  {
+   "segment": [
+    14.0,
+    15.0
+   ],
+   "verb": "put",
+   "noun": "fishcakes",
+   "score": 0.206152
+  },
+  {
+   "segment": [
+    14.0,
+    16.0
+   ],
+   "verb": "put",
+   "noun": "bread",
+   "score": 0.200055
+  },
+  {
+   "segment": [
+    14.0,
+    15.0
+   ],
+   "verb": "put",
+   "noun": "food",
+   "score": 0.178648
+  },
+  {
+   "segment": [
+    14.0,
+    16.0
+   ],
+   "verb": "put",
+   "noun": "food",
+   "score": 0.176948
+  },
+  {
+   "segment": [
+    14.5,
+    15.5
+   ],
+   "verb": "put",
+   "noun": "fishcakes",
+   "score": 0.279508
+  },
+  {
+   "segment": [
+    14.5,
+    15.5
+   ],
+   "verb": "put",
+   "noun": "bread",
+   "score": 0.198002
+  },
+  {
+   "segment": [
+    14.5,
+    15.5
+   ],
+   "verb": "put",
+   "noun": "food",
+   "score": 0.17446
+  },
+  {
+   "segment": [
+    15.0,
+    16.0
+   ],
+   "verb": "put",
+   "noun": "fishcakes",
+   "score": 0.291992
+  },
+  {
+   "segment": [
+    15.0,
+    21.0
+   ],
+   "verb": "put",
+   "noun": "bread",
+   "score": 0.229015
+  },
+  {
+   "segment": [
+    15.0,
+    17.0
+   ],
+   "verb": "put",
+   "noun": "fishcakes",
+   "score": 0.227568
+  },
+  {
+   "segment": [
+    15.0,
+    18.5
+   ],
+   "verb": "put",
+   "noun": "fishcakes",
+   "score": 0.216581
+  },
+  {
+   "segment": [
+    15.0,
+    21.0
+   ],
+   "verb": "put",
+   "noun": "oregano",
+   "score": 0.205265
+  },
+  {
+   "segment": [
+    15.0,
+    18.5
+   ],
+   "verb": "put",
+   "noun": "oregano",
+   "score": 0.200863
+  },
+  {
+   "segment": [
+    15.0,
+    18.5
+   ],
+   "verb": "put",
+   "noun": "bread",
+   "score": 0.200621
+  },
+  {
+   "segment": [
+    15.0,
+    17.0
+   ],
+   "verb": "put",
+   "noun": "oregano",
+   "score": 0.198737
+  },
+  {
+   "segment": [
+    15.0,
+    21.0
+   ],
+   "verb": "put",
+   "noun": "fishcakes",
+   "score": 0.193408
+  },
+  {
+   "segment": [
+    15.0,
+    16.0
+   ],
+   "verb": "put",
+   "noun": "oregano",
+   "score": 0.188856
+  },
+  {
+   "segment": [
+    15.0,
+    17.0
+   ],
+   "verb": "put",
+   "noun": "bread",
+   "score": 0.185942
+  },
+  {
+   "segment": [
+    15.0,
+    16.0
+   ],
+   "verb": "put",
+   "noun": "bread",
+   "score": 0.1752
+  },
+  {
+   "segment": [
+    15.5,
+    16.5
+   ],
+   "verb": "put",
+   "noun": "fishcakes",
+   "score": 0.231364
+  },
+  {
+   "segment": [
+    15.5,
+    16.5
+   ],
+   "verb": "put",
+   "noun": "oregano",
+   "score": 0.206904
+  },
+  {
+   "segment": [
+    15.5,
+    16.5
+   ],
+   "verb": "put",
+   "noun": "bread",
+   "score": 0.172992
+  },
+  {
+   "segment": [
+    16.0,
+    18.0
+   ],
+   "verb": "put",
+   "noun": "bread",
+   "score": 0.208064
+  },
+  {
+   "segment": [
+    16.0,
+    17.0
+   ],
+   "verb": "put",
+   "noun": "oregano",
+   "score": 0.207042
+  },
+  {
+   "segment": [
+    16.0,
+    18.0
+   ],
+   "verb": "put",
+   "noun": "oregano",
+   "score": 0.202263
+  },
+  {
+   "segment": [
+    16.0,
+    17.0
+   ],
+   "verb": "put",
+   "noun": "bread",
+   "score": 0.194956
+  },
+  {
+   "segment": [
+    16.0,
+    18.0
+   ],
+   "verb": "put",
+   "noun": "fishcakes",
+   "score": 0.172208
+  },
+  {
+   "segment": [
+    16.0,
+    17.0
+   ],
+   "verb": "put",
+   "noun": "food",
+   "score": 0.16021
+  },
+  {
+   "segment": [
+    16.5,
+    20.0
+   ],
+   "verb": "put",
+   "noun": "bread",
+   "score": 0.2439
+  },
+  {
+   "segment": [
+    16.5,
+    17.5
+   ],
+   "verb": "put",
+   "noun": "bread",
+   "score": 0.213048
+  },
+  {
+   "segment": [
+    16.5,
+    20.0
+   ],
+   "verb": "put",
+   "noun": "oregano",
+   "score": 0.208164
+  },
+  {
+   "segment": [
+    16.5,
+    17.5
+   ],
+   "verb": "put",
+   "noun": "oregano",
+   "score": 0.199119
+  },
+  {
+   "segment": [
+    16.5,
+    20.0
+   ],
+   "verb": "put",
+   "noun": "fishcakes",
+   "score": 0.176022
+  },
+  {
+   "segment": [
+    16.5,
+    17.5
+   ],
+   "verb": "put",
+   "noun": "fishcakes",
+   "score": 0.158331
+  },
+  {
+   "segment": [
+    17.0,
+    19.0
+   ],
+   "verb": "put",
+   "noun": "bread",
+   "score": 0.229357
+  },
+  {
+   "segment": [
+    17.0,
+    18.0
+   ],
+   "verb": "put",
+   "noun": "bread",
+   "score": 0.221032
+  },
+  {
+   "segment": [
+    17.0,
+    19.0
+   ],
+   "verb": "put",
+   "noun": "oregano",
+   "score": 0.208161
+  },
+  {
+   "segment": [
+    17.0,
+    19.0
+   ],
+   "verb": "put",
+   "noun": "fishcakes",
+   "score": 0.198599
+  },
+  {
+   "segment": [
+    17.0,
+    18.0
+   ],
+   "verb": "put",
+   "noun": "fishcakes",
+   "score": 0.197456
+  },
+  {
+   "segment": [
+    17.0,
+    18.0
+   ],
+   "verb": "put",
+   "noun": "oregano",
+   "score": 0.1967
+  },
+  {
+   "segment": [
+    17.5,
+    18.5
+   ],
+   "verb": "put",
+   "noun": "bread",
+   "score": 0.219907
+  },
+  {
+   "segment": [
+    17.5,
+    18.5
+   ],
+   "verb": "put",
+   "noun": "oregano",
+   "score": 0.207478
+  },
+  {
+   "segment": [
+    17.5,
+    18.5
+   ],
+   "verb": "put",
+   "noun": "fishcakes",
+   "score": 0.206828
+  },
+  {
+   "segment": [
+    18.0,
+    20.0
+   ],
+   "verb": "put",
+   "noun": "bread",
+   "score": 0.261931
+  },
+  {
+   "segment": [
+    18.0,
+    21.5
+   ],
+   "verb": "put",
+   "noun": "bread",
+   "score": 0.253197
+  },
+  {
+   "segment": [
+    18.0,
+    19.0
+   ],
+   "verb": "put",
+   "noun": "bread",
+   "score": 0.236789
+  },
+  {
+   "segment": [
+    18.0,
+    24.0
+   ],
+   "verb": "put",
+   "noun": "bread",
+   "score": 0.222933
+  },
+  {
+   "segment": [
+    18.0,
+    19.0
+   ],
+   "verb": "put",
+   "noun": "oregano",
+   "score": 0.218292
+  },
+  {
+   "segment": [
+    18.0,
+    20.0
+   ],
+   "verb": "put",
+   "noun": "oregano",
+   "score": 0.214764
+  },
+  {
+   "segment": [
+    18.0,
+    21.5
+   ],
+   "verb": "put",
+   "noun": "oregano",
+   "score": 0.211902
+  },
+  {
+   "segment": [
+    18.0,
+    19.0
+   ],
+   "verb": "put",
+   "noun": "fishcakes",
+   "score": 0.199522
+  },
+  {
+   "segment": [
+    18.0,
+    21.5
+   ],
+   "verb": "put",
+   "noun": "food",
+   "score": 0.185433
+  },
+  {
+   "segment": [
+    18.0,
+    24.0
+   ],
+   "verb": "put",
+   "noun": "food",
+   "score": 0.178958
+  },
+  {
+   "segment": [
+    18.0,
+    20.0
+   ],
+   "verb": "put",
+   "noun": "fishcakes",
+   "score": 0.175982
+  },
+  {
+   "segment": [
+    18.0,
+    24.0
+   ],
+   "verb": "put",
+   "noun": "plate",
+   "score": 0.17476
+  },
+  {
+   "segment": [
+    18.5,
+    19.5
+   ],
+   "verb": "put",
+   "noun": "bread",
+   "score": 0.270969
+  },
+  {
+   "segment": [
+    18.5,
+    19.5
+   ],
+   "verb": "put",
+   "noun": "oregano",
+   "score": 0.22681
+  },
+  {
+   "segment": [
+    18.5,
+    19.5
+   ],
+   "verb": "put",
+   "noun": "food",
+   "score": 0.175645
+  },
+  {
+   "segment": [
+    19.0,
+    20.0
+   ],
+   "verb": "put",
+   "noun": "bread",
+   "score": 0.286118
+  },
+  {
+   "segment": [
+    19.0,
+    21.0
+   ],
+   "verb": "put",
+   "noun": "bread",
+   "score": 0.265309
+  },
+  {
+   "segment": [
+    19.0,
+    20.0
+   ],
+   "verb": "put",
+   "noun": "oregano",
+   "score": 0.210663
+  },
+  {
+   "segment": [
+    19.0,
+    21.0
+   ],
+   "verb": "put",
+   "noun": "oregano",
+   "score": 0.208781
+  },
+  {
+   "segment": [
+    19.0,
+    21.0
+   ],
+   "verb": "put",
+   "noun": "food",
+   "score": 0.185838
+  },
+  {
+   "segment": [
+    19.0,
+    20.0
+   ],
+   "verb": "move",
+   "noun": "bread",
+   "score": 0.176039
+  },
+  {
+   "segment": [
+    19.5,
+    20.5
+   ],
+   "verb": "put",
+   "noun": "bread",
+   "score": 0.276617
+  },
+  {
+   "segment": [
+    19.5,
+    23.0
+   ],
+   "verb": "put",
+   "noun": "bread",
+   "score": 0.22169
+  },
+  {
+   "segment": [
+    19.5,
+    20.5
+   ],
+   "verb": "put",
+   "noun": "oregano",
+   "score": 0.203734
+  },
+  {
+   "segment": [
+    19.5,
+    23.0
+   ],
+   "verb": "put",
+   "noun": "food",
+   "score": 0.18613
+  },
+  {
+   "segment": [
+    19.5,
+    20.5
+   ],
+   "verb": "put",
+   "noun": "food",
+   "score": 0.18182
+  },
+  {
+   "segment": [
+    19.5,
+    23.0
+   ],
+   "verb": "put",
+   "noun": "oregano",
+   "score": 0.167581
+  },
+  {
+   "segment": [
+    20.0,
+    21.0
+   ],
+   "verb": "put",
+   "noun": "bread",
+   "score": 0.2438
+  },
+  {
+   "segment": [
+    20.0,
+    22.0
+   ],
+   "verb": "put",
+   "noun": "bread",
+   "score": 0.23298
+  },
+  {
+   "segment": [
+    20.0,
+    21.0
+   ],
+   "verb": "put",
+   "noun": "oregano",
+   "score": 0.206821
+  },
+  {
+   "segment": [
+    20.0,
+    22.0
+   ],
+   "verb": "put",
+   "noun": "food",
+   "score": 0.199604
+  },
+  {
+   "segment": [
+    20.0,
+    21.0
+   ],
+   "verb": "put",
+   "noun": "food",
+   "score": 0.196272
+  },
+  {
+   "segment": [
+    20.0,
+    22.0
+   ],
+   "verb": "put",
+   "noun": "oregano",
+   "score": 0.193225
+  },
+  {
+   "segment": [
+    20.5,
+    21.5
+   ],
+   "verb": "put",
+   "noun": "bread",
+   "score": 0.228974
+  },
+  {
+   "segment": [
+    20.5,
+    21.5
+   ],
+   "verb": "put",
+   "noun": "food",
+   "score": 0.20306
+  },
+  {
+   "segment": [
+    20.5,
+    21.5
+   ],
+   "verb": "put",
+   "noun": "oregano",
+   "score": 0.202149
+  },
+  {
+   "segment": [
+    21.0,
+    27.0
+   ],
+   "verb": "put",
+   "noun": "plate",
+   "score": 0.305436
+  },
+  {
+   "segment": [
+    21.0,
+    24.5
+   ],
+   "verb": "put",
+   "noun": "plate",
+   "score": 0.250685
+  },
+  {
+   "segment": [
+    21.0,
+    22.0
+   ],
+   "verb": "put",
+   "noun": "bread",
+   "score": 0.221042
+  },
+  {
+   "segment": [
+    21.0,
+    22.0
+   ],
+   "verb": "put",
+   "noun": "food",
+   "score": 0.202933
+  },
+  {
+   "segment": [
+    21.0,
+    23.0
+   ],
+   "verb": "put",
+   "noun": "bread",
+   "score": 0.189918
+  },
+  {
+   "segment": [
+    21.0,
+    24.5
+   ],
+   "verb": "put",
+   "noun": "bread",
+   "score": 0.184957
+  },
+  {
+   "segment": [
+    21.0,
+    23.0
+   ],
+   "verb": "put",
+   "noun": "food",
+   "score": 0.183268
+  },
+  {
+   "segment": [
+    21.0,
+    22.0
+   ],
+   "verb": "put",
+   "noun": "oregano",
+   "score": 0.177871
+  },
+  {
+   "segment": [
+    21.0,
+    24.5
+   ],
+   "verb": "put",
+   "noun": "food",
+   "score": 0.172426
+  },
+  {
+   "segment": [
+    21.0,
+    23.0
+   ],
+   "verb": "put",
+   "noun": "plate",
+   "score": 0.168573
+  },
+  {
+   "segment": [
+    21.0,
+    27.0
+   ],
+   "verb": "put",
+   "noun": "fishcakes",
+   "score": 0.165425
+  },
+  {
+   "segment": [
+    21.0,
+    27.0
+   ],
+   "verb": "put",
+   "noun": "bread",
+   "score": 0.159988
+  },
+  {
+   "segment": [
+    21.5,
+    22.5
+   ],
+   "verb": "put",
+   "noun": "bread",
+   "score": 0.190131
+  },
+  {
+   "segment": [
+    21.5,
+    22.5
+   ],
+   "verb": "put",
+   "noun": "food",
+   "score": 0.182484
+  },
+  {
+   "segment": [
+    21.5,
+    22.5
+   ],
+   "verb": "pat",
+   "noun": "food",
+   "score": 0.138443
+  },
+  {
+   "segment": [
+    22.0,
+    24.0
+   ],
+   "verb": "put",
+   "noun": "plate",
+   "score": 0.291153
+  },
+  {
+   "segment": [
+    22.0,
+    23.0
+   ],
+   "verb": "put",
+   "noun": "plate",
+   "score": 0.214291
+  },
+  {
+   "segment": [
+    22.0,
+    23.0
+   ],
+   "verb": "put",
+   "noun": "food",
+   "score": 0.163356
+  },
+  {
+   "segment": [
+    22.0,
+    24.0
+   ],
+   "verb": "put",
+   "noun": "bread",
+   "score": 0.162607
+  },
+  {
+   "segment": [
+    22.0,
+    24.0
+   ],
+   "verb": "put",
+   "noun": "food",
+   "score": 0.159632
+  },
+  {
+   "segment": [
+    22.0,
+    23.0
+   ],
+   "verb": "put",
+   "noun": "bread",
+   "score": 0.156971
+  },
+  {
+   "segment": [
+    22.5,
+    26.0
+   ],
+   "verb": "put",
+   "noun": "plate",
+   "score": 0.318581
+  },
+  {
+   "segment": [
+    22.5,
+    23.5
+   ],
+   "verb": "put",
+   "noun": "plate",
+   "score": 0.315785
+  },
+  {
+   "segment": [
+    22.5,
+    26.0
+   ],
+   "verb": "put",
+   "noun": "fishcakes",
+   "score": 0.183781
+  },
+  {
+   "segment": [
+    22.5,
+    23.5
+   ],
+   "verb": "put",
+   "noun": "fishcakes",
+   "score": 0.161148
+  },
+  {
+   "segment": [
+    22.5,
+    23.5
+   ],
+   "verb": "put",
+   "noun": "food",
+   "score": 0.158473
+  },
+  {
+   "segment": [
+    22.5,
+    26.0
+   ],
+   "verb": "put",
+   "noun": "bread",
+   "score": 0.157528
+  },
+  {
+   "segment": [
+    23.0,
+    24.0
+   ],
+   "verb": "put",
+   "noun": "plate",
+   "score": 0.361745
+  },
+  {
+   "segment": [
+    23.0,
+    25.0
+   ],
+   "verb": "put",
+   "noun": "plate",
+   "score": 0.318195
+  },
+  {
+   "segment": [
+    23.0,
+    25.0
+   ],
+   "verb": "put",
+   "noun": "fishcakes",
+   "score": 0.188714
+  },
+  {
+   "segment": [
+    23.0,
+    24.0
+   ],
+   "verb": "put",
+   "noun": "fishcakes",
+   "score": 0.180746
+  },
+  {
+   "segment": [
+    23.0,
+    25.0
+   ],
+   "verb": "put",
+   "noun": "bread",
+   "score": 0.175867
+  },
+  {
+   "segment": [
+    23.0,
+    24.0
+   ],
+   "verb": "put",
+   "noun": "bread",
+   "score": 0.167269
+  },
+  {
+   "segment": [
+    23.5,
+    24.5
+   ],
+   "verb": "put",
+   "noun": "plate",
+   "score": 0.333142
+  },
+  {
+   "segment": [
+    23.5,
+    24.5
+   ],
+   "verb": "put",
+   "noun": "fishcakes",
+   "score": 0.189859
+  },
+  {
+   "segment": [
+    23.5,
+    24.5
+   ],
+   "verb": "put",
+   "noun": "bread",
+   "score": 0.185978
+  },
+  {
+   "segment": [
+    24.0,
+    27.5
+   ],
+   "verb": "put",
+   "noun": "plate",
+   "score": 0.340139
+  },
+  {
+   "segment": [
+    24.0,
+    26.0
+   ],
+   "verb": "put",
+   "noun": "plate",
+   "score": 0.305421
+  },
+  {
+   "segment": [
+    24.0,
+    25.0
+   ],
+   "verb": "put",
+   "noun": "plate",
+   "score": 0.267421
+  },
+  {
+   "segment": [
+    24.0,
+    30.0
+   ],
+   "verb": "put",
+   "noun": "plate",
+   "score": 0.240549
+  },
+  {
+   "segment": [
+    24.0,
+    25.0
+   ],
+   "verb": "put",
+   "noun": "fishcakes",
+   "score": 0.196388
+  },
+  {
+   "segment": [
+    24.0,
+    26.0
+   ],
+   "verb": "put",
+   "noun": "fishcakes",
+   "score": 0.194049
+  },
+  {
+   "segment": [
+    24.0,
+    25.0
+   ],
+   "verb": "put",
+   "noun": "bread",
+   "score": 0.184096
+  },
+  {
+   "segment": [
+    24.0,
+    30.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.172376
+  },
+  {
+   "segment": [
+    24.0,
+    27.5
+   ],
+   "verb": "take",
+   "noun": "plate",
+   "score": 0.16411
+  },
+  {
+   "segment": [
+    24.0,
+    26.0
+   ],
+   "verb": "put",
+   "noun": "bread",
+   "score": 0.157787
+  },
+  {
+   "segment": [
+    24.0,
+    27.5
+   ],
+   "verb": "put",
+   "noun": "fishcakes",
+   "score": 0.155217
+  },
+  {
+   "segment": [
+    24.0,
+    30.0
+   ],
+   "verb": "take",
+   "noun": "plate",
+   "score": 0.117488
+  },
+  {
+   "segment": [
+    24.5,
+    25.5
+   ],
+   "verb": "put",
+   "noun": "plate",
+   "score": 0.256019
+  },
+  {
+   "segment": [
+    24.5,
+    25.5
+   ],
+   "verb": "put",
+   "noun": "fishcakes",
+   "score": 0.205803
+  },
+  {
+   "segment": [
+    24.5,
+    25.5
+   ],
+   "verb": "put",
+   "noun": "bread",
+   "score": 0.160471
+  },
+  {
+   "segment": [
+    25.0,
+    27.0
+   ],
+   "verb": "put",
+   "noun": "plate",
+   "score": 0.389687
+  },
+  {
+   "segment": [
+    25.0,
+    26.0
+   ],
+   "verb": "put",
+   "noun": "plate",
+   "score": 0.337595
+  },
+  {
+   "segment": [
+    25.0,
+    26.0
+   ],
+   "verb": "put",
+   "noun": "fishcakes",
+   "score": 0.191687
+  },
+  {
+   "segment": [
+    25.0,
+    27.0
+   ],
+   "verb": "take",
+   "noun": "plate",
+   "score": 0.188088
+  },
+  {
+   "segment": [
+    25.0,
+    27.0
+   ],
+   "verb": "filter",
+   "noun": "plate",
+   "score": 0.160076
+  },
+  {
+   "segment": [
+    25.0,
+    26.0
+   ],
+   "verb": "filter",
+   "noun": "plate",
+   "score": 0.155814
+  },
+  {
+   "segment": [
+    25.5,
+    26.5
+   ],
+   "verb": "put",
+   "noun": "plate",
+   "score": 0.434219
+  },
+  {
+   "segment": [
+    25.5,
+    29.0
+   ],
+   "verb": "put",
+   "noun": "plate",
+   "score": 0.264299
+  },
+  {
+   "segment": [
+    25.5,
+    26.5
+   ],
+   "verb": "take",
+   "noun": "plate",
+   "score": 0.20651
+  },
+  {
+   "segment": [
+    25.5,
+    26.5
+   ],
+   "verb": "filter",
+   "noun": "plate",
+   "score": 0.17514
+  },
+  {
+   "segment": [
+    25.5,
+    29.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.169796
+  },
+  {
+   "segment": [
+    25.5,
+    29.0
+   ],
+   "verb": "take",
+   "noun": "plate",
+   "score": 0.132473
+  },
+  {
+   "segment": [
+    26.0,
+    27.0
+   ],
+   "verb": "put",
+   "noun": "plate",
+   "score": 0.427358
+  },
+  {
+   "segment": [
+    26.0,
+    28.0
+   ],
+   "verb": "put",
+   "noun": "plate",
+   "score": 0.310178
+  },
+  {
+   "segment": [
+    26.0,
+    27.0
+   ],
+   "verb": "take",
+   "noun": "plate",
+   "score": 0.212472
+  },
+  {
+   "segment": [
+    26.0,
+    27.0
+   ],
+   "verb": "filter",
+   "noun": "plate",
+   "score": 0.162772
+  },
+  {
+   "segment": [
+    26.0,
+    28.0
+   ],
+   "verb": "take",
+   "noun": "plate",
+   "score": 0.159664
+  },
+  {
+   "segment": [
+    26.0,
+    28.0
+   ],
+   "verb": "throw",
+   "noun": "rubbish",
+   "score": 0.143668
+  },
+  {
+   "segment": [
+    26.5,
+    27.5
+   ],
+   "verb": "put",
+   "noun": "plate",
+   "score": 0.312507
+  },
+  {
+   "segment": [
+    26.5,
+    27.5
+   ],
+   "verb": "take",
+   "noun": "plate",
+   "score": 0.164086
+  },
+  {
+   "segment": [
+    26.5,
+    27.5
+   ],
+   "verb": "throw",
+   "noun": "rubbish",
+   "score": 0.14911
+  },
+  {
+   "segment": [
+    27.0,
+    30.5
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.200032
+  },
+  {
+   "segment": [
+    27.0,
+    29.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.197743
+  },
+  {
+   "segment": [
+    27.0,
+    28.0
+   ],
+   "verb": "put",
+   "noun": "plate",
+   "score": 0.169562
+  },
+  {
+   "segment": [
+    27.0,
+    28.0
+   ],
+   "verb": "wash",
+   "noun": "rubbish",
+   "score": 0.168897
+  },
+  {
+   "segment": [
+    27.0,
+    28.0
+   ],
+   "verb": "throw",
+   "noun": "rubbish",
+   "score": 0.165133
+  },
+  {
+   "segment": [
+    27.0,
+    33.0
+   ],
+   "verb": "put",
+   "noun": "kettle",
+   "score": 0.162989
+  },
+  {
+   "segment": [
+    27.0,
+    33.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.158462
+  },
+  {
+   "segment": [
+    27.0,
+    29.0
+   ],
+   "verb": "wash",
+   "noun": "rubbish",
+   "score": 0.145131
+  },
+  {
+   "segment": [
+    27.0,
+    33.0
+   ],
+   "verb": "put",
+   "noun": "tea",
+   "score": 0.14238
+  },
+  {
+   "segment": [
+    27.0,
+    29.0
+   ],
+   "verb": "move",
+   "noun": "machine:washing",
+   "score": 0.140714
+  },
+  {
+   "segment": [
+    27.0,
+    30.5
+   ],
+   "verb": "throw",
+   "noun": "rubbish",
+   "score": 0.11523
+  },
+  {
+   "segment": [
+    27.0,
+    30.5
+   ],
+   "verb": "wash",
+   "noun": "rubbish",
+   "score": 0.115012
+  },
+  {
+   "segment": [
+    27.5,
+    28.5
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.186346
+  },
+  {
+   "segment": [
+    27.5,
+    28.5
+   ],
+   "verb": "wash",
+   "noun": "rubbish",
+   "score": 0.165651
+  },
+  {
+   "segment": [
+    27.5,
+    28.5
+   ],
+   "verb": "move",
+   "noun": "machine:washing",
+   "score": 0.162471
+  },
+  {
+   "segment": [
+    28.0,
+    29.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.244355
+  },
+  {
+   "segment": [
+    28.0,
+    30.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.2368
+  },
+  {
+   "segment": [
+    28.0,
+    29.0
+   ],
+   "verb": "move",
+   "noun": "machine:washing",
+   "score": 0.157579
+  },
+  {
+   "segment": [
+    28.0,
+    29.0
+   ],
+   "verb": "wash",
+   "noun": "rubbish",
+   "score": 0.119777
+  },
+  {
+   "segment": [
+    28.0,
+    30.0
+   ],
+   "verb": "move",
+   "noun": "machine:washing",
+   "score": 0.114865
+  },
+  {
+   "segment": [
+    28.0,
+    30.0
+   ],
+   "verb": "look",
+   "noun": "kitchen",
+   "score": 0.109086
+  },
+  {
+   "segment": [
+    28.5,
+    29.5
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.264436
+  },
+  {
+   "segment": [
+    28.5,
+    32.0
+   ],
+   "verb": "put",
+   "noun": "kettle",
+   "score": 0.185145
+  },
+  {
+   "segment": [
+    28.5,
+    32.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.17268
+  },
+  {
+   "segment": [
+    28.5,
+    32.0
+   ],
+   "verb": "put",
+   "noun": "tea",
+   "score": 0.160401
+  },
+  {
+   "segment": [
+    28.5,
+    29.5
+   ],
+   "verb": "look",
+   "noun": "kitchen",
+   "score": 0.121318
+  },
+  {
+   "segment": [
+    28.5,
+    29.5
+   ],
+   "verb": "move",
+   "noun": "machine:washing",
+   "score": 0.113759
+  },
+  {
+   "segment": [
+    29.0,
+    30.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.228022
+  },
+  {
+   "segment": [
+    29.0,
+    31.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.176325
+  },
+  {
+   "segment": [
+    29.0,
+    31.0
+   ],
+   "verb": "put",
+   "noun": "kettle",
+   "score": 0.141861
+  },
+  {
+   "segment": [
+    29.0,
+    31.0
+   ],
+   "verb": "put",
+   "noun": "tea",
+   "score": 0.133276
+  },
+  {
+   "segment": [
+    29.0,
+    30.0
+   ],
+   "verb": "put",
+   "noun": "yoghurt",
+   "score": 0.113607
+  },
+  {
+   "segment": [
+    29.0,
+    30.0
+   ],
+   "verb": "put",
+   "noun": "spoon",
+   "score": 0.106943
+  },
+  {
+   "segment": [
+    29.5,
+    30.5
+   ],
+   "verb": "put",
+   "noun": "spoon",
+   "score": 0.153013
+  },
+  {
+   "segment": [
+    29.5,
+    30.5
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.146886
+  },
+  {
+   "segment": [
+    29.5,
+    30.5
+   ],
+   "verb": "put",
+   "noun": "yoghurt",
+   "score": 0.142097
+  },
+  {
+   "segment": [
+    30.0,
+    32.0
+   ],
+   "verb": "put",
+   "noun": "kettle",
+   "score": 0.250458
+  },
+  {
+   "segment": [
+    30.0,
+    33.5
+   ],
+   "verb": "put",
+   "noun": "kettle",
+   "score": 0.228777
+  },
+  {
+   "segment": [
+    30.0,
+    32.0
+   ],
+   "verb": "put",
+   "noun": "tea",
+   "score": 0.219625
+  },
+  {
+   "segment": [
+    30.0,
+    33.5
+   ],
+   "verb": "put",
+   "noun": "tea",
+   "score": 0.216534
+  },
+  {
+   "segment": [
+    30.0,
+    31.0
+   ],
+   "verb": "put",
+   "noun": "kettle",
+   "score": 0.204082
+  },
+  {
+   "segment": [
+    30.0,
+    31.0
+   ],
+   "verb": "put",
+   "noun": "tea",
+   "score": 0.19601
+  },
+  {
+   "segment": [
+    30.0,
+    36.0
+   ],
+   "verb": "put",
+   "noun": "tea",
+   "score": 0.187431
+  },
+  {
+   "segment": [
+    30.0,
+    36.0
+   ],
+   "verb": "put",
+   "noun": "kettle",
+   "score": 0.180663
+  },
+  {
+   "segment": [
+    30.0,
+    32.0
+   ],
+   "verb": "put",
+   "noun": "teapot",
+   "score": 0.161508
+  },
+  {
+   "segment": [
+    30.0,
+    31.0
+   ],
+   "verb": "put",
+   "noun": "spoon",
+   "score": 0.151587
+  },
+  {
+   "segment": [
+    30.0,
+    33.5
+   ],
+   "verb": "put",
+   "noun": "teapot",
+   "score": 0.148701
+  },
+  {
+   "segment": [
+    30.0,
+    36.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.122349
+  },
+  {
+   "segment": [
+    30.5,
+    31.5
+   ],
+   "verb": "put",
+   "noun": "kettle",
+   "score": 0.259268
+  },
+  {
+   "segment": [
+    30.5,
+    31.5
+   ],
+   "verb": "put",
+   "noun": "tea",
+   "score": 0.228981
+  },
+  {
+   "segment": [
+    30.5,
+    31.5
+   ],
+   "verb": "put",
+   "noun": "teapot",
+   "score": 0.166596
+  },
+  {
+   "segment": [
+    31.0,
+    32.0
+   ],
+   "verb": "put",
+   "noun": "kettle",
+   "score": 0.283078
+  },
+  {
+   "segment": [
+    31.0,
+    33.0
+   ],
+   "verb": "put",
+   "noun": "kettle",
+   "score": 0.251018
+  },
+  {
+   "segment": [
+    31.0,
+    32.0
+   ],
+   "verb": "put",
+   "noun": "tea",
+   "score": 0.236921
+  },
+  {
+   "segment": [
+    31.0,
+    33.0
+   ],
+   "verb": "put",
+   "noun": "tea",
+   "score": 0.215856
+  },
+  {
+   "segment": [
+    31.0,
+    32.0
+   ],
+   "verb": "put",
+   "noun": "teapot",
+   "score": 0.181094
+  },
+  {
+   "segment": [
+    31.0,
+    33.0
+   ],
+   "verb": "put",
+   "noun": "teapot",
+   "score": 0.161647
+  },
+  {
+   "segment": [
+    31.5,
+    32.5
+   ],
+   "verb": "put",
+   "noun": "kettle",
+   "score": 0.252311
+  },
+  {
+   "segment": [
+    31.5,
+    35.0
+   ],
+   "verb": "put",
+   "noun": "tea",
+   "score": 0.208069
+  },
+  {
+   "segment": [
+    31.5,
+    32.5
+   ],
+   "verb": "put",
+   "noun": "tea",
+   "score": 0.206558
+  },
+  {
+   "segment": [
+    31.5,
+    35.0
+   ],
+   "verb": "put",
+   "noun": "kettle",
+   "score": 0.187076
+  },
+  {
+   "segment": [
+    31.5,
+    32.5
+   ],
+   "verb": "put",
+   "noun": "teapot",
+   "score": 0.162198
+  },
+  {
+   "segment": [
+    31.5,
+    35.0
+   ],
+   "verb": "throw",
+   "noun": "tea",
+   "score": 0.124857
+  },
+  {
+   "segment": [
+    32.0,
+    34.0
+   ],
+   "verb": "put",
+   "noun": "tea",
+   "score": 0.223699
+  },
+  {
+   "segment": [
+    32.0,
+    33.0
+   ],
+   "verb": "put",
+   "noun": "kettle",
+   "score": 0.207936
+  },
+  {
+   "segment": [
+    32.0,
+    33.0
+   ],
+   "verb": "put",
+   "noun": "tea",
+   "score": 0.188397
+  },
+  {
+   "segment": [
+    32.0,
+    34.0
+   ],
+   "verb": "put",
+   "noun": "kettle",
+   "score": 0.181022
+  },
+  {
+   "segment": [
+    32.0,
+    33.0
+   ],
+   "verb": "put",
+   "noun": "teapot",
+   "score": 0.135723
+  },
+  {
+   "segment": [
+    32.0,
+    34.0
+   ],
+   "verb": "throw",
+   "noun": "tea",
+   "score": 0.132514
+  },
+  {
+   "segment": [
+    32.5,
+    33.5
+   ],
+   "verb": "put",
+   "noun": "tea",
+   "score": 0.228258
+  },
+  {
+   "segment": [
+    32.5,
+    33.5
+   ],
+   "verb": "put",
+   "noun": "kettle",
+   "score": 0.179401
+  },
+  {
+   "segment": [
+    32.5,
+    33.5
+   ],
+   "verb": "unroll",
+   "noun": "paper",
+   "score": 0.139468
+  },
+  {
+   "segment": [
+    33.0,
+    34.0
+   ],
+   "verb": "put",
+   "noun": "tea",
+   "score": 0.258196
+  },
+  {
+   "segment": [
+    33.0,
+    35.0
+   ],
+   "verb": "put",
+   "noun": "tea",
+   "score": 0.208341
+  },
+  {
+   "segment": [
+    33.0,
+    36.5
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.165148
+  },
+  {
+   "segment": [
+    33.0,
+    36.5
+   ],
+   "verb": "put",
+   "noun": "tea",
+   "score": 0.148839
+  },
+  {
+   "segment": [
+    33.0,
+    34.0
+   ],
+   "verb": "put",
+   "noun": "kettle",
+   "score": 0.139235
+  },
+  {
+   "segment": [
+    33.0,
+    34.0
+   ],
+   "verb": "remove",
+   "noun": "tea",
+   "score": 0.137746
+  },
+  {
+   "segment": [
+    33.0,
+    39.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.134616
+  },
+  {
+   "segment": [
+    33.0,
+    35.0
+   ],
+   "verb": "put",
+   "noun": "kettle",
+   "score": 0.115369
+  },
+  {
+   "segment": [
+    33.0,
+    35.0
+   ],
+   "verb": "throw",
+   "noun": "tea",
+   "score": 0.114868
+  },
+  {
+   "segment": [
+    33.0,
+    39.0
+   ],
+   "verb": "put",
+   "noun": "tea",
+   "score": 0.11384
+  },
+  {
+   "segment": [
+    33.0,
+    39.0
+   ],
+   "verb": "pour",
+   "noun": "liquid:washing",
+   "score": 0.11207
+  },
+  {
+   "segment": [
+    33.0,
+    36.5
+   ],
+   "verb": "look",
+   "noun": "kitchen",
+   "score": 0.106386
+  },
+  {
+   "segment": [
+    33.5,
+    34.5
+   ],
+   "verb": "put",
+   "noun": "tea",
+   "score": 0.237757
+  },
+  {
+   "segment": [
+    33.5,
+    34.5
+   ],
+   "verb": "throw",
+   "noun": "tea",
+   "score": 0.130901
+  },
+  {
+   "segment": [
+    33.5,
+    34.5
+   ],
+   "verb": "put",
+   "noun": "kettle",
+   "score": 0.129308
+  },
+  {
+   "segment": [
+    34.0,
+    36.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.191214
+  },
+  {
+   "segment": [
+    34.0,
+    35.0
+   ],
+   "verb": "put",
+   "noun": "tea",
+   "score": 0.154303
+  },
+  {
+   "segment": [
+    34.0,
+    35.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.146348
+  },
+  {
+   "segment": [
+    34.0,
+    35.0
+   ],
+   "verb": "move",
+   "noun": "yoghurt",
+   "score": 0.12423
+  },
+  {
+   "segment": [
+    34.0,
+    36.0
+   ],
+   "verb": "look",
+   "noun": "kitchen",
+   "score": 0.118199
+  },
+  {
+   "segment": [
+    34.0,
+    36.0
+   ],
+   "verb": "put",
+   "noun": "tea",
+   "score": 0.103433
+  },
+  {
+   "segment": [
+    34.5,
+    35.5
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.208182
+  },
+  {
+   "segment": [
+    34.5,
+    38.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.162324
+  },
+  {
+   "segment": [
+    34.5,
+    35.5
+   ],
+   "verb": "look",
+   "noun": "kitchen",
+   "score": 0.125198
+  },
+  {
+   "segment": [
+    34.5,
+    38.0
+   ],
+   "verb": "pour",
+   "noun": "liquid:washing",
+   "score": 0.11661
+  },
+  {
+   "segment": [
+    34.5,
+    35.5
+   ],
+   "verb": "move",
+   "noun": "yoghurt",
+   "score": 0.108516
+  },
+  {
+   "segment": [
+    34.5,
+    38.0
+   ],
+   "verb": "look",
+   "noun": "kitchen",
+   "score": 0.102784
+  },
+  {
+   "segment": [
+    35.0,
+    36.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.217697
+  },
+  {
+   "segment": [
+    35.0,
+    37.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.182182
+  },
+  {
+   "segment": [
+    35.0,
+    36.0
+   ],
+   "verb": "look",
+   "noun": "kitchen",
+   "score": 0.14181
+  },
+  {
+   "segment": [
+    35.0,
+    37.0
+   ],
+   "verb": "look",
+   "noun": "kitchen",
+   "score": 0.12301
+  },
+  {
+   "segment": [
+    35.0,
+    37.0
+   ],
+   "verb": "remove",
+   "noun": "rubbish",
+   "score": 0.104372
+  },
+  {
+   "segment": [
+    35.0,
+    36.0
+   ],
+   "verb": "take",
+   "noun": "hob",
+   "score": 0.09256
+  },
+  {
+   "segment": [
+    35.5,
+    36.5
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.191588
+  },
+  {
+   "segment": [
+    35.5,
+    36.5
+   ],
+   "verb": "look",
+   "noun": "kitchen",
+   "score": 0.133892
+  },
+  {
+   "segment": [
+    35.5,
+    36.5
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.110011
+  },
+  {
+   "segment": [
+    36.0,
+    42.0
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.196362
+  },
+  {
+   "segment": [
+    36.0,
+    38.0
+   ],
+   "verb": "pour",
+   "noun": "liquid:washing",
+   "score": 0.157921
+  },
+  {
+   "segment": [
+    36.0,
+    39.5
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.155099
+  },
+  {
+   "segment": [
+    36.0,
+    39.5
+   ],
+   "verb": "pour",
+   "noun": "liquid:washing",
+   "score": 0.14291
+  },
+  {
+   "segment": [
+    36.0,
+    37.0
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.13037
+  },
+  {
+   "segment": [
+    36.0,
+    37.0
+   ],
+   "verb": "remove",
+   "noun": "rubbish",
+   "score": 0.128829
+  },
+  {
+   "segment": [
+    36.0,
+    42.0
+   ],
+   "verb": "put",
+   "noun": "container",
+   "score": 0.127768
+  },
+  {
+   "segment": [
+    36.0,
+    38.0
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.126605
+  },
+  {
+   "segment": [
+    36.0,
+    38.0
+   ],
+   "verb": "remove",
+   "noun": "rubbish",
+   "score": 0.12351
+  },
+  {
+   "segment": [
+    36.0,
+    39.5
+   ],
+   "verb": "put",
+   "noun": "container",
+   "score": 0.121171
+  },
+  {
+   "segment": [
+    36.0,
+    37.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.117644
+  },
+  {
+   "segment": [
+    36.0,
+    42.0
+   ],
+   "verb": "pour",
+   "noun": "liquid:washing",
+   "score": 0.112018
+  },
+  {
+   "segment": [
+    36.5,
+    37.5
+   ],
+   "verb": "pour",
+   "noun": "liquid:washing",
+   "score": 0.165254
+  },
+  {
+   "segment": [
+    36.5,
+    37.5
+   ],
+   "verb": "remove",
+   "noun": "rubbish",
+   "score": 0.134652
+  },
+  {
+   "segment": [
+    36.5,
+    37.5
+   ],
+   "verb": "put",
+   "noun": "liquid:washing",
+   "score": 0.121645
+  },
+  {
+   "segment": [
+    37.0,
+    38.0
+   ],
+   "verb": "pour",
+   "noun": "liquid:washing",
+   "score": 0.218058
+  },
+  {
+   "segment": [
+    37.0,
+    39.0
+   ],
+   "verb": "pour",
+   "noun": "liquid:washing",
+   "score": 0.185707
+  },
+  {
+   "segment": [
+    37.0,
+    39.0
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.15443
+  },
+  {
+   "segment": [
+    37.0,
+    38.0
+   ],
+   "verb": "put",
+   "noun": "liquid:washing",
+   "score": 0.133757
+  },
+  {
+   "segment": [
+    37.0,
+    38.0
+   ],
+   "verb": "throw",
+   "noun": "rubbish",
+   "score": 0.125487
+  },
+  {
+   "segment": [
+    37.0,
+    39.0
+   ],
+   "verb": "throw",
+   "noun": "rubbish",
+   "score": 0.12432
+  },
+  {
+   "segment": [
+    37.5,
+    41.0
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.21523
+  },
+  {
+   "segment": [
+    37.5,
+    38.5
+   ],
+   "verb": "pour",
+   "noun": "liquid:washing",
+   "score": 0.203997
+  },
+  {
+   "segment": [
+    37.5,
+    38.5
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.145871
+  },
+  {
+   "segment": [
+    37.5,
+    41.0
+   ],
+   "verb": "put",
+   "noun": "container",
+   "score": 0.139244
+  },
+  {
+   "segment": [
+    37.5,
+    38.5
+   ],
+   "verb": "throw",
+   "noun": "rubbish",
+   "score": 0.128902
+  },
+  {
+   "segment": [
+    37.5,
+    41.0
+   ],
+   "verb": "pour",
+   "noun": "liquid:washing",
+   "score": 0.115377
+  },
+  {
+   "segment": [
+    38.0,
+    40.0
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.204443
+  },
+  {
+   "segment": [
+    38.0,
+    39.0
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.179433
+  },
+  {
+   "segment": [
+    38.0,
+    40.0
+   ],
+   "verb": "put",
+   "noun": "container",
+   "score": 0.155074
+  },
+  {
+   "segment": [
+    38.0,
+    39.0
+   ],
+   "verb": "pour",
+   "noun": "liquid:washing",
+   "score": 0.148375
+  },
+  {
+   "segment": [
+    38.0,
+    39.0
+   ],
+   "verb": "put",
+   "noun": "container",
+   "score": 0.142696
+  },
+  {
+   "segment": [
+    38.0,
+    40.0
+   ],
+   "verb": "move",
+   "noun": "pan",
+   "score": 0.113269
+  },
+  {
+   "segment": [
+    38.5,
+    39.5
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.201075
+  },
+  {
+   "segment": [
+    38.5,
+    39.5
+   ],
+   "verb": "put",
+   "noun": "container",
+   "score": 0.172332
+  },
+  {
+   "segment": [
+    38.5,
+    39.5
+   ],
+   "verb": "move",
+   "noun": "pan",
+   "score": 0.115524
+  },
+  {
+   "segment": [
+    39.0,
+    41.0
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.247549
+  },
+  {
+   "segment": [
+    39.0,
+    42.5
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.234156
+  },
+  {
+   "segment": [
+    39.0,
+    40.0
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.2278
+  },
+  {
+   "segment": [
+    39.0,
+    45.0
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.218248
+  },
+  {
+   "segment": [
+    39.0,
+    40.0
+   ],
+   "verb": "put",
+   "noun": "container",
+   "score": 0.167065
+  },
+  {
+   "segment": [
+    39.0,
+    41.0
+   ],
+   "verb": "put",
+   "noun": "container",
+   "score": 0.150044
+  },
+  {
+   "segment": [
+    39.0,
+    40.0
+   ],
+   "verb": "put",
+   "noun": "salt",
+   "score": 0.147204
+  },
+  {
+   "segment": [
+    39.0,
+    45.0
+   ],
+   "verb": "put",
+   "noun": "bread",
+   "score": 0.140746
+  },
+  {
+   "segment": [
+    39.0,
+    42.5
+   ],
+   "verb": "put",
+   "noun": "container",
+   "score": 0.140351
+  },
+  {
+   "segment": [
+    39.0,
+    45.0
+   ],
+   "verb": "put",
+   "noun": "fishcakes",
+   "score": 0.13397
+  },
+  {
+   "segment": [
+    39.0,
+    41.0
+   ],
+   "verb": "put",
+   "noun": "salt",
+   "score": 0.129214
+  },
+  {
+   "segment": [
+    39.0,
+    42.5
+   ],
+   "verb": "put",
+   "noun": "food",
+   "score": 0.121466
+  },
+  {
+   "segment": [
+    39.5,
+    40.5
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.26446
+  },
+  {
+   "segment": [
+    39.5,
+    40.5
+   ],
+   "verb": "put",
+   "noun": "salt",
+   "score": 0.15006
+  },
+  {
+   "segment": [
+    39.5,
+    40.5
+   ],
+   "verb": "put",
+   "noun": "container",
+   "score": 0.143245
+  },
+  {
+   "segment": [
+    40.0,
+    41.0
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.266528
+  },
+  {
+   "segment": [
+    40.0,
+    42.0
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.243636
+  },
+  {
+   "segment": [
+    40.0,
+    42.0
+   ],
+   "verb": "put",
+   "noun": "food",
+   "score": 0.13305
+  },
+  {
+   "segment": [
+    40.0,
+    42.0
+   ],
+   "verb": "put",
+   "noun": "container",
+   "score": 0.13194
+  },
+  {
+   "segment": [
+    40.0,
+    41.0
+   ],
+   "verb": "put",
+   "noun": "container",
+   "score": 0.129783
+  },
+  {
+   "segment": [
+    40.0,
+    41.0
+   ],
+   "verb": "put",
+   "noun": "lid",
+   "score": 0.124727
+  },
+  {
+   "segment": [
+    40.5,
+    41.5
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.251636
+  },
+  {
+   "segment": [
+    40.5,
+    44.0
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.212075
+  },
+  {
+   "segment": [
+    40.5,
+    44.0
+   ],
+   "verb": "put",
+   "noun": "bread",
+   "score": 0.162063
+  },
+  {
+   "segment": [
+    40.5,
+    44.0
+   ],
+   "verb": "put",
+   "noun": "fishcakes",
+   "score": 0.153913
+  },
+  {
+   "segment": [
+    40.5,
+    41.5
+   ],
+   "verb": "put",
+   "noun": "container",
+   "score": 0.141141
+  },
+  {
+   "segment": [
+    40.5,
+    41.5
+   ],
+   "verb": "put",
+   "noun": "food",
+   "score": 0.138084
+  },
+  {
+   "segment": [
+    41.0,
+    42.0
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.216425
+  },
+  {
+   "segment": [
+    41.0,
+    43.0
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.206543
+  },
+  {
+   "segment": [
+    41.0,
+    43.0
+   ],
+   "verb": "put",
+   "noun": "fishcakes",
+   "score": 0.161861
+  },
+  {
+   "segment": [
+    41.0,
+    42.0
+   ],
+   "verb": "put",
+   "noun": "fishcakes",
+   "score": 0.156973
+  },
+  {
+   "segment": [
+    41.0,
+    42.0
+   ],
+   "verb": "put",
+   "noun": "food",
+   "score": 0.154452
+  },
+  {
+   "segment": [
+    41.0,
+    43.0
+   ],
+   "verb": "put",
+   "noun": "food",
+   "score": 0.152032
+  },
+  {
+   "segment": [
+    41.5,
+    42.5
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.199344
+  },
+  {
+   "segment": [
+    41.5,
+    42.5
+   ],
+   "verb": "put",
+   "noun": "fishcakes",
+   "score": 0.173761
+  },
+  {
+   "segment": [
+    41.5,
+    42.5
+   ],
+   "verb": "put",
+   "noun": "food",
+   "score": 0.154993
+  },
+  {
+   "segment": [
+    42.0,
+    44.0
+   ],
+   "verb": "put",
+   "noun": "bread",
+   "score": 0.201043
+  },
+  {
+   "segment": [
+    42.0,
+    43.0
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.194884
+  },
+  {
+   "segment": [
+    42.0,
+    45.5
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.1908
+  },
+  {
+   "segment": [
+    42.0,
+    45.5
+   ],
+   "verb": "put",
+   "noun": "bread",
+   "score": 0.190433
+  },
+  {
+   "segment": [
+    42.0,
+    44.0
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.188565
+  },
+  {
+   "segment": [
+    42.0,
+    48.0
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.179815
+  },
+  {
+   "segment": [
+    42.0,
+    43.0
+   ],
+   "verb": "put",
+   "noun": "bread",
+   "score": 0.173802
+  },
+  {
+   "segment": [
+    42.0,
+    48.0
+   ],
+   "verb": "put",
+   "noun": "potato",
+   "score": 0.171681
+  },
+  {
+   "segment": [
+    42.0,
+    48.0
+   ],
+   "verb": "put",
+   "noun": "bread",
+   "score": 0.169036
+  },
+  {
+   "segment": [
+    42.0,
+    43.0
+   ],
+   "verb": "put",
+   "noun": "fishcakes",
+   "score": 0.16673
+  },
+  {
+   "segment": [
+    42.0,
+    45.5
+   ],
+   "verb": "put",
+   "noun": "potato",
+   "score": 0.16668
+  },
+  {
+   "segment": [
+    42.0,
+    44.0
+   ],
+   "verb": "put",
+   "noun": "fishcakes",
+   "score": 0.15983
+  },
+  {
+   "segment": [
+    42.5,
+    43.5
+   ],
+   "verb": "put",
+   "noun": "bread",
+   "score": 0.218376
+  },
+  {
+   "segment": [
+    42.5,
+    43.5
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.186038
+  },
+  {
+   "segment": [
+    42.5,
+    43.5
+   ],
+   "verb": "put",
+   "noun": "fishcakes",
+   "score": 0.158646
+  },
+  {
+   "segment": [
+    43.0,
+    44.0
+   ],
+   "verb": "put",
+   "noun": "bread",
+   "score": 0.227522
+  },
+  {
+   "segment": [
+    43.0,
+    45.0
+   ],
+   "verb": "put",
+   "noun": "bread",
+   "score": 0.198255
+  },
+  {
+   "segment": [
+    43.0,
+    45.0
+   ],
+   "verb": "put",
+   "noun": "potato",
+   "score": 0.196261
+  },
+  {
+   "segment": [
+    43.0,
+    44.0
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.179871
+  },
+  {
+   "segment": [
+    43.0,
+    45.0
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.179572
+  },
+  {
+   "segment": [
+    43.0,
+    44.0
+   ],
+   "verb": "put",
+   "noun": "food",
+   "score": 0.160732
+  },
+  {
+   "segment": [
+    43.5,
+    44.5
+   ],
+   "verb": "put",
+   "noun": "potato",
+   "score": 0.213397
+  },
+  {
+   "segment": [
+    43.5,
+    47.0
+   ],
+   "verb": "put",
+   "noun": "potato",
+   "score": 0.211101
+  },
+  {
+   "segment": [
+    43.5,
+    44.5
+   ],
+   "verb": "put",
+   "noun": "bread",
+   "score": 0.19313
+  },
+  {
+   "segment": [
+    43.5,
+    47.0
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.183436
+  },
+  {
+   "segment": [
+    43.5,
+    44.5
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.172609
+  },
+  {
+   "segment": [
+    43.5,
+    47.0
+   ],
+   "verb": "put",
+   "noun": "bread",
+   "score": 0.163664
+  },
+  {
+   "segment": [
+    44.0,
+    45.0
+   ],
+   "verb": "put",
+   "noun": "potato",
+   "score": 0.240515
+  },
+  {
+   "segment": [
+    44.0,
+    46.0
+   ],
+   "verb": "put",
+   "noun": "potato",
+   "score": 0.220109
+  },
+  {
+   "segment": [
+    44.0,
+    46.0
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.197831
+  },
+  {
+   "segment": [
+    44.0,
+    45.0
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.179269
+  },
+  {
+   "segment": [
+    44.0,
+    46.0
+   ],
+   "verb": "put",
+   "noun": "bread",
+   "score": 0.170399
+  },
+  {
+   "segment": [
+    44.0,
+    45.0
+   ],
+   "verb": "put",
+   "noun": "bread",
+   "score": 0.163682
+  },
+  {
+   "segment": [
+    44.5,
+    45.5
+   ],
+   "verb": "put",
+   "noun": "potato",
+   "score": 0.212932
+  },
+  {
+   "segment": [
+    44.5,
+    45.5
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.206253
+  },
+  {
+   "segment": [
+    44.5,
+    45.5
+   ],
+   "verb": "put",
+   "noun": "bread",
+   "score": 0.17703
+  },
+  {
+   "segment": [
+    45.0,
+    51.0
+   ],
+   "verb": "put",
+   "noun": "board:chopping",
+   "score": 0.214564
+  },
+  {
+   "segment": [
+    45.0,
+    46.0
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.213786
+  },
+  {
+   "segment": [
+    45.0,
+    47.0
+   ],
+   "verb": "put",
+   "noun": "potato",
+   "score": 0.203425
+  },
+  {
+   "segment": [
+    45.0,
+    46.0
+   ],
+   "verb": "put",
+   "noun": "potato",
+   "score": 0.198695
+  },
+  {
+   "segment": [
+    45.0,
+    48.5
+   ],
+   "verb": "put",
+   "noun": "oregano",
+   "score": 0.195067
+  },
+  {
+   "segment": [
+    45.0,
+    46.0
+   ],
+   "verb": "put",
+   "noun": "oregano",
+   "score": 0.193501
+  },
+  {
+   "segment": [
+    45.0,
+    47.0
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.185814
+  },
+  {
+   "segment": [
+    45.0,
+    48.5
+   ],
+   "verb": "put",
+   "noun": "board:chopping",
+   "score": 0.181895
+  },
+  {
+   "segment": [
+    45.0,
+    48.5
+   ],
+   "verb": "put",
+   "noun": "potato",
+   "score": 0.172691
+  },
+  {
+   "segment": [
+    45.0,
+    47.0
+   ],
+   "verb": "put",
+   "noun": "oregano",
+   "score": 0.171069
+  },
+  {
+   "segment": [
+    45.0,
+    51.0
+   ],
+   "verb": "put",
+   "noun": "oregano",
+   "score": 0.162337
+  },
+  {
+   "segment": [
+    45.0,
+    51.0
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.160589
+  },
+  {
+   "segment": [
+    45.5,
+    46.5
+   ],
+   "verb": "put",
+   "noun": "potato",
+   "score": 0.204956
+  },
+  {
+   "segment": [
+    45.5,
+    46.5
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.186994
+  },
+  {
+   "segment": [
+    45.5,
+    46.5
+   ],
+   "verb": "put",
+   "noun": "board:chopping",
+   "score": 0.18293
+  },
+  {
+   "segment": [
+    46.0,
+    47.0
+   ],
+   "verb": "put",
+   "noun": "potato",
+   "score": 0.207655
+  },
+  {
+   "segment": [
+    46.0,
+    48.0
+   ],
+   "verb": "put",
+   "noun": "oregano",
+   "score": 0.189224
+  },
+  {
+   "segment": [
+    46.0,
+    47.0
+   ],
+   "verb": "put",
+   "noun": "board:chopping",
+   "score": 0.182867
+  },
+  {
+   "segment": [
+    46.0,
+    48.0
+   ],
+   "verb": "put",
+   "noun": "board:chopping",
+   "score": 0.182211
+  },
+  {
+   "segment": [
+    46.0,
+    48.0
+   ],
+   "verb": "put",
+   "noun": "potato",
+   "score": 0.169508
+  },
+  {
+   "segment": [
+    46.0,
+    47.0
+   ],
+   "verb": "put",
+   "noun": "sponge",
+   "score": 0.155283
+  },
+  {
+   "segment": [
+    46.5,
+    50.0
+   ],
+   "verb": "put",
+   "noun": "board:chopping",
+   "score": 0.227802
+  },
+  {
+   "segment": [
+    46.5,
+    47.5
+   ],
+   "verb": "put",
+   "noun": "oregano",
+   "score": 0.178739
+  },
+  {
+   "segment": [
+    46.5,
+    50.0
+   ],
+   "verb": "put",
+   "noun": "oregano",
+   "score": 0.168165
+  },
+  {
+   "segment": [
+    46.5,
+    47.5
+   ],
+   "verb": "put",
+   "noun": "potato",
+   "score": 0.166015
+  },
+  {
+   "segment": [
+    46.5,
+    47.5
+   ],
+   "verb": "put",
+   "noun": "sponge",
+   "score": 0.162555
+  },
+  {
+   "segment": [
+    46.5,
+    50.0
+   ],
+   "verb": "put",
+   "noun": "fishcakes",
+   "score": 0.149791
+  },
+  {
+   "segment": [
+    47.0,
+    48.0
+   ],
+   "verb": "put",
+   "noun": "oregano",
+   "score": 0.226979
+  },
+  {
+   "segment": [
+    47.0,
+    49.0
+   ],
+   "verb": "put",
+   "noun": "oregano",
+   "score": 0.204706
+  },
+  {
+   "segment": [
+    47.0,
+    49.0
+   ],
+   "verb": "put",
+   "noun": "board:chopping",
+   "score": 0.201533
+  },
+  {
+   "segment": [
+    47.0,
+    48.0
+   ],
+   "verb": "put",
+   "noun": "board:chopping",
+   "score": 0.180937
+  },
+  {
+   "segment": [
+    47.0,
+    48.0
+   ],
+   "verb": "put",
+   "noun": "fishcakes",
+   "score": 0.176308
+  },
+  {
+   "segment": [
+    47.0,
+    49.0
+   ],
+   "verb": "put",
+   "noun": "fishcakes",
+   "score": 0.161718
+  },
+  {
+   "segment": [
+    47.5,
+    48.5
+   ],
+   "verb": "put",
+   "noun": "board:chopping",
+   "score": 0.226414
+  },
+  {
+   "segment": [
+    47.5,
+    48.5
+   ],
+   "verb": "put",
+   "noun": "oregano",
+   "score": 0.223762
+  },
+  {
+   "segment": [
+    47.5,
+    48.5
+   ],
+   "verb": "put",
+   "noun": "fishcakes",
+   "score": 0.169825
+  },
+  {
+   "segment": [
+    48.0,
+    50.0
+   ],
+   "verb": "put",
+   "noun": "board:chopping",
+   "score": 0.255772
+  },
+  {
+   "segment": [
+    48.0,
+    51.5
+   ],
+   "verb": "put",
+   "noun": "board:chopping",
+   "score": 0.23418
+  },
+  {
+   "segment": [
+    48.0,
+    49.0
+   ],
+   "verb": "put",
+   "noun": "board:chopping",
+   "score": 0.219538
+  },
+  {
+   "segment": [
+    48.0,
+    54.0
+   ],
+   "verb": "put",
+   "noun": "board:chopping",
+   "score": 0.182958
+  },
+  {
+   "segment": [
+    48.0,
+    49.0
+   ],
+   "verb": "put",
+   "noun": "oregano",
+   "score": 0.180542
+  },
+  {
+   "segment": [
+    48.0,
+    51.5
+   ],
+   "verb": "put",
+   "noun": "fishcakes",
+   "score": 0.17415
+  },
+  {
+   "segment": [
+    48.0,
+    54.0
+   ],
+   "verb": "put",
+   "noun": "plate",
+   "score": 0.17347
+  },
+  {
+   "segment": [
+    48.0,
+    51.5
+   ],
+   "verb": "put",
+   "noun": "food",
+   "score": 0.172311
+  },
+  {
+   "segment": [
+    48.0,
+    50.0
+   ],
+   "verb": "move",
+   "noun": "board:chopping",
+   "score": 0.157899
+  },
+  {
+   "segment": [
+    48.0,
+    54.0
+   ],
+   "verb": "put",
+   "noun": "food",
+   "score": 0.152131
+  },
+  {
+   "segment": [
+    48.0,
+    50.0
+   ],
+   "verb": "put",
+   "noun": "food",
+   "score": 0.150182
+  },
+  {
+   "segment": [
+    48.0,
+    49.0
+   ],
+   "verb": "put",
+   "noun": "food",
+   "score": 0.147408
+  },
+  {
+   "segment": [
+    48.5,
+    49.5
+   ],
+   "verb": "put",
+   "noun": "board:chopping",
+   "score": 0.250309
+  },
+  {
+   "segment": [
+    48.5,
+    49.5
+   ],
+   "verb": "move",
+   "noun": "board:chopping",
+   "score": 0.152996
+  },
+  {
+   "segment": [
+    48.5,
+    49.5
+   ],
+   "verb": "put",
+   "noun": "food",
+   "score": 0.151543
+  },
+  {
+   "segment": [
+    49.0,
+    50.0
+   ],
+   "verb": "put",
+   "noun": "board:chopping",
+   "score": 0.287431
+  },
+  {
+   "segment": [
+    49.0,
+    51.0
+   ],
+   "verb": "put",
+   "noun": "board:chopping",
+   "score": 0.262672
+  },
+  {
+   "segment": [
+    49.0,
+    50.0
+   ],
+   "verb": "move",
+   "noun": "board:chopping",
+   "score": 0.176951
+  },
+  {
+   "segment": [
+    49.0,
+    51.0
+   ],
+   "verb": "put",
+   "noun": "fishcakes",
+   "score": 0.176043
+  },
+  {
+   "segment": [
+    49.0,
+    51.0
+   ],
+   "verb": "put",
+   "noun": "food",
+   "score": 0.171729
+  },
+  {
+   "segment": [
+    49.0,
+    50.0
+   ],
+   "verb": "take",
+   "noun": "board:chopping",
+   "score": 0.162949
+  },
+  {
+   "segment": [
+    49.5,
+    50.5
+   ],
+   "verb": "put",
+   "noun": "board:chopping",
+   "score": 0.29394
+  },
+  {
+   "segment": [
+    49.5,
+    53.0
+   ],
+   "verb": "put",
+   "noun": "board:chopping",
+   "score": 0.181331
+  },
+  {
+   "segment": [
+    49.5,
+    50.5
+   ],
+   "verb": "move",
+   "noun": "board:chopping",
+   "score": 0.179975
+  },
+  {
+   "segment": [
+    49.5,
+    50.5
+   ],
+   "verb": "put",
+   "noun": "fishcakes",
+   "score": 0.177265
+  },
+  {
+   "segment": [
+    49.5,
+    53.0
+   ],
+   "verb": "put",
+   "noun": "food",
+   "score": 0.169776
+  },
+  {
+   "segment": [
+    49.5,
+    53.0
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.159885
+  },
+  {
+   "segment": [
+    50.0,
+    51.0
+   ],
+   "verb": "put",
+   "noun": "board:chopping",
+   "score": 0.235719
+  },
+  {
+   "segment": [
+    50.0,
+    51.0
+   ],
+   "verb": "put",
+   "noun": "fishcakes",
+   "score": 0.216656
+  },
+  {
+   "segment": [
+    50.0,
+    52.0
+   ],
+   "verb": "put",
+   "noun": "food",
+   "score": 0.196102
+  },
+  {
+   "segment": [
+    50.0,
+    52.0
+   ],
+   "verb": "put",
+   "noun": "fishcakes",
+   "score": 0.195523
+  },
+  {
+   "segment": [
+    50.0,
+    52.0
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.191494
+  },
+  {
+   "segment": [
+    50.0,
+    51.0
+   ],
+   "verb": "put",
+   "noun": "food",
+   "score": 0.188448
+  },
+  {
+   "segment": [
+    50.5,
+    51.5
+   ],
+   "verb": "put",
+   "noun": "fishcakes",
+   "score": 0.216774
+  },
+  {
+   "segment": [
+    50.5,
+    51.5
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.213101
+  },
+  {
+   "segment": [
+    50.5,
+    51.5
+   ],
+   "verb": "put",
+   "noun": "food",
+   "score": 0.210631
+  },
+  {
+   "segment": [
+    51.0,
+    54.5
+   ],
+   "verb": "put",
+   "noun": "plate",
+   "score": 0.214631
+  },
+  {
+   "segment": [
+    51.0,
+    52.0
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.213274
+  },
+  {
+   "segment": [
+    51.0,
+    52.0
+   ],
+   "verb": "put",
+   "noun": "food",
+   "score": 0.203639
+  },
+  {
+   "segment": [
+    51.0,
+    53.0
+   ],
+   "verb": "put",
+   "noun": "plate",
+   "score": 0.197771
+  },
+  {
+   "segment": [
+    51.0,
+    52.0
+   ],
+   "verb": "put",
+   "noun": "fishcakes",
+   "score": 0.171029
+  },
+  {
+   "segment": [
+    51.0,
+    53.0
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.165782
+  },
+  {
+   "segment": [
+    51.0,
+    53.0
+   ],
+   "verb": "put",
+   "noun": "food",
+   "score": 0.161781
+  },
+  {
+   "segment": [
+    51.0,
+    57.0
+   ],
+   "verb": "put",
+   "noun": "plate",
+   "score": 0.160195
+  },
+  {
+   "segment": [
+    51.0,
+    54.5
+   ],
+   "verb": "throw",
+   "noun": "plate",
+   "score": 0.137299
+  },
+  {
+   "segment": [
+    51.0,
+    54.5
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.134642
+  },
+  {
+   "segment": [
+    51.0,
+    57.0
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.12291
+  },
+  {
+   "segment": [
+    51.0,
+    57.0
+   ],
+   "verb": "dry",
+   "noun": "pan",
+   "score": 0.118352
+  },
+  {
+   "segment": [
+    51.5,
+    52.5
+   ],
+   "verb": "put",
+   "noun": "food",
+   "score": 0.169195
+  },
+  {
+   "segment": [
+    51.5,
+    52.5
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.169161
+  },
+  {
+   "segment": [
+    51.5,
+    52.5
+   ],
+   "verb": "put",
+   "noun": "plate",
+   "score": 0.15619
+  },
+  {
+   "segment": [
+    52.0,
+    54.0
+   ],
+   "verb": "put",
+   "noun": "plate",
+   "score": 0.274145
+  },
+  {
+   "segment": [
+    52.0,
+    53.0
+   ],
+   "verb": "put",
+   "noun": "plate",
+   "score": 0.267266
+  },
+  {
+   "segment": [
+    52.0,
+    54.0
+   ],
+   "verb": "throw",
+   "noun": "plate",
+   "score": 0.177583
+  },
+  {
+   "segment": [
+    52.0,
+    53.0
+   ],
+   "verb": "throw",
+   "noun": "plate",
+   "score": 0.171713
+  },
+  {
+   "segment": [
+    52.0,
+    54.0
+   ],
+   "verb": "remove",
+   "noun": "plate",
+   "score": 0.129976
+  },
+  {
+   "segment": [
+    52.0,
+    53.0
+   ],
+   "verb": "remove",
+   "noun": "plate",
+   "score": 0.128418
+  },
+  {
+   "segment": [
+    52.5,
+    53.5
+   ],
+   "verb": "put",
+   "noun": "plate",
+   "score": 0.311109
+  },
+  {
+   "segment": [
+    52.5,
+    53.5
+   ],
+   "verb": "throw",
+   "noun": "plate",
+   "score": 0.202379
+  },
+  {
+   "segment": [
+    52.5,
+    56.0
+   ],
+   "verb": "put",
+   "noun": "plate",
+   "score": 0.184364
+  },
+  {
+   "segment": [
+    52.5,
+    53.5
+   ],
+   "verb": "remove",
+   "noun": "plate",
+   "score": 0.147968
+  },
+  {
+   "segment": [
+    52.5,
+    56.0
+   ],
+   "verb": "dry",
+   "noun": "pan",
+   "score": 0.144035
+  },
+  {
+   "segment": [
+    52.5,
+    56.0
+   ],
+   "verb": "throw",
+   "noun": "plate",
+   "score": 0.121884
+  },
+  {
+   "segment": [
+    53.0,
+    54.0
+   ],
+   "verb": "put",
+   "noun": "plate",
+   "score": 0.27849
+  },
+  {
+   "segment": [
+    53.0,
+    55.0
+   ],
+   "verb": "put",
+   "noun": "plate",
+   "score": 0.19568
+  },
+  {
+   "segment": [
+    53.0,
+    54.0
+   ],
+   "verb": "throw",
+   "noun": "plate",
+   "score": 0.181556
+  },
+  {
+   "segment": [
+    53.0,
+    55.0
+   ],
+   "verb": "dry",
+   "noun": "pan",
+   "score": 0.156449
+  },
+  {
+   "segment": [
+    53.0,
+    54.0
+   ],
+   "verb": "take",
+   "noun": "plate",
+   "score": 0.139871
+  },
+  {
+   "segment": [
+    53.0,
+    55.0
+   ],
+   "verb": "throw",
+   "noun": "plate",
+   "score": 0.127956
+  },
+  {
+   "segment": [
+    53.5,
+    54.5
+   ],
+   "verb": "put",
+   "noun": "plate",
+   "score": 0.17651
+  },
+  {
+   "segment": [
+    53.5,
+    54.5
+   ],
+   "verb": "dry",
+   "noun": "pan",
+   "score": 0.15792
+  },
+  {
+   "segment": [
+    53.5,
+    54.5
+   ],
+   "verb": "throw",
+   "noun": "pan",
+   "score": 0.121266
+  },
+  {
+   "segment": [
+    54.0,
+    55.0
+   ],
+   "verb": "dry",
+   "noun": "pan",
+   "score": 0.196028
+  },
+  {
+   "segment": [
+    54.0,
+    60.0
+   ],
+   "verb": "put",
+   "noun": "sponge",
+   "score": 0.19084
+  },
+  {
+   "segment": [
+    54.0,
+    56.0
+   ],
+   "verb": "dry",
+   "noun": "pan",
+   "score": 0.173522
+  },
+  {
+   "segment": [
+    54.0,
+    60.0
+   ],
+   "verb": "remove",
+   "noun": "food",
+   "score": 0.143409
+  },
+  {
+   "segment": [
+    54.0,
+    57.5
+   ],
+   "verb": "dry",
+   "noun": "pan",
+   "score": 0.142496
+  },
+  {
+   "segment": [
+    54.0,
+    57.5
+   ],
+   "verb": "put",
+   "noun": "sponge",
+   "score": 0.141014
+  },
+  {
+   "segment": [
+    54.0,
+    55.0
+   ],
+   "verb": "throw",
+   "noun": "pan",
+   "score": 0.14063
+  },
+  {
+   "segment": [
+    54.0,
+    55.0
+   ],
+   "verb": "wash",
+   "noun": "pan",
+   "score": 0.131921
+  },
+  {
+   "segment": [
+    54.0,
+    56.0
+   ],
+   "verb": "throw",
+   "noun": "pan",
+   "score": 0.125494
+  },
+  {
+   "segment": [
+    54.0,
+    60.0
+   ],
+   "verb": "put",
+   "noun": "potato",
+   "score": 0.12303
+  },
+  {
+   "segment": [
+    54.0,
+    56.0
+   ],
+   "verb": "empty",
+   "noun": "pan",
+   "score": 0.121849
+  },
+  {
+   "segment": [
+    54.0,
+    57.5
+   ],
+   "verb": "remove",
+   "noun": "food",
+   "score": 0.118173
+  },
+  {
+   "segment": [
+    54.5,
+    55.5
+   ],
+   "verb": "dry",
+   "noun": "pan",
+   "score": 0.193712
+  },
+  {
+   "segment": [
+    54.5,
+    55.5
+   ],
+   "verb": "throw",
+   "noun": "pan",
+   "score": 0.136787
+  },
+  {
+   "segment": [
+    54.5,
+    55.5
+   ],
+   "verb": "empty",
+   "noun": "pan",
+   "score": 0.133517
+  },
+  {
+   "segment": [
+    55.0,
+    56.0
+   ],
+   "verb": "dry",
+   "noun": "pan",
+   "score": 0.147003
+  },
+  {
+   "segment": [
+    55.0,
+    57.0
+   ],
+   "verb": "put",
+   "noun": "sponge",
+   "score": 0.142762
+  },
+  {
+   "segment": [
+    55.0,
+    57.0
+   ],
+   "verb": "put",
+   "noun": "fishcakes",
+   "score": 0.126723
+  },
+  {
+   "segment": [
+    55.0,
+    56.0
+   ],
+   "verb": "empty",
+   "noun": "pan",
+   "score": 0.126492
+  },
+  {
+   "segment": [
+    55.0,
+    57.0
+   ],
+   "verb": "put",
+   "noun": "potato",
+   "score": 0.12458
+  },
+  {
+   "segment": [
+    55.0,
+    56.0
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.115382
+  },
+  {
+   "segment": [
+    55.5,
+    59.0
+   ],
+   "verb": "put",
+   "noun": "sponge",
+   "score": 0.209736
+  },
+  {
+   "segment": [
+    55.5,
+    59.0
+   ],
+   "verb": "remove",
+   "noun": "food",
+   "score": 0.164728
+  },
+  {
+   "segment": [
+    55.5,
+    59.0
+   ],
+   "verb": "put",
+   "noun": "fishcakes",
+   "score": 0.151706
+  },
+  {
+   "segment": [
+    55.5,
+    56.5
+   ],
+   "verb": "put",
+   "noun": "sponge",
+   "score": 0.131031
+  },
+  {
+   "segment": [
+    55.5,
+    56.5
+   ],
+   "verb": "put",
+   "noun": "potato",
+   "score": 0.130108
+  },
+  {
+   "segment": [
+    55.5,
+    56.5
+   ],
+   "verb": "put",
+   "noun": "fishcakes",
+   "score": 0.125715
+  },
+  {
+   "segment": [
+    56.0,
+    58.0
+   ],
+   "verb": "put",
+   "noun": "sponge",
+   "score": 0.203611
+  },
+  {
+   "segment": [
+    56.0,
+    57.0
+   ],
+   "verb": "put",
+   "noun": "sponge",
+   "score": 0.190108
+  },
+  {
+   "segment": [
+    56.0,
+    58.0
+   ],
+   "verb": "put",
+   "noun": "fishcakes",
+   "score": 0.170015
+  },
+  {
+   "segment": [
+    56.0,
+    58.0
+   ],
+   "verb": "remove",
+   "noun": "food",
+   "score": 0.169483
+  },
+  {
+   "segment": [
+    56.0,
+    57.0
+   ],
+   "verb": "put",
+   "noun": "fishcakes",
+   "score": 0.165817
+  },
+  {
+   "segment": [
+    56.0,
+    57.0
+   ],
+   "verb": "put",
+   "noun": "potato",
+   "score": 0.163246
+  },
+  {
+   "segment": [
+    56.5,
+    57.5
+   ],
+   "verb": "put",
+   "noun": "sponge",
+   "score": 0.220188
+  },
+  {
+   "segment": [
+    56.5,
+    57.5
+   ],
+   "verb": "put",
+   "noun": "fishcakes",
+   "score": 0.184144
+  },
+  {
+   "segment": [
+    56.5,
+    57.5
+   ],
+   "verb": "remove",
+   "noun": "food",
+   "score": 0.182491
+  },
+  {
+   "segment": [
+    57.0,
+    63.0
+   ],
+   "verb": "put",
+   "noun": "sponge",
+   "score": 0.27289
+  },
+  {
+   "segment": [
+    57.0,
+    60.5
+   ],
+   "verb": "put",
+   "noun": "sponge",
+   "score": 0.252431
+  },
+  {
+   "segment": [
+    57.0,
+    59.0
+   ],
+   "verb": "put",
+   "noun": "sponge",
+   "score": 0.246226
+  },
+  {
+   "segment": [
+    57.0,
+    58.0
+   ],
+   "verb": "put",
+   "noun": "sponge",
+   "score": 0.217109
+  },
+  {
+   "segment": [
+    57.0,
+    59.0
+   ],
+   "verb": "remove",
+   "noun": "food",
+   "score": 0.182339
+  },
+  {
+   "segment": [
+    57.0,
+    58.0
+   ],
+   "verb": "remove",
+   "noun": "food",
+   "score": 0.180287
+  },
+  {
+   "segment": [
+    57.0,
+    60.5
+   ],
+   "verb": "remove",
+   "noun": "food",
+   "score": 0.178767
+  },
+  {
+   "segment": [
+    57.0,
+    58.0
+   ],
+   "verb": "put",
+   "noun": "fishcakes",
+   "score": 0.173821
+  },
+  {
+   "segment": [
+    57.0,
+    63.0
+   ],
+   "verb": "remove",
+   "noun": "food",
+   "score": 0.170117
+  },
+  {
+   "segment": [
+    57.0,
+    63.0
+   ],
+   "verb": "take",
+   "noun": "sponge",
+   "score": 0.159999
+  },
+  {
+   "segment": [
+    57.0,
+    59.0
+   ],
+   "verb": "put",
+   "noun": "fishcakes",
+   "score": 0.153533
+  },
+  {
+   "segment": [
+    57.0,
+    60.5
+   ],
+   "verb": "take",
+   "noun": "sponge",
+   "score": 0.146659
+  },
+  {
+   "segment": [
+    57.5,
+    58.5
+   ],
+   "verb": "put",
+   "noun": "sponge",
+   "score": 0.236459
+  },
+  {
+   "segment": [
+    57.5,
+    58.5
+   ],
+   "verb": "remove",
+   "noun": "food",
+   "score": 0.177005
+  },
+  {
+   "segment": [
+    57.5,
+    58.5
+   ],
+   "verb": "put",
+   "noun": "fishcakes",
+   "score": 0.156033
+  },
+  {
+   "segment": [
+    58.0,
+    59.0
+   ],
+   "verb": "put",
+   "noun": "sponge",
+   "score": 0.273986
+  },
+  {
+   "segment": [
+    58.0,
+    60.0
+   ],
+   "verb": "put",
+   "noun": "sponge",
+   "score": 0.265931
+  },
+  {
+   "segment": [
+    58.0,
+    59.0
+   ],
+   "verb": "remove",
+   "noun": "food",
+   "score": 0.184219
+  },
+  {
+   "segment": [
+    58.0,
+    60.0
+   ],
+   "verb": "remove",
+   "noun": "food",
+   "score": 0.179206
+  },
+  {
+   "segment": [
+    58.0,
+    59.0
+   ],
+   "verb": "take",
+   "noun": "sponge",
+   "score": 0.161118
+  },
+  {
+   "segment": [
+    58.0,
+    60.0
+   ],
+   "verb": "take",
+   "noun": "sponge",
+   "score": 0.151393
+  },
+  {
+   "segment": [
+    58.5,
+    62.0
+   ],
+   "verb": "put",
+   "noun": "sponge",
+   "score": 0.296755
+  },
+  {
+   "segment": [
+    58.5,
+    59.5
+   ],
+   "verb": "put",
+   "noun": "sponge",
+   "score": 0.258843
+  },
+  {
+   "segment": [
+    58.5,
+    59.5
+   ],
+   "verb": "remove",
+   "noun": "food",
+   "score": 0.183193
+  },
+  {
+   "segment": [
+    58.5,
+    62.0
+   ],
+   "verb": "remove",
+   "noun": "food",
+   "score": 0.172597
+  },
+  {
+   "segment": [
+    58.5,
+    62.0
+   ],
+   "verb": "take",
+   "noun": "sponge",
+   "score": 0.16914
+  },
+  {
+   "segment": [
+    58.5,
+    59.5
+   ],
+   "verb": "take",
+   "noun": "sponge",
+   "score": 0.149272
+  },
+  {
+   "segment": [
+    59.0,
+    61.0
+   ],
+   "verb": "put",
+   "noun": "sponge",
+   "score": 0.278301
+  },
+  {
+   "segment": [
+    59.0,
+    60.0
+   ],
+   "verb": "put",
+   "noun": "sponge",
+   "score": 0.257812
+  },
+  {
+   "segment": [
+    59.0,
+    61.0
+   ],
+   "verb": "remove",
+   "noun": "food",
+   "score": 0.177299
+  },
+  {
+   "segment": [
+    59.0,
+    60.0
+   ],
+   "verb": "remove",
+   "noun": "food",
+   "score": 0.174135
+  },
+  {
+   "segment": [
+    59.0,
+    61.0
+   ],
+   "verb": "take",
+   "noun": "sponge",
+   "score": 0.151274
+  },
+  {
+   "segment": [
+    59.0,
+    60.0
+   ],
+   "verb": "take",
+   "noun": "sponge",
+   "score": 0.141616
+  },
+  {
+   "segment": [
+    59.5,
+    60.5
+   ],
+   "verb": "put",
+   "noun": "sponge",
+   "score": 0.268075
+  },
+  {
+   "segment": [
+    59.5,
+    60.5
+   ],
+   "verb": "remove",
+   "noun": "food",
+   "score": 0.170236
+  },
+  {
+   "segment": [
+    59.5,
+    60.5
+   ],
+   "verb": "take",
+   "noun": "sponge",
+   "score": 0.141812
+  },
+  {
+   "segment": [
+    60.0,
+    62.0
+   ],
+   "verb": "put",
+   "noun": "sponge",
+   "score": 0.318323
+  },
+  {
+   "segment": [
+    60.0,
+    61.0
+   ],
+   "verb": "put",
+   "noun": "sponge",
+   "score": 0.297267
+  },
+  {
+   "segment": [
+    60.0,
+    63.5
+   ],
+   "verb": "put",
+   "noun": "sponge",
+   "score": 0.270203
+  },
+  {
+   "segment": [
+    60.0,
+    66.0
+   ],
+   "verb": "put",
+   "noun": "sponge",
+   "score": 0.217603
+  },
+  {
+   "segment": [
+    60.0,
+    66.0
+   ],
+   "verb": "put",
+   "noun": "container",
+   "score": 0.197338
+  },
+  {
+   "segment": [
+    60.0,
+    62.0
+   ],
+   "verb": "take",
+   "noun": "sponge",
+   "score": 0.183399
+  },
+  {
+   "segment": [
+    60.0,
+    61.0
+   ],
+   "verb": "remove",
+   "noun": "food",
+   "score": 0.180388
+  },
+  {
+   "segment": [
+    60.0,
+    66.0
+   ],
+   "verb": "remove",
+   "noun": "food",
+   "score": 0.170171
+  },
+  {
+   "segment": [
+    60.0,
+    62.0
+   ],
+   "verb": "remove",
+   "noun": "food",
+   "score": 0.168717
+  },
+  {
+   "segment": [
+    60.0,
+    63.5
+   ],
+   "verb": "put",
+   "noun": "container",
+   "score": 0.165111
+  },
+  {
+   "segment": [
+    60.0,
+    63.5
+   ],
+   "verb": "remove",
+   "noun": "food",
+   "score": 0.16314
+  },
+  {
+   "segment": [
+    60.0,
+    61.0
+   ],
+   "verb": "take",
+   "noun": "sponge",
+   "score": 0.160295
+  },
+  {
+   "segment": [
+    60.5,
+    61.5
+   ],
+   "verb": "put",
+   "noun": "sponge",
+   "score": 0.334287
+  },
+  {
+   "segment": [
+    60.5,
+    61.5
+   ],
+   "verb": "take",
+   "noun": "sponge",
+   "score": 0.19204
+  },
+  {
+   "segment": [
+    60.5,
+    61.5
+   ],
+   "verb": "remove",
+   "noun": "food",
+   "score": 0.180248
+  },
+  {
+   "segment": [
+    61.0,
+    62.0
+   ],
+   "verb": "put",
+   "noun": "sponge",
+   "score": 0.337791
+  },
+  {
+   "segment": [
+    61.0,
+    63.0
+   ],
+   "verb": "put",
+   "noun": "sponge",
+   "score": 0.289249
+  },
+  {
+   "segment": [
+    61.0,
+    62.0
+   ],
+   "verb": "take",
+   "noun": "sponge",
+   "score": 0.203623
+  },
+  {
+   "segment": [
+    61.0,
+    63.0
+   ],
+   "verb": "take",
+   "noun": "sponge",
+   "score": 0.175017
+  },
+  {
+   "segment": [
+    61.0,
+    63.0
+   ],
+   "verb": "put",
+   "noun": "container",
+   "score": 0.162003
+  },
+  {
+   "segment": [
+    61.0,
+    62.0
+   ],
+   "verb": "remove",
+   "noun": "food",
+   "score": 0.156349
+  },
+  {
+   "segment": [
+    61.5,
+    62.5
+   ],
+   "verb": "put",
+   "noun": "sponge",
+   "score": 0.320278
+  },
+  {
+   "segment": [
+    61.5,
+    65.0
+   ],
+   "verb": "put",
+   "noun": "container",
+   "score": 0.213938
+  },
+  {
+   "segment": [
+    61.5,
+    62.5
+   ],
+   "verb": "take",
+   "noun": "sponge",
+   "score": 0.19465
+  },
+  {
+   "segment": [
+    61.5,
+    65.0
+   ],
+   "verb": "put",
+   "noun": "sponge",
+   "score": 0.193892
+  },
+  {
+   "segment": [
+    61.5,
+    65.0
+   ],
+   "verb": "remove",
+   "noun": "food",
+   "score": 0.169109
+  },
+  {
+   "segment": [
+    61.5,
+    62.5
+   ],
+   "verb": "put",
+   "noun": "container",
+   "score": 0.145705
+  },
+  {
+   "segment": [
+    62.0,
+    63.0
+   ],
+   "verb": "put",
+   "noun": "sponge",
+   "score": 0.234846
+  },
+  {
+   "segment": [
+    62.0,
+    64.0
+   ],
+   "verb": "put",
+   "noun": "container",
+   "score": 0.233455
+  },
+  {
+   "segment": [
+    62.0,
+    63.0
+   ],
+   "verb": "put",
+   "noun": "container",
+   "score": 0.213816
+  },
+  {
+   "segment": [
+    62.0,
+    64.0
+   ],
+   "verb": "put",
+   "noun": "sponge",
+   "score": 0.174761
+  },
+  {
+   "segment": [
+    62.0,
+    64.0
+   ],
+   "verb": "remove",
+   "noun": "food",
+   "score": 0.167098
+  },
+  {
+   "segment": [
+    62.0,
+    63.0
+   ],
+   "verb": "remove",
+   "noun": "food",
+   "score": 0.143952
+  },
+  {
+   "segment": [
+    62.5,
+    63.5
+   ],
+   "verb": "put",
+   "noun": "container",
+   "score": 0.24181
+  },
+  {
+   "segment": [
+    62.5,
+    63.5
+   ],
+   "verb": "remove",
+   "noun": "food",
+   "score": 0.159652
+  },
+  {
+   "segment": [
+    62.5,
+    63.5
+   ],
+   "verb": "put",
+   "noun": "lid",
+   "score": 0.147241
+  },
+  {
+   "segment": [
+    63.0,
+    64.0
+   ],
+   "verb": "put",
+   "noun": "container",
+   "score": 0.252663
+  },
+  {
+   "segment": [
+    63.0,
+    66.5
+   ],
+   "verb": "put",
+   "noun": "container",
+   "score": 0.241531
+  },
+  {
+   "segment": [
+    63.0,
+    65.0
+   ],
+   "verb": "put",
+   "noun": "container",
+   "score": 0.238304
+  },
+  {
+   "segment": [
+    63.0,
+    64.0
+   ],
+   "verb": "remove",
+   "noun": "food",
+   "score": 0.188763
+  },
+  {
+   "segment": [
+    63.0,
+    65.0
+   ],
+   "verb": "remove",
+   "noun": "food",
+   "score": 0.188367
+  },
+  {
+   "segment": [
+    63.0,
+    65.0
+   ],
+   "verb": "put",
+   "noun": "board:chopping",
+   "score": 0.184269
+  },
+  {
+   "segment": [
+    63.0,
+    66.5
+   ],
+   "verb": "put",
+   "noun": "fishcakes",
+   "score": 0.179439
+  },
+  {
+   "segment": [
+    63.0,
+    69.0
+   ],
+   "verb": "put",
+   "noun": "container",
+   "score": 0.178815
+  },
+  {
+   "segment": [
+    63.0,
+    66.5
+   ],
+   "verb": "remove",
+   "noun": "food",
+   "score": 0.171602
+  },
+  {
+   "segment": [
+    63.0,
+    64.0
+   ],
+   "verb": "put",
+   "noun": "food",
+   "score": 0.165985
+  },
+  {
+   "segment": [
+    63.0,
+    69.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.144618
+  },
+  {
+   "segment": [
+    63.0,
+    69.0
+   ],
+   "verb": "put",
+   "noun": "board:chopping",
+   "score": 0.130582
+  },
+  {
+   "segment": [
+    63.5,
+    64.5
+   ],
+   "verb": "put",
+   "noun": "container",
+   "score": 0.234662
+  },
+  {
+   "segment": [
+    63.5,
+    64.5
+   ],
+   "verb": "remove",
+   "noun": "food",
+   "score": 0.197691
+  },
+  {
+   "segment": [
+    63.5,
+    64.5
+   ],
+   "verb": "put",
+   "noun": "board:chopping",
+   "score": 0.196653
+  },
+  {
+   "segment": [
+    64.0,
+    66.0
+   ],
+   "verb": "put",
+   "noun": "container",
+   "score": 0.236362
+  },
+  {
+   "segment": [
+    64.0,
+    65.0
+   ],
+   "verb": "put",
+   "noun": "container",
+   "score": 0.220537
+  },
+  {
+   "segment": [
+    64.0,
+    65.0
+   ],
+   "verb": "put",
+   "noun": "board:chopping",
+   "score": 0.210023
+  },
+  {
+   "segment": [
+    64.0,
+    66.0
+   ],
+   "verb": "put",
+   "noun": "fishcakes",
+   "score": 0.205113
+  },
+  {
+   "segment": [
+    64.0,
+    65.0
+   ],
+   "verb": "put",
+   "noun": "fishcakes",
+   "score": 0.192938
+  },
+  {
+   "segment": [
+    64.0,
+    66.0
+   ],
+   "verb": "put",
+   "noun": "board:chopping",
+   "score": 0.180896
+  },
+  {
+   "segment": [
+    64.5,
+    65.5
+   ],
+   "verb": "put",
+   "noun": "container",
+   "score": 0.218811
+  },
+  {
+   "segment": [
+    64.5,
+    65.5
+   ],
+   "verb": "put",
+   "noun": "fishcakes",
+   "score": 0.209238
+  },
+  {
+   "segment": [
+    64.5,
+    65.5
+   ],
+   "verb": "put",
+   "noun": "board:chopping",
+   "score": 0.185914
+  },
+  {
+   "segment": [
+    64.5,
+    68.0
+   ],
+   "verb": "put",
+   "noun": "container",
+   "score": 0.18317
+  },
+  {
+   "segment": [
+    64.5,
+    68.0
+   ],
+   "verb": "put",
+   "noun": "fishcakes",
+   "score": 0.141394
+  },
+  {
+   "segment": [
+    64.5,
+    68.0
+   ],
+   "verb": "put",
+   "noun": "board:chopping",
+   "score": 0.13295
+  },
+  {
+   "segment": [
+    65.0,
+    66.0
+   ],
+   "verb": "put",
+   "noun": "container",
+   "score": 0.249608
+  },
+  {
+   "segment": [
+    65.0,
+    67.0
+   ],
+   "verb": "put",
+   "noun": "container",
+   "score": 0.22451
+  },
+  {
+   "segment": [
+    65.0,
+    66.0
+   ],
+   "verb": "put",
+   "noun": "fishcakes",
+   "score": 0.215336
+  },
+  {
+   "segment": [
+    65.0,
+    67.0
+   ],
+   "verb": "put",
+   "noun": "fishcakes",
+   "score": 0.166422
+  },
+  {
+   "segment": [
+    65.0,
+    66.0
+   ],
+   "verb": "remove",
+   "noun": "food",
+   "score": 0.161555
+  },
+  {
+   "segment": [
+    65.0,
+    67.0
+   ],
+   "verb": "put",
+   "noun": "board:chopping",
+   "score": 0.13753
+  },
+  {
+   "segment": [
+    65.5,
+    66.5
+   ],
+   "verb": "put",
+   "noun": "container",
+   "score": 0.257859
+  },
+  {
+   "segment": [
+    65.5,
+    66.5
+   ],
+   "verb": "put",
+   "noun": "fishcakes",
+   "score": 0.190567
+  },
+  {
+   "segment": [
+    65.5,
+    66.5
+   ],
+   "verb": "put",
+   "noun": "food",
+   "score": 0.147914
+  },
+  {
+   "segment": [
+    66.0,
+    67.0
+   ],
+   "verb": "put",
+   "noun": "container",
+   "score": 0.199216
+  },
+  {
+   "segment": [
+    66.0,
+    69.5
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.178208
+  },
+  {
+   "segment": [
+    66.0,
+    72.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.172511
+  },
+  {
+   "segment": [
+    66.0,
+    68.0
+   ],
+   "verb": "throw",
+   "noun": "rubbish",
+   "score": 0.144607
+  },
+  {
+   "segment": [
+    66.0,
+    72.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.14138
+  },
+  {
+   "segment": [
+    66.0,
+    72.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.140902
+  },
+  {
+   "segment": [
+    66.0,
+    68.0
+   ],
+   "verb": "put",
+   "noun": "container",
+   "score": 0.13917
+  },
+  {
+   "segment": [
+    66.0,
+    68.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.135686
+  },
+  {
+   "segment": [
+    66.0,
+    69.5
+   ],
+   "verb": "throw",
+   "noun": "rubbish",
+   "score": 0.13058
+  },
+  {
+   "segment": [
+    66.0,
+    67.0
+   ],
+   "verb": "put",
+   "noun": "board:chopping",
+   "score": 0.125739
+  },
+  {
+   "segment": [
+    66.0,
+    69.5
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.122337
+  },
+  {
+   "segment": [
+    66.0,
+    67.0
+   ],
+   "verb": "put",
+   "noun": "fishcakes",
+   "score": 0.112618
+  },
+  {
+   "segment": [
+    66.5,
+    67.5
+   ],
+   "verb": "throw",
+   "noun": "rubbish",
+   "score": 0.152104
+  },
+  {
+   "segment": [
+    66.5,
+    67.5
+   ],
+   "verb": "remove",
+   "noun": "rubbish",
+   "score": 0.135619
+  },
+  {
+   "segment": [
+    66.5,
+    67.5
+   ],
+   "verb": "put",
+   "noun": "container",
+   "score": 0.12067
+  },
+  {
+   "segment": [
+    67.0,
+    69.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.207607
+  },
+  {
+   "segment": [
+    67.0,
+    68.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.171817
+  },
+  {
+   "segment": [
+    67.0,
+    68.0
+   ],
+   "verb": "throw",
+   "noun": "rubbish",
+   "score": 0.17115
+  },
+  {
+   "segment": [
+    67.0,
+    69.0
+   ],
+   "verb": "throw",
+   "noun": "rubbish",
+   "score": 0.148008
+  },
+  {
+   "segment": [
+    67.0,
+    68.0
+   ],
+   "verb": "remove",
+   "noun": "rubbish",
+   "score": 0.145642
+  },
+  {
+   "segment": [
+    67.0,
+    69.0
+   ],
+   "verb": "remove",
+   "noun": "rubbish",
+   "score": 0.124464
+  },
+  {
+   "segment": [
+    67.5,
+    68.5
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.223854
+  },
+  {
+   "segment": [
+    67.5,
+    71.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.170208
+  },
+  {
+   "segment": [
+    67.5,
+    68.5
+   ],
+   "verb": "throw",
+   "noun": "rubbish",
+   "score": 0.156813
+  },
+  {
+   "segment": [
+    67.5,
+    71.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.154194
+  },
+  {
+   "segment": [
+    67.5,
+    68.5
+   ],
+   "verb": "take",
+   "noun": "rubbish",
+   "score": 0.130837
+  },
+  {
+   "segment": [
+    67.5,
+    71.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.128589
+  },
+  {
+   "segment": [
+    68.0,
+    69.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.234307
+  },
+  {
+   "segment": [
+    68.0,
+    70.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.192657
+  },
+  {
+   "segment": [
+    68.0,
+    70.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.168512
+  },
+  {
+   "segment": [
+    68.0,
+    69.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.153858
+  },
+  {
+   "segment": [
+    68.0,
+    70.0
+   ],
+   "verb": "open",
+   "noun": "drawer",
+   "score": 0.131243
+  },
+  {
+   "segment": [
+    68.0,
+    69.0
+   ],
+   "verb": "take",
+   "noun": "rubbish",
+   "score": 0.125773
+  },
+  {
+   "segment": [
+    68.5,
+    69.5
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.201664
+  },
+  {
+   "segment": [
+    68.5,
+    69.5
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.18668
+  },
+  {
+   "segment": [
+    68.5,
+    69.5
+   ],
+   "verb": "open",
+   "noun": "drawer",
+   "score": 0.148523
+  },
+  {
+   "segment": [
+    69.0,
+    72.5
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.249067
+  },
+  {
+   "segment": [
+    69.0,
+    75.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.214835
+  },
+  {
+   "segment": [
+    69.0,
+    75.0
+   ],
+   "verb": "throw",
+   "noun": "salad",
+   "score": 0.20111
+  },
+  {
+   "segment": [
+    69.0,
+    70.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.18247
+  },
+  {
+   "segment": [
+    69.0,
+    72.5
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.177739
+  },
+  {
+   "segment": [
+    69.0,
+    71.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.169908
+  },
+  {
+   "segment": [
+    69.0,
+    72.5
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.16827
+  },
+  {
+   "segment": [
+    69.0,
+    71.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.167297
+  },
+  {
+   "segment": [
+    69.0,
+    70.0
+   ],
+   "verb": "open",
+   "noun": "drawer",
+   "score": 0.150567
+  },
+  {
+   "segment": [
+    69.0,
+    75.0
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.14903
+  },
+  {
+   "segment": [
+    69.0,
+    71.0
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.136502
+  },
+  {
+   "segment": [
+    69.0,
+    70.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.136194
+  },
+  {
+   "segment": [
+    69.5,
+    70.5
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.163685
+  },
+  {
+   "segment": [
+    69.5,
+    70.5
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.13982
+  },
+  {
+   "segment": [
+    69.5,
+    70.5
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.120666
+  },
+  {
+   "segment": [
+    70.0,
+    72.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.291692
+  },
+  {
+   "segment": [
+    70.0,
+    71.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.23273
+  },
+  {
+   "segment": [
+    70.0,
+    72.0
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.213965
+  },
+  {
+   "segment": [
+    70.0,
+    71.0
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.19066
+  },
+  {
+   "segment": [
+    70.0,
+    72.0
+   ],
+   "verb": "remove",
+   "noun": "fridge",
+   "score": 0.18535
+  },
+  {
+   "segment": [
+    70.0,
+    71.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.154321
+  },
+  {
+   "segment": [
+    70.5,
+    71.5
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.3046
+  },
+  {
+   "segment": [
+    70.5,
+    74.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.271861
+  },
+  {
+   "segment": [
+    70.5,
+    71.5
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.22879
+  },
+  {
+   "segment": [
+    70.5,
+    71.5
+   ],
+   "verb": "remove",
+   "noun": "fridge",
+   "score": 0.192801
+  },
+  {
+   "segment": [
+    70.5,
+    74.0
+   ],
+   "verb": "throw",
+   "noun": "salad",
+   "score": 0.192634
+  },
+  {
+   "segment": [
+    70.5,
+    74.0
+   ],
+   "verb": "remove",
+   "noun": "fridge",
+   "score": 0.187951
+  },
+  {
+   "segment": [
+    71.0,
+    72.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.338371
+  },
+  {
+   "segment": [
+    71.0,
+    73.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.317454
+  },
+  {
+   "segment": [
+    71.0,
+    72.0
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.233942
+  },
+  {
+   "segment": [
+    71.0,
+    72.0
+   ],
+   "verb": "remove",
+   "noun": "fridge",
+   "score": 0.220994
+  },
+  {
+   "segment": [
+    71.0,
+    73.0
+   ],
+   "verb": "remove",
+   "noun": "fridge",
+   "score": 0.220707
+  },
+  {
+   "segment": [
+    71.0,
+    73.0
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.211477
+  },
+  {
+   "segment": [
+    71.5,
+    72.5
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.324434
+  },
+  {
+   "segment": [
+    71.5,
+    72.5
+   ],
+   "verb": "remove",
+   "noun": "fridge",
+   "score": 0.22787
+  },
+  {
+   "segment": [
+    71.5,
+    72.5
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.209295
+  },
+  {
+   "segment": [
+    72.0,
+    73.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.29097
+  },
+  {
+   "segment": [
+    72.0,
+    75.5
+   ],
+   "verb": "throw",
+   "noun": "salad",
+   "score": 0.285802
+  },
+  {
+   "segment": [
+    72.0,
+    74.0
+   ],
+   "verb": "throw",
+   "noun": "salad",
+   "score": 0.259416
+  },
+  {
+   "segment": [
+    72.0,
+    78.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.231992
+  },
+  {
+   "segment": [
+    72.0,
+    74.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.227476
+  },
+  {
+   "segment": [
+    72.0,
+    78.0
+   ],
+   "verb": "throw",
+   "noun": "salad",
+   "score": 0.226703
+  },
+  {
+   "segment": [
+    72.0,
+    73.0
+   ],
+   "verb": "remove",
+   "noun": "fridge",
+   "score": 0.219602
+  },
+  {
+   "segment": [
+    72.0,
+    73.0
+   ],
+   "verb": "take",
+   "noun": "fridge",
+   "score": 0.188657
+  },
+  {
+   "segment": [
+    72.0,
+    75.5
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.172852
+  },
+  {
+   "segment": [
+    72.0,
+    74.0
+   ],
+   "verb": "remove",
+   "noun": "fridge",
+   "score": 0.17262
+  },
+  {
+   "segment": [
+    72.0,
+    78.0
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.155464
+  },
+  {
+   "segment": [
+    72.0,
+    75.5
+   ],
+   "verb": "remove",
+   "noun": "fridge",
+   "score": 0.131096
+  },
+  {
+   "segment": [
+    72.5,
+    73.5
+   ],
+   "verb": "throw",
+   "noun": "salad",
+   "score": 0.252616
+  },
+  {
+   "segment": [
+    72.5,
+    73.5
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.22191
+  },
+  {
+   "segment": [
+    72.5,
+    73.5
+   ],
+   "verb": "remove",
+   "noun": "fridge",
+   "score": 0.178049
+  },
+  {
+   "segment": [
+    73.0,
+    75.0
+   ],
+   "verb": "throw",
+   "noun": "salad",
+   "score": 0.34361
+  },
+  {
+   "segment": [
+    73.0,
+    74.0
+   ],
+   "verb": "throw",
+   "noun": "salad",
+   "score": 0.343367
+  },
+  {
+   "segment": [
+    73.0,
+    74.0
+   ],
+   "verb": "put",
+   "noun": "salad",
+   "score": 0.149989
+  },
+  {
+   "segment": [
+    73.0,
+    75.0
+   ],
+   "verb": "take",
+   "noun": "salad",
+   "score": 0.14551
+  },
+  {
+   "segment": [
+    73.0,
+    74.0
+   ],
+   "verb": "take",
+   "noun": "salad",
+   "score": 0.14365
+  },
+  {
+   "segment": [
+    73.0,
+    75.0
+   ],
+   "verb": "put",
+   "noun": "salad",
+   "score": 0.135645
+  },
+  {
+   "segment": [
+    73.5,
+    74.5
+   ],
+   "verb": "throw",
+   "noun": "salad",
+   "score": 0.376723
+  },
+  {
+   "segment": [
+    73.5,
+    77.0
+   ],
+   "verb": "throw",
+   "noun": "salad",
+   "score": 0.261886
+  },
+  {
+   "segment": [
+    73.5,
+    77.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.159892
+  },
+  {
+   "segment": [
+    73.5,
+    74.5
+   ],
+   "verb": "take",
+   "noun": "salad",
+   "score": 0.154831
+  },
+  {
+   "segment": [
+    73.5,
+    74.5
+   ],
+   "verb": "throw",
+   "noun": "food",
+   "score": 0.144604
+  },
+  {
+   "segment": [
+    73.5,
+    77.0
+   ],
+   "verb": "take",
+   "noun": "bowl",
+   "score": 0.141512
+  },
+  {
+   "segment": [
+    74.0,
+    75.0
+   ],
+   "verb": "throw",
+   "noun": "salad",
+   "score": 0.343853
+  },
+  {
+   "segment": [
+    74.0,
+    76.0
+   ],
+   "verb": "throw",
+   "noun": "salad",
+   "score": 0.287183
+  },
+  {
+   "segment": [
+    74.0,
+    76.0
+   ],
+   "verb": "take",
+   "noun": "bowl",
+   "score": 0.166713
+  },
+  {
+   "segment": [
+    74.0,
+    75.0
+   ],
+   "verb": "take",
+   "noun": "bowl",
+   "score": 0.153346
+  },
+  {
+   "segment": [
+    74.0,
+    76.0
+   ],
+   "verb": "empty",
+   "noun": "bowl",
+   "score": 0.152573
+  },
+  {
+   "segment": [
+    74.0,
+    75.0
+   ],
+   "verb": "take",
+   "noun": "salad",
+   "score": 0.147354
+  },
+  {
+   "segment": [
+    74.5,
+    75.5
+   ],
+   "verb": "throw",
+   "noun": "salad",
+   "score": 0.280071
+  },
+  {
+   "segment": [
+    74.5,
+    75.5
+   ],
+   "verb": "take",
+   "noun": "bowl",
+   "score": 0.178626
+  },
+  {
+   "segment": [
+    74.5,
+    75.5
+   ],
+   "verb": "empty",
+   "noun": "bowl",
+   "score": 0.171237
+  },
+  {
+   "segment": [
+    75.0,
+    81.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.309752
+  },
+  {
+   "segment": [
+    75.0,
+    78.5
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.285968
+  },
+  {
+   "segment": [
+    75.0,
+    81.0
+   ],
+   "verb": "open",
+   "noun": "freezer",
+   "score": 0.231362
+  },
+  {
+   "segment": [
+    75.0,
+    76.0
+   ],
+   "verb": "throw",
+   "noun": "salad",
+   "score": 0.210111
+  },
+  {
+   "segment": [
+    75.0,
+    81.0
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.206933
+  },
+  {
+   "segment": [
+    75.0,
+    77.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.203998
+  },
+  {
+   "segment": [
+    75.0,
+    78.5
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.194867
+  },
+  {
+   "segment": [
+    75.0,
+    78.5
+   ],
+   "verb": "open",
+   "noun": "freezer",
+   "score": 0.183749
+  },
+  {
+   "segment": [
+    75.0,
+    76.0
+   ],
+   "verb": "take",
+   "noun": "bowl",
+   "score": 0.179714
+  },
+  {
+   "segment": [
+    75.0,
+    77.0
+   ],
+   "verb": "throw",
+   "noun": "salad",
+   "score": 0.159944
+  },
+  {
+   "segment": [
+    75.0,
+    76.0
+   ],
+   "verb": "empty",
+   "noun": "bowl",
+   "score": 0.158924
+  },
+  {
+   "segment": [
+    75.0,
+    77.0
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.143047
+  },
+  {
+   "segment": [
+    75.5,
+    76.5
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.172278
+  },
+  {
+   "segment": [
+    75.5,
+    76.5
+   ],
+   "verb": "throw",
+   "noun": "salad",
+   "score": 0.151831
+  },
+  {
+   "segment": [
+    75.5,
+    76.5
+   ],
+   "verb": "take",
+   "noun": "bowl",
+   "score": 0.145182
+  },
+  {
+   "segment": [
+    76.0,
+    78.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.328551
+  },
+  {
+   "segment": [
+    76.0,
+    77.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.274919
+  },
+  {
+   "segment": [
+    76.0,
+    78.0
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.228567
+  },
+  {
+   "segment": [
+    76.0,
+    78.0
+   ],
+   "verb": "open",
+   "noun": "freezer",
+   "score": 0.200055
+  },
+  {
+   "segment": [
+    76.0,
+    77.0
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.192787
+  },
+  {
+   "segment": [
+    76.0,
+    77.0
+   ],
+   "verb": "remove",
+   "noun": "fridge",
+   "score": 0.146078
+  },
+  {
+   "segment": [
+    76.5,
+    80.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.356215
+  },
+  {
+   "segment": [
+    76.5,
+    77.5
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.352997
+  },
+  {
+   "segment": [
+    76.5,
+    80.0
+   ],
+   "verb": "open",
+   "noun": "freezer",
+   "score": 0.268339
+  },
+  {
+   "segment": [
+    76.5,
+    77.5
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.249639
+  },
+  {
+   "segment": [
+    76.5,
+    80.0
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.24237
+  },
+  {
+   "segment": [
+    76.5,
+    77.5
+   ],
+   "verb": "open",
+   "noun": "freezer",
+   "score": 0.205049
+  },
+  {
+   "segment": [
+    77.0,
+    78.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.381271
+  },
+  {
+   "segment": [
+    77.0,
+    79.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.378466
+  },
+  {
+   "segment": [
+    77.0,
+    79.0
+   ],
+   "verb": "open",
+   "noun": "freezer",
+   "score": 0.273941
+  },
+  {
+   "segment": [
+    77.0,
+    78.0
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.263858
+  },
+  {
+   "segment": [
+    77.0,
+    78.0
+   ],
+   "verb": "open",
+   "noun": "freezer",
+   "score": 0.254695
+  },
+  {
+   "segment": [
+    77.0,
+    79.0
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.253886
+  },
+  {
+   "segment": [
+    77.5,
+    78.5
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.369366
+  },
+  {
+   "segment": [
+    77.5,
+    78.5
+   ],
+   "verb": "open",
+   "noun": "freezer",
+   "score": 0.27453
+  },
+  {
+   "segment": [
+    77.5,
+    78.5
+   ],
+   "verb": "put",
+   "noun": "fridge",
+   "score": 0.245106
+  },
+  {
+   "segment": [
+    78.0,
+    79.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.373759
+  },
+  {
+   "segment": [
+    78.0,
+    80.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.352917
+  },
+  {
+   "segment": [
+    78.0,
+    81.5
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.345509
+  },
+  {
+   "segment": [
+    78.0,
+    84.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.328719
+  },
+  {
+   "segment": [
+    78.0,
+    80.0
+   ],
+   "verb": "open",
+   "noun": "freezer",
+   "score": 0.29915
+  },
+  {
+   "segment": [
+    78.0,
+    79.0
+   ],
+   "verb": "open",
+   "noun": "freezer",
+   "score": 0.293164
+  },
+  {
+   "segment": [
+    78.0,
+    81.5
+   ],
+   "verb": "open",
+   "noun": "freezer",
+   "score": 0.279912
+  },
+  {
+   "segment": [
+    78.0,
+    84.0
+   ],
+   "verb": "open",
+   "noun": "freezer",
+   "score": 0.267827
+  },
+  {
+   "segment": [
+    78.0,
+    79.0
+   ],
+   "verb": "put",
+   "noun": "fridge",
+   "score": 0.245916
+  },
+  {
+   "segment": [
+    78.0,
+    80.0
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.233918
+  },
+  {
+   "segment": [
+    78.0,
+    81.5
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.221744
+  },
+  {
+   "segment": [
+    78.0,
+    84.0
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.212663
+  },
+  {
+   "segment": [
+    78.5,
+    79.5
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.355711
+  },
+  {
+   "segment": [
+    78.5,
+    79.5
+   ],
+   "verb": "open",
+   "noun": "freezer",
+   "score": 0.299855
+  },
+  {
+   "segment": [
+    78.5,
+    79.5
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.239513
+  },
+  {
+   "segment": [
+    79.0,
+    81.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.3342
+  },
+  {
+   "segment": [
+    79.0,
+    80.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.331892
+  },
+  {
+   "segment": [
+    79.0,
+    80.0
+   ],
+   "verb": "open",
+   "noun": "freezer",
+   "score": 0.304228
+  },
+  {
+   "segment": [
+    79.0,
+    81.0
+   ],
+   "verb": "open",
+   "noun": "freezer",
+   "score": 0.285785
+  },
+  {
+   "segment": [
+    79.0,
+    80.0
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.226756
+  },
+  {
+   "segment": [
+    79.0,
+    81.0
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.217123
+  },
+  {
+   "segment": [
+    79.5,
+    83.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.330632
+  },
+  {
+   "segment": [
+    79.5,
+    80.5
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.325035
+  },
+  {
+   "segment": [
+    79.5,
+    80.5
+   ],
+   "verb": "open",
+   "noun": "freezer",
+   "score": 0.293169
+  },
+  {
+   "segment": [
+    79.5,
+    83.0
+   ],
+   "verb": "open",
+   "noun": "freezer",
+   "score": 0.281191
+  },
+  {
+   "segment": [
+    79.5,
+    80.5
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.213123
+  },
+  {
+   "segment": [
+    79.5,
+    83.0
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.208283
+  },
+  {
+   "segment": [
+    80.0,
+    81.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.336129
+  },
+  {
+   "segment": [
+    80.0,
+    82.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.33314
+  },
+  {
+   "segment": [
+    80.0,
+    81.0
+   ],
+   "verb": "open",
+   "noun": "freezer",
+   "score": 0.266931
+  },
+  {
+   "segment": [
+    80.0,
+    82.0
+   ],
+   "verb": "open",
+   "noun": "freezer",
+   "score": 0.259576
+  },
+  {
+   "segment": [
+    80.0,
+    81.0
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.207426
+  },
+  {
+   "segment": [
+    80.0,
+    82.0
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.204116
+  },
+  {
+   "segment": [
+    80.5,
+    81.5
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.342118
+  },
+  {
+   "segment": [
+    80.5,
+    81.5
+   ],
+   "verb": "open",
+   "noun": "freezer",
+   "score": 0.243261
+  },
+  {
+   "segment": [
+    80.5,
+    81.5
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.207412
+  },
+  {
+   "segment": [
+    81.0,
+    82.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.329889
+  },
+  {
+   "segment": [
+    81.0,
+    83.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.327957
+  },
+  {
+   "segment": [
+    81.0,
+    84.5
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.303306
+  },
+  {
+   "segment": [
+    81.0,
+    83.0
+   ],
+   "verb": "open",
+   "noun": "freezer",
+   "score": 0.279876
+  },
+  {
+   "segment": [
+    81.0,
+    87.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.27593
+  },
+  {
+   "segment": [
+    81.0,
+    82.0
+   ],
+   "verb": "open",
+   "noun": "freezer",
+   "score": 0.251618
+  },
+  {
+   "segment": [
+    81.0,
+    84.5
+   ],
+   "verb": "open",
+   "noun": "freezer",
+   "score": 0.237146
+  },
+  {
+   "segment": [
+    81.0,
+    87.0
+   ],
+   "verb": "open",
+   "noun": "freezer",
+   "score": 0.215651
+  },
+  {
+   "segment": [
+    81.0,
+    83.0
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.204069
+  },
+  {
+   "segment": [
+    81.0,
+    82.0
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.200548
+  },
+  {
+   "segment": [
+    81.0,
+    84.5
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.199506
+  },
+  {
+   "segment": [
+    81.0,
+    87.0
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.182013
+  },
+  {
+   "segment": [
+    81.5,
+    82.5
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.323763
+  },
+  {
+   "segment": [
+    81.5,
+    82.5
+   ],
+   "verb": "open",
+   "noun": "freezer",
+   "score": 0.297481
+  },
+  {
+   "segment": [
+    81.5,
+    82.5
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.200246
+  },
+  {
+   "segment": [
+    82.0,
+    83.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.32533
+  },
+  {
+   "segment": [
+    82.0,
+    83.0
+   ],
+   "verb": "open",
+   "noun": "freezer",
+   "score": 0.307117
+  },
+  {
+   "segment": [
+    82.0,
+    84.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.298469
+  },
+  {
+   "segment": [
+    82.0,
+    84.0
+   ],
+   "verb": "open",
+   "noun": "freezer",
+   "score": 0.243105
+  },
+  {
+   "segment": [
+    82.0,
+    83.0
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.207491
+  },
+  {
+   "segment": [
+    82.0,
+    84.0
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.199299
+  },
+  {
+   "segment": [
+    82.5,
+    83.5
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.290079
+  },
+  {
+   "segment": [
+    82.5,
+    86.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.27864
+  },
+  {
+   "segment": [
+    82.5,
+    83.5
+   ],
+   "verb": "open",
+   "noun": "freezer",
+   "score": 0.244614
+  },
+  {
+   "segment": [
+    82.5,
+    86.0
+   ],
+   "verb": "open",
+   "noun": "freezer",
+   "score": 0.209913
+  },
+  {
+   "segment": [
+    82.5,
+    86.0
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.191666
+  },
+  {
+   "segment": [
+    82.5,
+    83.5
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.187853
+  },
+  {
+   "segment": [
+    83.0,
+    85.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.274308
+  },
+  {
+   "segment": [
+    83.0,
+    84.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.271557
+  },
+  {
+   "segment": [
+    83.0,
+    85.0
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.196845
+  },
+  {
+   "segment": [
+    83.0,
+    84.0
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.190857
+  },
+  {
+   "segment": [
+    83.0,
+    85.0
+   ],
+   "verb": "open",
+   "noun": "freezer",
+   "score": 0.185335
+  },
+  {
+   "segment": [
+    83.0,
+    84.0
+   ],
+   "verb": "open",
+   "noun": "freezer",
+   "score": 0.16813
+  },
+  {
+   "segment": [
+    83.5,
+    84.5
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.279663
+  },
+  {
+   "segment": [
+    83.5,
+    84.5
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.207748
+  },
+  {
+   "segment": [
+    83.5,
+    84.5
+   ],
+   "verb": "remove",
+   "noun": "fridge",
+   "score": 0.167074
+  },
+  {
+   "segment": [
+    84.0,
+    85.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.275726
+  },
+  {
+   "segment": [
+    84.0,
+    86.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.269676
+  },
+  {
+   "segment": [
+    84.0,
+    87.5
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.233049
+  },
+  {
+   "segment": [
+    84.0,
+    90.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.232729
+  },
+  {
+   "segment": [
+    84.0,
+    86.0
+   ],
+   "verb": "open",
+   "noun": "freezer",
+   "score": 0.205807
+  },
+  {
+   "segment": [
+    84.0,
+    85.0
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.201287
+  },
+  {
+   "segment": [
+    84.0,
+    85.0
+   ],
+   "verb": "open",
+   "noun": "freezer",
+   "score": 0.198671
+  },
+  {
+   "segment": [
+    84.0,
+    90.0
+   ],
+   "verb": "open",
+   "noun": "freezer",
+   "score": 0.190885
+  },
+  {
+   "segment": [
+    84.0,
+    86.0
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.186443
+  },
+  {
+   "segment": [
+    84.0,
+    87.5
+   ],
+   "verb": "open",
+   "noun": "freezer",
+   "score": 0.178897
+  },
+  {
+   "segment": [
+    84.0,
+    87.5
+   ],
+   "verb": "remove",
+   "noun": "fridge",
+   "score": 0.157808
+  },
+  {
+   "segment": [
+    84.0,
+    90.0
+   ],
+   "verb": "remove",
+   "noun": "fridge",
+   "score": 0.156704
+  },
+  {
+   "segment": [
+    84.5,
+    85.5
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.287168
+  },
+  {
+   "segment": [
+    84.5,
+    85.5
+   ],
+   "verb": "open",
+   "noun": "freezer",
+   "score": 0.226355
+  },
+  {
+   "segment": [
+    84.5,
+    85.5
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.197453
+  },
+  {
+   "segment": [
+    85.0,
+    86.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.25899
+  },
+  {
+   "segment": [
+    85.0,
+    87.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.217246
+  },
+  {
+   "segment": [
+    85.0,
+    86.0
+   ],
+   "verb": "open",
+   "noun": "freezer",
+   "score": 0.211997
+  },
+  {
+   "segment": [
+    85.0,
+    86.0
+   ],
+   "verb": "remove",
+   "noun": "fridge",
+   "score": 0.181023
+  },
+  {
+   "segment": [
+    85.0,
+    87.0
+   ],
+   "verb": "open",
+   "noun": "freezer",
+   "score": 0.173031
+  },
+  {
+   "segment": [
+    85.0,
+    87.0
+   ],
+   "verb": "remove",
+   "noun": "fridge",
+   "score": 0.151188
+  },
+  {
+   "segment": [
+    85.5,
+    86.5
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.196704
+  },
+  {
+   "segment": [
+    85.5,
+    89.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.192688
+  },
+  {
+   "segment": [
+    85.5,
+    89.0
+   ],
+   "verb": "put",
+   "noun": "yoghurt",
+   "score": 0.187854
+  },
+  {
+   "segment": [
+    85.5,
+    89.0
+   ],
+   "verb": "open",
+   "noun": "freezer",
+   "score": 0.161103
+  },
+  {
+   "segment": [
+    85.5,
+    86.5
+   ],
+   "verb": "open",
+   "noun": "freezer",
+   "score": 0.147429
+  },
+  {
+   "segment": [
+    85.5,
+    86.5
+   ],
+   "verb": "put",
+   "noun": "fridge",
+   "score": 0.143686
+  },
+  {
+   "segment": [
+    86.0,
+    88.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.181228
+  },
+  {
+   "segment": [
+    86.0,
+    88.0
+   ],
+   "verb": "put",
+   "noun": "yoghurt",
+   "score": 0.176179
+  },
+  {
+   "segment": [
+    86.0,
+    87.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.170314
+  },
+  {
+   "segment": [
+    86.0,
+    88.0
+   ],
+   "verb": "open",
+   "noun": "freezer",
+   "score": 0.145989
+  },
+  {
+   "segment": [
+    86.0,
+    87.0
+   ],
+   "verb": "open",
+   "noun": "freezer",
+   "score": 0.127438
+  },
+  {
+   "segment": [
+    86.0,
+    87.0
+   ],
+   "verb": "remove",
+   "noun": "fridge",
+   "score": 0.117443
+  },
+  {
+   "segment": [
+    86.5,
+    87.5
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.174319
+  },
+  {
+   "segment": [
+    86.5,
+    87.5
+   ],
+   "verb": "put",
+   "noun": "yoghurt",
+   "score": 0.161107
+  },
+  {
+   "segment": [
+    86.5,
+    87.5
+   ],
+   "verb": "open",
+   "noun": "freezer",
+   "score": 0.144326
+  },
+  {
+   "segment": [
+    87.0,
+    93.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.27031
+  },
+  {
+   "segment": [
+    87.0,
+    90.5
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.242426
+  },
+  {
+   "segment": [
+    87.0,
+    89.0
+   ],
+   "verb": "put",
+   "noun": "yoghurt",
+   "score": 0.235862
+  },
+  {
+   "segment": [
+    87.0,
+    88.0
+   ],
+   "verb": "put",
+   "noun": "yoghurt",
+   "score": 0.232011
+  },
+  {
+   "segment": [
+    87.0,
+    90.5
+   ],
+   "verb": "open",
+   "noun": "freezer",
+   "score": 0.2072
+  },
+  {
+   "segment": [
+    87.0,
+    89.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.196097
+  },
+  {
+   "segment": [
+    87.0,
+    88.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.191715
+  },
+  {
+   "segment": [
+    87.0,
+    90.5
+   ],
+   "verb": "put",
+   "noun": "yoghurt",
+   "score": 0.188175
+  },
+  {
+   "segment": [
+    87.0,
+    93.0
+   ],
+   "verb": "open",
+   "noun": "freezer",
+   "score": 0.185898
+  },
+  {
+   "segment": [
+    87.0,
+    93.0
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.175012
+  },
+  {
+   "segment": [
+    87.0,
+    89.0
+   ],
+   "verb": "open",
+   "noun": "freezer",
+   "score": 0.172829
+  },
+  {
+   "segment": [
+    87.0,
+    88.0
+   ],
+   "verb": "open",
+   "noun": "freezer",
+   "score": 0.162755
+  },
+  {
+   "segment": [
+    87.5,
+    88.5
+   ],
+   "verb": "put",
+   "noun": "yoghurt",
+   "score": 0.270228
+  },
+  {
+   "segment": [
+    87.5,
+    88.5
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.197881
+  },
+  {
+   "segment": [
+    87.5,
+    88.5
+   ],
+   "verb": "put",
+   "noun": "container",
+   "score": 0.175215
+  },
+  {
+   "segment": [
+    88.0,
+    89.0
+   ],
+   "verb": "put",
+   "noun": "yoghurt",
+   "score": 0.239219
+  },
+  {
+   "segment": [
+    88.0,
+    90.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.237839
+  },
+  {
+   "segment": [
+    88.0,
+    90.0
+   ],
+   "verb": "open",
+   "noun": "freezer",
+   "score": 0.215428
+  },
+  {
+   "segment": [
+    88.0,
+    89.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.200173
+  },
+  {
+   "segment": [
+    88.0,
+    90.0
+   ],
+   "verb": "put",
+   "noun": "container",
+   "score": 0.193126
+  },
+  {
+   "segment": [
+    88.0,
+    89.0
+   ],
+   "verb": "put",
+   "noun": "container",
+   "score": 0.192561
+  },
+  {
+   "segment": [
+    88.5,
+    92.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.322166
+  },
+  {
+   "segment": [
+    88.5,
+    89.5
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.226402
+  },
+  {
+   "segment": [
+    88.5,
+    92.0
+   ],
+   "verb": "open",
+   "noun": "freezer",
+   "score": 0.21732
+  },
+  {
+   "segment": [
+    88.5,
+    89.5
+   ],
+   "verb": "open",
+   "noun": "freezer",
+   "score": 0.215383
+  },
+  {
+   "segment": [
+    88.5,
+    92.0
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.207593
+  },
+  {
+   "segment": [
+    88.5,
+    89.5
+   ],
+   "verb": "put",
+   "noun": "container",
+   "score": 0.202728
+  },
+  {
+   "segment": [
+    89.0,
+    91.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.319482
+  },
+  {
+   "segment": [
+    89.0,
+    90.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.269782
+  },
+  {
+   "segment": [
+    89.0,
+    90.0
+   ],
+   "verb": "open",
+   "noun": "freezer",
+   "score": 0.243192
+  },
+  {
+   "segment": [
+    89.0,
+    91.0
+   ],
+   "verb": "open",
+   "noun": "freezer",
+   "score": 0.240701
+  },
+  {
+   "segment": [
+    89.0,
+    91.0
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.201146
+  },
+  {
+   "segment": [
+    89.0,
+    90.0
+   ],
+   "verb": "put",
+   "noun": "container",
+   "score": 0.193666
+  },
+  {
+   "segment": [
+    89.5,
+    90.5
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.311976
+  },
+  {
+   "segment": [
+    89.5,
+    90.5
+   ],
+   "verb": "open",
+   "noun": "freezer",
+   "score": 0.248944
+  },
+  {
+   "segment": [
+    89.5,
+    90.5
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.198652
+  },
+  {
+   "segment": [
+    90.0,
+    92.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.356636
+  },
+  {
+   "segment": [
+    90.0,
+    91.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.354135
+  },
+  {
+   "segment": [
+    90.0,
+    93.5
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.276143
+  },
+  {
+   "segment": [
+    90.0,
+    91.0
+   ],
+   "verb": "open",
+   "noun": "freezer",
+   "score": 0.23696
+  },
+  {
+   "segment": [
+    90.0,
+    92.0
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.230936
+  },
+  {
+   "segment": [
+    90.0,
+    91.0
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.221219
+  },
+  {
+   "segment": [
+    90.0,
+    92.0
+   ],
+   "verb": "open",
+   "noun": "freezer",
+   "score": 0.209081
+  },
+  {
+   "segment": [
+    90.0,
+    93.5
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.18157
+  },
+  {
+   "segment": [
+    90.0,
+    93.5
+   ],
+   "verb": "open",
+   "noun": "freezer",
+   "score": 0.159105
+  },
+  {
+   "segment": [
+    90.5,
+    91.5
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.380931
+  },
+  {
+   "segment": [
+    90.5,
+    91.5
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.244609
+  },
+  {
+   "segment": [
+    90.5,
+    91.5
+   ],
+   "verb": "open",
+   "noun": "freezer",
+   "score": 0.213585
+  },
+  {
+   "segment": [
+    91.0,
+    92.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.358322
+  },
+  {
+   "segment": [
+    91.0,
+    93.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.272321
+  },
+  {
+   "segment": [
+    91.0,
+    92.0
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.239147
+  },
+  {
+   "segment": [
+    91.0,
+    93.0
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.185403
+  },
+  {
+   "segment": [
+    91.0,
+    92.0
+   ],
+   "verb": "open",
+   "noun": "freezer",
+   "score": 0.179258
+  },
+  {
+   "segment": [
+    91.0,
+    93.0
+   ],
+   "verb": "remove",
+   "noun": "fridge",
+   "score": 0.135524
+  },
+  {
+   "segment": [
+    91.5,
+    92.5
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.278067
+  },
+  {
+   "segment": [
+    91.5,
+    92.5
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.19379
+  },
+  {
+   "segment": [
+    91.5,
+    92.5
+   ],
+   "verb": "move",
+   "noun": "fridge",
+   "score": 0.137924
+  },
+  {
+   "segment": [
+    92.0,
+    93.0
+   ],
+   "verb": "transition",
+   "noun": "floor",
+   "score": 0.175416
+  },
+  {
+   "segment": [
+    92.0,
+    93.0
+   ],
+   "verb": "take",
+   "noun": "floor",
+   "score": 0.166034
+  },
+  {
+   "segment": [
+    92.0,
+    93.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.15576
+  },
+  {
+   "segment": [
+    92.5,
+    93.5
+   ],
+   "verb": "transition",
+   "noun": "floor",
+   "score": 0.226099
+  },
+  {
+   "segment": [
+    92.5,
+    93.5
+   ],
+   "verb": "take",
+   "noun": "floor",
+   "score": 0.217504
+  },
+  {
+   "segment": [
+    92.5,
+    93.5
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.161579
+  }
+ ],
+ "highlights": [
+  {
+   "segment": [
+    19.0,
+    23.62
+   ]
+  },
+  {
+   "segment": [
+    33.0,
+    37.62
+   ]
+  },
+  {
+   "segment": [
+    48.5,
+    53.12
+   ]
+  }
+ ]
+}

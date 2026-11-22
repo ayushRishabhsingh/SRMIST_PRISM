@@ -1,0 +1,36 @@
+{
+ "team_id": "SRMIST_PRISM",
+ "video_id": "BikePolo_DHbYfmjX3WQ_3",
+ "duration_sec": 169.62,
+ "label": {
+  "name": "bikepolo",
+  "score": 0.9795
+ },
+ "actions": [],
+ "highlights": [
+  {
+   "segment": [
+    4.0,
+    8.1
+   ]
+  },
+  {
+   "segment": [
+    76.5,
+    87.1
+   ]
+  },
+  {
+   "segment": [
+    106.0,
+    110.1
+   ]
+  },
+  {
+   "segment": [
+    112.0,
+    116.1
+   ]
+  }
+ ]
+}

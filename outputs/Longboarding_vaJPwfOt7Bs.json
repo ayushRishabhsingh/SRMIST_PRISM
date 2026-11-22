@@ -1,0 +1,48 @@
+{
+ "team_id": "SRMIST_PRISM",
+ "video_id": "Longboarding_vaJPwfOt7Bs",
+ "duration_sec": 202.64,
+ "label": {
+  "name": "longboarding",
+  "score": 0.9581
+ },
+ "actions": [],
+ "highlights": [
+  {
+   "segment": [
+    64.0,
+    68.1
+   ]
+  },
+  {
+   "segment": [
+    93.0,
+    102.1
+   ]
+  },
+  {
+   "segment": [
+    124.0,
+    128.1
+   ]
+  },
+  {
+   "segment": [
+    136.0,
+    140.1
+   ]
+  },
+  {
+   "segment": [
+    151.0,
+    155.1
+   ]
+  },
+  {
+   "segment": [
+    156.0,
+    160.1
+   ]
+  }
+ ]
+}

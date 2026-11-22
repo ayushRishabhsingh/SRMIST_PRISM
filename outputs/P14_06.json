@@ -1,0 +1,6802 @@
+{
+ "team_id": "SRMIST_PRISM",
+ "video_id": "P14_06",
+ "duration_sec": 64.55,
+ "label": {
+  "name": "cooking",
+  "score": 0.9977
+ },
+ "actions": [
+  {
+   "segment": [
+    0.0,
+    6.0
+   ],
+   "verb": "put",
+   "noun": "rack:drying",
+   "score": 0.214462
+  },
+  {
+   "segment": [
+    0.0,
+    2.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.206379
+  },
+  {
+   "segment": [
+    0.0,
+    3.5
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.196703
+  },
+  {
+   "segment": [
+    0.0,
+    1.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.172726
+  },
+  {
+   "segment": [
+    0.0,
+    6.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.169695
+  },
+  {
+   "segment": [
+    0.0,
+    2.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.169535
+  },
+  {
+   "segment": [
+    0.0,
+    3.5
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.165499
+  },
+  {
+   "segment": [
+    0.0,
+    6.0
+   ],
+   "verb": "move",
+   "noun": "rack:drying",
+   "score": 0.160058
+  },
+  {
+   "segment": [
+    0.0,
+    3.5
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.158895
+  },
+  {
+   "segment": [
+    0.0,
+    1.0
+   ],
+   "verb": "insert",
+   "noun": "rubbish",
+   "score": 0.14295
+  },
+  {
+   "segment": [
+    0.0,
+    1.0
+   ],
+   "verb": "remove",
+   "noun": "rubbish",
+   "score": 0.140648
+  },
+  {
+   "segment": [
+    0.0,
+    2.0
+   ],
+   "verb": "remove",
+   "noun": "rubbish",
+   "score": 0.126883
+  },
+  {
+   "segment": [
+    0.5,
+    1.5
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.210424
+  },
+  {
+   "segment": [
+    0.5,
+    1.5
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.166212
+  },
+  {
+   "segment": [
+    0.5,
+    1.5
+   ],
+   "verb": "remove",
+   "noun": "rubbish",
+   "score": 0.136831
+  },
+  {
+   "segment": [
+    1.0,
+    2.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.233536
+  },
+  {
+   "segment": [
+    1.0,
+    3.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.221275
+  },
+  {
+   "segment": [
+    1.0,
+    2.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.196881
+  },
+  {
+   "segment": [
+    1.0,
+    3.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.191161
+  },
+  {
+   "segment": [
+    1.0,
+    3.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.183022
+  },
+  {
+   "segment": [
+    1.0,
+    2.0
+   ],
+   "verb": "move",
+   "noun": "cupboard",
+   "score": 0.155038
+  },
+  {
+   "segment": [
+    1.5,
+    5.0
+   ],
+   "verb": "put",
+   "noun": "rack:drying",
+   "score": 0.248054
+  },
+  {
+   "segment": [
+    1.5,
+    2.5
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.234154
+  },
+  {
+   "segment": [
+    1.5,
+    2.5
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.2066
+  },
+  {
+   "segment": [
+    1.5,
+    2.5
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.189784
+  },
+  {
+   "segment": [
+    1.5,
+    5.0
+   ],
+   "verb": "move",
+   "noun": "rack:drying",
+   "score": 0.183674
+  },
+  {
+   "segment": [
+    1.5,
+    5.0
+   ],
+   "verb": "filter",
+   "noun": "rack:drying",
+   "score": 0.182906
+  },
+  {
+   "segment": [
+    2.0,
+    3.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.209041
+  },
+  {
+   "segment": [
+    2.0,
+    3.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.207977
+  },
+  {
+   "segment": [
+    2.0,
+    4.0
+   ],
+   "verb": "put",
+   "noun": "rack:drying",
+   "score": 0.189103
+  },
+  {
+   "segment": [
+    2.0,
+    4.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.187245
+  },
+  {
+   "segment": [
+    2.0,
+    3.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.185111
+  },
+  {
+   "segment": [
+    2.0,
+    4.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.167716
+  },
+  {
+   "segment": [
+    2.5,
+    3.5
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.189174
+  },
+  {
+   "segment": [
+    2.5,
+    3.5
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.159746
+  },
+  {
+   "segment": [
+    2.5,
+    3.5
+   ],
+   "verb": "put",
+   "noun": "rack:drying",
+   "score": 0.155326
+  },
+  {
+   "segment": [
+    3.0,
+    5.0
+   ],
+   "verb": "put",
+   "noun": "rack:drying",
+   "score": 0.341668
+  },
+  {
+   "segment": [
+    3.0,
+    6.5
+   ],
+   "verb": "put",
+   "noun": "rack:drying",
+   "score": 0.288047
+  },
+  {
+   "segment": [
+    3.0,
+    4.0
+   ],
+   "verb": "put",
+   "noun": "rack:drying",
+   "score": 0.269229
+  },
+  {
+   "segment": [
+    3.0,
+    5.0
+   ],
+   "verb": "move",
+   "noun": "rack:drying",
+   "score": 0.252946
+  },
+  {
+   "segment": [
+    3.0,
+    5.0
+   ],
+   "verb": "filter",
+   "noun": "rack:drying",
+   "score": 0.252691
+  },
+  {
+   "segment": [
+    3.0,
+    9.0
+   ],
+   "verb": "put",
+   "noun": "rack:drying",
+   "score": 0.224502
+  },
+  {
+   "segment": [
+    3.0,
+    6.5
+   ],
+   "verb": "move",
+   "noun": "rack:drying",
+   "score": 0.21507
+  },
+  {
+   "segment": [
+    3.0,
+    6.5
+   ],
+   "verb": "filter",
+   "noun": "rack:drying",
+   "score": 0.204974
+  },
+  {
+   "segment": [
+    3.0,
+    4.0
+   ],
+   "verb": "filter",
+   "noun": "rack:drying",
+   "score": 0.201969
+  },
+  {
+   "segment": [
+    3.0,
+    4.0
+   ],
+   "verb": "move",
+   "noun": "rack:drying",
+   "score": 0.198934
+  },
+  {
+   "segment": [
+    3.0,
+    9.0
+   ],
+   "verb": "move",
+   "noun": "rack:drying",
+   "score": 0.167481
+  },
+  {
+   "segment": [
+    3.0,
+    9.0
+   ],
+   "verb": "filter",
+   "noun": "rack:drying",
+   "score": 0.158954
+  },
+  {
+   "segment": [
+    3.5,
+    4.5
+   ],
+   "verb": "put",
+   "noun": "rack:drying",
+   "score": 0.371112
+  },
+  {
+   "segment": [
+    3.5,
+    4.5
+   ],
+   "verb": "filter",
+   "noun": "rack:drying",
+   "score": 0.282667
+  },
+  {
+   "segment": [
+    3.5,
+    4.5
+   ],
+   "verb": "move",
+   "noun": "rack:drying",
+   "score": 0.273059
+  },
+  {
+   "segment": [
+    4.0,
+    5.0
+   ],
+   "verb": "put",
+   "noun": "rack:drying",
+   "score": 0.40966
+  },
+  {
+   "segment": [
+    4.0,
+    6.0
+   ],
+   "verb": "put",
+   "noun": "rack:drying",
+   "score": 0.33492
+  },
+  {
+   "segment": [
+    4.0,
+    5.0
+   ],
+   "verb": "move",
+   "noun": "rack:drying",
+   "score": 0.303585
+  },
+  {
+   "segment": [
+    4.0,
+    5.0
+   ],
+   "verb": "filter",
+   "noun": "rack:drying",
+   "score": 0.300695
+  },
+  {
+   "segment": [
+    4.0,
+    6.0
+   ],
+   "verb": "move",
+   "noun": "rack:drying",
+   "score": 0.250883
+  },
+  {
+   "segment": [
+    4.0,
+    6.0
+   ],
+   "verb": "filter",
+   "noun": "rack:drying",
+   "score": 0.233766
+  },
+  {
+   "segment": [
+    4.5,
+    5.5
+   ],
+   "verb": "put",
+   "noun": "rack:drying",
+   "score": 0.36462
+  },
+  {
+   "segment": [
+    4.5,
+    5.5
+   ],
+   "verb": "move",
+   "noun": "rack:drying",
+   "score": 0.273614
+  },
+  {
+   "segment": [
+    4.5,
+    5.5
+   ],
+   "verb": "filter",
+   "noun": "rack:drying",
+   "score": 0.250403
+  },
+  {
+   "segment": [
+    4.5,
+    8.0
+   ],
+   "verb": "put",
+   "noun": "rack:drying",
+   "score": 0.205349
+  },
+  {
+   "segment": [
+    4.5,
+    8.0
+   ],
+   "verb": "move",
+   "noun": "rack:drying",
+   "score": 0.155356
+  },
+  {
+   "segment": [
+    4.5,
+    8.0
+   ],
+   "verb": "filter",
+   "noun": "rack:drying",
+   "score": 0.136133
+  },
+  {
+   "segment": [
+    5.0,
+    6.0
+   ],
+   "verb": "put",
+   "noun": "rack:drying",
+   "score": 0.256139
+  },
+  {
+   "segment": [
+    5.0,
+    6.0
+   ],
+   "verb": "move",
+   "noun": "rack:drying",
+   "score": 0.195924
+  },
+  {
+   "segment": [
+    5.0,
+    7.0
+   ],
+   "verb": "put",
+   "noun": "rack:drying",
+   "score": 0.183154
+  },
+  {
+   "segment": [
+    5.0,
+    6.0
+   ],
+   "verb": "filter",
+   "noun": "rack:drying",
+   "score": 0.158656
+  },
+  {
+   "segment": [
+    5.0,
+    7.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.141489
+  },
+  {
+   "segment": [
+    5.0,
+    7.0
+   ],
+   "verb": "move",
+   "noun": "rack:drying",
+   "score": 0.140313
+  },
+  {
+   "segment": [
+    5.5,
+    6.5
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.153987
+  },
+  {
+   "segment": [
+    5.5,
+    6.5
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.150414
+  },
+  {
+   "segment": [
+    5.5,
+    6.5
+   ],
+   "verb": "put",
+   "noun": "rack:drying",
+   "score": 0.141161
+  },
+  {
+   "segment": [
+    6.0,
+    12.0
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.218373
+  },
+  {
+   "segment": [
+    6.0,
+    12.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.197325
+  },
+  {
+   "segment": [
+    6.0,
+    7.0
+   ],
+   "verb": "empty",
+   "noun": "bowl",
+   "score": 0.158429
+  },
+  {
+   "segment": [
+    6.0,
+    12.0
+   ],
+   "verb": "open",
+   "noun": "drawer",
+   "score": 0.15471
+  },
+  {
+   "segment": [
+    6.0,
+    7.0
+   ],
+   "verb": "put",
+   "noun": "bowl",
+   "score": 0.151127
+  },
+  {
+   "segment": [
+    6.0,
+    8.0
+   ],
+   "verb": "put",
+   "noun": "cup",
+   "score": 0.148843
+  },
+  {
+   "segment": [
+    6.0,
+    8.0
+   ],
+   "verb": "empty",
+   "noun": "bowl",
+   "score": 0.144328
+  },
+  {
+   "segment": [
+    6.0,
+    9.5
+   ],
+   "verb": "take",
+   "noun": "toaster",
+   "score": 0.140704
+  },
+  {
+   "segment": [
+    6.0,
+    8.0
+   ],
+   "verb": "put",
+   "noun": "bowl",
+   "score": 0.139636
+  },
+  {
+   "segment": [
+    6.0,
+    9.5
+   ],
+   "verb": "turn-on",
+   "noun": "toaster",
+   "score": 0.138119
+  },
+  {
+   "segment": [
+    6.0,
+    7.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.13548
+  },
+  {
+   "segment": [
+    6.0,
+    9.5
+   ],
+   "verb": "turn-off",
+   "noun": "toaster",
+   "score": 0.135071
+  },
+  {
+   "segment": [
+    6.5,
+    7.5
+   ],
+   "verb": "empty",
+   "noun": "bowl",
+   "score": 0.167439
+  },
+  {
+   "segment": [
+    6.5,
+    7.5
+   ],
+   "verb": "put",
+   "noun": "cup",
+   "score": 0.162841
+  },
+  {
+   "segment": [
+    6.5,
+    7.5
+   ],
+   "verb": "put",
+   "noun": "bowl",
+   "score": 0.161396
+  },
+  {
+   "segment": [
+    7.0,
+    8.0
+   ],
+   "verb": "put",
+   "noun": "cup",
+   "score": 0.178134
+  },
+  {
+   "segment": [
+    7.0,
+    9.0
+   ],
+   "verb": "take",
+   "noun": "toaster",
+   "score": 0.172578
+  },
+  {
+   "segment": [
+    7.0,
+    9.0
+   ],
+   "verb": "turn-on",
+   "noun": "toaster",
+   "score": 0.171139
+  },
+  {
+   "segment": [
+    7.0,
+    9.0
+   ],
+   "verb": "turn-off",
+   "noun": "toaster",
+   "score": 0.161014
+  },
+  {
+   "segment": [
+    7.0,
+    8.0
+   ],
+   "verb": "turn-on",
+   "noun": "toaster",
+   "score": 0.145712
+  },
+  {
+   "segment": [
+    7.0,
+    8.0
+   ],
+   "verb": "take",
+   "noun": "toaster",
+   "score": 0.144651
+  },
+  {
+   "segment": [
+    7.5,
+    11.0
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.255885
+  },
+  {
+   "segment": [
+    7.5,
+    11.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.212714
+  },
+  {
+   "segment": [
+    7.5,
+    8.5
+   ],
+   "verb": "turn-on",
+   "noun": "toaster",
+   "score": 0.177638
+  },
+  {
+   "segment": [
+    7.5,
+    8.5
+   ],
+   "verb": "take",
+   "noun": "toaster",
+   "score": 0.177124
+  },
+  {
+   "segment": [
+    7.5,
+    8.5
+   ],
+   "verb": "put",
+   "noun": "cup",
+   "score": 0.160357
+  },
+  {
+   "segment": [
+    7.5,
+    11.0
+   ],
+   "verb": "move",
+   "noun": "fridge",
+   "score": 0.144349
+  },
+  {
+   "segment": [
+    8.0,
+    9.0
+   ],
+   "verb": "take",
+   "noun": "toaster",
+   "score": 0.196127
+  },
+  {
+   "segment": [
+    8.0,
+    9.0
+   ],
+   "verb": "turn-on",
+   "noun": "toaster",
+   "score": 0.192831
+  },
+  {
+   "segment": [
+    8.0,
+    10.0
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.188576
+  },
+  {
+   "segment": [
+    8.0,
+    9.0
+   ],
+   "verb": "turn-off",
+   "noun": "toaster",
+   "score": 0.1877
+  },
+  {
+   "segment": [
+    8.0,
+    10.0
+   ],
+   "verb": "turn-off",
+   "noun": "toaster",
+   "score": 0.170686
+  },
+  {
+   "segment": [
+    8.0,
+    10.0
+   ],
+   "verb": "take",
+   "noun": "toaster",
+   "score": 0.167675
+  },
+  {
+   "segment": [
+    8.5,
+    9.5
+   ],
+   "verb": "turn-off",
+   "noun": "toaster",
+   "score": 0.188388
+  },
+  {
+   "segment": [
+    8.5,
+    9.5
+   ],
+   "verb": "take",
+   "noun": "toaster",
+   "score": 0.18135
+  },
+  {
+   "segment": [
+    8.5,
+    9.5
+   ],
+   "verb": "turn-on",
+   "noun": "toaster",
+   "score": 0.174436
+  },
+  {
+   "segment": [
+    9.0,
+    11.0
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.324363
+  },
+  {
+   "segment": [
+    9.0,
+    12.5
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.285941
+  },
+  {
+   "segment": [
+    9.0,
+    12.5
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.270584
+  },
+  {
+   "segment": [
+    9.0,
+    11.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.269227
+  },
+  {
+   "segment": [
+    9.0,
+    10.0
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.251468
+  },
+  {
+   "segment": [
+    9.0,
+    15.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.248096
+  },
+  {
+   "segment": [
+    9.0,
+    15.0
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.24223
+  },
+  {
+   "segment": [
+    9.0,
+    15.0
+   ],
+   "verb": "remove",
+   "noun": "fridge",
+   "score": 0.233252
+  },
+  {
+   "segment": [
+    9.0,
+    12.5
+   ],
+   "verb": "open",
+   "noun": "freezer",
+   "score": 0.215485
+  },
+  {
+   "segment": [
+    9.0,
+    10.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.210613
+  },
+  {
+   "segment": [
+    9.0,
+    11.0
+   ],
+   "verb": "move",
+   "noun": "fridge",
+   "score": 0.182999
+  },
+  {
+   "segment": [
+    9.0,
+    10.0
+   ],
+   "verb": "move",
+   "noun": "fridge",
+   "score": 0.158028
+  },
+  {
+   "segment": [
+    9.5,
+    10.5
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.359176
+  },
+  {
+   "segment": [
+    9.5,
+    10.5
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.29549
+  },
+  {
+   "segment": [
+    9.5,
+    10.5
+   ],
+   "verb": "move",
+   "noun": "fridge",
+   "score": 0.205212
+  },
+  {
+   "segment": [
+    10.0,
+    11.0
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.387424
+  },
+  {
+   "segment": [
+    10.0,
+    12.0
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.32149
+  },
+  {
+   "segment": [
+    10.0,
+    11.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.320239
+  },
+  {
+   "segment": [
+    10.0,
+    12.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.296384
+  },
+  {
+   "segment": [
+    10.0,
+    12.0
+   ],
+   "verb": "open",
+   "noun": "drawer",
+   "score": 0.233794
+  },
+  {
+   "segment": [
+    10.0,
+    11.0
+   ],
+   "verb": "move",
+   "noun": "fridge",
+   "score": 0.206302
+  },
+  {
+   "segment": [
+    10.5,
+    11.5
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.326677
+  },
+  {
+   "segment": [
+    10.5,
+    11.5
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.291605
+  },
+  {
+   "segment": [
+    10.5,
+    14.0
+   ],
+   "verb": "remove",
+   "noun": "fridge",
+   "score": 0.26731
+  },
+  {
+   "segment": [
+    10.5,
+    14.0
+   ],
+   "verb": "open",
+   "noun": "freezer",
+   "score": 0.266696
+  },
+  {
+   "segment": [
+    10.5,
+    14.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.26096
+  },
+  {
+   "segment": [
+    10.5,
+    11.5
+   ],
+   "verb": "open",
+   "noun": "drawer",
+   "score": 0.25732
+  },
+  {
+   "segment": [
+    11.0,
+    13.0
+   ],
+   "verb": "open",
+   "noun": "freezer",
+   "score": 0.286819
+  },
+  {
+   "segment": [
+    11.0,
+    12.0
+   ],
+   "verb": "open",
+   "noun": "drawer",
+   "score": 0.277006
+  },
+  {
+   "segment": [
+    11.0,
+    12.0
+   ],
+   "verb": "open",
+   "noun": "freezer",
+   "score": 0.271378
+  },
+  {
+   "segment": [
+    11.0,
+    12.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.269677
+  },
+  {
+   "segment": [
+    11.0,
+    13.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.268204
+  },
+  {
+   "segment": [
+    11.0,
+    13.0
+   ],
+   "verb": "remove",
+   "noun": "fridge",
+   "score": 0.267876
+  },
+  {
+   "segment": [
+    11.5,
+    12.5
+   ],
+   "verb": "open",
+   "noun": "freezer",
+   "score": 0.304574
+  },
+  {
+   "segment": [
+    11.5,
+    12.5
+   ],
+   "verb": "remove",
+   "noun": "fridge",
+   "score": 0.271356
+  },
+  {
+   "segment": [
+    11.5,
+    12.5
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.260318
+  },
+  {
+   "segment": [
+    12.0,
+    13.0
+   ],
+   "verb": "remove",
+   "noun": "fridge",
+   "score": 0.312243
+  },
+  {
+   "segment": [
+    12.0,
+    14.0
+   ],
+   "verb": "remove",
+   "noun": "fridge",
+   "score": 0.310438
+  },
+  {
+   "segment": [
+    12.0,
+    13.0
+   ],
+   "verb": "open",
+   "noun": "freezer",
+   "score": 0.301678
+  },
+  {
+   "segment": [
+    12.0,
+    14.0
+   ],
+   "verb": "open",
+   "noun": "freezer",
+   "score": 0.286722
+  },
+  {
+   "segment": [
+    12.0,
+    13.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.266683
+  },
+  {
+   "segment": [
+    12.0,
+    15.5
+   ],
+   "verb": "remove",
+   "noun": "fridge",
+   "score": 0.251949
+  },
+  {
+   "segment": [
+    12.0,
+    14.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.247442
+  },
+  {
+   "segment": [
+    12.0,
+    15.5
+   ],
+   "verb": "open",
+   "noun": "freezer",
+   "score": 0.236315
+  },
+  {
+   "segment": [
+    12.0,
+    15.5
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.209124
+  },
+  {
+   "segment": [
+    12.0,
+    18.0
+   ],
+   "verb": "remove",
+   "noun": "fridge",
+   "score": 0.205306
+  },
+  {
+   "segment": [
+    12.0,
+    18.0
+   ],
+   "verb": "open",
+   "noun": "freezer",
+   "score": 0.192865
+  },
+  {
+   "segment": [
+    12.0,
+    18.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.175039
+  },
+  {
+   "segment": [
+    12.5,
+    13.5
+   ],
+   "verb": "remove",
+   "noun": "fridge",
+   "score": 0.315632
+  },
+  {
+   "segment": [
+    12.5,
+    13.5
+   ],
+   "verb": "open",
+   "noun": "freezer",
+   "score": 0.270774
+  },
+  {
+   "segment": [
+    12.5,
+    13.5
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.239795
+  },
+  {
+   "segment": [
+    13.0,
+    14.0
+   ],
+   "verb": "remove",
+   "noun": "fridge",
+   "score": 0.308562
+  },
+  {
+   "segment": [
+    13.0,
+    14.0
+   ],
+   "verb": "open",
+   "noun": "freezer",
+   "score": 0.270614
+  },
+  {
+   "segment": [
+    13.0,
+    15.0
+   ],
+   "verb": "remove",
+   "noun": "fridge",
+   "score": 0.254755
+  },
+  {
+   "segment": [
+    13.0,
+    15.0
+   ],
+   "verb": "open",
+   "noun": "freezer",
+   "score": 0.233278
+  },
+  {
+   "segment": [
+    13.0,
+    14.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.226142
+  },
+  {
+   "segment": [
+    13.0,
+    15.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.199076
+  },
+  {
+   "segment": [
+    13.5,
+    14.5
+   ],
+   "verb": "remove",
+   "noun": "fridge",
+   "score": 0.272013
+  },
+  {
+   "segment": [
+    13.5,
+    14.5
+   ],
+   "verb": "open",
+   "noun": "freezer",
+   "score": 0.258564
+  },
+  {
+   "segment": [
+    13.5,
+    14.5
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.213124
+  },
+  {
+   "segment": [
+    13.5,
+    17.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.2011
+  },
+  {
+   "segment": [
+    13.5,
+    17.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.185635
+  },
+  {
+   "segment": [
+    13.5,
+    17.0
+   ],
+   "verb": "put",
+   "noun": "cereal",
+   "score": 0.157935
+  },
+  {
+   "segment": [
+    14.0,
+    16.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.232648
+  },
+  {
+   "segment": [
+    14.0,
+    15.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.231383
+  },
+  {
+   "segment": [
+    14.0,
+    16.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.218803
+  },
+  {
+   "segment": [
+    14.0,
+    15.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.209013
+  },
+  {
+   "segment": [
+    14.0,
+    15.0
+   ],
+   "verb": "open",
+   "noun": "freezer",
+   "score": 0.192246
+  },
+  {
+   "segment": [
+    14.0,
+    16.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.137794
+  },
+  {
+   "segment": [
+    14.5,
+    15.5
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.250207
+  },
+  {
+   "segment": [
+    14.5,
+    15.5
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.236582
+  },
+  {
+   "segment": [
+    14.5,
+    15.5
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.128512
+  },
+  {
+   "segment": [
+    15.0,
+    21.0
+   ],
+   "verb": "open",
+   "noun": "cereal",
+   "score": 0.237973
+  },
+  {
+   "segment": [
+    15.0,
+    16.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.232394
+  },
+  {
+   "segment": [
+    15.0,
+    16.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.22562
+  },
+  {
+   "segment": [
+    15.0,
+    21.0
+   ],
+   "verb": "open",
+   "noun": "milk",
+   "score": 0.222533
+  },
+  {
+   "segment": [
+    15.0,
+    18.5
+   ],
+   "verb": "open",
+   "noun": "cereal",
+   "score": 0.219447
+  },
+  {
+   "segment": [
+    15.0,
+    17.0
+   ],
+   "verb": "put",
+   "noun": "cereal",
+   "score": 0.209698
+  },
+  {
+   "segment": [
+    15.0,
+    18.5
+   ],
+   "verb": "put",
+   "noun": "cereal",
+   "score": 0.208181
+  },
+  {
+   "segment": [
+    15.0,
+    17.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.204567
+  },
+  {
+   "segment": [
+    15.0,
+    21.0
+   ],
+   "verb": "put",
+   "noun": "cereal",
+   "score": 0.200793
+  },
+  {
+   "segment": [
+    15.0,
+    17.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.192572
+  },
+  {
+   "segment": [
+    15.0,
+    18.5
+   ],
+   "verb": "open",
+   "noun": "milk",
+   "score": 0.186826
+  },
+  {
+   "segment": [
+    15.0,
+    16.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.144042
+  },
+  {
+   "segment": [
+    15.5,
+    16.5
+   ],
+   "verb": "put",
+   "noun": "cereal",
+   "score": 0.227597
+  },
+  {
+   "segment": [
+    15.5,
+    16.5
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.186256
+  },
+  {
+   "segment": [
+    15.5,
+    16.5
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.179854
+  },
+  {
+   "segment": [
+    16.0,
+    17.0
+   ],
+   "verb": "put",
+   "noun": "cereal",
+   "score": 0.274555
+  },
+  {
+   "segment": [
+    16.0,
+    18.0
+   ],
+   "verb": "open",
+   "noun": "cereal",
+   "score": 0.257521
+  },
+  {
+   "segment": [
+    16.0,
+    18.0
+   ],
+   "verb": "put",
+   "noun": "cereal",
+   "score": 0.24204
+  },
+  {
+   "segment": [
+    16.0,
+    18.0
+   ],
+   "verb": "open",
+   "noun": "milk",
+   "score": 0.235147
+  },
+  {
+   "segment": [
+    16.0,
+    17.0
+   ],
+   "verb": "open",
+   "noun": "cereal",
+   "score": 0.220194
+  },
+  {
+   "segment": [
+    16.0,
+    17.0
+   ],
+   "verb": "insert",
+   "noun": "cereal",
+   "score": 0.207955
+  },
+  {
+   "segment": [
+    16.5,
+    20.0
+   ],
+   "verb": "open",
+   "noun": "cereal",
+   "score": 0.296797
+  },
+  {
+   "segment": [
+    16.5,
+    20.0
+   ],
+   "verb": "open",
+   "noun": "milk",
+   "score": 0.276887
+  },
+  {
+   "segment": [
+    16.5,
+    17.5
+   ],
+   "verb": "open",
+   "noun": "cereal",
+   "score": 0.27215
+  },
+  {
+   "segment": [
+    16.5,
+    17.5
+   ],
+   "verb": "open",
+   "noun": "milk",
+   "score": 0.259754
+  },
+  {
+   "segment": [
+    16.5,
+    17.5
+   ],
+   "verb": "put",
+   "noun": "cereal",
+   "score": 0.249452
+  },
+  {
+   "segment": [
+    16.5,
+    20.0
+   ],
+   "verb": "insert",
+   "noun": "cereal",
+   "score": 0.22043
+  },
+  {
+   "segment": [
+    17.0,
+    19.0
+   ],
+   "verb": "open",
+   "noun": "cereal",
+   "score": 0.314524
+  },
+  {
+   "segment": [
+    17.0,
+    18.0
+   ],
+   "verb": "open",
+   "noun": "cereal",
+   "score": 0.294619
+  },
+  {
+   "segment": [
+    17.0,
+    19.0
+   ],
+   "verb": "open",
+   "noun": "milk",
+   "score": 0.268851
+  },
+  {
+   "segment": [
+    17.0,
+    18.0
+   ],
+   "verb": "open",
+   "noun": "milk",
+   "score": 0.265722
+  },
+  {
+   "segment": [
+    17.0,
+    18.0
+   ],
+   "verb": "put",
+   "noun": "milk",
+   "score": 0.243512
+  },
+  {
+   "segment": [
+    17.0,
+    19.0
+   ],
+   "verb": "insert",
+   "noun": "cereal",
+   "score": 0.221196
+  },
+  {
+   "segment": [
+    17.5,
+    18.5
+   ],
+   "verb": "open",
+   "noun": "cereal",
+   "score": 0.320731
+  },
+  {
+   "segment": [
+    17.5,
+    18.5
+   ],
+   "verb": "open",
+   "noun": "milk",
+   "score": 0.236844
+  },
+  {
+   "segment": [
+    17.5,
+    18.5
+   ],
+   "verb": "insert",
+   "noun": "cereal",
+   "score": 0.232033
+  },
+  {
+   "segment": [
+    18.0,
+    24.0
+   ],
+   "verb": "pour",
+   "noun": "milk",
+   "score": 0.398895
+  },
+  {
+   "segment": [
+    18.0,
+    19.0
+   ],
+   "verb": "open",
+   "noun": "cereal",
+   "score": 0.333786
+  },
+  {
+   "segment": [
+    18.0,
+    20.0
+   ],
+   "verb": "open",
+   "noun": "cereal",
+   "score": 0.304301
+  },
+  {
+   "segment": [
+    18.0,
+    20.0
+   ],
+   "verb": "open",
+   "noun": "milk",
+   "score": 0.293884
+  },
+  {
+   "segment": [
+    18.0,
+    19.0
+   ],
+   "verb": "open",
+   "noun": "milk",
+   "score": 0.271972
+  },
+  {
+   "segment": [
+    18.0,
+    21.5
+   ],
+   "verb": "pour",
+   "noun": "milk",
+   "score": 0.262807
+  },
+  {
+   "segment": [
+    18.0,
+    21.5
+   ],
+   "verb": "open",
+   "noun": "cereal",
+   "score": 0.261493
+  },
+  {
+   "segment": [
+    18.0,
+    21.5
+   ],
+   "verb": "open",
+   "noun": "milk",
+   "score": 0.2515
+  },
+  {
+   "segment": [
+    18.0,
+    24.0
+   ],
+   "verb": "put",
+   "noun": "milk",
+   "score": 0.250502
+  },
+  {
+   "segment": [
+    18.0,
+    19.0
+   ],
+   "verb": "insert",
+   "noun": "cereal",
+   "score": 0.241592
+  },
+  {
+   "segment": [
+    18.0,
+    20.0
+   ],
+   "verb": "insert",
+   "noun": "cereal",
+   "score": 0.226132
+  },
+  {
+   "segment": [
+    18.0,
+    24.0
+   ],
+   "verb": "pour",
+   "noun": "cereal",
+   "score": 0.213617
+  },
+  {
+   "segment": [
+    18.5,
+    19.5
+   ],
+   "verb": "open",
+   "noun": "cereal",
+   "score": 0.330692
+  },
+  {
+   "segment": [
+    18.5,
+    19.5
+   ],
+   "verb": "open",
+   "noun": "milk",
+   "score": 0.313939
+  },
+  {
+   "segment": [
+    18.5,
+    19.5
+   ],
+   "verb": "insert",
+   "noun": "cereal",
+   "score": 0.240187
+  },
+  {
+   "segment": [
+    19.0,
+    20.0
+   ],
+   "verb": "open",
+   "noun": "milk",
+   "score": 0.313018
+  },
+  {
+   "segment": [
+    19.0,
+    20.0
+   ],
+   "verb": "open",
+   "noun": "cereal",
+   "score": 0.273226
+  },
+  {
+   "segment": [
+    19.0,
+    21.0
+   ],
+   "verb": "open",
+   "noun": "milk",
+   "score": 0.261692
+  },
+  {
+   "segment": [
+    19.0,
+    21.0
+   ],
+   "verb": "pour",
+   "noun": "milk",
+   "score": 0.252383
+  },
+  {
+   "segment": [
+    19.0,
+    21.0
+   ],
+   "verb": "open",
+   "noun": "cereal",
+   "score": 0.242138
+  },
+  {
+   "segment": [
+    19.0,
+    20.0
+   ],
+   "verb": "insert",
+   "noun": "cereal",
+   "score": 0.210274
+  },
+  {
+   "segment": [
+    19.5,
+    23.0
+   ],
+   "verb": "pour",
+   "noun": "milk",
+   "score": 0.409292
+  },
+  {
+   "segment": [
+    19.5,
+    20.5
+   ],
+   "verb": "open",
+   "noun": "milk",
+   "score": 0.266988
+  },
+  {
+   "segment": [
+    19.5,
+    23.0
+   ],
+   "verb": "put",
+   "noun": "milk",
+   "score": 0.255484
+  },
+  {
+   "segment": [
+    19.5,
+    20.5
+   ],
+   "verb": "pour",
+   "noun": "milk",
+   "score": 0.250368
+  },
+  {
+   "segment": [
+    19.5,
+    23.0
+   ],
+   "verb": "pour",
+   "noun": "cereal",
+   "score": 0.238451
+  },
+  {
+   "segment": [
+    19.5,
+    20.5
+   ],
+   "verb": "put",
+   "noun": "milk",
+   "score": 0.235635
+  },
+  {
+   "segment": [
+    20.0,
+    22.0
+   ],
+   "verb": "pour",
+   "noun": "milk",
+   "score": 0.381164
+  },
+  {
+   "segment": [
+    20.0,
+    21.0
+   ],
+   "verb": "pour",
+   "noun": "milk",
+   "score": 0.306638
+  },
+  {
+   "segment": [
+    20.0,
+    22.0
+   ],
+   "verb": "pour",
+   "noun": "cereal",
+   "score": 0.252389
+  },
+  {
+   "segment": [
+    20.0,
+    21.0
+   ],
+   "verb": "put",
+   "noun": "milk",
+   "score": 0.247571
+  },
+  {
+   "segment": [
+    20.0,
+    22.0
+   ],
+   "verb": "put",
+   "noun": "milk",
+   "score": 0.24628
+  },
+  {
+   "segment": [
+    20.0,
+    21.0
+   ],
+   "verb": "pour",
+   "noun": "cereal",
+   "score": 0.209008
+  },
+  {
+   "segment": [
+    20.5,
+    21.5
+   ],
+   "verb": "pour",
+   "noun": "milk",
+   "score": 0.368176
+  },
+  {
+   "segment": [
+    20.5,
+    21.5
+   ],
+   "verb": "pour",
+   "noun": "cereal",
+   "score": 0.25713
+  },
+  {
+   "segment": [
+    20.5,
+    21.5
+   ],
+   "verb": "put",
+   "noun": "milk",
+   "score": 0.245058
+  },
+  {
+   "segment": [
+    21.0,
+    24.5
+   ],
+   "verb": "pour",
+   "noun": "milk",
+   "score": 0.505423
+  },
+  {
+   "segment": [
+    21.0,
+    23.0
+   ],
+   "verb": "pour",
+   "noun": "milk",
+   "score": 0.477032
+  },
+  {
+   "segment": [
+    21.0,
+    27.0
+   ],
+   "verb": "pour",
+   "noun": "milk",
+   "score": 0.471606
+  },
+  {
+   "segment": [
+    21.0,
+    22.0
+   ],
+   "verb": "pour",
+   "noun": "milk",
+   "score": 0.438725
+  },
+  {
+   "segment": [
+    21.0,
+    27.0
+   ],
+   "verb": "pour",
+   "noun": "cereal",
+   "score": 0.294713
+  },
+  {
+   "segment": [
+    21.0,
+    22.0
+   ],
+   "verb": "pour",
+   "noun": "cereal",
+   "score": 0.286549
+  },
+  {
+   "segment": [
+    21.0,
+    24.5
+   ],
+   "verb": "put",
+   "noun": "milk",
+   "score": 0.276552
+  },
+  {
+   "segment": [
+    21.0,
+    23.0
+   ],
+   "verb": "pour",
+   "noun": "cereal",
+   "score": 0.26992
+  },
+  {
+   "segment": [
+    21.0,
+    27.0
+   ],
+   "verb": "put",
+   "noun": "milk",
+   "score": 0.263878
+  },
+  {
+   "segment": [
+    21.0,
+    23.0
+   ],
+   "verb": "put",
+   "noun": "milk",
+   "score": 0.263763
+  },
+  {
+   "segment": [
+    21.0,
+    24.5
+   ],
+   "verb": "pour",
+   "noun": "cereal",
+   "score": 0.254024
+  },
+  {
+   "segment": [
+    21.0,
+    22.0
+   ],
+   "verb": "put",
+   "noun": "milk",
+   "score": 0.244744
+  },
+  {
+   "segment": [
+    21.5,
+    22.5
+   ],
+   "verb": "pour",
+   "noun": "milk",
+   "score": 0.502936
+  },
+  {
+   "segment": [
+    21.5,
+    22.5
+   ],
+   "verb": "pour",
+   "noun": "cereal",
+   "score": 0.28128
+  },
+  {
+   "segment": [
+    21.5,
+    22.5
+   ],
+   "verb": "put",
+   "noun": "milk",
+   "score": 0.268115
+  },
+  {
+   "segment": [
+    22.0,
+    24.0
+   ],
+   "verb": "pour",
+   "noun": "milk",
+   "score": 0.53761
+  },
+  {
+   "segment": [
+    22.0,
+    23.0
+   ],
+   "verb": "pour",
+   "noun": "milk",
+   "score": 0.512066
+  },
+  {
+   "segment": [
+    22.0,
+    24.0
+   ],
+   "verb": "put",
+   "noun": "milk",
+   "score": 0.29212
+  },
+  {
+   "segment": [
+    22.0,
+    23.0
+   ],
+   "verb": "put",
+   "noun": "milk",
+   "score": 0.28129
+  },
+  {
+   "segment": [
+    22.0,
+    23.0
+   ],
+   "verb": "pour",
+   "noun": "cereal",
+   "score": 0.252401
+  },
+  {
+   "segment": [
+    22.0,
+    24.0
+   ],
+   "verb": "pour",
+   "noun": "cereal",
+   "score": 0.235159
+  },
+  {
+   "segment": [
+    22.5,
+    23.5
+   ],
+   "verb": "pour",
+   "noun": "milk",
+   "score": 0.532363
+  },
+  {
+   "segment": [
+    22.5,
+    26.0
+   ],
+   "verb": "pour",
+   "noun": "milk",
+   "score": 0.484501
+  },
+  {
+   "segment": [
+    22.5,
+    23.5
+   ],
+   "verb": "put",
+   "noun": "milk",
+   "score": 0.293597
+  },
+  {
+   "segment": [
+    22.5,
+    26.0
+   ],
+   "verb": "pour",
+   "noun": "cereal",
+   "score": 0.285734
+  },
+  {
+   "segment": [
+    22.5,
+    26.0
+   ],
+   "verb": "put",
+   "noun": "milk",
+   "score": 0.269505
+  },
+  {
+   "segment": [
+    22.5,
+    23.5
+   ],
+   "verb": "pour",
+   "noun": "cereal",
+   "score": 0.227669
+  },
+  {
+   "segment": [
+    23.0,
+    24.0
+   ],
+   "verb": "pour",
+   "noun": "milk",
+   "score": 0.563132
+  },
+  {
+   "segment": [
+    23.0,
+    25.0
+   ],
+   "verb": "pour",
+   "noun": "milk",
+   "score": 0.514985
+  },
+  {
+   "segment": [
+    23.0,
+    24.0
+   ],
+   "verb": "put",
+   "noun": "milk",
+   "score": 0.302866
+  },
+  {
+   "segment": [
+    23.0,
+    25.0
+   ],
+   "verb": "put",
+   "noun": "milk",
+   "score": 0.283496
+  },
+  {
+   "segment": [
+    23.0,
+    25.0
+   ],
+   "verb": "pour",
+   "noun": "cereal",
+   "score": 0.251829
+  },
+  {
+   "segment": [
+    23.0,
+    24.0
+   ],
+   "verb": "pour",
+   "noun": "cereal",
+   "score": 0.213538
+  },
+  {
+   "segment": [
+    23.5,
+    24.5
+   ],
+   "verb": "pour",
+   "noun": "milk",
+   "score": 0.532132
+  },
+  {
+   "segment": [
+    23.5,
+    24.5
+   ],
+   "verb": "put",
+   "noun": "milk",
+   "score": 0.287216
+  },
+  {
+   "segment": [
+    23.5,
+    24.5
+   ],
+   "verb": "pour",
+   "noun": "cereal",
+   "score": 0.236566
+  },
+  {
+   "segment": [
+    24.0,
+    25.0
+   ],
+   "verb": "pour",
+   "noun": "milk",
+   "score": 0.459903
+  },
+  {
+   "segment": [
+    24.0,
+    27.5
+   ],
+   "verb": "pour",
+   "noun": "milk",
+   "score": 0.432497
+  },
+  {
+   "segment": [
+    24.0,
+    26.0
+   ],
+   "verb": "pour",
+   "noun": "milk",
+   "score": 0.432382
+  },
+  {
+   "segment": [
+    24.0,
+    30.0
+   ],
+   "verb": "pour",
+   "noun": "milk",
+   "score": 0.421799
+  },
+  {
+   "segment": [
+    24.0,
+    27.5
+   ],
+   "verb": "pour",
+   "noun": "cereal",
+   "score": 0.330855
+  },
+  {
+   "segment": [
+    24.0,
+    26.0
+   ],
+   "verb": "pour",
+   "noun": "cereal",
+   "score": 0.325785
+  },
+  {
+   "segment": [
+    24.0,
+    30.0
+   ],
+   "verb": "pour",
+   "noun": "cereal",
+   "score": 0.323897
+  },
+  {
+   "segment": [
+    24.0,
+    25.0
+   ],
+   "verb": "pour",
+   "noun": "cereal",
+   "score": 0.285963
+  },
+  {
+   "segment": [
+    24.0,
+    25.0
+   ],
+   "verb": "put",
+   "noun": "milk",
+   "score": 0.261935
+  },
+  {
+   "segment": [
+    24.0,
+    27.5
+   ],
+   "verb": "put",
+   "noun": "milk",
+   "score": 0.250503
+  },
+  {
+   "segment": [
+    24.0,
+    26.0
+   ],
+   "verb": "put",
+   "noun": "cereal",
+   "score": 0.248455
+  },
+  {
+   "segment": [
+    24.0,
+    30.0
+   ],
+   "verb": "put",
+   "noun": "milk",
+   "score": 0.247323
+  },
+  {
+   "segment": [
+    24.5,
+    25.5
+   ],
+   "verb": "pour",
+   "noun": "milk",
+   "score": 0.401413
+  },
+  {
+   "segment": [
+    24.5,
+    25.5
+   ],
+   "verb": "pour",
+   "noun": "cereal",
+   "score": 0.333005
+  },
+  {
+   "segment": [
+    24.5,
+    25.5
+   ],
+   "verb": "put",
+   "noun": "cereal",
+   "score": 0.260825
+  },
+  {
+   "segment": [
+    25.0,
+    27.0
+   ],
+   "verb": "pour",
+   "noun": "milk",
+   "score": 0.413018
+  },
+  {
+   "segment": [
+    25.0,
+    26.0
+   ],
+   "verb": "pour",
+   "noun": "milk",
+   "score": 0.40351
+  },
+  {
+   "segment": [
+    25.0,
+    26.0
+   ],
+   "verb": "pour",
+   "noun": "cereal",
+   "score": 0.360593
+  },
+  {
+   "segment": [
+    25.0,
+    27.0
+   ],
+   "verb": "pour",
+   "noun": "cereal",
+   "score": 0.354523
+  },
+  {
+   "segment": [
+    25.0,
+    26.0
+   ],
+   "verb": "put",
+   "noun": "cereal",
+   "score": 0.25793
+  },
+  {
+   "segment": [
+    25.0,
+    27.0
+   ],
+   "verb": "put",
+   "noun": "cereal",
+   "score": 0.251267
+  },
+  {
+   "segment": [
+    25.5,
+    26.5
+   ],
+   "verb": "pour",
+   "noun": "milk",
+   "score": 0.424267
+  },
+  {
+   "segment": [
+    25.5,
+    29.0
+   ],
+   "verb": "pour",
+   "noun": "milk",
+   "score": 0.421398
+  },
+  {
+   "segment": [
+    25.5,
+    26.5
+   ],
+   "verb": "pour",
+   "noun": "cereal",
+   "score": 0.361485
+  },
+  {
+   "segment": [
+    25.5,
+    29.0
+   ],
+   "verb": "pour",
+   "noun": "cereal",
+   "score": 0.339214
+  },
+  {
+   "segment": [
+    25.5,
+    29.0
+   ],
+   "verb": "put",
+   "noun": "milk",
+   "score": 0.246843
+  },
+  {
+   "segment": [
+    25.5,
+    26.5
+   ],
+   "verb": "put",
+   "noun": "cereal",
+   "score": 0.244309
+  },
+  {
+   "segment": [
+    26.0,
+    28.0
+   ],
+   "verb": "pour",
+   "noun": "milk",
+   "score": 0.425435
+  },
+  {
+   "segment": [
+    26.0,
+    27.0
+   ],
+   "verb": "pour",
+   "noun": "milk",
+   "score": 0.422517
+  },
+  {
+   "segment": [
+    26.0,
+    27.0
+   ],
+   "verb": "pour",
+   "noun": "cereal",
+   "score": 0.347986
+  },
+  {
+   "segment": [
+    26.0,
+    28.0
+   ],
+   "verb": "pour",
+   "noun": "cereal",
+   "score": 0.335337
+  },
+  {
+   "segment": [
+    26.0,
+    27.0
+   ],
+   "verb": "put",
+   "noun": "milk",
+   "score": 0.251886
+  },
+  {
+   "segment": [
+    26.0,
+    28.0
+   ],
+   "verb": "put",
+   "noun": "milk",
+   "score": 0.251429
+  },
+  {
+   "segment": [
+    26.5,
+    27.5
+   ],
+   "verb": "pour",
+   "noun": "milk",
+   "score": 0.434654
+  },
+  {
+   "segment": [
+    26.5,
+    27.5
+   ],
+   "verb": "pour",
+   "noun": "cereal",
+   "score": 0.331026
+  },
+  {
+   "segment": [
+    26.5,
+    27.5
+   ],
+   "verb": "put",
+   "noun": "milk",
+   "score": 0.258031
+  },
+  {
+   "segment": [
+    27.0,
+    28.0
+   ],
+   "verb": "pour",
+   "noun": "milk",
+   "score": 0.428231
+  },
+  {
+   "segment": [
+    27.0,
+    29.0
+   ],
+   "verb": "pour",
+   "noun": "milk",
+   "score": 0.421101
+  },
+  {
+   "segment": [
+    27.0,
+    30.5
+   ],
+   "verb": "pour",
+   "noun": "milk",
+   "score": 0.416049
+  },
+  {
+   "segment": [
+    27.0,
+    33.0
+   ],
+   "verb": "pour",
+   "noun": "milk",
+   "score": 0.409639
+  },
+  {
+   "segment": [
+    27.0,
+    29.0
+   ],
+   "verb": "pour",
+   "noun": "cereal",
+   "score": 0.325814
+  },
+  {
+   "segment": [
+    27.0,
+    28.0
+   ],
+   "verb": "pour",
+   "noun": "cereal",
+   "score": 0.322426
+  },
+  {
+   "segment": [
+    27.0,
+    30.5
+   ],
+   "verb": "pour",
+   "noun": "cereal",
+   "score": 0.308269
+  },
+  {
+   "segment": [
+    27.0,
+    33.0
+   ],
+   "verb": "pour",
+   "noun": "cereal",
+   "score": 0.283811
+  },
+  {
+   "segment": [
+    27.0,
+    33.0
+   ],
+   "verb": "put",
+   "noun": "milk",
+   "score": 0.257356
+  },
+  {
+   "segment": [
+    27.0,
+    28.0
+   ],
+   "verb": "put",
+   "noun": "milk",
+   "score": 0.250954
+  },
+  {
+   "segment": [
+    27.0,
+    29.0
+   ],
+   "verb": "put",
+   "noun": "milk",
+   "score": 0.247225
+  },
+  {
+   "segment": [
+    27.0,
+    30.5
+   ],
+   "verb": "put",
+   "noun": "milk",
+   "score": 0.246157
+  },
+  {
+   "segment": [
+    27.5,
+    28.5
+   ],
+   "verb": "pour",
+   "noun": "milk",
+   "score": 0.412031
+  },
+  {
+   "segment": [
+    27.5,
+    28.5
+   ],
+   "verb": "pour",
+   "noun": "cereal",
+   "score": 0.330728
+  },
+  {
+   "segment": [
+    27.5,
+    28.5
+   ],
+   "verb": "put",
+   "noun": "milk",
+   "score": 0.237602
+  },
+  {
+   "segment": [
+    28.0,
+    29.0
+   ],
+   "verb": "pour",
+   "noun": "milk",
+   "score": 0.41372
+  },
+  {
+   "segment": [
+    28.0,
+    30.0
+   ],
+   "verb": "pour",
+   "noun": "milk",
+   "score": 0.407172
+  },
+  {
+   "segment": [
+    28.0,
+    29.0
+   ],
+   "verb": "pour",
+   "noun": "cereal",
+   "score": 0.329198
+  },
+  {
+   "segment": [
+    28.0,
+    30.0
+   ],
+   "verb": "pour",
+   "noun": "cereal",
+   "score": 0.310217
+  },
+  {
+   "segment": [
+    28.0,
+    30.0
+   ],
+   "verb": "put",
+   "noun": "milk",
+   "score": 0.244341
+  },
+  {
+   "segment": [
+    28.0,
+    29.0
+   ],
+   "verb": "put",
+   "noun": "milk",
+   "score": 0.24337
+  },
+  {
+   "segment": [
+    28.5,
+    32.0
+   ],
+   "verb": "pour",
+   "noun": "milk",
+   "score": 0.412752
+  },
+  {
+   "segment": [
+    28.5,
+    29.5
+   ],
+   "verb": "pour",
+   "noun": "milk",
+   "score": 0.407103
+  },
+  {
+   "segment": [
+    28.5,
+    29.5
+   ],
+   "verb": "pour",
+   "noun": "cereal",
+   "score": 0.304923
+  },
+  {
+   "segment": [
+    28.5,
+    32.0
+   ],
+   "verb": "pour",
+   "noun": "cereal",
+   "score": 0.284553
+  },
+  {
+   "segment": [
+    28.5,
+    32.0
+   ],
+   "verb": "put",
+   "noun": "milk",
+   "score": 0.254669
+  },
+  {
+   "segment": [
+    28.5,
+    29.5
+   ],
+   "verb": "put",
+   "noun": "milk",
+   "score": 0.245758
+  },
+  {
+   "segment": [
+    29.0,
+    31.0
+   ],
+   "verb": "pour",
+   "noun": "milk",
+   "score": 0.412508
+  },
+  {
+   "segment": [
+    29.0,
+    30.0
+   ],
+   "verb": "pour",
+   "noun": "milk",
+   "score": 0.400618
+  },
+  {
+   "segment": [
+    29.0,
+    30.0
+   ],
+   "verb": "pour",
+   "noun": "cereal",
+   "score": 0.290679
+  },
+  {
+   "segment": [
+    29.0,
+    31.0
+   ],
+   "verb": "pour",
+   "noun": "cereal",
+   "score": 0.287841
+  },
+  {
+   "segment": [
+    29.0,
+    30.0
+   ],
+   "verb": "put",
+   "noun": "milk",
+   "score": 0.245178
+  },
+  {
+   "segment": [
+    29.0,
+    31.0
+   ],
+   "verb": "put",
+   "noun": "milk",
+   "score": 0.241823
+  },
+  {
+   "segment": [
+    29.5,
+    30.5
+   ],
+   "verb": "pour",
+   "noun": "milk",
+   "score": 0.410736
+  },
+  {
+   "segment": [
+    29.5,
+    30.5
+   ],
+   "verb": "pour",
+   "noun": "cereal",
+   "score": 0.28346
+  },
+  {
+   "segment": [
+    29.5,
+    30.5
+   ],
+   "verb": "put",
+   "noun": "milk",
+   "score": 0.245575
+  },
+  {
+   "segment": [
+    30.0,
+    31.0
+   ],
+   "verb": "pour",
+   "noun": "milk",
+   "score": 0.423988
+  },
+  {
+   "segment": [
+    30.0,
+    32.0
+   ],
+   "verb": "pour",
+   "noun": "milk",
+   "score": 0.419297
+  },
+  {
+   "segment": [
+    30.0,
+    33.5
+   ],
+   "verb": "pour",
+   "noun": "milk",
+   "score": 0.389213
+  },
+  {
+   "segment": [
+    30.0,
+    36.0
+   ],
+   "verb": "pour",
+   "noun": "milk",
+   "score": 0.32975
+  },
+  {
+   "segment": [
+    30.0,
+    31.0
+   ],
+   "verb": "pour",
+   "noun": "cereal",
+   "score": 0.284989
+  },
+  {
+   "segment": [
+    30.0,
+    32.0
+   ],
+   "verb": "pour",
+   "noun": "cereal",
+   "score": 0.271029
+  },
+  {
+   "segment": [
+    30.0,
+    33.5
+   ],
+   "verb": "put",
+   "noun": "milk",
+   "score": 0.261983
+  },
+  {
+   "segment": [
+    30.0,
+    32.0
+   ],
+   "verb": "put",
+   "noun": "milk",
+   "score": 0.260245
+  },
+  {
+   "segment": [
+    30.0,
+    33.5
+   ],
+   "verb": "pour",
+   "noun": "cereal",
+   "score": 0.242257
+  },
+  {
+   "segment": [
+    30.0,
+    31.0
+   ],
+   "verb": "put",
+   "noun": "milk",
+   "score": 0.23844
+  },
+  {
+   "segment": [
+    30.0,
+    36.0
+   ],
+   "verb": "put",
+   "noun": "milk",
+   "score": 0.215164
+  },
+  {
+   "segment": [
+    30.0,
+    36.0
+   ],
+   "verb": "pour",
+   "noun": "cereal",
+   "score": 0.181558
+  },
+  {
+   "segment": [
+    30.5,
+    31.5
+   ],
+   "verb": "pour",
+   "noun": "milk",
+   "score": 0.428186
+  },
+  {
+   "segment": [
+    30.5,
+    31.5
+   ],
+   "verb": "pour",
+   "noun": "cereal",
+   "score": 0.281748
+  },
+  {
+   "segment": [
+    30.5,
+    31.5
+   ],
+   "verb": "put",
+   "noun": "milk",
+   "score": 0.255674
+  },
+  {
+   "segment": [
+    31.0,
+    32.0
+   ],
+   "verb": "pour",
+   "noun": "milk",
+   "score": 0.414345
+  },
+  {
+   "segment": [
+    31.0,
+    33.0
+   ],
+   "verb": "pour",
+   "noun": "milk",
+   "score": 0.394548
+  },
+  {
+   "segment": [
+    31.0,
+    32.0
+   ],
+   "verb": "put",
+   "noun": "milk",
+   "score": 0.27868
+  },
+  {
+   "segment": [
+    31.0,
+    33.0
+   ],
+   "verb": "put",
+   "noun": "milk",
+   "score": 0.27726
+  },
+  {
+   "segment": [
+    31.0,
+    32.0
+   ],
+   "verb": "pour",
+   "noun": "cereal",
+   "score": 0.257006
+  },
+  {
+   "segment": [
+    31.0,
+    33.0
+   ],
+   "verb": "pour",
+   "noun": "cereal",
+   "score": 0.235606
+  },
+  {
+   "segment": [
+    31.5,
+    32.5
+   ],
+   "verb": "pour",
+   "noun": "milk",
+   "score": 0.395663
+  },
+  {
+   "segment": [
+    31.5,
+    35.0
+   ],
+   "verb": "pour",
+   "noun": "milk",
+   "score": 0.346286
+  },
+  {
+   "segment": [
+    31.5,
+    32.5
+   ],
+   "verb": "put",
+   "noun": "milk",
+   "score": 0.282694
+  },
+  {
+   "segment": [
+    31.5,
+    32.5
+   ],
+   "verb": "pour",
+   "noun": "cereal",
+   "score": 0.237594
+  },
+  {
+   "segment": [
+    31.5,
+    35.0
+   ],
+   "verb": "put",
+   "noun": "milk",
+   "score": 0.237206
+  },
+  {
+   "segment": [
+    31.5,
+    35.0
+   ],
+   "verb": "pour",
+   "noun": "cereal",
+   "score": 0.168205
+  },
+  {
+   "segment": [
+    32.0,
+    33.0
+   ],
+   "verb": "pour",
+   "noun": "milk",
+   "score": 0.374666
+  },
+  {
+   "segment": [
+    32.0,
+    34.0
+   ],
+   "verb": "pour",
+   "noun": "milk",
+   "score": 0.354099
+  },
+  {
+   "segment": [
+    32.0,
+    33.0
+   ],
+   "verb": "put",
+   "noun": "milk",
+   "score": 0.275588
+  },
+  {
+   "segment": [
+    32.0,
+    34.0
+   ],
+   "verb": "put",
+   "noun": "milk",
+   "score": 0.260815
+  },
+  {
+   "segment": [
+    32.0,
+    33.0
+   ],
+   "verb": "pour",
+   "noun": "cereal",
+   "score": 0.213441
+  },
+  {
+   "segment": [
+    32.0,
+    34.0
+   ],
+   "verb": "pour",
+   "noun": "cereal",
+   "score": 0.183253
+  },
+  {
+   "segment": [
+    32.5,
+    33.5
+   ],
+   "verb": "pour",
+   "noun": "milk",
+   "score": 0.322225
+  },
+  {
+   "segment": [
+    32.5,
+    33.5
+   ],
+   "verb": "put",
+   "noun": "milk",
+   "score": 0.251446
+  },
+  {
+   "segment": [
+    32.5,
+    33.5
+   ],
+   "verb": "pour",
+   "noun": "cereal",
+   "score": 0.189958
+  },
+  {
+   "segment": [
+    33.0,
+    34.0
+   ],
+   "verb": "pour",
+   "noun": "milk",
+   "score": 0.331582
+  },
+  {
+   "segment": [
+    33.0,
+    35.0
+   ],
+   "verb": "pour",
+   "noun": "milk",
+   "score": 0.31854
+  },
+  {
+   "segment": [
+    33.0,
+    34.0
+   ],
+   "verb": "put",
+   "noun": "milk",
+   "score": 0.244665
+  },
+  {
+   "segment": [
+    33.0,
+    36.5
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.227839
+  },
+  {
+   "segment": [
+    33.0,
+    36.5
+   ],
+   "verb": "pour",
+   "noun": "milk",
+   "score": 0.227686
+  },
+  {
+   "segment": [
+    33.0,
+    36.5
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.21651
+  },
+  {
+   "segment": [
+    33.0,
+    35.0
+   ],
+   "verb": "put",
+   "noun": "milk",
+   "score": 0.203352
+  },
+  {
+   "segment": [
+    33.0,
+    39.0
+   ],
+   "verb": "remove",
+   "noun": "fridge",
+   "score": 0.194998
+  },
+  {
+   "segment": [
+    33.0,
+    39.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.194855
+  },
+  {
+   "segment": [
+    33.0,
+    39.0
+   ],
+   "verb": "open",
+   "noun": "drawer",
+   "score": 0.194603
+  },
+  {
+   "segment": [
+    33.0,
+    35.0
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.1771
+  },
+  {
+   "segment": [
+    33.0,
+    34.0
+   ],
+   "verb": "take",
+   "noun": "milk",
+   "score": 0.156813
+  },
+  {
+   "segment": [
+    33.5,
+    34.5
+   ],
+   "verb": "pour",
+   "noun": "milk",
+   "score": 0.361708
+  },
+  {
+   "segment": [
+    33.5,
+    34.5
+   ],
+   "verb": "put",
+   "noun": "milk",
+   "score": 0.226695
+  },
+  {
+   "segment": [
+    33.5,
+    34.5
+   ],
+   "verb": "take",
+   "noun": "milk",
+   "score": 0.150689
+  },
+  {
+   "segment": [
+    34.0,
+    35.0
+   ],
+   "verb": "pour",
+   "noun": "milk",
+   "score": 0.305416
+  },
+  {
+   "segment": [
+    34.0,
+    36.0
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.252854
+  },
+  {
+   "segment": [
+    34.0,
+    35.0
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.242756
+  },
+  {
+   "segment": [
+    34.0,
+    35.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.236489
+  },
+  {
+   "segment": [
+    34.0,
+    36.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.231453
+  },
+  {
+   "segment": [
+    34.0,
+    36.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.227483
+  },
+  {
+   "segment": [
+    34.5,
+    35.5
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.26914
+  },
+  {
+   "segment": [
+    34.5,
+    35.5
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.247471
+  },
+  {
+   "segment": [
+    34.5,
+    38.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.238982
+  },
+  {
+   "segment": [
+    34.5,
+    38.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.22259
+  },
+  {
+   "segment": [
+    34.5,
+    38.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.209367
+  },
+  {
+   "segment": [
+    34.5,
+    35.5
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.19546
+  },
+  {
+   "segment": [
+    35.0,
+    37.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.302747
+  },
+  {
+   "segment": [
+    35.0,
+    36.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.291546
+  },
+  {
+   "segment": [
+    35.0,
+    37.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.273425
+  },
+  {
+   "segment": [
+    35.0,
+    36.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.273075
+  },
+  {
+   "segment": [
+    35.0,
+    36.0
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.257082
+  },
+  {
+   "segment": [
+    35.0,
+    37.0
+   ],
+   "verb": "close",
+   "noun": "fridge",
+   "score": 0.204686
+  },
+  {
+   "segment": [
+    35.5,
+    36.5
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.346325
+  },
+  {
+   "segment": [
+    35.5,
+    36.5
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.306381
+  },
+  {
+   "segment": [
+    35.5,
+    36.5
+   ],
+   "verb": "open",
+   "noun": "drawer",
+   "score": 0.204697
+  },
+  {
+   "segment": [
+    36.0,
+    37.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.313949
+  },
+  {
+   "segment": [
+    36.0,
+    37.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.273423
+  },
+  {
+   "segment": [
+    36.0,
+    37.0
+   ],
+   "verb": "open",
+   "noun": "drawer",
+   "score": 0.268914
+  },
+  {
+   "segment": [
+    36.0,
+    38.0
+   ],
+   "verb": "open",
+   "noun": "drawer",
+   "score": 0.261998
+  },
+  {
+   "segment": [
+    36.0,
+    39.5
+   ],
+   "verb": "open",
+   "noun": "drawer",
+   "score": 0.255401
+  },
+  {
+   "segment": [
+    36.0,
+    42.0
+   ],
+   "verb": "open",
+   "noun": "freezer",
+   "score": 0.251754
+  },
+  {
+   "segment": [
+    36.0,
+    39.5
+   ],
+   "verb": "open",
+   "noun": "freezer",
+   "score": 0.247276
+  },
+  {
+   "segment": [
+    36.0,
+    38.0
+   ],
+   "verb": "open",
+   "noun": "freezer",
+   "score": 0.234892
+  },
+  {
+   "segment": [
+    36.0,
+    39.5
+   ],
+   "verb": "remove",
+   "noun": "fridge",
+   "score": 0.233642
+  },
+  {
+   "segment": [
+    36.0,
+    38.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.233617
+  },
+  {
+   "segment": [
+    36.0,
+    42.0
+   ],
+   "verb": "remove",
+   "noun": "fridge",
+   "score": 0.232282
+  },
+  {
+   "segment": [
+    36.0,
+    42.0
+   ],
+   "verb": "open",
+   "noun": "drawer",
+   "score": 0.231527
+  },
+  {
+   "segment": [
+    36.5,
+    37.5
+   ],
+   "verb": "open",
+   "noun": "drawer",
+   "score": 0.281454
+  },
+  {
+   "segment": [
+    36.5,
+    37.5
+   ],
+   "verb": "open",
+   "noun": "freezer",
+   "score": 0.238217
+  },
+  {
+   "segment": [
+    36.5,
+    37.5
+   ],
+   "verb": "remove",
+   "noun": "fridge",
+   "score": 0.238178
+  },
+  {
+   "segment": [
+    37.0,
+    38.0
+   ],
+   "verb": "open",
+   "noun": "freezer",
+   "score": 0.305519
+  },
+  {
+   "segment": [
+    37.0,
+    39.0
+   ],
+   "verb": "open",
+   "noun": "freezer",
+   "score": 0.295338
+  },
+  {
+   "segment": [
+    37.0,
+    38.0
+   ],
+   "verb": "remove",
+   "noun": "fridge",
+   "score": 0.283079
+  },
+  {
+   "segment": [
+    37.0,
+    39.0
+   ],
+   "verb": "remove",
+   "noun": "fridge",
+   "score": 0.270447
+  },
+  {
+   "segment": [
+    37.0,
+    38.0
+   ],
+   "verb": "open",
+   "noun": "drawer",
+   "score": 0.253413
+  },
+  {
+   "segment": [
+    37.0,
+    39.0
+   ],
+   "verb": "open",
+   "noun": "drawer",
+   "score": 0.25226
+  },
+  {
+   "segment": [
+    37.5,
+    38.5
+   ],
+   "verb": "open",
+   "noun": "freezer",
+   "score": 0.319301
+  },
+  {
+   "segment": [
+    37.5,
+    38.5
+   ],
+   "verb": "remove",
+   "noun": "fridge",
+   "score": 0.285904
+  },
+  {
+   "segment": [
+    37.5,
+    41.0
+   ],
+   "verb": "open",
+   "noun": "freezer",
+   "score": 0.256701
+  },
+  {
+   "segment": [
+    37.5,
+    41.0
+   ],
+   "verb": "remove",
+   "noun": "fridge",
+   "score": 0.23873
+  },
+  {
+   "segment": [
+    37.5,
+    38.5
+   ],
+   "verb": "open",
+   "noun": "drawer",
+   "score": 0.229547
+  },
+  {
+   "segment": [
+    37.5,
+    41.0
+   ],
+   "verb": "open",
+   "noun": "drawer",
+   "score": 0.212648
+  },
+  {
+   "segment": [
+    38.0,
+    39.0
+   ],
+   "verb": "open",
+   "noun": "freezer",
+   "score": 0.283434
+  },
+  {
+   "segment": [
+    38.0,
+    39.0
+   ],
+   "verb": "remove",
+   "noun": "fridge",
+   "score": 0.255638
+  },
+  {
+   "segment": [
+    38.0,
+    40.0
+   ],
+   "verb": "open",
+   "noun": "freezer",
+   "score": 0.25152
+  },
+  {
+   "segment": [
+    38.0,
+    39.0
+   ],
+   "verb": "open",
+   "noun": "drawer",
+   "score": 0.250605
+  },
+  {
+   "segment": [
+    38.0,
+    40.0
+   ],
+   "verb": "open",
+   "noun": "drawer",
+   "score": 0.231841
+  },
+  {
+   "segment": [
+    38.0,
+    40.0
+   ],
+   "verb": "remove",
+   "noun": "fridge",
+   "score": 0.231809
+  },
+  {
+   "segment": [
+    38.5,
+    39.5
+   ],
+   "verb": "open",
+   "noun": "drawer",
+   "score": 0.239883
+  },
+  {
+   "segment": [
+    38.5,
+    39.5
+   ],
+   "verb": "open",
+   "noun": "freezer",
+   "score": 0.235526
+  },
+  {
+   "segment": [
+    38.5,
+    39.5
+   ],
+   "verb": "remove",
+   "noun": "fridge",
+   "score": 0.22922
+  },
+  {
+   "segment": [
+    39.0,
+    42.5
+   ],
+   "verb": "open",
+   "noun": "freezer",
+   "score": 0.248374
+  },
+  {
+   "segment": [
+    39.0,
+    41.0
+   ],
+   "verb": "remove",
+   "noun": "ice",
+   "score": 0.234173
+  },
+  {
+   "segment": [
+    39.0,
+    42.5
+   ],
+   "verb": "remove",
+   "noun": "fridge",
+   "score": 0.221096
+  },
+  {
+   "segment": [
+    39.0,
+    41.0
+   ],
+   "verb": "open",
+   "noun": "freezer",
+   "score": 0.218756
+  },
+  {
+   "segment": [
+    39.0,
+    41.0
+   ],
+   "verb": "remove",
+   "noun": "tray",
+   "score": 0.213626
+  },
+  {
+   "segment": [
+    39.0,
+    40.0
+   ],
+   "verb": "open",
+   "noun": "freezer",
+   "score": 0.21356
+  },
+  {
+   "segment": [
+    39.0,
+    40.0
+   ],
+   "verb": "open",
+   "noun": "drawer",
+   "score": 0.210663
+  },
+  {
+   "segment": [
+    39.0,
+    45.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.206637
+  },
+  {
+   "segment": [
+    39.0,
+    40.0
+   ],
+   "verb": "remove",
+   "noun": "tray",
+   "score": 0.205567
+  },
+  {
+   "segment": [
+    39.0,
+    42.5
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.200325
+  },
+  {
+   "segment": [
+    39.0,
+    45.0
+   ],
+   "verb": "open",
+   "noun": "freezer",
+   "score": 0.187977
+  },
+  {
+   "segment": [
+    39.0,
+    45.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.173142
+  },
+  {
+   "segment": [
+    39.5,
+    40.5
+   ],
+   "verb": "remove",
+   "noun": "ice",
+   "score": 0.250989
+  },
+  {
+   "segment": [
+    39.5,
+    40.5
+   ],
+   "verb": "remove",
+   "noun": "tray",
+   "score": 0.22538
+  },
+  {
+   "segment": [
+    39.5,
+    40.5
+   ],
+   "verb": "insert",
+   "noun": "ice",
+   "score": 0.21497
+  },
+  {
+   "segment": [
+    40.0,
+    42.0
+   ],
+   "verb": "open",
+   "noun": "freezer",
+   "score": 0.26778
+  },
+  {
+   "segment": [
+    40.0,
+    41.0
+   ],
+   "verb": "remove",
+   "noun": "ice",
+   "score": 0.262115
+  },
+  {
+   "segment": [
+    40.0,
+    42.0
+   ],
+   "verb": "remove",
+   "noun": "fridge",
+   "score": 0.236152
+  },
+  {
+   "segment": [
+    40.0,
+    41.0
+   ],
+   "verb": "open",
+   "noun": "freezer",
+   "score": 0.223685
+  },
+  {
+   "segment": [
+    40.0,
+    41.0
+   ],
+   "verb": "remove",
+   "noun": "tray",
+   "score": 0.221186
+  },
+  {
+   "segment": [
+    40.0,
+    42.0
+   ],
+   "verb": "remove",
+   "noun": "ice",
+   "score": 0.220011
+  },
+  {
+   "segment": [
+    40.5,
+    41.5
+   ],
+   "verb": "open",
+   "noun": "freezer",
+   "score": 0.272155
+  },
+  {
+   "segment": [
+    40.5,
+    44.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.249237
+  },
+  {
+   "segment": [
+    40.5,
+    41.5
+   ],
+   "verb": "remove",
+   "noun": "fridge",
+   "score": 0.239246
+  },
+  {
+   "segment": [
+    40.5,
+    41.5
+   ],
+   "verb": "remove",
+   "noun": "ice",
+   "score": 0.230323
+  },
+  {
+   "segment": [
+    40.5,
+    44.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.211161
+  },
+  {
+   "segment": [
+    40.5,
+    44.0
+   ],
+   "verb": "open",
+   "noun": "freezer",
+   "score": 0.203225
+  },
+  {
+   "segment": [
+    41.0,
+    42.0
+   ],
+   "verb": "open",
+   "noun": "freezer",
+   "score": 0.300803
+  },
+  {
+   "segment": [
+    41.0,
+    42.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.258111
+  },
+  {
+   "segment": [
+    41.0,
+    42.0
+   ],
+   "verb": "remove",
+   "noun": "fridge",
+   "score": 0.256651
+  },
+  {
+   "segment": [
+    41.0,
+    43.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.246304
+  },
+  {
+   "segment": [
+    41.0,
+    43.0
+   ],
+   "verb": "open",
+   "noun": "freezer",
+   "score": 0.243843
+  },
+  {
+   "segment": [
+    41.0,
+    43.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.242525
+  },
+  {
+   "segment": [
+    41.5,
+    42.5
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.279488
+  },
+  {
+   "segment": [
+    41.5,
+    42.5
+   ],
+   "verb": "open",
+   "noun": "freezer",
+   "score": 0.266602
+  },
+  {
+   "segment": [
+    41.5,
+    42.5
+   ],
+   "verb": "remove",
+   "noun": "fridge",
+   "score": 0.225575
+  },
+  {
+   "segment": [
+    42.0,
+    43.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.304388
+  },
+  {
+   "segment": [
+    42.0,
+    44.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.301088
+  },
+  {
+   "segment": [
+    42.0,
+    43.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.265697
+  },
+  {
+   "segment": [
+    42.0,
+    44.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.259239
+  },
+  {
+   "segment": [
+    42.0,
+    45.5
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.249431
+  },
+  {
+   "segment": [
+    42.0,
+    43.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.233556
+  },
+  {
+   "segment": [
+    42.0,
+    45.5
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.211791
+  },
+  {
+   "segment": [
+    42.0,
+    48.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.207123
+  },
+  {
+   "segment": [
+    42.0,
+    48.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.174245
+  },
+  {
+   "segment": [
+    42.0,
+    44.0
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.170245
+  },
+  {
+   "segment": [
+    42.0,
+    48.0
+   ],
+   "verb": "pour",
+   "noun": "milk",
+   "score": 0.161206
+  },
+  {
+   "segment": [
+    42.0,
+    45.5
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.136311
+  },
+  {
+   "segment": [
+    42.5,
+    43.5
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.330606
+  },
+  {
+   "segment": [
+    42.5,
+    43.5
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.288235
+  },
+  {
+   "segment": [
+    42.5,
+    43.5
+   ],
+   "verb": "open",
+   "noun": "fridge",
+   "score": 0.157275
+  },
+  {
+   "segment": [
+    43.0,
+    44.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.297772
+  },
+  {
+   "segment": [
+    43.0,
+    44.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.252662
+  },
+  {
+   "segment": [
+    43.0,
+    45.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.240013
+  },
+  {
+   "segment": [
+    43.0,
+    45.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.199546
+  },
+  {
+   "segment": [
+    43.0,
+    45.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.131901
+  },
+  {
+   "segment": [
+    43.0,
+    44.0
+   ],
+   "verb": "move",
+   "noun": "cupboard",
+   "score": 0.122284
+  },
+  {
+   "segment": [
+    43.5,
+    44.5
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.219597
+  },
+  {
+   "segment": [
+    43.5,
+    44.5
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.171812
+  },
+  {
+   "segment": [
+    43.5,
+    47.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.146526
+  },
+  {
+   "segment": [
+    43.5,
+    47.0
+   ],
+   "verb": "put",
+   "noun": "cereal",
+   "score": 0.141664
+  },
+  {
+   "segment": [
+    43.5,
+    44.5
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.139948
+  },
+  {
+   "segment": [
+    43.5,
+    47.0
+   ],
+   "verb": "pour",
+   "noun": "milk",
+   "score": 0.13219
+  },
+  {
+   "segment": [
+    44.0,
+    45.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.152554
+  },
+  {
+   "segment": [
+    44.0,
+    45.0
+   ],
+   "verb": "put",
+   "noun": "cereal",
+   "score": 0.151859
+  },
+  {
+   "segment": [
+    44.0,
+    46.0
+   ],
+   "verb": "put",
+   "noun": "cereal",
+   "score": 0.150217
+  },
+  {
+   "segment": [
+    44.0,
+    45.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.136022
+  },
+  {
+   "segment": [
+    44.0,
+    46.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.134913
+  },
+  {
+   "segment": [
+    44.0,
+    46.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.113677
+  },
+  {
+   "segment": [
+    44.5,
+    45.5
+   ],
+   "verb": "put",
+   "noun": "cereal",
+   "score": 0.152406
+  },
+  {
+   "segment": [
+    44.5,
+    45.5
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.138101
+  },
+  {
+   "segment": [
+    44.5,
+    45.5
+   ],
+   "verb": "take",
+   "noun": "cereal",
+   "score": 0.116474
+  },
+  {
+   "segment": [
+    45.0,
+    51.0
+   ],
+   "verb": "pour",
+   "noun": "milk",
+   "score": 0.393043
+  },
+  {
+   "segment": [
+    45.0,
+    48.5
+   ],
+   "verb": "pour",
+   "noun": "milk",
+   "score": 0.268405
+  },
+  {
+   "segment": [
+    45.0,
+    51.0
+   ],
+   "verb": "put",
+   "noun": "milk",
+   "score": 0.204944
+  },
+  {
+   "segment": [
+    45.0,
+    47.0
+   ],
+   "verb": "pour",
+   "noun": "milk",
+   "score": 0.176284
+  },
+  {
+   "segment": [
+    45.0,
+    48.5
+   ],
+   "verb": "put",
+   "noun": "cereal",
+   "score": 0.15384
+  },
+  {
+   "segment": [
+    45.0,
+    48.5
+   ],
+   "verb": "put",
+   "noun": "milk",
+   "score": 0.152036
+  },
+  {
+   "segment": [
+    45.0,
+    46.0
+   ],
+   "verb": "wrap",
+   "noun": "toaster",
+   "score": 0.149425
+  },
+  {
+   "segment": [
+    45.0,
+    47.0
+   ],
+   "verb": "put",
+   "noun": "cereal",
+   "score": 0.149103
+  },
+  {
+   "segment": [
+    45.0,
+    46.0
+   ],
+   "verb": "put",
+   "noun": "cereal",
+   "score": 0.148035
+  },
+  {
+   "segment": [
+    45.0,
+    51.0
+   ],
+   "verb": "pour",
+   "noun": "cereal",
+   "score": 0.146953
+  },
+  {
+   "segment": [
+    45.0,
+    47.0
+   ],
+   "verb": "wrap",
+   "noun": "toaster",
+   "score": 0.142142
+  },
+  {
+   "segment": [
+    45.0,
+    46.0
+   ],
+   "verb": "put",
+   "noun": "box",
+   "score": 0.124358
+  },
+  {
+   "segment": [
+    45.5,
+    46.5
+   ],
+   "verb": "wrap",
+   "noun": "toaster",
+   "score": 0.166381
+  },
+  {
+   "segment": [
+    45.5,
+    46.5
+   ],
+   "verb": "put",
+   "noun": "cereal",
+   "score": 0.154622
+  },
+  {
+   "segment": [
+    45.5,
+    46.5
+   ],
+   "verb": "insert",
+   "noun": "cereal",
+   "score": 0.144274
+  },
+  {
+   "segment": [
+    46.0,
+    48.0
+   ],
+   "verb": "pour",
+   "noun": "milk",
+   "score": 0.297927
+  },
+  {
+   "segment": [
+    46.0,
+    47.0
+   ],
+   "verb": "pour",
+   "noun": "milk",
+   "score": 0.249052
+  },
+  {
+   "segment": [
+    46.0,
+    48.0
+   ],
+   "verb": "put",
+   "noun": "milk",
+   "score": 0.166843
+  },
+  {
+   "segment": [
+    46.0,
+    47.0
+   ],
+   "verb": "put",
+   "noun": "milk",
+   "score": 0.152568
+  },
+  {
+   "segment": [
+    46.0,
+    47.0
+   ],
+   "verb": "put",
+   "noun": "cereal",
+   "score": 0.149908
+  },
+  {
+   "segment": [
+    46.0,
+    48.0
+   ],
+   "verb": "put",
+   "noun": "cereal",
+   "score": 0.149192
+  },
+  {
+   "segment": [
+    46.5,
+    50.0
+   ],
+   "verb": "pour",
+   "noun": "milk",
+   "score": 0.461621
+  },
+  {
+   "segment": [
+    46.5,
+    47.5
+   ],
+   "verb": "pour",
+   "noun": "milk",
+   "score": 0.331761
+  },
+  {
+   "segment": [
+    46.5,
+    50.0
+   ],
+   "verb": "put",
+   "noun": "milk",
+   "score": 0.232396
+  },
+  {
+   "segment": [
+    46.5,
+    47.5
+   ],
+   "verb": "put",
+   "noun": "milk",
+   "score": 0.177432
+  },
+  {
+   "segment": [
+    46.5,
+    50.0
+   ],
+   "verb": "pour",
+   "noun": "cereal",
+   "score": 0.152635
+  },
+  {
+   "segment": [
+    46.5,
+    47.5
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.151721
+  },
+  {
+   "segment": [
+    47.0,
+    49.0
+   ],
+   "verb": "pour",
+   "noun": "milk",
+   "score": 0.408947
+  },
+  {
+   "segment": [
+    47.0,
+    48.0
+   ],
+   "verb": "pour",
+   "noun": "milk",
+   "score": 0.340898
+  },
+  {
+   "segment": [
+    47.0,
+    49.0
+   ],
+   "verb": "put",
+   "noun": "milk",
+   "score": 0.205669
+  },
+  {
+   "segment": [
+    47.0,
+    49.0
+   ],
+   "verb": "pour",
+   "noun": "cereal",
+   "score": 0.184647
+  },
+  {
+   "segment": [
+    47.0,
+    48.0
+   ],
+   "verb": "put",
+   "noun": "milk",
+   "score": 0.180316
+  },
+  {
+   "segment": [
+    47.0,
+    48.0
+   ],
+   "verb": "pour",
+   "noun": "cereal",
+   "score": 0.161789
+  },
+  {
+   "segment": [
+    47.5,
+    48.5
+   ],
+   "verb": "pour",
+   "noun": "milk",
+   "score": 0.369014
+  },
+  {
+   "segment": [
+    47.5,
+    48.5
+   ],
+   "verb": "pour",
+   "noun": "cereal",
+   "score": 0.202912
+  },
+  {
+   "segment": [
+    47.5,
+    48.5
+   ],
+   "verb": "put",
+   "noun": "milk",
+   "score": 0.187011
+  },
+  {
+   "segment": [
+    48.0,
+    50.0
+   ],
+   "verb": "pour",
+   "noun": "milk",
+   "score": 0.540731
+  },
+  {
+   "segment": [
+    48.0,
+    51.5
+   ],
+   "verb": "pour",
+   "noun": "milk",
+   "score": 0.479663
+  },
+  {
+   "segment": [
+    48.0,
+    49.0
+   ],
+   "verb": "pour",
+   "noun": "milk",
+   "score": 0.465623
+  },
+  {
+   "segment": [
+    48.0,
+    54.0
+   ],
+   "verb": "pour",
+   "noun": "milk",
+   "score": 0.378692
+  },
+  {
+   "segment": [
+    48.0,
+    54.0
+   ],
+   "verb": "pour",
+   "noun": "cereal",
+   "score": 0.313364
+  },
+  {
+   "segment": [
+    48.0,
+    50.0
+   ],
+   "verb": "put",
+   "noun": "milk",
+   "score": 0.268158
+  },
+  {
+   "segment": [
+    48.0,
+    54.0
+   ],
+   "verb": "put",
+   "noun": "cereal",
+   "score": 0.253544
+  },
+  {
+   "segment": [
+    48.0,
+    51.5
+   ],
+   "verb": "put",
+   "noun": "milk",
+   "score": 0.242783
+  },
+  {
+   "segment": [
+    48.0,
+    49.0
+   ],
+   "verb": "put",
+   "noun": "milk",
+   "score": 0.2276
+  },
+  {
+   "segment": [
+    48.0,
+    49.0
+   ],
+   "verb": "pour",
+   "noun": "cereal",
+   "score": 0.20441
+  },
+  {
+   "segment": [
+    48.0,
+    51.5
+   ],
+   "verb": "pour",
+   "noun": "cereal",
+   "score": 0.201982
+  },
+  {
+   "segment": [
+    48.0,
+    50.0
+   ],
+   "verb": "open",
+   "noun": "milk",
+   "score": 0.159478
+  },
+  {
+   "segment": [
+    48.5,
+    49.5
+   ],
+   "verb": "pour",
+   "noun": "milk",
+   "score": 0.580975
+  },
+  {
+   "segment": [
+    48.5,
+    49.5
+   ],
+   "verb": "put",
+   "noun": "milk",
+   "score": 0.28356
+  },
+  {
+   "segment": [
+    48.5,
+    49.5
+   ],
+   "verb": "open",
+   "noun": "milk",
+   "score": 0.163886
+  },
+  {
+   "segment": [
+    49.0,
+    50.0
+   ],
+   "verb": "pour",
+   "noun": "milk",
+   "score": 0.612519
+  },
+  {
+   "segment": [
+    49.0,
+    51.0
+   ],
+   "verb": "pour",
+   "noun": "milk",
+   "score": 0.533122
+  },
+  {
+   "segment": [
+    49.0,
+    50.0
+   ],
+   "verb": "put",
+   "noun": "milk",
+   "score": 0.306551
+  },
+  {
+   "segment": [
+    49.0,
+    51.0
+   ],
+   "verb": "put",
+   "noun": "milk",
+   "score": 0.270686
+  },
+  {
+   "segment": [
+    49.0,
+    50.0
+   ],
+   "verb": "open",
+   "noun": "milk",
+   "score": 0.177233
+  },
+  {
+   "segment": [
+    49.0,
+    51.0
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.159682
+  },
+  {
+   "segment": [
+    49.5,
+    50.5
+   ],
+   "verb": "pour",
+   "noun": "milk",
+   "score": 0.543151
+  },
+  {
+   "segment": [
+    49.5,
+    53.0
+   ],
+   "verb": "pour",
+   "noun": "milk",
+   "score": 0.345639
+  },
+  {
+   "segment": [
+    49.5,
+    53.0
+   ],
+   "verb": "pour",
+   "noun": "cereal",
+   "score": 0.313657
+  },
+  {
+   "segment": [
+    49.5,
+    50.5
+   ],
+   "verb": "put",
+   "noun": "milk",
+   "score": 0.281541
+  },
+  {
+   "segment": [
+    49.5,
+    53.0
+   ],
+   "verb": "put",
+   "noun": "cereal",
+   "score": 0.257925
+  },
+  {
+   "segment": [
+    49.5,
+    50.5
+   ],
+   "verb": "pour",
+   "noun": "coffee",
+   "score": 0.165981
+  },
+  {
+   "segment": [
+    50.0,
+    51.0
+   ],
+   "verb": "pour",
+   "noun": "milk",
+   "score": 0.437669
+  },
+  {
+   "segment": [
+    50.0,
+    52.0
+   ],
+   "verb": "pour",
+   "noun": "milk",
+   "score": 0.331736
+  },
+  {
+   "segment": [
+    50.0,
+    52.0
+   ],
+   "verb": "pour",
+   "noun": "cereal",
+   "score": 0.299243
+  },
+  {
+   "segment": [
+    50.0,
+    52.0
+   ],
+   "verb": "put",
+   "noun": "cereal",
+   "score": 0.243509
+  },
+  {
+   "segment": [
+    50.0,
+    51.0
+   ],
+   "verb": "put",
+   "noun": "milk",
+   "score": 0.228427
+  },
+  {
+   "segment": [
+    50.0,
+    51.0
+   ],
+   "verb": "pour",
+   "noun": "cereal",
+   "score": 0.189001
+  },
+  {
+   "segment": [
+    50.5,
+    51.5
+   ],
+   "verb": "pour",
+   "noun": "cereal",
+   "score": 0.305513
+  },
+  {
+   "segment": [
+    50.5,
+    51.5
+   ],
+   "verb": "pour",
+   "noun": "milk",
+   "score": 0.296512
+  },
+  {
+   "segment": [
+    50.5,
+    51.5
+   ],
+   "verb": "put",
+   "noun": "cereal",
+   "score": 0.247854
+  },
+  {
+   "segment": [
+    51.0,
+    54.5
+   ],
+   "verb": "pour",
+   "noun": "cereal",
+   "score": 0.419591
+  },
+  {
+   "segment": [
+    51.0,
+    53.0
+   ],
+   "verb": "pour",
+   "noun": "cereal",
+   "score": 0.391045
+  },
+  {
+   "segment": [
+    51.0,
+    57.0
+   ],
+   "verb": "pour",
+   "noun": "cereal",
+   "score": 0.389435
+  },
+  {
+   "segment": [
+    51.0,
+    52.0
+   ],
+   "verb": "pour",
+   "noun": "cereal",
+   "score": 0.378803
+  },
+  {
+   "segment": [
+    51.0,
+    54.5
+   ],
+   "verb": "put",
+   "noun": "cereal",
+   "score": 0.33158
+  },
+  {
+   "segment": [
+    51.0,
+    57.0
+   ],
+   "verb": "put",
+   "noun": "cereal",
+   "score": 0.329387
+  },
+  {
+   "segment": [
+    51.0,
+    53.0
+   ],
+   "verb": "put",
+   "noun": "cereal",
+   "score": 0.323317
+  },
+  {
+   "segment": [
+    51.0,
+    52.0
+   ],
+   "verb": "put",
+   "noun": "cereal",
+   "score": 0.309922
+  },
+  {
+   "segment": [
+    51.0,
+    57.0
+   ],
+   "verb": "insert",
+   "noun": "cereal",
+   "score": 0.309446
+  },
+  {
+   "segment": [
+    51.0,
+    54.5
+   ],
+   "verb": "insert",
+   "noun": "cereal",
+   "score": 0.301514
+  },
+  {
+   "segment": [
+    51.0,
+    53.0
+   ],
+   "verb": "insert",
+   "noun": "cereal",
+   "score": 0.297214
+  },
+  {
+   "segment": [
+    51.0,
+    52.0
+   ],
+   "verb": "insert",
+   "noun": "cereal",
+   "score": 0.286963
+  },
+  {
+   "segment": [
+    51.5,
+    52.5
+   ],
+   "verb": "pour",
+   "noun": "cereal",
+   "score": 0.399981
+  },
+  {
+   "segment": [
+    51.5,
+    52.5
+   ],
+   "verb": "put",
+   "noun": "cereal",
+   "score": 0.334918
+  },
+  {
+   "segment": [
+    51.5,
+    52.5
+   ],
+   "verb": "insert",
+   "noun": "cereal",
+   "score": 0.305981
+  },
+  {
+   "segment": [
+    52.0,
+    54.0
+   ],
+   "verb": "pour",
+   "noun": "cereal",
+   "score": 0.426258
+  },
+  {
+   "segment": [
+    52.0,
+    53.0
+   ],
+   "verb": "pour",
+   "noun": "cereal",
+   "score": 0.402153
+  },
+  {
+   "segment": [
+    52.0,
+    54.0
+   ],
+   "verb": "put",
+   "noun": "cereal",
+   "score": 0.341456
+  },
+  {
+   "segment": [
+    52.0,
+    53.0
+   ],
+   "verb": "put",
+   "noun": "cereal",
+   "score": 0.335411
+  },
+  {
+   "segment": [
+    52.0,
+    54.0
+   ],
+   "verb": "insert",
+   "noun": "cereal",
+   "score": 0.31103
+  },
+  {
+   "segment": [
+    52.0,
+    53.0
+   ],
+   "verb": "insert",
+   "noun": "cereal",
+   "score": 0.306503
+  },
+  {
+   "segment": [
+    52.5,
+    56.0
+   ],
+   "verb": "pour",
+   "noun": "cereal",
+   "score": 0.428186
+  },
+  {
+   "segment": [
+    52.5,
+    53.5
+   ],
+   "verb": "pour",
+   "noun": "cereal",
+   "score": 0.418838
+  },
+  {
+   "segment": [
+    52.5,
+    53.5
+   ],
+   "verb": "put",
+   "noun": "cereal",
+   "score": 0.338841
+  },
+  {
+   "segment": [
+    52.5,
+    56.0
+   ],
+   "verb": "put",
+   "noun": "cereal",
+   "score": 0.332164
+  },
+  {
+   "segment": [
+    52.5,
+    53.5
+   ],
+   "verb": "insert",
+   "noun": "cereal",
+   "score": 0.310765
+  },
+  {
+   "segment": [
+    52.5,
+    56.0
+   ],
+   "verb": "insert",
+   "noun": "cereal",
+   "score": 0.307182
+  },
+  {
+   "segment": [
+    53.0,
+    55.0
+   ],
+   "verb": "pour",
+   "noun": "cereal",
+   "score": 0.45022
+  },
+  {
+   "segment": [
+    53.0,
+    54.0
+   ],
+   "verb": "pour",
+   "noun": "cereal",
+   "score": 0.448679
+  },
+  {
+   "segment": [
+    53.0,
+    54.0
+   ],
+   "verb": "put",
+   "noun": "cereal",
+   "score": 0.347277
+  },
+  {
+   "segment": [
+    53.0,
+    55.0
+   ],
+   "verb": "put",
+   "noun": "cereal",
+   "score": 0.34036
+  },
+  {
+   "segment": [
+    53.0,
+    54.0
+   ],
+   "verb": "insert",
+   "noun": "cereal",
+   "score": 0.3154
+  },
+  {
+   "segment": [
+    53.0,
+    55.0
+   ],
+   "verb": "insert",
+   "noun": "cereal",
+   "score": 0.308038
+  },
+  {
+   "segment": [
+    53.5,
+    54.5
+   ],
+   "verb": "pour",
+   "noun": "cereal",
+   "score": 0.465847
+  },
+  {
+   "segment": [
+    53.5,
+    54.5
+   ],
+   "verb": "put",
+   "noun": "cereal",
+   "score": 0.341023
+  },
+  {
+   "segment": [
+    53.5,
+    54.5
+   ],
+   "verb": "insert",
+   "noun": "cereal",
+   "score": 0.303288
+  },
+  {
+   "segment": [
+    54.0,
+    55.0
+   ],
+   "verb": "pour",
+   "noun": "cereal",
+   "score": 0.451737
+  },
+  {
+   "segment": [
+    54.0,
+    56.0
+   ],
+   "verb": "pour",
+   "noun": "cereal",
+   "score": 0.422281
+  },
+  {
+   "segment": [
+    54.0,
+    57.5
+   ],
+   "verb": "pour",
+   "noun": "cereal",
+   "score": 0.340722
+  },
+  {
+   "segment": [
+    54.0,
+    55.0
+   ],
+   "verb": "put",
+   "noun": "cereal",
+   "score": 0.333107
+  },
+  {
+   "segment": [
+    54.0,
+    57.5
+   ],
+   "verb": "put",
+   "noun": "cereal",
+   "score": 0.325722
+  },
+  {
+   "segment": [
+    54.0,
+    56.0
+   ],
+   "verb": "put",
+   "noun": "cereal",
+   "score": 0.323681
+  },
+  {
+   "segment": [
+    54.0,
+    57.5
+   ],
+   "verb": "insert",
+   "noun": "cereal",
+   "score": 0.315992
+  },
+  {
+   "segment": [
+    54.0,
+    56.0
+   ],
+   "verb": "insert",
+   "noun": "cereal",
+   "score": 0.302728
+  },
+  {
+   "segment": [
+    54.0,
+    55.0
+   ],
+   "verb": "insert",
+   "noun": "cereal",
+   "score": 0.300296
+  },
+  {
+   "segment": [
+    54.0,
+    60.0
+   ],
+   "verb": "pour",
+   "noun": "cereal",
+   "score": 0.254459
+  },
+  {
+   "segment": [
+    54.0,
+    60.0
+   ],
+   "verb": "put",
+   "noun": "cereal",
+   "score": 0.253172
+  },
+  {
+   "segment": [
+    54.0,
+    60.0
+   ],
+   "verb": "insert",
+   "noun": "cereal",
+   "score": 0.24751
+  },
+  {
+   "segment": [
+    54.5,
+    55.5
+   ],
+   "verb": "pour",
+   "noun": "cereal",
+   "score": 0.426159
+  },
+  {
+   "segment": [
+    54.5,
+    55.5
+   ],
+   "verb": "put",
+   "noun": "cereal",
+   "score": 0.318673
+  },
+  {
+   "segment": [
+    54.5,
+    55.5
+   ],
+   "verb": "insert",
+   "noun": "cereal",
+   "score": 0.297369
+  },
+  {
+   "segment": [
+    55.0,
+    56.0
+   ],
+   "verb": "pour",
+   "noun": "cereal",
+   "score": 0.391441
+  },
+  {
+   "segment": [
+    55.0,
+    57.0
+   ],
+   "verb": "put",
+   "noun": "cereal",
+   "score": 0.323269
+  },
+  {
+   "segment": [
+    55.0,
+    57.0
+   ],
+   "verb": "pour",
+   "noun": "cereal",
+   "score": 0.320611
+  },
+  {
+   "segment": [
+    55.0,
+    57.0
+   ],
+   "verb": "insert",
+   "noun": "cereal",
+   "score": 0.320057
+  },
+  {
+   "segment": [
+    55.0,
+    56.0
+   ],
+   "verb": "put",
+   "noun": "cereal",
+   "score": 0.314183
+  },
+  {
+   "segment": [
+    55.0,
+    56.0
+   ],
+   "verb": "insert",
+   "noun": "cereal",
+   "score": 0.305015
+  },
+  {
+   "segment": [
+    55.5,
+    56.5
+   ],
+   "verb": "pour",
+   "noun": "cereal",
+   "score": 0.331108
+  },
+  {
+   "segment": [
+    55.5,
+    56.5
+   ],
+   "verb": "put",
+   "noun": "cereal",
+   "score": 0.323966
+  },
+  {
+   "segment": [
+    55.5,
+    56.5
+   ],
+   "verb": "insert",
+   "noun": "cereal",
+   "score": 0.319117
+  },
+  {
+   "segment": [
+    55.5,
+    59.0
+   ],
+   "verb": "insert",
+   "noun": "cereal",
+   "score": 0.260141
+  },
+  {
+   "segment": [
+    55.5,
+    59.0
+   ],
+   "verb": "put",
+   "noun": "cereal",
+   "score": 0.257027
+  },
+  {
+   "segment": [
+    55.5,
+    59.0
+   ],
+   "verb": "open",
+   "noun": "cereal",
+   "score": 0.25383
+  },
+  {
+   "segment": [
+    56.0,
+    57.0
+   ],
+   "verb": "insert",
+   "noun": "cereal",
+   "score": 0.330858
+  },
+  {
+   "segment": [
+    56.0,
+    57.0
+   ],
+   "verb": "put",
+   "noun": "cereal",
+   "score": 0.329246
+  },
+  {
+   "segment": [
+    56.0,
+    58.0
+   ],
+   "verb": "open",
+   "noun": "cereal",
+   "score": 0.312537
+  },
+  {
+   "segment": [
+    56.0,
+    58.0
+   ],
+   "verb": "insert",
+   "noun": "cereal",
+   "score": 0.308286
+  },
+  {
+   "segment": [
+    56.0,
+    58.0
+   ],
+   "verb": "put",
+   "noun": "cereal",
+   "score": 0.303964
+  },
+  {
+   "segment": [
+    56.0,
+    57.0
+   ],
+   "verb": "open",
+   "noun": "cereal",
+   "score": 0.287706
+  },
+  {
+   "segment": [
+    56.5,
+    57.5
+   ],
+   "verb": "open",
+   "noun": "cereal",
+   "score": 0.345309
+  },
+  {
+   "segment": [
+    56.5,
+    57.5
+   ],
+   "verb": "insert",
+   "noun": "cereal",
+   "score": 0.335946
+  },
+  {
+   "segment": [
+    56.5,
+    57.5
+   ],
+   "verb": "put",
+   "noun": "cereal",
+   "score": 0.328348
+  },
+  {
+   "segment": [
+    57.0,
+    58.0
+   ],
+   "verb": "open",
+   "noun": "cereal",
+   "score": 0.335073
+  },
+  {
+   "segment": [
+    57.0,
+    58.0
+   ],
+   "verb": "insert",
+   "noun": "cereal",
+   "score": 0.284388
+  },
+  {
+   "segment": [
+    57.0,
+    58.0
+   ],
+   "verb": "put",
+   "noun": "cereal",
+   "score": 0.27691
+  },
+  {
+   "segment": [
+    57.0,
+    60.5
+   ],
+   "verb": "put",
+   "noun": "rack:drying",
+   "score": 0.240131
+  },
+  {
+   "segment": [
+    57.0,
+    59.0
+   ],
+   "verb": "open",
+   "noun": "cereal",
+   "score": 0.239455
+  },
+  {
+   "segment": [
+    57.0,
+    63.0
+   ],
+   "verb": "put",
+   "noun": "rack:drying",
+   "score": 0.23823
+  },
+  {
+   "segment": [
+    57.0,
+    59.0
+   ],
+   "verb": "insert",
+   "noun": "cereal",
+   "score": 0.201208
+  },
+  {
+   "segment": [
+    57.0,
+    63.0
+   ],
+   "verb": "filter",
+   "noun": "rack:drying",
+   "score": 0.196877
+  },
+  {
+   "segment": [
+    57.0,
+    59.0
+   ],
+   "verb": "put",
+   "noun": "cereal",
+   "score": 0.19568
+  },
+  {
+   "segment": [
+    57.0,
+    60.5
+   ],
+   "verb": "filter",
+   "noun": "rack:drying",
+   "score": 0.194117
+  },
+  {
+   "segment": [
+    57.0,
+    60.5
+   ],
+   "verb": "open",
+   "noun": "cereal",
+   "score": 0.19118
+  },
+  {
+   "segment": [
+    57.0,
+    63.0
+   ],
+   "verb": "take",
+   "noun": "rack:drying",
+   "score": 0.156661
+  },
+  {
+   "segment": [
+    57.5,
+    58.5
+   ],
+   "verb": "open",
+   "noun": "cereal",
+   "score": 0.233489
+  },
+  {
+   "segment": [
+    57.5,
+    58.5
+   ],
+   "verb": "insert",
+   "noun": "cereal",
+   "score": 0.181516
+  },
+  {
+   "segment": [
+    57.5,
+    58.5
+   ],
+   "verb": "put",
+   "noun": "cereal",
+   "score": 0.17298
+  },
+  {
+   "segment": [
+    58.0,
+    60.0
+   ],
+   "verb": "put",
+   "noun": "rack:drying",
+   "score": 0.225846
+  },
+  {
+   "segment": [
+    58.0,
+    60.0
+   ],
+   "verb": "filter",
+   "noun": "rack:drying",
+   "score": 0.184983
+  },
+  {
+   "segment": [
+    58.0,
+    60.0
+   ],
+   "verb": "take",
+   "noun": "rack:drying",
+   "score": 0.155264
+  },
+  {
+   "segment": [
+    58.0,
+    59.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.153181
+  },
+  {
+   "segment": [
+    58.0,
+    59.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.122397
+  },
+  {
+   "segment": [
+    58.0,
+    59.0
+   ],
+   "verb": "put",
+   "noun": "mat",
+   "score": 0.113087
+  },
+  {
+   "segment": [
+    58.5,
+    62.0
+   ],
+   "verb": "put",
+   "noun": "rack:drying",
+   "score": 0.328021
+  },
+  {
+   "segment": [
+    58.5,
+    62.0
+   ],
+   "verb": "filter",
+   "noun": "rack:drying",
+   "score": 0.271404
+  },
+  {
+   "segment": [
+    58.5,
+    62.0
+   ],
+   "verb": "take",
+   "noun": "rack:drying",
+   "score": 0.214651
+  },
+  {
+   "segment": [
+    58.5,
+    59.5
+   ],
+   "verb": "put",
+   "noun": "rack:drying",
+   "score": 0.195232
+  },
+  {
+   "segment": [
+    58.5,
+    59.5
+   ],
+   "verb": "filter",
+   "noun": "rack:drying",
+   "score": 0.164168
+  },
+  {
+   "segment": [
+    58.5,
+    59.5
+   ],
+   "verb": "take",
+   "noun": "rack:drying",
+   "score": 0.14206
+  },
+  {
+   "segment": [
+    59.0,
+    61.0
+   ],
+   "verb": "put",
+   "noun": "rack:drying",
+   "score": 0.398268
+  },
+  {
+   "segment": [
+    59.0,
+    61.0
+   ],
+   "verb": "filter",
+   "noun": "rack:drying",
+   "score": 0.323217
+  },
+  {
+   "segment": [
+    59.0,
+    60.0
+   ],
+   "verb": "put",
+   "noun": "rack:drying",
+   "score": 0.321819
+  },
+  {
+   "segment": [
+    59.0,
+    60.0
+   ],
+   "verb": "filter",
+   "noun": "rack:drying",
+   "score": 0.267204
+  },
+  {
+   "segment": [
+    59.0,
+    61.0
+   ],
+   "verb": "take",
+   "noun": "rack:drying",
+   "score": 0.257105
+  },
+  {
+   "segment": [
+    59.0,
+    60.0
+   ],
+   "verb": "take",
+   "noun": "rack:drying",
+   "score": 0.218033
+  },
+  {
+   "segment": [
+    59.5,
+    60.5
+   ],
+   "verb": "put",
+   "noun": "rack:drying",
+   "score": 0.438589
+  },
+  {
+   "segment": [
+    59.5,
+    60.5
+   ],
+   "verb": "filter",
+   "noun": "rack:drying",
+   "score": 0.351927
+  },
+  {
+   "segment": [
+    59.5,
+    60.5
+   ],
+   "verb": "take",
+   "noun": "rack:drying",
+   "score": 0.281683
+  },
+  {
+   "segment": [
+    60.0,
+    61.0
+   ],
+   "verb": "put",
+   "noun": "rack:drying",
+   "score": 0.47233
+  },
+  {
+   "segment": [
+    60.0,
+    61.0
+   ],
+   "verb": "filter",
+   "noun": "rack:drying",
+   "score": 0.378077
+  },
+  {
+   "segment": [
+    60.0,
+    62.0
+   ],
+   "verb": "put",
+   "noun": "rack:drying",
+   "score": 0.37386
+  },
+  {
+   "segment": [
+    60.0,
+    62.0
+   ],
+   "verb": "filter",
+   "noun": "rack:drying",
+   "score": 0.310269
+  },
+  {
+   "segment": [
+    60.0,
+    61.0
+   ],
+   "verb": "take",
+   "noun": "rack:drying",
+   "score": 0.295783
+  },
+  {
+   "segment": [
+    60.0,
+    63.5
+   ],
+   "verb": "put",
+   "noun": "rack:drying",
+   "score": 0.260397
+  },
+  {
+   "segment": [
+    60.0,
+    62.0
+   ],
+   "verb": "take",
+   "noun": "rack:drying",
+   "score": 0.238817
+  },
+  {
+   "segment": [
+    60.0,
+    63.5
+   ],
+   "verb": "filter",
+   "noun": "rack:drying",
+   "score": 0.216126
+  },
+  {
+   "segment": [
+    60.0,
+    63.5
+   ],
+   "verb": "put",
+   "noun": "cereal",
+   "score": 0.180023
+  },
+  {
+   "segment": [
+    60.5,
+    61.5
+   ],
+   "verb": "put",
+   "noun": "rack:drying",
+   "score": 0.402887
+  },
+  {
+   "segment": [
+    60.5,
+    61.5
+   ],
+   "verb": "filter",
+   "noun": "rack:drying",
+   "score": 0.33249
+  },
+  {
+   "segment": [
+    60.5,
+    61.5
+   ],
+   "verb": "take",
+   "noun": "rack:drying",
+   "score": 0.254435
+  },
+  {
+   "segment": [
+    61.0,
+    62.0
+   ],
+   "verb": "put",
+   "noun": "rack:drying",
+   "score": 0.250893
+  },
+  {
+   "segment": [
+    61.0,
+    62.0
+   ],
+   "verb": "filter",
+   "noun": "rack:drying",
+   "score": 0.230576
+  },
+  {
+   "segment": [
+    61.0,
+    63.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.201771
+  },
+  {
+   "segment": [
+    61.0,
+    62.0
+   ],
+   "verb": "dry",
+   "noun": "spoon",
+   "score": 0.201124
+  },
+  {
+   "segment": [
+    61.0,
+    63.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.169893
+  },
+  {
+   "segment": [
+    61.0,
+    63.0
+   ],
+   "verb": "put",
+   "noun": "cereal",
+   "score": 0.163762
+  },
+  {
+   "segment": [
+    61.5,
+    62.5
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.208352
+  },
+  {
+   "segment": [
+    61.5,
+    62.5
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.176346
+  },
+  {
+   "segment": [
+    61.5,
+    62.5
+   ],
+   "verb": "dry",
+   "noun": "spoon",
+   "score": 0.141612
+  },
+  {
+   "segment": [
+    62.0,
+    64.0
+   ],
+   "verb": "put",
+   "noun": "cereal",
+   "score": 0.262009
+  },
+  {
+   "segment": [
+    62.0,
+    63.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.223671
+  },
+  {
+   "segment": [
+    62.0,
+    64.0
+   ],
+   "verb": "take",
+   "noun": "cereal",
+   "score": 0.21828
+  },
+  {
+   "segment": [
+    62.0,
+    63.0
+   ],
+   "verb": "put",
+   "noun": "cereal",
+   "score": 0.195953
+  },
+  {
+   "segment": [
+    62.0,
+    63.0
+   ],
+   "verb": "close",
+   "noun": "cupboard",
+   "score": 0.187914
+  },
+  {
+   "segment": [
+    62.0,
+    64.0
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.183853
+  },
+  {
+   "segment": [
+    62.5,
+    63.5
+   ],
+   "verb": "put",
+   "noun": "cereal",
+   "score": 0.274049
+  },
+  {
+   "segment": [
+    62.5,
+    63.5
+   ],
+   "verb": "take",
+   "noun": "cereal",
+   "score": 0.22222
+  },
+  {
+   "segment": [
+    62.5,
+    63.5
+   ],
+   "verb": "open",
+   "noun": "cupboard",
+   "score": 0.202052
+  },
+  {
+   "segment": [
+    63.0,
+    64.0
+   ],
+   "verb": "put",
+   "noun": "cereal",
+   "score": 0.317645
+  },
+  {
+   "segment": [
+    63.0,
+    64.0
+   ],
+   "verb": "take",
+   "noun": "cereal",
+   "score": 0.275213
+  },
+  {
+   "segment": [
+    63.0,
+    64.0
+   ],
+   "verb": "open",
+   "noun": "cereal",
+   "score": 0.224547
+  }
+ ],
+ "highlights": [
+  {
+   "segment": [
+    19.0,
+    23.72
+   ]
+  },
+  {
+   "segment": [
+    34.0,
+    38.72
+   ]
+  }
+ ]
+}

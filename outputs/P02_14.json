@@ -1,0 +1,3340 @@
+{
+ "team_id": "SRMIST_PRISM",
+ "video_id": "P02_14",
+ "duration_sec": 32.21,
+ "label": {
+  "name": "cooking",
+  "score": 0.9993
+ },
+ "actions": [
+  {
+   "segment": [
+    0.0,
+    1.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.192282
+  },
+  {
+   "segment": [
+    0.0,
+    2.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.179162
+  },
+  {
+   "segment": [
+    0.0,
+    6.0
+   ],
+   "verb": "turn-off",
+   "noun": "oven",
+   "score": 0.174116
+  },
+  {
+   "segment": [
+    0.0,
+    1.0
+   ],
+   "verb": "look",
+   "noun": "kitchen",
+   "score": 0.168901
+  },
+  {
+   "segment": [
+    0.0,
+    1.0
+   ],
+   "verb": "move",
+   "noun": "machine:washing",
+   "score": 0.163732
+  },
+  {
+   "segment": [
+    0.0,
+    3.5
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.162342
+  },
+  {
+   "segment": [
+    0.0,
+    2.0
+   ],
+   "verb": "look",
+   "noun": "kitchen",
+   "score": 0.157493
+  },
+  {
+   "segment": [
+    0.0,
+    3.5
+   ],
+   "verb": "turn-off",
+   "noun": "oven",
+   "score": 0.154179
+  },
+  {
+   "segment": [
+    0.0,
+    6.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.149406
+  },
+  {
+   "segment": [
+    0.0,
+    2.0
+   ],
+   "verb": "move",
+   "noun": "machine:washing",
+   "score": 0.146185
+  },
+  {
+   "segment": [
+    0.0,
+    3.5
+   ],
+   "verb": "look",
+   "noun": "kitchen",
+   "score": 0.144926
+  },
+  {
+   "segment": [
+    0.0,
+    6.0
+   ],
+   "verb": "take",
+   "noun": "hob",
+   "score": 0.129058
+  },
+  {
+   "segment": [
+    0.5,
+    1.5
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.175029
+  },
+  {
+   "segment": [
+    0.5,
+    1.5
+   ],
+   "verb": "move",
+   "noun": "machine:washing",
+   "score": 0.153244
+  },
+  {
+   "segment": [
+    0.5,
+    1.5
+   ],
+   "verb": "look",
+   "noun": "kitchen",
+   "score": 0.152421
+  },
+  {
+   "segment": [
+    1.0,
+    2.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.165001
+  },
+  {
+   "segment": [
+    1.0,
+    3.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.158082
+  },
+  {
+   "segment": [
+    1.0,
+    2.0
+   ],
+   "verb": "look",
+   "noun": "kitchen",
+   "score": 0.145192
+  },
+  {
+   "segment": [
+    1.0,
+    3.0
+   ],
+   "verb": "look",
+   "noun": "kitchen",
+   "score": 0.142505
+  },
+  {
+   "segment": [
+    1.0,
+    3.0
+   ],
+   "verb": "take",
+   "noun": "hob",
+   "score": 0.132475
+  },
+  {
+   "segment": [
+    1.0,
+    2.0
+   ],
+   "verb": "move",
+   "noun": "machine:washing",
+   "score": 0.126221
+  },
+  {
+   "segment": [
+    1.5,
+    5.0
+   ],
+   "verb": "turn-off",
+   "noun": "oven",
+   "score": 0.234615
+  },
+  {
+   "segment": [
+    1.5,
+    5.0
+   ],
+   "verb": "turn-on",
+   "noun": "oven",
+   "score": 0.16979
+  },
+  {
+   "segment": [
+    1.5,
+    2.5
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.163861
+  },
+  {
+   "segment": [
+    1.5,
+    2.5
+   ],
+   "verb": "look",
+   "noun": "kitchen",
+   "score": 0.148831
+  },
+  {
+   "segment": [
+    1.5,
+    5.0
+   ],
+   "verb": "take",
+   "noun": "hob",
+   "score": 0.141319
+  },
+  {
+   "segment": [
+    1.5,
+    2.5
+   ],
+   "verb": "take",
+   "noun": "hob",
+   "score": 0.13881
+  },
+  {
+   "segment": [
+    2.0,
+    4.0
+   ],
+   "verb": "turn-off",
+   "noun": "oven",
+   "score": 0.266275
+  },
+  {
+   "segment": [
+    2.0,
+    4.0
+   ],
+   "verb": "turn-on",
+   "noun": "oven",
+   "score": 0.192658
+  },
+  {
+   "segment": [
+    2.0,
+    3.0
+   ],
+   "verb": "turn-off",
+   "noun": "oven",
+   "score": 0.18112
+  },
+  {
+   "segment": [
+    2.0,
+    3.0
+   ],
+   "verb": "take",
+   "noun": "hob",
+   "score": 0.160376
+  },
+  {
+   "segment": [
+    2.0,
+    3.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.150346
+  },
+  {
+   "segment": [
+    2.0,
+    4.0
+   ],
+   "verb": "take",
+   "noun": "hob",
+   "score": 0.143416
+  },
+  {
+   "segment": [
+    2.5,
+    3.5
+   ],
+   "verb": "turn-off",
+   "noun": "oven",
+   "score": 0.294282
+  },
+  {
+   "segment": [
+    2.5,
+    3.5
+   ],
+   "verb": "turn-on",
+   "noun": "oven",
+   "score": 0.21306
+  },
+  {
+   "segment": [
+    2.5,
+    3.5
+   ],
+   "verb": "close",
+   "noun": "oven",
+   "score": 0.156836
+  },
+  {
+   "segment": [
+    3.0,
+    4.0
+   ],
+   "verb": "turn-off",
+   "noun": "oven",
+   "score": 0.336315
+  },
+  {
+   "segment": [
+    3.0,
+    5.0
+   ],
+   "verb": "turn-off",
+   "noun": "oven",
+   "score": 0.295336
+  },
+  {
+   "segment": [
+    3.0,
+    9.0
+   ],
+   "verb": "open",
+   "noun": "oven",
+   "score": 0.267307
+  },
+  {
+   "segment": [
+    3.0,
+    4.0
+   ],
+   "verb": "turn-on",
+   "noun": "oven",
+   "score": 0.241822
+  },
+  {
+   "segment": [
+    3.0,
+    6.5
+   ],
+   "verb": "turn-off",
+   "noun": "oven",
+   "score": 0.221791
+  },
+  {
+   "segment": [
+    3.0,
+    5.0
+   ],
+   "verb": "turn-on",
+   "noun": "oven",
+   "score": 0.212448
+  },
+  {
+   "segment": [
+    3.0,
+    9.0
+   ],
+   "verb": "close",
+   "noun": "oven",
+   "score": 0.20641
+  },
+  {
+   "segment": [
+    3.0,
+    9.0
+   ],
+   "verb": "turn-off",
+   "noun": "oven",
+   "score": 0.196954
+  },
+  {
+   "segment": [
+    3.0,
+    5.0
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.185284
+  },
+  {
+   "segment": [
+    3.0,
+    4.0
+   ],
+   "verb": "close",
+   "noun": "oven",
+   "score": 0.171452
+  },
+  {
+   "segment": [
+    3.0,
+    6.5
+   ],
+   "verb": "turn-on",
+   "noun": "oven",
+   "score": 0.164269
+  },
+  {
+   "segment": [
+    3.0,
+    6.5
+   ],
+   "verb": "put",
+   "noun": "hob",
+   "score": 0.144768
+  },
+  {
+   "segment": [
+    3.5,
+    4.5
+   ],
+   "verb": "turn-off",
+   "noun": "oven",
+   "score": 0.31667
+  },
+  {
+   "segment": [
+    3.5,
+    4.5
+   ],
+   "verb": "turn-on",
+   "noun": "oven",
+   "score": 0.22679
+  },
+  {
+   "segment": [
+    3.5,
+    4.5
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.212308
+  },
+  {
+   "segment": [
+    4.0,
+    5.0
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.237163
+  },
+  {
+   "segment": [
+    4.0,
+    5.0
+   ],
+   "verb": "turn-off",
+   "noun": "oven",
+   "score": 0.188629
+  },
+  {
+   "segment": [
+    4.0,
+    5.0
+   ],
+   "verb": "put",
+   "noun": "hob",
+   "score": 0.17956
+  },
+  {
+   "segment": [
+    4.0,
+    6.0
+   ],
+   "verb": "put",
+   "noun": "hob",
+   "score": 0.169106
+  },
+  {
+   "segment": [
+    4.0,
+    6.0
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.155299
+  },
+  {
+   "segment": [
+    4.0,
+    6.0
+   ],
+   "verb": "move",
+   "noun": "hob",
+   "score": 0.150154
+  },
+  {
+   "segment": [
+    4.5,
+    8.0
+   ],
+   "verb": "open",
+   "noun": "oven",
+   "score": 0.268032
+  },
+  {
+   "segment": [
+    4.5,
+    8.0
+   ],
+   "verb": "close",
+   "noun": "oven",
+   "score": 0.204632
+  },
+  {
+   "segment": [
+    4.5,
+    5.5
+   ],
+   "verb": "put",
+   "noun": "hob",
+   "score": 0.181514
+  },
+  {
+   "segment": [
+    4.5,
+    8.0
+   ],
+   "verb": "move",
+   "noun": "oven",
+   "score": 0.178342
+  },
+  {
+   "segment": [
+    4.5,
+    5.5
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.15644
+  },
+  {
+   "segment": [
+    4.5,
+    5.5
+   ],
+   "verb": "take",
+   "noun": "hob",
+   "score": 0.15383
+  },
+  {
+   "segment": [
+    5.0,
+    7.0
+   ],
+   "verb": "open",
+   "noun": "oven",
+   "score": 0.188614
+  },
+  {
+   "segment": [
+    5.0,
+    7.0
+   ],
+   "verb": "close",
+   "noun": "oven",
+   "score": 0.163535
+  },
+  {
+   "segment": [
+    5.0,
+    7.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.160975
+  },
+  {
+   "segment": [
+    5.0,
+    6.0
+   ],
+   "verb": "put",
+   "noun": "hob",
+   "score": 0.153328
+  },
+  {
+   "segment": [
+    5.0,
+    6.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.147447
+  },
+  {
+   "segment": [
+    5.0,
+    6.0
+   ],
+   "verb": "take",
+   "noun": "hob",
+   "score": 0.144974
+  },
+  {
+   "segment": [
+    5.5,
+    6.5
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.175854
+  },
+  {
+   "segment": [
+    5.5,
+    6.5
+   ],
+   "verb": "open",
+   "noun": "oven",
+   "score": 0.147741
+  },
+  {
+   "segment": [
+    5.5,
+    6.5
+   ],
+   "verb": "move",
+   "noun": "oven",
+   "score": 0.146799
+  },
+  {
+   "segment": [
+    6.0,
+    9.5
+   ],
+   "verb": "open",
+   "noun": "oven",
+   "score": 0.365636
+  },
+  {
+   "segment": [
+    6.0,
+    12.0
+   ],
+   "verb": "open",
+   "noun": "oven",
+   "score": 0.350957
+  },
+  {
+   "segment": [
+    6.0,
+    8.0
+   ],
+   "verb": "open",
+   "noun": "oven",
+   "score": 0.348326
+  },
+  {
+   "segment": [
+    6.0,
+    7.0
+   ],
+   "verb": "open",
+   "noun": "oven",
+   "score": 0.262687
+  },
+  {
+   "segment": [
+    6.0,
+    8.0
+   ],
+   "verb": "close",
+   "noun": "oven",
+   "score": 0.26155
+  },
+  {
+   "segment": [
+    6.0,
+    9.5
+   ],
+   "verb": "close",
+   "noun": "oven",
+   "score": 0.258736
+  },
+  {
+   "segment": [
+    6.0,
+    12.0
+   ],
+   "verb": "close",
+   "noun": "oven",
+   "score": 0.244077
+  },
+  {
+   "segment": [
+    6.0,
+    12.0
+   ],
+   "verb": "increase",
+   "noun": "oven",
+   "score": 0.233354
+  },
+  {
+   "segment": [
+    6.0,
+    9.5
+   ],
+   "verb": "move",
+   "noun": "oven",
+   "score": 0.233324
+  },
+  {
+   "segment": [
+    6.0,
+    7.0
+   ],
+   "verb": "close",
+   "noun": "oven",
+   "score": 0.222335
+  },
+  {
+   "segment": [
+    6.0,
+    8.0
+   ],
+   "verb": "move",
+   "noun": "oven",
+   "score": 0.219671
+  },
+  {
+   "segment": [
+    6.0,
+    7.0
+   ],
+   "verb": "open",
+   "noun": "drawer",
+   "score": 0.216504
+  },
+  {
+   "segment": [
+    6.5,
+    7.5
+   ],
+   "verb": "open",
+   "noun": "oven",
+   "score": 0.381121
+  },
+  {
+   "segment": [
+    6.5,
+    7.5
+   ],
+   "verb": "close",
+   "noun": "oven",
+   "score": 0.289776
+  },
+  {
+   "segment": [
+    6.5,
+    7.5
+   ],
+   "verb": "open",
+   "noun": "drawer",
+   "score": 0.239254
+  },
+  {
+   "segment": [
+    7.0,
+    8.0
+   ],
+   "verb": "open",
+   "noun": "oven",
+   "score": 0.417055
+  },
+  {
+   "segment": [
+    7.0,
+    9.0
+   ],
+   "verb": "open",
+   "noun": "oven",
+   "score": 0.400789
+  },
+  {
+   "segment": [
+    7.0,
+    8.0
+   ],
+   "verb": "close",
+   "noun": "oven",
+   "score": 0.295776
+  },
+  {
+   "segment": [
+    7.0,
+    9.0
+   ],
+   "verb": "close",
+   "noun": "oven",
+   "score": 0.276386
+  },
+  {
+   "segment": [
+    7.0,
+    9.0
+   ],
+   "verb": "move",
+   "noun": "oven",
+   "score": 0.243132
+  },
+  {
+   "segment": [
+    7.0,
+    8.0
+   ],
+   "verb": "move",
+   "noun": "oven",
+   "score": 0.241231
+  },
+  {
+   "segment": [
+    7.5,
+    8.5
+   ],
+   "verb": "open",
+   "noun": "oven",
+   "score": 0.414784
+  },
+  {
+   "segment": [
+    7.5,
+    11.0
+   ],
+   "verb": "open",
+   "noun": "oven",
+   "score": 0.376828
+  },
+  {
+   "segment": [
+    7.5,
+    8.5
+   ],
+   "verb": "close",
+   "noun": "oven",
+   "score": 0.281111
+  },
+  {
+   "segment": [
+    7.5,
+    11.0
+   ],
+   "verb": "increase",
+   "noun": "oven",
+   "score": 0.264497
+  },
+  {
+   "segment": [
+    7.5,
+    11.0
+   ],
+   "verb": "close",
+   "noun": "oven",
+   "score": 0.250673
+  },
+  {
+   "segment": [
+    7.5,
+    8.5
+   ],
+   "verb": "move",
+   "noun": "oven",
+   "score": 0.243602
+  },
+  {
+   "segment": [
+    8.0,
+    9.0
+   ],
+   "verb": "open",
+   "noun": "oven",
+   "score": 0.384331
+  },
+  {
+   "segment": [
+    8.0,
+    10.0
+   ],
+   "verb": "open",
+   "noun": "oven",
+   "score": 0.381127
+  },
+  {
+   "segment": [
+    8.0,
+    10.0
+   ],
+   "verb": "increase",
+   "noun": "oven",
+   "score": 0.271076
+  },
+  {
+   "segment": [
+    8.0,
+    9.0
+   ],
+   "verb": "increase",
+   "noun": "oven",
+   "score": 0.264425
+  },
+  {
+   "segment": [
+    8.0,
+    9.0
+   ],
+   "verb": "close",
+   "noun": "oven",
+   "score": 0.256227
+  },
+  {
+   "segment": [
+    8.0,
+    10.0
+   ],
+   "verb": "close",
+   "noun": "oven",
+   "score": 0.250458
+  },
+  {
+   "segment": [
+    8.5,
+    9.5
+   ],
+   "verb": "open",
+   "noun": "oven",
+   "score": 0.374051
+  },
+  {
+   "segment": [
+    8.5,
+    9.5
+   ],
+   "verb": "increase",
+   "noun": "oven",
+   "score": 0.274981
+  },
+  {
+   "segment": [
+    8.5,
+    9.5
+   ],
+   "verb": "move",
+   "noun": "oven",
+   "score": 0.249476
+  },
+  {
+   "segment": [
+    9.0,
+    10.0
+   ],
+   "verb": "open",
+   "noun": "oven",
+   "score": 0.37792
+  },
+  {
+   "segment": [
+    9.0,
+    11.0
+   ],
+   "verb": "open",
+   "noun": "oven",
+   "score": 0.360098
+  },
+  {
+   "segment": [
+    9.0,
+    12.5
+   ],
+   "verb": "open",
+   "noun": "oven",
+   "score": 0.328241
+  },
+  {
+   "segment": [
+    9.0,
+    10.0
+   ],
+   "verb": "increase",
+   "noun": "oven",
+   "score": 0.277489
+  },
+  {
+   "segment": [
+    9.0,
+    11.0
+   ],
+   "verb": "increase",
+   "noun": "oven",
+   "score": 0.276955
+  },
+  {
+   "segment": [
+    9.0,
+    15.0
+   ],
+   "verb": "open",
+   "noun": "oven",
+   "score": 0.272949
+  },
+  {
+   "segment": [
+    9.0,
+    12.5
+   ],
+   "verb": "increase",
+   "noun": "oven",
+   "score": 0.263777
+  },
+  {
+   "segment": [
+    9.0,
+    10.0
+   ],
+   "verb": "move",
+   "noun": "oven",
+   "score": 0.253345
+  },
+  {
+   "segment": [
+    9.0,
+    15.0
+   ],
+   "verb": "put",
+   "noun": "fishcakes",
+   "score": 0.252419
+  },
+  {
+   "segment": [
+    9.0,
+    11.0
+   ],
+   "verb": "move",
+   "noun": "oven",
+   "score": 0.243794
+  },
+  {
+   "segment": [
+    9.0,
+    15.0
+   ],
+   "verb": "increase",
+   "noun": "oven",
+   "score": 0.237186
+  },
+  {
+   "segment": [
+    9.0,
+    12.5
+   ],
+   "verb": "put",
+   "noun": "oven",
+   "score": 0.228622
+  },
+  {
+   "segment": [
+    9.5,
+    10.5
+   ],
+   "verb": "open",
+   "noun": "oven",
+   "score": 0.361294
+  },
+  {
+   "segment": [
+    9.5,
+    10.5
+   ],
+   "verb": "increase",
+   "noun": "oven",
+   "score": 0.274914
+  },
+  {
+   "segment": [
+    9.5,
+    10.5
+   ],
+   "verb": "move",
+   "noun": "oven",
+   "score": 0.243568
+  },
+  {
+   "segment": [
+    10.0,
+    11.0
+   ],
+   "verb": "open",
+   "noun": "oven",
+   "score": 0.333662
+  },
+  {
+   "segment": [
+    10.0,
+    12.0
+   ],
+   "verb": "open",
+   "noun": "oven",
+   "score": 0.305407
+  },
+  {
+   "segment": [
+    10.0,
+    11.0
+   ],
+   "verb": "put",
+   "noun": "fishcakes",
+   "score": 0.2976
+  },
+  {
+   "segment": [
+    10.0,
+    12.0
+   ],
+   "verb": "put",
+   "noun": "fishcakes",
+   "score": 0.292779
+  },
+  {
+   "segment": [
+    10.0,
+    11.0
+   ],
+   "verb": "increase",
+   "noun": "oven",
+   "score": 0.273637
+  },
+  {
+   "segment": [
+    10.0,
+    12.0
+   ],
+   "verb": "increase",
+   "noun": "oven",
+   "score": 0.254863
+  },
+  {
+   "segment": [
+    10.5,
+    11.5
+   ],
+   "verb": "put",
+   "noun": "fishcakes",
+   "score": 0.338837
+  },
+  {
+   "segment": [
+    10.5,
+    11.5
+   ],
+   "verb": "open",
+   "noun": "oven",
+   "score": 0.286937
+  },
+  {
+   "segment": [
+    10.5,
+    14.0
+   ],
+   "verb": "put",
+   "noun": "fishcakes",
+   "score": 0.277262
+  },
+  {
+   "segment": [
+    10.5,
+    11.5
+   ],
+   "verb": "increase",
+   "noun": "oven",
+   "score": 0.254038
+  },
+  {
+   "segment": [
+    10.5,
+    14.0
+   ],
+   "verb": "open",
+   "noun": "oven",
+   "score": 0.236818
+  },
+  {
+   "segment": [
+    10.5,
+    14.0
+   ],
+   "verb": "increase",
+   "noun": "oven",
+   "score": 0.235046
+  },
+  {
+   "segment": [
+    11.0,
+    12.0
+   ],
+   "verb": "put",
+   "noun": "fishcakes",
+   "score": 0.286645
+  },
+  {
+   "segment": [
+    11.0,
+    12.0
+   ],
+   "verb": "open",
+   "noun": "oven",
+   "score": 0.270055
+  },
+  {
+   "segment": [
+    11.0,
+    13.0
+   ],
+   "verb": "open",
+   "noun": "oven",
+   "score": 0.255606
+  },
+  {
+   "segment": [
+    11.0,
+    13.0
+   ],
+   "verb": "put",
+   "noun": "fishcakes",
+   "score": 0.243146
+  },
+  {
+   "segment": [
+    11.0,
+    13.0
+   ],
+   "verb": "increase",
+   "noun": "oven",
+   "score": 0.242995
+  },
+  {
+   "segment": [
+    11.0,
+    12.0
+   ],
+   "verb": "increase",
+   "noun": "oven",
+   "score": 0.231753
+  },
+  {
+   "segment": [
+    11.5,
+    12.5
+   ],
+   "verb": "open",
+   "noun": "oven",
+   "score": 0.26452
+  },
+  {
+   "segment": [
+    11.5,
+    12.5
+   ],
+   "verb": "put",
+   "noun": "potato",
+   "score": 0.24536
+  },
+  {
+   "segment": [
+    11.5,
+    12.5
+   ],
+   "verb": "increase",
+   "noun": "oven",
+   "score": 0.241847
+  },
+  {
+   "segment": [
+    12.0,
+    14.0
+   ],
+   "verb": "put",
+   "noun": "fishcakes",
+   "score": 0.256832
+  },
+  {
+   "segment": [
+    12.0,
+    18.0
+   ],
+   "verb": "open",
+   "noun": "oven",
+   "score": 0.255653
+  },
+  {
+   "segment": [
+    12.0,
+    13.0
+   ],
+   "verb": "increase",
+   "noun": "oven",
+   "score": 0.253259
+  },
+  {
+   "segment": [
+    12.0,
+    15.5
+   ],
+   "verb": "put",
+   "noun": "fishcakes",
+   "score": 0.249186
+  },
+  {
+   "segment": [
+    12.0,
+    13.0
+   ],
+   "verb": "open",
+   "noun": "oven",
+   "score": 0.240785
+  },
+  {
+   "segment": [
+    12.0,
+    18.0
+   ],
+   "verb": "increase",
+   "noun": "oven",
+   "score": 0.239578
+  },
+  {
+   "segment": [
+    12.0,
+    14.0
+   ],
+   "verb": "increase",
+   "noun": "oven",
+   "score": 0.225709
+  },
+  {
+   "segment": [
+    12.0,
+    13.0
+   ],
+   "verb": "put",
+   "noun": "potato",
+   "score": 0.222211
+  },
+  {
+   "segment": [
+    12.0,
+    15.5
+   ],
+   "verb": "increase",
+   "noun": "oven",
+   "score": 0.205085
+  },
+  {
+   "segment": [
+    12.0,
+    15.5
+   ],
+   "verb": "open",
+   "noun": "oven",
+   "score": 0.202474
+  },
+  {
+   "segment": [
+    12.0,
+    18.0
+   ],
+   "verb": "move",
+   "noun": "oven",
+   "score": 0.200398
+  },
+  {
+   "segment": [
+    12.0,
+    14.0
+   ],
+   "verb": "open",
+   "noun": "oven",
+   "score": 0.198721
+  },
+  {
+   "segment": [
+    12.5,
+    13.5
+   ],
+   "verb": "increase",
+   "noun": "oven",
+   "score": 0.254814
+  },
+  {
+   "segment": [
+    12.5,
+    13.5
+   ],
+   "verb": "put",
+   "noun": "fishcakes",
+   "score": 0.249878
+  },
+  {
+   "segment": [
+    12.5,
+    13.5
+   ],
+   "verb": "open",
+   "noun": "oven",
+   "score": 0.211074
+  },
+  {
+   "segment": [
+    13.0,
+    14.0
+   ],
+   "verb": "put",
+   "noun": "fishcakes",
+   "score": 0.301607
+  },
+  {
+   "segment": [
+    13.0,
+    15.0
+   ],
+   "verb": "put",
+   "noun": "fishcakes",
+   "score": 0.299539
+  },
+  {
+   "segment": [
+    13.0,
+    14.0
+   ],
+   "verb": "increase",
+   "noun": "oven",
+   "score": 0.197368
+  },
+  {
+   "segment": [
+    13.0,
+    15.0
+   ],
+   "verb": "increase",
+   "noun": "oven",
+   "score": 0.179932
+  },
+  {
+   "segment": [
+    13.0,
+    15.0
+   ],
+   "verb": "open",
+   "noun": "oven",
+   "score": 0.159942
+  },
+  {
+   "segment": [
+    13.0,
+    14.0
+   ],
+   "verb": "take",
+   "noun": "oven",
+   "score": 0.158272
+  },
+  {
+   "segment": [
+    13.5,
+    14.5
+   ],
+   "verb": "put",
+   "noun": "fishcakes",
+   "score": 0.293826
+  },
+  {
+   "segment": [
+    13.5,
+    17.0
+   ],
+   "verb": "open",
+   "noun": "oven",
+   "score": 0.260867
+  },
+  {
+   "segment": [
+    13.5,
+    17.0
+   ],
+   "verb": "increase",
+   "noun": "oven",
+   "score": 0.218219
+  },
+  {
+   "segment": [
+    13.5,
+    17.0
+   ],
+   "verb": "move",
+   "noun": "oven",
+   "score": 0.208311
+  },
+  {
+   "segment": [
+    13.5,
+    14.5
+   ],
+   "verb": "increase",
+   "noun": "oven",
+   "score": 0.139224
+  },
+  {
+   "segment": [
+    13.5,
+    14.5
+   ],
+   "verb": "take",
+   "noun": "fishcakes",
+   "score": 0.121306
+  },
+  {
+   "segment": [
+    14.0,
+    15.0
+   ],
+   "verb": "put",
+   "noun": "fishcakes",
+   "score": 0.29746
+  },
+  {
+   "segment": [
+    14.0,
+    16.0
+   ],
+   "verb": "open",
+   "noun": "oven",
+   "score": 0.246821
+  },
+  {
+   "segment": [
+    14.0,
+    16.0
+   ],
+   "verb": "move",
+   "noun": "oven",
+   "score": 0.209875
+  },
+  {
+   "segment": [
+    14.0,
+    16.0
+   ],
+   "verb": "put",
+   "noun": "fishcakes",
+   "score": 0.208008
+  },
+  {
+   "segment": [
+    14.0,
+    15.0
+   ],
+   "verb": "move",
+   "noun": "oven",
+   "score": 0.173575
+  },
+  {
+   "segment": [
+    14.0,
+    15.0
+   ],
+   "verb": "open",
+   "noun": "oven",
+   "score": 0.167774
+  },
+  {
+   "segment": [
+    14.5,
+    15.5
+   ],
+   "verb": "open",
+   "noun": "oven",
+   "score": 0.244637
+  },
+  {
+   "segment": [
+    14.5,
+    15.5
+   ],
+   "verb": "move",
+   "noun": "oven",
+   "score": 0.219463
+  },
+  {
+   "segment": [
+    14.5,
+    15.5
+   ],
+   "verb": "put",
+   "noun": "fishcakes",
+   "score": 0.204449
+  },
+  {
+   "segment": [
+    15.0,
+    17.0
+   ],
+   "verb": "open",
+   "noun": "oven",
+   "score": 0.317874
+  },
+  {
+   "segment": [
+    15.0,
+    16.0
+   ],
+   "verb": "open",
+   "noun": "oven",
+   "score": 0.297276
+  },
+  {
+   "segment": [
+    15.0,
+    18.5
+   ],
+   "verb": "open",
+   "noun": "oven",
+   "score": 0.293424
+  },
+  {
+   "segment": [
+    15.0,
+    18.5
+   ],
+   "verb": "increase",
+   "noun": "oven",
+   "score": 0.269336
+  },
+  {
+   "segment": [
+    15.0,
+    21.0
+   ],
+   "verb": "open",
+   "noun": "oven",
+   "score": 0.258188
+  },
+  {
+   "segment": [
+    15.0,
+    21.0
+   ],
+   "verb": "increase",
+   "noun": "oven",
+   "score": 0.255395
+  },
+  {
+   "segment": [
+    15.0,
+    17.0
+   ],
+   "verb": "increase",
+   "noun": "oven",
+   "score": 0.254355
+  },
+  {
+   "segment": [
+    15.0,
+    17.0
+   ],
+   "verb": "move",
+   "noun": "oven",
+   "score": 0.240629
+  },
+  {
+   "segment": [
+    15.0,
+    16.0
+   ],
+   "verb": "move",
+   "noun": "oven",
+   "score": 0.235604
+  },
+  {
+   "segment": [
+    15.0,
+    18.5
+   ],
+   "verb": "move",
+   "noun": "oven",
+   "score": 0.226223
+  },
+  {
+   "segment": [
+    15.0,
+    16.0
+   ],
+   "verb": "increase",
+   "noun": "oven",
+   "score": 0.224067
+  },
+  {
+   "segment": [
+    15.0,
+    21.0
+   ],
+   "verb": "move",
+   "noun": "oven",
+   "score": 0.201448
+  },
+  {
+   "segment": [
+    15.5,
+    16.5
+   ],
+   "verb": "open",
+   "noun": "oven",
+   "score": 0.349853
+  },
+  {
+   "segment": [
+    15.5,
+    16.5
+   ],
+   "verb": "increase",
+   "noun": "oven",
+   "score": 0.270855
+  },
+  {
+   "segment": [
+    15.5,
+    16.5
+   ],
+   "verb": "move",
+   "noun": "oven",
+   "score": 0.25769
+  },
+  {
+   "segment": [
+    16.0,
+    17.0
+   ],
+   "verb": "open",
+   "noun": "oven",
+   "score": 0.338316
+  },
+  {
+   "segment": [
+    16.0,
+    18.0
+   ],
+   "verb": "open",
+   "noun": "oven",
+   "score": 0.30492
+  },
+  {
+   "segment": [
+    16.0,
+    18.0
+   ],
+   "verb": "increase",
+   "noun": "oven",
+   "score": 0.286664
+  },
+  {
+   "segment": [
+    16.0,
+    17.0
+   ],
+   "verb": "increase",
+   "noun": "oven",
+   "score": 0.283247
+  },
+  {
+   "segment": [
+    16.0,
+    17.0
+   ],
+   "verb": "move",
+   "noun": "oven",
+   "score": 0.24554
+  },
+  {
+   "segment": [
+    16.0,
+    18.0
+   ],
+   "verb": "move",
+   "noun": "oven",
+   "score": 0.228063
+  },
+  {
+   "segment": [
+    16.5,
+    17.5
+   ],
+   "verb": "open",
+   "noun": "oven",
+   "score": 0.309281
+  },
+  {
+   "segment": [
+    16.5,
+    17.5
+   ],
+   "verb": "increase",
+   "noun": "oven",
+   "score": 0.287341
+  },
+  {
+   "segment": [
+    16.5,
+    20.0
+   ],
+   "verb": "increase",
+   "noun": "oven",
+   "score": 0.272091
+  },
+  {
+   "segment": [
+    16.5,
+    20.0
+   ],
+   "verb": "open",
+   "noun": "oven",
+   "score": 0.243794
+  },
+  {
+   "segment": [
+    16.5,
+    17.5
+   ],
+   "verb": "move",
+   "noun": "oven",
+   "score": 0.23405
+  },
+  {
+   "segment": [
+    16.5,
+    20.0
+   ],
+   "verb": "move",
+   "noun": "oven",
+   "score": 0.193357
+  },
+  {
+   "segment": [
+    17.0,
+    18.0
+   ],
+   "verb": "increase",
+   "noun": "oven",
+   "score": 0.289026
+  },
+  {
+   "segment": [
+    17.0,
+    19.0
+   ],
+   "verb": "increase",
+   "noun": "oven",
+   "score": 0.286307
+  },
+  {
+   "segment": [
+    17.0,
+    18.0
+   ],
+   "verb": "open",
+   "noun": "oven",
+   "score": 0.259277
+  },
+  {
+   "segment": [
+    17.0,
+    19.0
+   ],
+   "verb": "open",
+   "noun": "oven",
+   "score": 0.237816
+  },
+  {
+   "segment": [
+    17.0,
+    18.0
+   ],
+   "verb": "move",
+   "noun": "oven",
+   "score": 0.204736
+  },
+  {
+   "segment": [
+    17.0,
+    19.0
+   ],
+   "verb": "move",
+   "noun": "oven",
+   "score": 0.19462
+  },
+  {
+   "segment": [
+    17.5,
+    18.5
+   ],
+   "verb": "increase",
+   "noun": "oven",
+   "score": 0.286243
+  },
+  {
+   "segment": [
+    17.5,
+    18.5
+   ],
+   "verb": "open",
+   "noun": "oven",
+   "score": 0.221604
+  },
+  {
+   "segment": [
+    17.5,
+    18.5
+   ],
+   "verb": "move",
+   "noun": "bread",
+   "score": 0.185043
+  },
+  {
+   "segment": [
+    18.0,
+    19.0
+   ],
+   "verb": "increase",
+   "noun": "oven",
+   "score": 0.283561
+  },
+  {
+   "segment": [
+    18.0,
+    20.0
+   ],
+   "verb": "increase",
+   "noun": "oven",
+   "score": 0.259296
+  },
+  {
+   "segment": [
+    18.0,
+    21.5
+   ],
+   "verb": "increase",
+   "noun": "oven",
+   "score": 0.231087
+  },
+  {
+   "segment": [
+    18.0,
+    19.0
+   ],
+   "verb": "open",
+   "noun": "oven",
+   "score": 0.214215
+  },
+  {
+   "segment": [
+    18.0,
+    20.0
+   ],
+   "verb": "open",
+   "noun": "oven",
+   "score": 0.201539
+  },
+  {
+   "segment": [
+    18.0,
+    24.0
+   ],
+   "verb": "increase",
+   "noun": "oven",
+   "score": 0.198415
+  },
+  {
+   "segment": [
+    18.0,
+    19.0
+   ],
+   "verb": "take",
+   "noun": "oven",
+   "score": 0.192493
+  },
+  {
+   "segment": [
+    18.0,
+    20.0
+   ],
+   "verb": "take",
+   "noun": "oven",
+   "score": 0.187878
+  },
+  {
+   "segment": [
+    18.0,
+    21.5
+   ],
+   "verb": "open",
+   "noun": "oven",
+   "score": 0.184489
+  },
+  {
+   "segment": [
+    18.0,
+    21.5
+   ],
+   "verb": "take",
+   "noun": "oven",
+   "score": 0.178594
+  },
+  {
+   "segment": [
+    18.0,
+    24.0
+   ],
+   "verb": "open",
+   "noun": "oven",
+   "score": 0.16842
+  },
+  {
+   "segment": [
+    18.0,
+    24.0
+   ],
+   "verb": "take",
+   "noun": "oven",
+   "score": 0.16047
+  },
+  {
+   "segment": [
+    18.5,
+    19.5
+   ],
+   "verb": "increase",
+   "noun": "oven",
+   "score": 0.26646
+  },
+  {
+   "segment": [
+    18.5,
+    19.5
+   ],
+   "verb": "open",
+   "noun": "oven",
+   "score": 0.214059
+  },
+  {
+   "segment": [
+    18.5,
+    19.5
+   ],
+   "verb": "take",
+   "noun": "oven",
+   "score": 0.195593
+  },
+  {
+   "segment": [
+    19.0,
+    20.0
+   ],
+   "verb": "increase",
+   "noun": "oven",
+   "score": 0.22959
+  },
+  {
+   "segment": [
+    19.0,
+    21.0
+   ],
+   "verb": "increase",
+   "noun": "oven",
+   "score": 0.21301
+  },
+  {
+   "segment": [
+    19.0,
+    20.0
+   ],
+   "verb": "open",
+   "noun": "oven",
+   "score": 0.18644
+  },
+  {
+   "segment": [
+    19.0,
+    20.0
+   ],
+   "verb": "take",
+   "noun": "oven",
+   "score": 0.182406
+  },
+  {
+   "segment": [
+    19.0,
+    21.0
+   ],
+   "verb": "put",
+   "noun": "bread",
+   "score": 0.181152
+  },
+  {
+   "segment": [
+    19.0,
+    21.0
+   ],
+   "verb": "take",
+   "noun": "oven",
+   "score": 0.178215
+  },
+  {
+   "segment": [
+    19.5,
+    23.0
+   ],
+   "verb": "move",
+   "noun": "glove",
+   "score": 0.206412
+  },
+  {
+   "segment": [
+    19.5,
+    20.5
+   ],
+   "verb": "increase",
+   "noun": "oven",
+   "score": 0.188354
+  },
+  {
+   "segment": [
+    19.5,
+    20.5
+   ],
+   "verb": "put",
+   "noun": "bread",
+   "score": 0.187124
+  },
+  {
+   "segment": [
+    19.5,
+    23.0
+   ],
+   "verb": "increase",
+   "noun": "oven",
+   "score": 0.170939
+  },
+  {
+   "segment": [
+    19.5,
+    20.5
+   ],
+   "verb": "move",
+   "noun": "bread",
+   "score": 0.167633
+  },
+  {
+   "segment": [
+    19.5,
+    23.0
+   ],
+   "verb": "open",
+   "noun": "oven",
+   "score": 0.150165
+  },
+  {
+   "segment": [
+    20.0,
+    22.0
+   ],
+   "verb": "move",
+   "noun": "glove",
+   "score": 0.213468
+  },
+  {
+   "segment": [
+    20.0,
+    21.0
+   ],
+   "verb": "increase",
+   "noun": "oven",
+   "score": 0.195335
+  },
+  {
+   "segment": [
+    20.0,
+    21.0
+   ],
+   "verb": "put",
+   "noun": "bread",
+   "score": 0.184255
+  },
+  {
+   "segment": [
+    20.0,
+    22.0
+   ],
+   "verb": "increase",
+   "noun": "oven",
+   "score": 0.176713
+  },
+  {
+   "segment": [
+    20.0,
+    21.0
+   ],
+   "verb": "move",
+   "noun": "bread",
+   "score": 0.176303
+  },
+  {
+   "segment": [
+    20.0,
+    22.0
+   ],
+   "verb": "take",
+   "noun": "oven",
+   "score": 0.152725
+  },
+  {
+   "segment": [
+    20.5,
+    21.5
+   ],
+   "verb": "move",
+   "noun": "glove",
+   "score": 0.220488
+  },
+  {
+   "segment": [
+    20.5,
+    21.5
+   ],
+   "verb": "increase",
+   "noun": "oven",
+   "score": 0.197223
+  },
+  {
+   "segment": [
+    20.5,
+    21.5
+   ],
+   "verb": "take",
+   "noun": "oven",
+   "score": 0.169395
+  },
+  {
+   "segment": [
+    21.0,
+    22.0
+   ],
+   "verb": "move",
+   "noun": "glove",
+   "score": 0.278
+  },
+  {
+   "segment": [
+    21.0,
+    23.0
+   ],
+   "verb": "move",
+   "noun": "glove",
+   "score": 0.265328
+  },
+  {
+   "segment": [
+    21.0,
+    27.0
+   ],
+   "verb": "turn-off",
+   "noun": "oven",
+   "score": 0.214209
+  },
+  {
+   "segment": [
+    21.0,
+    24.5
+   ],
+   "verb": "move",
+   "noun": "glove",
+   "score": 0.202155
+  },
+  {
+   "segment": [
+    21.0,
+    27.0
+   ],
+   "verb": "turn-on",
+   "noun": "oven",
+   "score": 0.19827
+  },
+  {
+   "segment": [
+    21.0,
+    27.0
+   ],
+   "verb": "open",
+   "noun": "oven",
+   "score": 0.19453
+  },
+  {
+   "segment": [
+    21.0,
+    24.5
+   ],
+   "verb": "put",
+   "noun": "fishcakes",
+   "score": 0.171123
+  },
+  {
+   "segment": [
+    21.0,
+    24.5
+   ],
+   "verb": "increase",
+   "noun": "oven",
+   "score": 0.164442
+  },
+  {
+   "segment": [
+    21.0,
+    22.0
+   ],
+   "verb": "increase",
+   "noun": "oven",
+   "score": 0.157746
+  },
+  {
+   "segment": [
+    21.0,
+    23.0
+   ],
+   "verb": "increase",
+   "noun": "oven",
+   "score": 0.14914
+  },
+  {
+   "segment": [
+    21.0,
+    23.0
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.146797
+  },
+  {
+   "segment": [
+    21.0,
+    22.0
+   ],
+   "verb": "open",
+   "noun": "oven",
+   "score": 0.13751
+  },
+  {
+   "segment": [
+    21.5,
+    22.5
+   ],
+   "verb": "move",
+   "noun": "glove",
+   "score": 0.304635
+  },
+  {
+   "segment": [
+    21.5,
+    22.5
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.152421
+  },
+  {
+   "segment": [
+    21.5,
+    22.5
+   ],
+   "verb": "take",
+   "noun": "glove",
+   "score": 0.144407
+  },
+  {
+   "segment": [
+    22.0,
+    23.0
+   ],
+   "verb": "move",
+   "noun": "glove",
+   "score": 0.237071
+  },
+  {
+   "segment": [
+    22.0,
+    24.0
+   ],
+   "verb": "put",
+   "noun": "fishcakes",
+   "score": 0.206858
+  },
+  {
+   "segment": [
+    22.0,
+    23.0
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.178801
+  },
+  {
+   "segment": [
+    22.0,
+    24.0
+   ],
+   "verb": "move",
+   "noun": "glove",
+   "score": 0.159635
+  },
+  {
+   "segment": [
+    22.0,
+    23.0
+   ],
+   "verb": "put",
+   "noun": "fishcakes",
+   "score": 0.153106
+  },
+  {
+   "segment": [
+    22.0,
+    24.0
+   ],
+   "verb": "put",
+   "noun": "aubergine",
+   "score": 0.153102
+  },
+  {
+   "segment": [
+    22.5,
+    23.5
+   ],
+   "verb": "put",
+   "noun": "fishcakes",
+   "score": 0.213538
+  },
+  {
+   "segment": [
+    22.5,
+    26.0
+   ],
+   "verb": "open",
+   "noun": "oven",
+   "score": 0.203418
+  },
+  {
+   "segment": [
+    22.5,
+    26.0
+   ],
+   "verb": "turn-on",
+   "noun": "oven",
+   "score": 0.179636
+  },
+  {
+   "segment": [
+    22.5,
+    26.0
+   ],
+   "verb": "move",
+   "noun": "oven",
+   "score": 0.173315
+  },
+  {
+   "segment": [
+    22.5,
+    23.5
+   ],
+   "verb": "put",
+   "noun": "aubergine",
+   "score": 0.168786
+  },
+  {
+   "segment": [
+    22.5,
+    23.5
+   ],
+   "verb": "put",
+   "noun": "pan",
+   "score": 0.14937
+  },
+  {
+   "segment": [
+    23.0,
+    24.0
+   ],
+   "verb": "put",
+   "noun": "fishcakes",
+   "score": 0.238503
+  },
+  {
+   "segment": [
+    23.0,
+    25.0
+   ],
+   "verb": "put",
+   "noun": "fishcakes",
+   "score": 0.201915
+  },
+  {
+   "segment": [
+    23.0,
+    25.0
+   ],
+   "verb": "open",
+   "noun": "oven",
+   "score": 0.19499
+  },
+  {
+   "segment": [
+    23.0,
+    25.0
+   ],
+   "verb": "increase",
+   "noun": "oven",
+   "score": 0.189407
+  },
+  {
+   "segment": [
+    23.0,
+    24.0
+   ],
+   "verb": "increase",
+   "noun": "oven",
+   "score": 0.156124
+  },
+  {
+   "segment": [
+    23.0,
+    24.0
+   ],
+   "verb": "put",
+   "noun": "aubergine",
+   "score": 0.15413
+  },
+  {
+   "segment": [
+    23.5,
+    24.5
+   ],
+   "verb": "put",
+   "noun": "fishcakes",
+   "score": 0.230163
+  },
+  {
+   "segment": [
+    23.5,
+    24.5
+   ],
+   "verb": "increase",
+   "noun": "oven",
+   "score": 0.207727
+  },
+  {
+   "segment": [
+    23.5,
+    24.5
+   ],
+   "verb": "open",
+   "noun": "oven",
+   "score": 0.19844
+  },
+  {
+   "segment": [
+    24.0,
+    27.5
+   ],
+   "verb": "turn-off",
+   "noun": "oven",
+   "score": 0.306165
+  },
+  {
+   "segment": [
+    24.0,
+    30.0
+   ],
+   "verb": "turn-off",
+   "noun": "oven",
+   "score": 0.288687
+  },
+  {
+   "segment": [
+    24.0,
+    27.5
+   ],
+   "verb": "turn-on",
+   "noun": "oven",
+   "score": 0.25774
+  },
+  {
+   "segment": [
+    24.0,
+    30.0
+   ],
+   "verb": "turn-on",
+   "noun": "oven",
+   "score": 0.24435
+  },
+  {
+   "segment": [
+    24.0,
+    26.0
+   ],
+   "verb": "open",
+   "noun": "oven",
+   "score": 0.232515
+  },
+  {
+   "segment": [
+    24.0,
+    25.0
+   ],
+   "verb": "open",
+   "noun": "oven",
+   "score": 0.23167
+  },
+  {
+   "segment": [
+    24.0,
+    27.5
+   ],
+   "verb": "open",
+   "noun": "oven",
+   "score": 0.226001
+  },
+  {
+   "segment": [
+    24.0,
+    25.0
+   ],
+   "verb": "increase",
+   "noun": "oven",
+   "score": 0.220066
+  },
+  {
+   "segment": [
+    24.0,
+    26.0
+   ],
+   "verb": "turn-on",
+   "noun": "oven",
+   "score": 0.208274
+  },
+  {
+   "segment": [
+    24.0,
+    26.0
+   ],
+   "verb": "close",
+   "noun": "oven",
+   "score": 0.204956
+  },
+  {
+   "segment": [
+    24.0,
+    25.0
+   ],
+   "verb": "move",
+   "noun": "oven",
+   "score": 0.198565
+  },
+  {
+   "segment": [
+    24.0,
+    30.0
+   ],
+   "verb": "close",
+   "noun": "oven",
+   "score": 0.191851
+  },
+  {
+   "segment": [
+    24.5,
+    25.5
+   ],
+   "verb": "open",
+   "noun": "oven",
+   "score": 0.232571
+  },
+  {
+   "segment": [
+    24.5,
+    25.5
+   ],
+   "verb": "close",
+   "noun": "oven",
+   "score": 0.198623
+  },
+  {
+   "segment": [
+    24.5,
+    25.5
+   ],
+   "verb": "move",
+   "noun": "oven",
+   "score": 0.197209
+  },
+  {
+   "segment": [
+    25.0,
+    27.0
+   ],
+   "verb": "turn-off",
+   "noun": "oven",
+   "score": 0.339257
+  },
+  {
+   "segment": [
+    25.0,
+    27.0
+   ],
+   "verb": "turn-on",
+   "noun": "oven",
+   "score": 0.275275
+  },
+  {
+   "segment": [
+    25.0,
+    26.0
+   ],
+   "verb": "turn-off",
+   "noun": "oven",
+   "score": 0.242638
+  },
+  {
+   "segment": [
+    25.0,
+    27.0
+   ],
+   "verb": "open",
+   "noun": "oven",
+   "score": 0.233203
+  },
+  {
+   "segment": [
+    25.0,
+    26.0
+   ],
+   "verb": "open",
+   "noun": "oven",
+   "score": 0.231436
+  },
+  {
+   "segment": [
+    25.0,
+    26.0
+   ],
+   "verb": "turn-on",
+   "noun": "oven",
+   "score": 0.224505
+  },
+  {
+   "segment": [
+    25.5,
+    29.0
+   ],
+   "verb": "turn-off",
+   "noun": "oven",
+   "score": 0.358736
+  },
+  {
+   "segment": [
+    25.5,
+    26.5
+   ],
+   "verb": "turn-off",
+   "noun": "oven",
+   "score": 0.350954
+  },
+  {
+   "segment": [
+    25.5,
+    29.0
+   ],
+   "verb": "turn-on",
+   "noun": "oven",
+   "score": 0.288209
+  },
+  {
+   "segment": [
+    25.5,
+    26.5
+   ],
+   "verb": "turn-on",
+   "noun": "oven",
+   "score": 0.281155
+  },
+  {
+   "segment": [
+    25.5,
+    26.5
+   ],
+   "verb": "close",
+   "noun": "oven",
+   "score": 0.24055
+  },
+  {
+   "segment": [
+    25.5,
+    29.0
+   ],
+   "verb": "close",
+   "noun": "oven",
+   "score": 0.2115
+  },
+  {
+   "segment": [
+    26.0,
+    27.0
+   ],
+   "verb": "turn-off",
+   "noun": "oven",
+   "score": 0.426987
+  },
+  {
+   "segment": [
+    26.0,
+    28.0
+   ],
+   "verb": "turn-off",
+   "noun": "oven",
+   "score": 0.401691
+  },
+  {
+   "segment": [
+    26.0,
+    27.0
+   ],
+   "verb": "turn-on",
+   "noun": "oven",
+   "score": 0.3247
+  },
+  {
+   "segment": [
+    26.0,
+    28.0
+   ],
+   "verb": "turn-on",
+   "noun": "oven",
+   "score": 0.312893
+  },
+  {
+   "segment": [
+    26.0,
+    27.0
+   ],
+   "verb": "close",
+   "noun": "oven",
+   "score": 0.244303
+  },
+  {
+   "segment": [
+    26.0,
+    28.0
+   ],
+   "verb": "close",
+   "noun": "oven",
+   "score": 0.223661
+  },
+  {
+   "segment": [
+    26.5,
+    27.5
+   ],
+   "verb": "turn-off",
+   "noun": "oven",
+   "score": 0.419207
+  },
+  {
+   "segment": [
+    26.5,
+    27.5
+   ],
+   "verb": "turn-on",
+   "noun": "oven",
+   "score": 0.321761
+  },
+  {
+   "segment": [
+    26.5,
+    27.5
+   ],
+   "verb": "close",
+   "noun": "oven",
+   "score": 0.218595
+  },
+  {
+   "segment": [
+    27.0,
+    28.0
+   ],
+   "verb": "turn-off",
+   "noun": "oven",
+   "score": 0.376162
+  },
+  {
+   "segment": [
+    27.0,
+    29.0
+   ],
+   "verb": "turn-off",
+   "noun": "oven",
+   "score": 0.338058
+  },
+  {
+   "segment": [
+    27.0,
+    28.0
+   ],
+   "verb": "turn-on",
+   "noun": "oven",
+   "score": 0.301085
+  },
+  {
+   "segment": [
+    27.0,
+    29.0
+   ],
+   "verb": "turn-on",
+   "noun": "oven",
+   "score": 0.277292
+  },
+  {
+   "segment": [
+    27.0,
+    30.5
+   ],
+   "verb": "turn-off",
+   "noun": "oven",
+   "score": 0.273358
+  },
+  {
+   "segment": [
+    27.0,
+    30.5
+   ],
+   "verb": "turn-on",
+   "noun": "oven",
+   "score": 0.227773
+  },
+  {
+   "segment": [
+    27.0,
+    28.0
+   ],
+   "verb": "close",
+   "noun": "oven",
+   "score": 0.202349
+  },
+  {
+   "segment": [
+    27.0,
+    29.0
+   ],
+   "verb": "close",
+   "noun": "oven",
+   "score": 0.188411
+  },
+  {
+   "segment": [
+    27.0,
+    30.5
+   ],
+   "verb": "turn-on",
+   "noun": "hob",
+   "score": 0.168277
+  },
+  {
+   "segment": [
+    27.5,
+    28.5
+   ],
+   "verb": "turn-off",
+   "noun": "oven",
+   "score": 0.34598
+  },
+  {
+   "segment": [
+    27.5,
+    28.5
+   ],
+   "verb": "turn-on",
+   "noun": "oven",
+   "score": 0.287277
+  },
+  {
+   "segment": [
+    27.5,
+    28.5
+   ],
+   "verb": "close",
+   "noun": "oven",
+   "score": 0.194395
+  },
+  {
+   "segment": [
+    28.0,
+    29.0
+   ],
+   "verb": "turn-off",
+   "noun": "oven",
+   "score": 0.297681
+  },
+  {
+   "segment": [
+    28.0,
+    29.0
+   ],
+   "verb": "turn-on",
+   "noun": "oven",
+   "score": 0.252721
+  },
+  {
+   "segment": [
+    28.0,
+    30.0
+   ],
+   "verb": "turn-off",
+   "noun": "oven",
+   "score": 0.236395
+  },
+  {
+   "segment": [
+    28.0,
+    30.0
+   ],
+   "verb": "turn-on",
+   "noun": "oven",
+   "score": 0.204739
+  },
+  {
+   "segment": [
+    28.0,
+    29.0
+   ],
+   "verb": "increase",
+   "noun": "oven",
+   "score": 0.182858
+  },
+  {
+   "segment": [
+    28.0,
+    30.0
+   ],
+   "verb": "turn-on",
+   "noun": "hob",
+   "score": 0.167748
+  },
+  {
+   "segment": [
+    28.5,
+    29.5
+   ],
+   "verb": "turn-off",
+   "noun": "oven",
+   "score": 0.238637
+  },
+  {
+   "segment": [
+    28.5,
+    29.5
+   ],
+   "verb": "turn-on",
+   "noun": "oven",
+   "score": 0.210184
+  },
+  {
+   "segment": [
+    28.5,
+    29.5
+   ],
+   "verb": "turn-on",
+   "noun": "hob",
+   "score": 0.175629
+  },
+  {
+   "segment": [
+    28.5,
+    32.0
+   ],
+   "verb": "throw",
+   "noun": "rubbish",
+   "score": 0.17467
+  },
+  {
+   "segment": [
+    28.5,
+    32.0
+   ],
+   "verb": "take",
+   "noun": "hob",
+   "score": 0.143216
+  },
+  {
+   "segment": [
+    28.5,
+    32.0
+   ],
+   "verb": "turn-on",
+   "noun": "hob",
+   "score": 0.135962
+  },
+  {
+   "segment": [
+    29.0,
+    30.0
+   ],
+   "verb": "turn-on",
+   "noun": "hob",
+   "score": 0.18657
+  },
+  {
+   "segment": [
+    29.0,
+    31.0
+   ],
+   "verb": "take",
+   "noun": "hob",
+   "score": 0.178525
+  },
+  {
+   "segment": [
+    29.0,
+    30.0
+   ],
+   "verb": "move",
+   "noun": "hob",
+   "score": 0.177787
+  },
+  {
+   "segment": [
+    29.0,
+    30.0
+   ],
+   "verb": "take",
+   "noun": "hob",
+   "score": 0.174268
+  },
+  {
+   "segment": [
+    29.0,
+    31.0
+   ],
+   "verb": "move",
+   "noun": "hob",
+   "score": 0.170741
+  },
+  {
+   "segment": [
+    29.0,
+    31.0
+   ],
+   "verb": "turn-on",
+   "noun": "hob",
+   "score": 0.169216
+  },
+  {
+   "segment": [
+    29.5,
+    30.5
+   ],
+   "verb": "take",
+   "noun": "hob",
+   "score": 0.202808
+  },
+  {
+   "segment": [
+    29.5,
+    30.5
+   ],
+   "verb": "move",
+   "noun": "hob",
+   "score": 0.198069
+  },
+  {
+   "segment": [
+    29.5,
+    30.5
+   ],
+   "verb": "turn-on",
+   "noun": "hob",
+   "score": 0.190978
+  },
+  {
+   "segment": [
+    30.0,
+    32.0
+   ],
+   "verb": "throw",
+   "noun": "rubbish",
+   "score": 0.230285
+  },
+  {
+   "segment": [
+    30.0,
+    31.0
+   ],
+   "verb": "take",
+   "noun": "hob",
+   "score": 0.180895
+  },
+  {
+   "segment": [
+    30.0,
+    31.0
+   ],
+   "verb": "wait",
+   "noun": "kettle",
+   "score": 0.168092
+  },
+  {
+   "segment": [
+    30.0,
+    31.0
+   ],
+   "verb": "move",
+   "noun": "hob",
+   "score": 0.15826
+  },
+  {
+   "segment": [
+    30.0,
+    32.0
+   ],
+   "verb": "take",
+   "noun": "hob",
+   "score": 0.138469
+  },
+  {
+   "segment": [
+    30.0,
+    32.0
+   ],
+   "verb": "wait",
+   "noun": "kettle",
+   "score": 0.134616
+  },
+  {
+   "segment": [
+    30.5,
+    31.5
+   ],
+   "verb": "throw",
+   "noun": "rubbish",
+   "score": 0.195741
+  },
+  {
+   "segment": [
+    30.5,
+    31.5
+   ],
+   "verb": "wait",
+   "noun": "kettle",
+   "score": 0.142094
+  },
+  {
+   "segment": [
+    30.5,
+    31.5
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.120338
+  },
+  {
+   "segment": [
+    31.0,
+    32.0
+   ],
+   "verb": "throw",
+   "noun": "rubbish",
+   "score": 0.278926
+  },
+  {
+   "segment": [
+    31.0,
+    32.0
+   ],
+   "verb": "throw",
+   "noun": "bin",
+   "score": 0.156719
+  },
+  {
+   "segment": [
+    31.0,
+    32.0
+   ],
+   "verb": "transition",
+   "noun": "kitchen",
+   "score": 0.122374
+  }
+ ],
+ "highlights": [
+  {
+   "segment": [
+    21.5,
+    26.09
+   ]
+  }
+ ]
+}

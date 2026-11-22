@@ -1,0 +1,66 @@
+{
+ "team_id": "SRMIST_PRISM",
+ "video_id": "BikePolo_ccTGFdD18SM_1",
+ "duration_sec": 250.65,
+ "label": {
+  "name": "bikepolo",
+  "score": 0.9305
+ },
+ "actions": [],
+ "highlights": [
+  {
+   "segment": [
+    8.0,
+    12.1
+   ]
+  },
+  {
+   "segment": [
+    29.0,
+    33.1
+   ]
+  },
+  {
+   "segment": [
+    52.0,
+    56.1
+   ]
+  },
+  {
+   "segment": [
+    57.0,
+    61.1
+   ]
+  },
+  {
+   "segment": [
+    70.0,
+    74.1
+   ]
+  },
+  {
+   "segment": [
+    145.0,
+    149.1
+   ]
+  },
+  {
+   "segment": [
+    153.0,
+    157.1
+   ]
+  },
+  {
+   "segment": [
+    165.0,
+    169.1
+   ]
+  },
+  {
+   "segment": [
+    172.0,
+    176.1
+   ]
+  }
+ ]
+}

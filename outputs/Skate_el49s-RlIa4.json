@@ -1,0 +1,18 @@
+{
+ "team_id": "SRMIST_PRISM",
+ "video_id": "Skate_el49s-RlIa4",
+ "duration_sec": 37.24,
+ "label": {
+  "name": "skate",
+  "score": 0.7202
+ },
+ "actions": [],
+ "highlights": [
+  {
+   "segment": [
+    33.0,
+    37.1
+   ]
+  }
+ ]
+}
